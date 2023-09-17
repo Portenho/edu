@@ -48,6 +48,9 @@ http://dns.acaidopara.net:8080/907657480043/7850254630876/1500
 http://dns.acaidopara.net:8080/907657480043/7850254630876/899602
 
 
+
+
+
 #EXTINF:-1 tvg-id="TviReality.pt" tvg-name="Tvi Reality PT" tvg-logo="http://pici.life/tvireality.png" group-title="Entretenimento [PT]", TVI Reality HD
 http://dns.acaidopara.net:8080/907657480043/7850254630876/1489
 #EXTINF:-1 tvg-id="TviReality.pt" tvg-name="Tvi Reality PT" tvg-logo="http://pici.life/tvireality.png" group-title="Entretenimento [PT]", TVI Reality
@@ -198,6 +201,9 @@ http://dns.acaidopara.net:8080/907657480043/7850254630876/1537
 http://dns.acaidopara.net:8080/907657480043/7850254630876/1538
 
 
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes [PT]", TVCine Top HD
 http://dns.acaidopara.net:8080/907657480043/7850254630876/1544
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes [PT]", TVCine Top 
@@ -298,6 +304,23 @@ http://dns.acaidopara.net:8080/907657480043/7850254630876/12778
 http://dns.acaidopara.net:8080/907657480043/7850254630876/75839
 
 
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/ca/Baby_TV.png" group-title="Kids [PT]",Baby TV
+http://dns.acaidopara.net:8080/907657480043/7850254630876/1508
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/640px-Disney_Junior.svg.png" group-title="Kids [PT]", Disney Junior
+http://dns.acaidopara.net:8080/907657480043/7850254630876/1511
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Kids [PT]", Canal Panda
+http://dns.acaidopara.net:8080/907657480043/7850254630876/1503
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Kids [PT]", Panda Biggs
+http://dns.acaidopara.net:8080/907657480043/7850254630876/1504
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Kids [PT]", Cartoon Network
+http://dns.acaidopara.net:8080/907657480043/7850254630876/1505
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Kids [PT]", SIC K
+http://dns.acaidopara.net:8080/907657480043/7850254630876/1509
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Kids [PT]", Nickelodeon
+http://dns.acaidopara.net:8080/907657480043/7850254630876/1506
 
 
 
@@ -415,21 +438,6 @@ EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="XxX", XXX 15
 http://dns.acaidopara.net:8080/907657480043/7850254630876/2606
 
 
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/ca/Baby_TV.png" group-title="Kids [PT]",Baby TV
-http://dns.acaidopara.net:8080/907657480043/7850254630876/1508
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/640px-Disney_Junior.svg.png" group-title="Kids [PT]", Disney Junior
-http://dns.acaidopara.net:8080/907657480043/7850254630876/1511
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Kids [PT]", Canal Panda
-http://dns.acaidopara.net:8080/907657480043/7850254630876/1503
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Kids [PT]", Panda Biggs
-http://dns.acaidopara.net:8080/907657480043/7850254630876/1504
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Kids [PT]", Cartoon Network
-http://dns.acaidopara.net:8080/907657480043/7850254630876/1505
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Kids [PT]", SIC K
-http://dns.acaidopara.net:8080/907657480043/7850254630876/1509
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Kids [PT]", Nickelodeon
-http://dns.acaidopara.net:8080/907657480043/7850254630876/1506
 
 
 
