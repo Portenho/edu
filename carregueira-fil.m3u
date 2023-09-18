@@ -14,7 +14,7 @@ Telecine Touch - https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Telec
 Telecine Cult - https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Telecine_Cult_2019.png/330px-Telecine_Cult_2019.png
 film & arts - https://www.filmandarts.tv/theme/assets/fa-logo.png
 
-#EXTM3U url-tvg="https://raw.githubusercontent.com/f0nZ/epg-tv-portuguesa/master/guide.xml"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/f0nZ/epg-tv-portuguesa/master/guide.xml,https://github.com/iptv-org/epg/blob/master/sites/meo.pt/meo.pt.channels.xml,https://github.com/iptv-org/epg/blob/master/sites/nos.pt/nos.pt.channels.xml,https://raw.githubusercontent.com/LITUATUI/M3UPT/main/epg/epg-vodafone.xml,https://iptv-org.github.io/epg/guides/pt/mi.tv.xml"
 
 ##########################  Lista 1 ##########################
 
