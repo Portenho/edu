@@ -1,0 +1,461 @@
+https://drive.google.com/uc?id=1kDmUw8WLU5g1Fgz8i8sdzAosuRwXECKf&export=download
+https://abre.ai/tvfixe-filmes
+
+tv cine top - https://pt.wikipedia.org/wiki/Ficheiro:TVCine-TOP.png
+tv cine edition - https://upload.wikimedia.org/wikipedia/commons/5/50/TVCine-EDITION.png
+tv cine emotion - https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/TVCine-Emotion.png/534px-TVCine-Emotion.png
+tv cine action - https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/TVCine-ACTION.png/534px-TVCine-ACTION.png
+Nos Studios - https://pplware.sapo.pt/wp-content/uploads/2019/06/NOS_03.jpg
+HBO - https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/300px-HBO_logo.svg.png
+HBO Mundi - https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/2560px-HBO_Mundi.svg.png
+HBO Plus - https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/HBO Plus_logo_2011.png
+HBO Signature - https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png
+HBO Extreme - https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png
+Star Channel - https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Star_Channel_2021.png
+Telecine Touch - https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Telecine_Touch_%282019%29.svg/375px-Telecine_Touch_%282019%29.svg.png
+Telecine Cult - https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Telecine_Cult_2019.png/330px-Telecine_Cult_2019.png
+film & arts - https://www.filmandarts.tv/theme/assets/fa-logo.png
+
+#EXTM3U url-tvg="https://raw.githubusercontent.com/f0nZ/epg-tv-portuguesa/master/guide.xml"
+
+##########################  Lista 1 ##########################
+
+
+#EXTINF:-1 group-title="Lista 1" tvg-id="" tvg-logo="https://i.postimg.cc/HLRVSmTP/Tv-cine-top.png" tvg-rec="", Tv Cine Top HD
+http://dns.acaidopara.net:8080/19825638500/29245671893/1544
+#EXTINF:-1 group-title="Lista 1" tvg-id="" tvg-logo="https://i.postimg.cc/HLRVSmTP/Tv-cine-top.png" tvg-rec="", Tv Cine Top HD
+http://dns.acaidopara.net:8080/19825638500/29245671893/1545
+
+#EXTINF:-1 group-title="Lista 1" tvg-id="" tvg-logo="https://i.postimg.cc/bNmCsVyw/tv-cine-edition.png" tvg-rec="", Tv Cine Edition HD
+http://dns.acaidopara.net:8080/19825638500/29245671893/1546
+#EXTINF:-1 group-title="Lista 1" tvg-id="" tvg-logo="https://i.postimg.cc/bNmCsVyw/tv-cine-edition.png" tvg-rec="", Tv Cine Edition HD
+http://dns.acaidopara.net:8080/19825638500/29245671893/1547
+
+#EXTINF:-1 group-title="Lista 1" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/TVCine-Emotion.png/534px-TVCine-Emotion.png" tvg-rec="", Tv Cine Emotion HD
+http://dns.acaidopara.net:8080/19825638500/29245671893/1548
+#EXTINF:-1 group-title="Lista 1" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/TVCine-Emotion.png/534px-TVCine-Emotion.png" tvg-rec="", Tv Cine Emotion HD
+http://dns.acaidopara.net:8080/19825638500/29245671893/1549
+
+#EXTINF:-1 group-title="Lista 1" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/TVCine-ACTION.png/534px-TVCine-ACTION.png" tvg-rec="", Tv Cine Action HD
+http://dns.acaidopara.net:8080/19825638500/29245671893/1550
+#EXTINF:-1 group-title="Lista 1" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/TVCine-ACTION.png/534px-TVCine-ACTION.png" tvg-rec="", Tv Cine Action HD
+http://dns.acaidopara.net:8080/19825638500/29245671893/1551
+
+#EXTINF:-1 group-title="Lista 1" tvg-id="" tvg-logo="https://pplware.sapo.pt/wp-content/uploads/2019/06/NOS_03.jpg" tvg-rec="", Nos Studios HD
+http://dns.acaidopara.net:8080/19825638500/29245671893/45491
+
+#EXTINF:-1 group-title="Lista 1" tvg-id="" tvg-logo="https://i.postimg.cc/qv3CKgsZ/HBO.jpg" tvg-rec="", HBO HD
+http://dns.acaidopara.net:8080/19825638500/29245671893/24781
+#EXTINF:-1 group-title="Lista 1" tvg-id="" tvg-logo="https://i.postimg.cc/qv3CKgsZ/HBO.jpg" tvg-rec="", HBO HD
+http://dns.acaidopara.net:8080/19825638500/29245671893/901855
+
+#EXTINF:-1 group-title="Lista 1" tvg-id="" tvg-logo="https://i.postimg.cc/PrGLjdsW/HBO-MUNDI.png" tvg-rec="", HBO Mundi HD
+http://dns.acaidopara.net:8080/19825638500/29245671893/2344
+#EXTINF:-1 group-title="Lista 1" tvg-id="" tvg-logo="https://i.postimg.cc/PrGLjdsW/HBO-MUNDI.png" tvg-rec="", HBO Mundi HD
+http://dns.acaidopara.net:8080/19825638500/29245671893/901856
+
+#EXTINF:-1 group-title="Lista 1" tvg-id="" tvg-logo="https://i.postimg.cc/50SnBsVy/HBO-PLUS.png" tvg-rec="", HBO Plus HD
+http://dns.acaidopara.net:8080/19825638500/29245671893/901865
+
+#EXTINF:-1 group-title="Lista 1" tvg-id="" tvg-logo="https://i.postimg.cc/NMHH6Fv0/HBO-SIGNATURE.png" tvg-rec="", HBO Signature HD
+http://dns.acaidopara.net:8080/19825638500/29245671893/901857
+
+#EXTINF:-1 group-title="Lista 1" tvg-id="" tvg-logo="https://i.postimg.cc/Hx9p11Q2/HBO-XTREME.png" tvg-rec="", HBO Xtreme HD
+http://dns.acaidopara.net:8080/19825638500/29245671893/901858
+
+#EXTINF:-1 group-title="Lista 1" tvg-id="" tvg-logo="https://i.postimg.cc/7Yfym2QX/STAR-CHANNEL.png" tvg-rec="", Star Channel HD
+http://dns.acaidopara.net:8080/19825638500/29245671893/45258
+
+
+
+##########################  Lista 2 ##########################
+
+#EXTINF:-1 group-title="Lista 2" tvg-id="" tvg-logo="https://pt.wikipedia.org/wiki/Ficheiro:TVCine-TOP.png" tvg-rec="", Tv Cine Top HD
+http://dns.acaidopara.net:8080/brunobr2/brasilusa/1544
+#EXTINF:-1 group-title="Lista 2" tvg-id="" tvg-logo="https://pt.wikipedia.org/wiki/Ficheiro:TVCine-TOP.png" tvg-rec="", Tv Cine Top HD
+http://dns.acaidopara.net:8080/brunobr2/brasilusa/1545
+
+#EXTINF:-1 group-title="Lista 2" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/TVCine-EDITION.png" tvg-rec="", Tv Cine Edition HD
+http://dns.acaidopara.net:8080/brunobr2/brasilusa/1546
+#EXTINF:-1 group-title="Lista 2" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/TVCine-EDITION.png" tvg-rec="", Tv Cine Edition HD
+http://dns.acaidopara.net:8080/brunobr2/brasilusa/1547
+
+#EXTINF:-1 group-title="Lista 2" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/TVCine-Emotion.png/534px-TVCine-Emotion.png" tvg-rec="", Tv Cine Emotion HD
+http://dns.acaidopara.net:8080/brunobr2/brasilusa/1548
+#EXTINF:-1 group-title="Lista 2" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/TVCine-Emotion.png/534px-TVCine-Emotion.png" tvg-rec="", Tv Cine Emotion HD
+http://dns.acaidopara.net:8080/brunobr2/brasilusa/1549
+
+#EXTINF:-1 group-title="Lista 2" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/TVCine-ACTION.png/534px-TVCine-ACTION.png" tvg-rec="", Tv Cine Action HD
+http://dns.acaidopara.net:8080/brunobr2/brasilusa/1550
+#EXTINF:-1 group-title="Lista 2" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/TVCine-ACTION.png/534px-TVCine-ACTION.png" tvg-rec="", Tv Cine Action HD
+http://dns.acaidopara.net:8080/brunobr2/brasilusa/1551
+
+#EXTINF:-1 group-title="Lista 2" tvg-id="" tvg-logo="https://pplware.sapo.pt/wp-content/uploads/2019/06/NOS_03.jpg" tvg-rec="", Nos Studios HD
+http://dns.acaidopara.net:8080/brunobr2/brasilusa/45491
+
+#EXTINF:-1 group-title="Lista 2" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/300px-HBO_logo.svg.png" tvg-rec="", HBO HD
+http://dns.acaidopara.net:8080/brunobr2/brasilusa/24781
+#EXTINF:-1 group-title="Lista 2" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/300px-HBO_logo.svg.png" tvg-rec="", HBO HD
+http://dns.acaidopara.net:8080/brunobr2/brasilusa/901855
+
+#EXTINF:-1 group-title="Lista 2" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/2560px-HBO_Mundi.svg.png" tvg-rec="", HBO Mundi HD
+http://dns.acaidopara.net:8080/brunobr2/brasilusa/2344
+#EXTINF:-1 group-title="Lista 2" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/2560px-HBO_Mundi.svg.png" tvg-rec="", HBO Mundi HD
+http://dns.acaidopara.net:8080/brunobr2/brasilusa/901856
+
+#EXTINF:-1 group-title="Lista 2" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/HBO Plus_logo_2011.png" tvg-rec="", HBO Plus HD
+http://dns.acaidopara.net:8080/brunobr2/brasilusa/901865
+
+#EXTINF:-1 group-title="Lista 2" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png" tvg-rec="", HBO Signature HD
+http://dns.acaidopara.net:8080/brunobr2/brasilusa/901857
+
+#EXTINF:-1 group-title="Lista 2" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" tvg-rec="", HBO Xtreme HD
+http://dns.acaidopara.net:8080/brunobr2/brasilusa/901858
+
+#EXTINF:-1 group-title="Lista 2" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Star_Channel_2021.png" tvg-rec="", Star Channel HD
+http://dns.acaidopara.net:8080/brunobr2/brasilusa/45258
+
+
+
+##########################  Lista 3 ##########################
+
+#EXTINF:-1 group-title="Lista 3" tvg-id="" tvg-logo="https://pt.wikipedia.org/wiki/Ficheiro:TVCine-TOP.png" tvg-rec="", Tv Cine Top HD
+http://dns.acaidopara.net:8080/907657480043/7850254630876/1544
+#EXTINF:-1 group-title="Lista 3" tvg-id="" tvg-logo="https://pt.wikipedia.org/wiki/Ficheiro:TVCine-TOP.png" tvg-rec="", Tv Cine Top HD
+http://dns.acaidopara.net:8080/907657480043/7850254630876/1545
+
+#EXTINF:-1 group-title="Lista 3" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/TVCine-EDITION.png" tvg-rec="", Tv Cine Edition HD
+http://dns.acaidopara.net:8080/907657480043/7850254630876/1546
+#EXTINF:-1 group-title="Lista 3" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/TVCine-EDITION.png" tvg-rec="", Tv Cine Edition HD
+http://dns.acaidopara.net:8080/907657480043/7850254630876/1547
+
+#EXTINF:-1 group-title="Lista 3" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/TVCine-Emotion.png/534px-TVCine-Emotion.png" tvg-rec="", Tv Cine Emotion HD
+http://dns.acaidopara.net:8080/907657480043/7850254630876/1548
+#EXTINF:-1 group-title="Lista 3" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/TVCine-Emotion.png/534px-TVCine-Emotion.png" tvg-rec="", Tv Cine Emotion HD
+http://dns.acaidopara.net:8080/907657480043/7850254630876/1549
+
+#EXTINF:-1 group-title="Lista 3" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/TVCine-ACTION.png/534px-TVCine-ACTION.png" tvg-rec="", Tv Cine Action HD
+http://dns.acaidopara.net:8080/907657480043/7850254630876/1550
+#EXTINF:-1 group-title="Lista 3" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/TVCine-ACTION.png/534px-TVCine-ACTION.png" tvg-rec="", Tv Cine Action HD
+http://dns.acaidopara.net:8080/907657480043/7850254630876/1551
+
+#EXTINF:-1 group-title="Lista 3" tvg-id="" tvg-logo="https://pplware.sapo.pt/wp-content/uploads/2019/06/NOS_03.jpg" tvg-rec="", Nos Studios HD
+http://dns.acaidopara.net:8080/907657480043/7850254630876/45491
+
+#EXTINF:-1 group-title="Lista 3" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/300px-HBO_logo.svg.png" tvg-rec="", HBO HD
+http://dns.acaidopara.net:8080/907657480043/7850254630876/24781
+#EXTINF:-1 group-title="Lista 3" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/300px-HBO_logo.svg.png" tvg-rec="", HBO HD
+http://dns.acaidopara.net:8080/907657480043/7850254630876/901855
+
+#EXTINF:-1 group-title="Lista 3" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/2560px-HBO_Mundi.svg.png" tvg-rec="", HBO Mundi HD
+http://dns.acaidopara.net:8080/907657480043/7850254630876/2344
+#EXTINF:-1 group-title="Lista 3" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/2560px-HBO_Mundi.svg.png" tvg-rec="", HBO Mundi HD
+http://dns.acaidopara.net:8080/907657480043/7850254630876/901856
+
+#EXTINF:-1 group-title="Lista 3" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/HBO Plus_logo_2011.png" tvg-rec="", HBO Plus HD
+http://dns.acaidopara.net:8080/907657480043/7850254630876/901865
+
+#EXTINF:-1 group-title="Lista 3" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png" tvg-rec="", HBO Signature HD
+http://dns.acaidopara.net:8080/907657480043/7850254630876/901857
+
+#EXTINF:-1 group-title="Lista 3" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" tvg-rec="", HBO Xtreme HD
+http://dns.acaidopara.net:8080/907657480043/7850254630876/901858
+
+#EXTINF:-1 group-title="Lista 3" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Star_Channel_2021.png" tvg-rec="", Star Channel HD
+http://dns.acaidopara.net:8080/907657480043/7850254630876/45258
+
+
+
+##########################  Lista 4 ##########################
+
+#EXTINF:-1 group-title="Lista 4" tvg-id="" tvg-logo="https://pt.wikipedia.org/wiki/Ficheiro:TVCine-TOP.png" tvg-rec="", Tv Cine Top HD
+http://dns.acaidopara.net:8080/Ligia1234/11977524378/1544
+#EXTINF:-1 group-title="Lista 4" tvg-id="" tvg-logo="https://pt.wikipedia.org/wiki/Ficheiro:TVCine-TOP.png" tvg-rec="", Tv Cine Top HD
+http://dns.acaidopara.net:8080/Ligia1234/11977524378/1545
+
+#EXTINF:-1 group-title="Lista 4" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/TVCine-EDITION.png" tvg-rec="", Tv Cine Edition HD
+http://dns.acaidopara.net:8080/Ligia1234/11977524378/1546
+#EXTINF:-1 group-title="Lista 4" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/TVCine-EDITION.png" tvg-rec="", Tv Cine Edition HD
+http://dns.acaidopara.net:8080/Ligia1234/11977524378/1547
+
+#EXTINF:-1 group-title="Lista 4" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/TVCine-Emotion.png/534px-TVCine-Emotion.png" tvg-rec="", Tv Cine Emotion HD
+http://dns.acaidopara.net:8080/Ligia1234/11977524378/1548
+#EXTINF:-1 group-title="Lista 4" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/TVCine-Emotion.png/534px-TVCine-Emotion.png" tvg-rec="", Tv Cine Emotion HD
+http://dns.acaidopara.net:8080/Ligia1234/11977524378/1549
+
+#EXTINF:-1 group-title="Lista 4" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/TVCine-ACTION.png/534px-TVCine-ACTION.png" tvg-rec="", Tv Cine Action HD
+http://dns.acaidopara.net:8080/Ligia1234/11977524378/1550
+#EXTINF:-1 group-title="Lista 4" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/TVCine-ACTION.png/534px-TVCine-ACTION.png" tvg-rec="", Tv Cine Action HD
+http://dns.acaidopara.net:8080/Ligia1234/11977524378/1551
+
+#EXTINF:-1 group-title="Lista 4" tvg-id="" tvg-logo="https://pplware.sapo.pt/wp-content/uploads/2019/06/NOS_03.jpg" tvg-rec="", Nos Studios HD
+http://dns.acaidopara.net:8080/Ligia1234/11977524378/45491
+
+#EXTINF:-1 group-title="Lista 4" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/300px-HBO_logo.svg.png" tvg-rec="", HBO HD
+http://dns.acaidopara.net:8080/Ligia1234/11977524378/24781
+#EXTINF:-1 group-title="Lista 4" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/300px-HBO_logo.svg.png" tvg-rec="", HBO HD
+http://dns.acaidopara.net:8080/Ligia1234/11977524378/901855
+
+#EXTINF:-1 group-title="Lista 4" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/2560px-HBO_Mundi.svg.png" tvg-rec="", HBO Mundi HD
+http://dns.acaidopara.net:8080/Ligia1234/11977524378/2344
+#EXTINF:-1 group-title="Lista 4" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/2560px-HBO_Mundi.svg.png" tvg-rec="", HBO Mundi HD
+http://dns.acaidopara.net:8080/Ligia1234/11977524378/901856
+
+#EXTINF:-1 group-title="Lista 4" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/HBO Plus_logo_2011.png" tvg-rec="", HBO Plus HD
+http://dns.acaidopara.net:8080/Ligia1234/11977524378/901865
+
+#EXTINF:-1 group-title="Lista 4" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png" tvg-rec="", HBO Signature HD
+http://dns.acaidopara.net:8080/Ligia1234/11977524378/901857
+
+#EXTINF:-1 group-title="Lista 4" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" tvg-rec="", HBO Xtreme HD
+http://dns.acaidopara.net:8080/Ligia1234/11977524378/901858
+
+#EXTINF:-1 group-title="Lista 4" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Star_Channel_2021.png" tvg-rec="", Star Channel HD
+http://dns.acaidopara.net:8080/Ligia1234/11977524378/45258
+
+
+##########################  Lista 5 ##########################
+
+#EXTINF:-1 group-title="Lista 5" tvg-id="" tvg-logo="https://pt.wikipedia.org/wiki/Ficheiro:TVCine-TOP.png" tvg-rec="", Tv Cine Top HD
+http://dns.acaidopara.net:8080/George4899/Halas4899/1544
+#EXTINF:-1 group-title="Lista 5" tvg-id="" tvg-logo="https://pt.wikipedia.org/wiki/Ficheiro:TVCine-TOP.png" tvg-rec="", Tv Cine Top HD
+http://dns.acaidopara.net:8080/George4899/Halas4899/1545
+
+#EXTINF:-1 group-title="Lista 5" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/TVCine-EDITION.png" tvg-rec="", Tv Cine Edition HD
+http://dns.acaidopara.net:8080/George4899/Halas4899/1546
+#EXTINF:-1 group-title="Lista 5" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/TVCine-EDITION.png" tvg-rec="", Tv Cine Edition HD
+http://dns.acaidopara.net:8080/George4899/Halas4899/1547
+
+#EXTINF:-1 group-title="Lista 5" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/TVCine-Emotion.png/534px-TVCine-Emotion.png" tvg-rec="", Tv Cine Emotion HD
+http://dns.acaidopara.net:8080/George4899/Halas4899/1548
+#EXTINF:-1 group-title="Lista 5" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/TVCine-Emotion.png/534px-TVCine-Emotion.png" tvg-rec="", Tv Cine Emotion HD
+http://dns.acaidopara.net:8080/George4899/Halas4899/1549
+
+#EXTINF:-1 group-title="Lista 5" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/TVCine-ACTION.png/534px-TVCine-ACTION.png" tvg-rec="", Tv Cine Action HD
+http://dns.acaidopara.net:8080/George4899/Halas4899/1550
+#EXTINF:-1 group-title="Lista 5" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/TVCine-ACTION.png/534px-TVCine-ACTION.png" tvg-rec="", Tv Cine Action HD
+http://dns.acaidopara.net:8080/George4899/Halas4899/1551
+
+#EXTINF:-1 group-title="Lista 5" tvg-id="" tvg-logo="https://pplware.sapo.pt/wp-content/uploads/2019/06/NOS_03.jpg" tvg-rec="", Nos Studios HD
+http://dns.acaidopara.net:8080/George4899/Halas4899/45491
+
+#EXTINF:-1 group-title="Lista 5" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/300px-HBO_logo.svg.png" tvg-rec="", HBO HD
+http://dns.acaidopara.net:8080/George4899/Halas4899/24781
+#EXTINF:-1 group-title="Lista 5" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/300px-HBO_logo.svg.png" tvg-rec="", HBO HD
+http://dns.acaidopara.net:8080/George4899/Halas4899/901855
+
+#EXTINF:-1 group-title="Lista 5" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/2560px-HBO_Mundi.svg.png" tvg-rec="", HBO Mundi HD
+http://dns.acaidopara.net:8080/George4899/Halas4899/2344
+#EXTINF:-1 group-title="Lista 5" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/2560px-HBO_Mundi.svg.png" tvg-rec="", HBO Mundi HD
+http://dns.acaidopara.net:8080/George4899/Halas4899/901856
+
+#EXTINF:-1 group-title="Lista 5" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/HBO Plus_logo_2011.png" tvg-rec="", HBO Plus HD
+http://dns.acaidopara.net:8080/George4899/Halas4899/901865
+
+#EXTINF:-1 group-title="Lista 5" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png" tvg-rec="", HBO Signature HD
+http://dns.acaidopara.net:8080/George4899/Halas4899/901857
+
+#EXTINF:-1 group-title="Lista 5" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" tvg-rec="", HBO Xtreme HD
+http://dns.acaidopara.net:8080/George4899/Halas4899/901858
+
+#EXTINF:-1 group-title="Lista 5" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Star_Channel_2021.png" tvg-rec="", Star Channel HD
+http://dns.acaidopara.net:8080/George4899/Halas4899/45258
+
+
+
+##########################  Lista 6 ##########################
+
+#EXTINF:-1 group-title="Lista 6" tvg-id="" tvg-logo="https://pt.wikipedia.org/wiki/Ficheiro:TVCine-TOP.png" tvg-rec="", Tv Cine Top HD
+http://dns.acaidopara.net:8080/marcostolozana/tolo939289/1544
+#EXTINF:-1 group-title="Lista 6" tvg-id="" tvg-logo="https://pt.wikipedia.org/wiki/Ficheiro:TVCine-TOP.png" tvg-rec="", Tv Cine Top HD
+http://dns.acaidopara.net:8080/marcostolozana/tolo939289/1545
+
+#EXTINF:-1 group-title="Lista 6" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/TVCine-EDITION.png" tvg-rec="", Tv Cine Edition HD
+http://dns.acaidopara.net:8080/marcostolozana/tolo939289/1546
+#EXTINF:-1 group-title="Lista 6" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/TVCine-EDITION.png" tvg-rec="", Tv Cine Edition HD
+http://dns.acaidopara.net:8080/marcostolozana/tolo939289/1547
+
+#EXTINF:-1 group-title="Lista 6" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/TVCine-Emotion.png/534px-TVCine-Emotion.png" tvg-rec="", Tv Cine Emotion HD
+http://dns.acaidopara.net:8080/marcostolozana/tolo939289/1548
+#EXTINF:-1 group-title="Lista 6" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/TVCine-Emotion.png/534px-TVCine-Emotion.png" tvg-rec="", Tv Cine Emotion HD
+http://dns.acaidopara.net:8080/marcostolozana/tolo939289/1549
+
+#EXTINF:-1 group-title="Lista 6" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/TVCine-ACTION.png/534px-TVCine-ACTION.png" tvg-rec="", Tv Cine Action HD
+http://dns.acaidopara.net:8080/marcostolozana/tolo939289/1550
+#EXTINF:-1 group-title="Lista 6" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/TVCine-ACTION.png/534px-TVCine-ACTION.png" tvg-rec="", Tv Cine Action HD
+http://dns.acaidopara.net:8080/marcostolozana/tolo939289/1551
+
+#EXTINF:-1 group-title="Lista 6" tvg-id="" tvg-logo="https://pplware.sapo.pt/wp-content/uploads/2019/06/NOS_03.jpg" tvg-rec="", Nos Studios HD
+http://dns.acaidopara.net:8080/marcostolozana/tolo939289/45491
+
+#EXTINF:-1 group-title="Lista 6" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/300px-HBO_logo.svg.png" tvg-rec="", HBO HD
+http://dns.acaidopara.net:8080/marcostolozana/tolo939289/24781
+#EXTINF:-1 group-title="Lista 6" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/300px-HBO_logo.svg.png" tvg-rec="", HBO HD
+http://dns.acaidopara.net:8080/marcostolozana/tolo939289/901855
+
+#EXTINF:-1 group-title="Lista 6" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/2560px-HBO_Mundi.svg.png" tvg-rec="", HBO Mundi HD
+http://dns.acaidopara.net:8080/marcostolozana/tolo939289/2344
+#EXTINF:-1 group-title="Lista 6" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/2560px-HBO_Mundi.svg.png" tvg-rec="", HBO Mundi HD
+http://dns.acaidopara.net:8080/marcostolozana/tolo939289/901856
+
+#EXTINF:-1 group-title="Lista 6" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/HBO Plus_logo_2011.png" tvg-rec="", HBO Plus HD
+http://dns.acaidopara.net:8080/marcostolozana/tolo939289/901865
+
+#EXTINF:-1 group-title="Lista 6" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png" tvg-rec="", HBO Signature HD
+http://dns.acaidopara.net:8080/marcostolozana/tolo939289/901857
+
+#EXTINF:-1 group-title="Lista 6" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" tvg-rec="", HBO Xtreme HD
+http://dns.acaidopara.net:8080/marcostolozana/tolo939289/901858
+
+#EXTINF:-1 group-title="Lista 6" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Star_Channel_2021.png" tvg-rec="", Star Channel HD
+http://dns.acaidopara.net:8080/marcostolozana/tolo939289/45258
+
+
+
+##########################  Lista 7 ##########################
+
+#EXTINF:-1 group-title="Lista 7" tvg-id="" tvg-logo="https://pt.wikipedia.org/wiki/Ficheiro:TVCine-TOP.png" tvg-rec="", Tv Cine Top HD
+http://dns.acaidopara.net:8080/7742847330/2847330774/1544
+#EXTINF:-1 group-title="Lista 7" tvg-id="" tvg-logo="https://pt.wikipedia.org/wiki/Ficheiro:TVCine-TOP.png" tvg-rec="", Tv Cine Top HD
+http://dns.acaidopara.net:8080/7742847330/2847330774/1545
+
+#EXTINF:-1 group-title="Lista 7" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/TVCine-EDITION.png" tvg-rec="", Tv Cine Edition HD
+http://dns.acaidopara.net:8080/7742847330/2847330774/1546
+#EXTINF:-1 group-title="Lista 7" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/TVCine-EDITION.png" tvg-rec="", Tv Cine Edition HD
+http://dns.acaidopara.net:8080/7742847330/2847330774/1547
+
+#EXTINF:-1 group-title="Lista 7" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/TVCine-Emotion.png/534px-TVCine-Emotion.png" tvg-rec="", Tv Cine Emotion HD
+http://dns.acaidopara.net:8080/7742847330/2847330774/1548
+#EXTINF:-1 group-title="Lista 7" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/TVCine-Emotion.png/534px-TVCine-Emotion.png" tvg-rec="", Tv Cine Emotion HD
+http://dns.acaidopara.net:8080/7742847330/2847330774/1549
+
+#EXTINF:-1 group-title="Lista 7" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/TVCine-ACTION.png/534px-TVCine-ACTION.png" tvg-rec="", Tv Cine Action HD
+http://dns.acaidopara.net:8080/7742847330/2847330774/1550
+#EXTINF:-1 group-title="Lista 7" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/TVCine-ACTION.png/534px-TVCine-ACTION.png" tvg-rec="", Tv Cine Action HD
+http://dns.acaidopara.net:8080/7742847330/2847330774/1551
+
+#EXTINF:-1 group-title="Lista 7" tvg-id="" tvg-logo="https://pplware.sapo.pt/wp-content/uploads/2019/06/NOS_03.jpg" tvg-rec="", Nos Studios HD
+http://dns.acaidopara.net:8080/7742847330/2847330774/45491
+
+#EXTINF:-1 group-title="Lista 7" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/300px-HBO_logo.svg.png" tvg-rec="", HBO HD
+http://dns.acaidopara.net:8080/7742847330/2847330774/24781
+#EXTINF:-1 group-title="Lista 7" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/300px-HBO_logo.svg.png" tvg-rec="", HBO HD
+http://dns.acaidopara.net:8080/7742847330/2847330774/901855
+
+#EXTINF:-1 group-title="Lista 7" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/2560px-HBO_Mundi.svg.png" tvg-rec="", HBO Mundi HD
+http://dns.acaidopara.net:8080/7742847330/2847330774/2344
+#EXTINF:-1 group-title="Lista 7" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/2560px-HBO_Mundi.svg.png" tvg-rec="", HBO Mundi HD
+http://dns.acaidopara.net:8080/7742847330/2847330774/901856
+
+#EXTINF:-1 group-title="Lista 7" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/HBO Plus_logo_2011.png" tvg-rec="", HBO Plus HD
+http://dns.acaidopara.net:8080/7742847330/2847330774/901865
+
+#EXTINF:-1 group-title="Lista 7" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png" tvg-rec="", HBO Signature HD
+http://dns.acaidopara.net:8080/7742847330/2847330774/901857
+
+#EXTINF:-1 group-title="Lista 7" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" tvg-rec="", HBO Xtreme HD
+http://dns.acaidopara.net:8080/7742847330/2847330774/901858
+
+#EXTINF:-1 group-title="Lista 7" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Star_Channel_2021.png" tvg-rec="", Star Channel HD
+http://dns.acaidopara.net:8080/7742847330/2847330774/45258
+
+
+
+
+##########################  Lista 8 ##########################
+
+#EXTINF:-1 group-title="Lista 8" tvg-id="" tvg-logo="https://pt.wikipedia.org/wiki/Ficheiro:TVCine-TOP.png" tvg-rec="", Tv Cine Top HD
+http://dns.acaidopara.net:8080/sandraeddi/55774eddi432785/1544
+#EXTINF:-1 group-title="Lista 8" tvg-id="" tvg-logo="https://pt.wikipedia.org/wiki/Ficheiro:TVCine-TOP.png" tvg-rec="", Tv Cine Top HD
+http://dns.acaidopara.net:8080/sandraeddi/55774eddi432785/1545
+
+#EXTINF:-1 group-title="Lista 8" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/TVCine-EDITION.png" tvg-rec="", Tv Cine Edition HD
+http://dns.acaidopara.net:8080/sandraeddi/55774eddi432785/1546
+#EXTINF:-1 group-title="Lista 8" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/TVCine-EDITION.png" tvg-rec="", Tv Cine Edition HD
+http://dns.acaidopara.net:8080/sandraeddi/55774eddi432785/1547
+
+#EXTINF:-1 group-title="Lista 8" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/TVCine-Emotion.png/534px-TVCine-Emotion.png" tvg-rec="", Tv Cine Emotion HD
+http://dns.acaidopara.net:8080/sandraeddi/55774eddi432785/1548
+#EXTINF:-1 group-title="Lista 8" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/TVCine-Emotion.png/534px-TVCine-Emotion.png" tvg-rec="", Tv Cine Emotion HD
+http://dns.acaidopara.net:8080/sandraeddi/55774eddi432785/1549
+
+#EXTINF:-1 group-title="Lista 8" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/TVCine-ACTION.png/534px-TVCine-ACTION.png" tvg-rec="", Tv Cine Action HD
+http://dns.acaidopara.net:8080/sandraeddi/55774eddi432785/1550
+#EXTINF:-1 group-title="Lista 8" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/TVCine-ACTION.png/534px-TVCine-ACTION.png" tvg-rec="", Tv Cine Action HD
+http://dns.acaidopara.net:8080/sandraeddi/55774eddi432785/1551
+
+#EXTINF:-1 group-title="Lista 8" tvg-id="" tvg-logo="https://pplware.sapo.pt/wp-content/uploads/2019/06/NOS_03.jpg" tvg-rec="", Nos Studios HD
+http://dns.acaidopara.net:8080/sandraeddi/55774eddi432785/45491
+
+#EXTINF:-1 group-title="Lista 8" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/300px-HBO_logo.svg.png" tvg-rec="", HBO HD
+http://dns.acaidopara.net:8080/sandraeddi/55774eddi432785/24781
+#EXTINF:-1 group-title="Lista 8" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/300px-HBO_logo.svg.png" tvg-rec="", HBO HD
+http://dns.acaidopara.net:8080/sandraeddi/55774eddi432785/901855
+
+#EXTINF:-1 group-title="Lista 8" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/2560px-HBO_Mundi.svg.png" tvg-rec="", HBO Mundi HD
+http://dns.acaidopara.net:8080/sandraeddi/55774eddi432785/2344
+#EXTINF:-1 group-title="Lista 8" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/2560px-HBO_Mundi.svg.png" tvg-rec="", HBO Mundi HD
+http://dns.acaidopara.net:8080/sandraeddi/55774eddi432785/901856
+
+#EXTINF:-1 group-title="Lista 8" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/HBO Plus_logo_2011.png" tvg-rec="", HBO Plus HD
+http://dns.acaidopara.net:8080/sandraeddi/55774eddi432785/901865
+
+#EXTINF:-1 group-title="Lista 8" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png" tvg-rec="", HBO Signature HD
+http://dns.acaidopara.net:8080/sandraeddi/55774eddi432785/901857
+
+#EXTINF:-1 group-title="Lista 8" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" tvg-rec="", HBO Xtreme HD
+http://dns.acaidopara.net:8080/sandraeddi/55774eddi432785/901858
+
+#EXTINF:-1 group-title="Lista 8" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Star_Channel_2021.png" tvg-rec="", Star Channel HD
+http://dns.acaidopara.net:8080/sandraeddi/55774eddi432785/45258
+
+
+
+##########################  Lista 9 ##########################
+
+#EXTINF:-1 group-title="Lista 9" tvg-id="" tvg-logo="https://pt.wikipedia.org/wiki/Ficheiro:TVCine-TOP.png" tvg-rec="", Tv Cine Top HD
+http://dns.acaidopara.net:8080/fatimamir/2jtsubyumm/1544
+#EXTINF:-1 group-title="Lista 9" tvg-id="" tvg-logo="https://pt.wikipedia.org/wiki/Ficheiro:TVCine-TOP.png" tvg-rec="", Tv Cine Top HD
+http://dns.acaidopara.net:8080/fatimamir/2jtsubyumm/1545
+
+#EXTINF:-1 group-title="Lista 9" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/TVCine-EDITION.png" tvg-rec="", Tv Cine Edition HD
+http://dns.acaidopara.net:8080/fatimamir/2jtsubyumm/1546
+#EXTINF:-1 group-title="Lista 9" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/TVCine-EDITION.png" tvg-rec="", Tv Cine Edition HD
+http://dns.acaidopara.net:8080/fatimamir/2jtsubyumm/1547
+
+#EXTINF:-1 group-title="Lista 9" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/TVCine-Emotion.png/534px-TVCine-Emotion.png" tvg-rec="", Tv Cine Emotion HD
+http://dns.acaidopara.net:8080/fatimamir/2jtsubyumm/1548
+#EXTINF:-1 group-title="Lista 9" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/TVCine-Emotion.png/534px-TVCine-Emotion.png" tvg-rec="", Tv Cine Emotion HD
+http://dns.acaidopara.net:8080/fatimamir/2jtsubyumm/1549
+
+#EXTINF:-1 group-title="Lista 9" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/TVCine-ACTION.png/534px-TVCine-ACTION.png" tvg-rec="", Tv Cine Action HD
+http://dns.acaidopara.net:8080/fatimamir/2jtsubyumm/1550
+#EXTINF:-1 group-title="Lista 9" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/TVCine-ACTION.png/534px-TVCine-ACTION.png" tvg-rec="", Tv Cine Action HD
+http://dns.acaidopara.net:8080/fatimamir/2jtsubyumm/1551
+
+#EXTINF:-1 group-title="Lista 9" tvg-id="" tvg-logo="https://pplware.sapo.pt/wp-content/uploads/2019/06/NOS_03.jpg" tvg-rec="", Nos Studios HD
+http://dns.acaidopara.net:8080/fatimamir/2jtsubyumm/45491
+
+#EXTINF:-1 group-title="Lista 9" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/300px-HBO_logo.svg.png" tvg-rec="", HBO HD
+http://dns.acaidopara.net:8080/fatimamir/2jtsubyumm/24781
+#EXTINF:-1 group-title="Lista 9" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/300px-HBO_logo.svg.png" tvg-rec="", HBO HD
+http://dns.acaidopara.net:8080/fatimamir/2jtsubyumm/901855
+
+#EXTINF:-1 group-title="Lista 9" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/2560px-HBO_Mundi.svg.png" tvg-rec="", HBO Mundi HD
+http://dns.acaidopara.net:8080/fatimamir/2jtsubyumm/2344
+#EXTINF:-1 group-title="Lista 9" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/2560px-HBO_Mundi.svg.png" tvg-rec="", HBO Mundi HD
+http://dns.acaidopara.net:8080/fatimamir/2jtsubyumm/2344
+
+#EXTINF:-1 group-title="Lista 9" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/HBO Plus_logo_2011.png" tvg-rec="", HBO Plus HD
+http://dns.acaidopara.net:8080/fatimamir/2jtsubyumm/901865
+
+#EXTINF:-1 group-title="Lista 9" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png" tvg-rec="", HBO Signature HD
+http://dns.acaidopara.net:8080/fatimamir/2jtsubyumm/901857
+
+#EXTINF:-1 group-title="Lista 9" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" tvg-rec="", HBO Xtreme HD
+http://dns.acaidopara.net:8080/fatimamir/2jtsubyumm/901858
+
+#EXTINF:-1 group-title="Lista 9" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Star_Channel_2021.png" tvg-rec="", Star Channel HD
+http://dns.acaidopara.net:8080/fatimamir/2jtsubyumm/45258
+
+
