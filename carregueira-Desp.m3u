@@ -1,97 +1,94 @@
-https://drive.google.com/uc?id=1kDmUw8WLU5g1Fgz8i8sdzAosuRwXECKf&export=download
-https://abre.ai/tvfixe-desporto
 
-
-#EXTM3U url-tvg="https://raw.githubusercontent.com/f0nZ/epg-tv-portuguesa/master/guide.xml"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/f0nZ/epg-tv-portuguesa/master/guide.xml,https://github.com/iptv-org/epg/blob/master/sites/meo.pt/meo.pt.channels.xml,https://github.com/iptv-org/epg/blob/master/sites/nos.pt/nos.pt.channels.xml,https://raw.githubusercontent.com/LITUATUI/M3UPT/main/epg/epg-vodafone.xml,https://iptv-org.github.io/epg/guides/pt/mi.tv.xml"
 
 
 ##########################  Lista Desportiva ##########################
 
-#EXTINF:-1 group-title="Lista Desportiva" tvg-id="" tvg-logo="https://i.postimg.cc/JzVNMH4T/sporttv-t.png" tvg-rec="", Sport TV + HD
+#EXTINF:-1 group-title="Lista Desportiva" tvg-name="SportTVPlus.pt" tvg-id="sport.tv+" tvg-logo="https://i.postimg.cc/JzVNMH4T/sporttv-t.png" tvg-rec="", Sport TV + HD
 http://dns.acaidopara.net:8080/19825638500/29245671893/51993
 
-#EXTINF:-1 group-title="Lista Desportiva" tvg-id="" tvg-logo="https://i.postimg.cc/fTspyyLb/sporttv-1j.jpg" tvg-rec="", Sport Tv 1 HD
+#EXTINF:-1 group-title="Lista Desportiva" tvg-name="Sport Tv 1 PT" tvg-id="sport.tv1" tvg-logo="https://i.postimg.cc/fTspyyLb/sporttv-1j.jpg" tvg-rec="", Sport Tv 1 HD
 http://dns.acaidopara.net:8080/19825638500/29245671893/1514
 
-#EXTINF:-1 group-title="Lista Desportiva" tvg-id="" tvg-logo="https://i.postimg.cc/vZrWB84G/sporttv-1t.png" tvg-rec="", Sport Tv 1 HD
+#EXTINF:-1 group-title="Lista Desportiva" tvg-name="Sport Tv 1 PT" tvg-id="sporttv.1" tvg-logo="https://i.postimg.cc/vZrWB84G/sporttv-1t.png" tvg-rec="", Sport Tv 1 HD
 http://dns.acaidopara.net:8080/19825638500/29245671893/1515
 
-#EXTINF:-1 group-title="Lista Desportiva" tvg-id="" tvg-logo="https://i.postimg.cc/28xJZYb7/sporttv-2j.jpg" tvg-rec="", Sport Tv 2 HD
+#EXTINF:-1 group-title="Lista Desportiva" tvg-name="Sport Tv 2 PT" tvg-id="SportTV2.pt" tvg-logo="https://i.postimg.cc/28xJZYb7/sporttv-2j.jpg" tvg-rec="", Sport Tv 2 HD
 http://dns.acaidopara.net:8080/19825638500/29245671893/1517
 
-#EXTINF:-1 group-title="Lista Desportiva" tvg-id="" tvg-logo="https://i.postimg.cc/nLTB4dK5/sporttv-2t.png" tvg-rec="", Sport Tv 2 HD
+#EXTINF:-1 group-title="Lista Desportiva" tvg-name="Sport Tv 2 PT" tvg-id="sporttv2" tvg-logo="https://i.postimg.cc/nLTB4dK5/sporttv-2t.png" tvg-rec="", Sport Tv 2 HD
 http://dns.acaidopara.net:8080/19825638500/29245671893/1518
 
-#EXTINF:-1 group-title="Lista Desportiva" tvg-id="" tvg-logo="https://i.postimg.cc/gc81G8G5/sporttv-3j.jpg" tvg-rec="", Sport Tv 3 HD
+#EXTINF:-1 group-title="Lista Desportiva" tvg-name="Sport Tv 3 PT" tvg-id="" tvg-logo="https://i.postimg.cc/gc81G8G5/sporttv-3j.jpg" tvg-rec="", Sport Tv 3 HD
 http://dns.acaidopara.net:8080/19825638500/29245671893/1520
 
-#EXTINF:-1 group-title="Lista Desportiva" tvg-id="" tvg-logo="https://i.postimg.cc/N0QRrhXm/sporttv-3t.png" tvg-rec="", Sport Tv 3 HD
+#EXTINF:-1 group-title="Lista Desportiva" tvg-name="Sport Tv 3 PT" tvg-id="" tvg-logo="https://i.postimg.cc/N0QRrhXm/sporttv-3t.png" tvg-rec="", Sport Tv 3 HD
 http://dns.acaidopara.net:8080/19825638500/29245671893/1521
 
-#EXTINF:-1 group-title="Lista Desportiva" tvg-id="" tvg-logo="https://i.postimg.cc/6pjmMhh7/sporttv-5j.jpg" tvg-rec="", Sport Tv 4 HD
+#EXTINF:-1 group-title="Lista Desportiva" tvg-name="Sport Tv 4 PT" tvg-id="" tvg-logo="https://i.postimg.cc/6pjmMhh7/sporttv-5j.jpg" tvg-rec="", Sport Tv 4 HD
 http://dns.acaidopara.net:8080/19825638500/29245671893/1523
 
-#EXTINF:-1 group-title="Lista Desportiva" tvg-id="" tvg-logo="https://i.postimg.cc/wBh9yvJT/sporttv-4t.png" tvg-rec="", Sport Tv 4 HD
+#EXTINF:-1 group-title="Lista Desportiva" tvg-name="Sport Tv 4 PT" tvg-id="" tvg-logo="https://i.postimg.cc/wBh9yvJT/sporttv-4t.png" tvg-rec="", Sport Tv 4 HD
 http://dns.acaidopara.net:8080/19825638500/29245671893/1524
 
-#EXTINF:-1 group-title="Lista Desportiva" tvg-id="" tvg-logo="https://i.postimg.cc/6pjmMhh7/sporttv-5j.jpg" tvg-rec="", Sport Tv 5 HD
+#EXTINF:-1 group-title="Lista Desportiva" tvg-name="Sport Tv 5 PT" tvg-id="" tvg-logo="https://i.postimg.cc/6pjmMhh7/sporttv-5j.jpg" tvg-rec="", Sport Tv 5 HD
 http://dns.acaidopara.net:8080/19825638500/29245671893/1526
 
-#EXTINF:-1 group-title="Lista Desportiva" tvg-id="" tvg-logo="https://i.postimg.cc/C1SSjgHC/sporttv-5t.png" tvg-rec="", Sport Tv 5 HD
+#EXTINF:-1 group-title="Lista Desportiva" tvg-name="Sport Tv 5 PT" tvg-id="" tvg-logo="https://i.postimg.cc/C1SSjgHC/sporttv-5t.png" tvg-rec="", Sport Tv 5 HD
 http://dns.acaidopara.net:8080/19825638500/29245671893/1527
 
-#EXTINF:-1 group-title="Lista Desportiva" tvg-id="" tvg-logo="https://i.postimg.cc/2yQtTRHm/sporttv-6j.jpg" tvg-rec="", Sport Tv 6 HD
+#EXTINF:-1 group-title="Lista Desportiva" tvg-name="Sport TV 6 PT" tvg-id="" tvg-logo="https://i.postimg.cc/2yQtTRHm/sporttv-6j.jpg" tvg-rec="", Sport Tv 6 HD
 http://dns.acaidopara.net:8080/19825638500/29245671893/68314
 
-#EXTINF:-1 group-title="Lista Desportiva" tvg-id="" tvg-logo="https://i.postimg.cc/sXmymNwk/sporttv-6t.png" tvg-rec="", Sport Tv 6 HD
+#EXTINF:-1 group-title="Lista Desportiva" tvg-name="Sport TV 6 PT" tvg-id="" tvg-logo="https://i.postimg.cc/sXmymNwk/sporttv-6t.png" tvg-rec="", Sport Tv 6 HD
 http://dns.acaidopara.net:8080/19825638500/29245671893/68315
 
-#EXTINF:-1 group-title="Lista Desportiva" tvg-id="" tvg-logo="https://i.postimg.cc/t70xq8y1/nba-tv-t.png" tvg-rec="", NBA HD
+#EXTINF:-1 group-title="Lista Desportiva" tvg-name="Sport TV NBA PT" tvg-id="SportTVNBA.pt" tvg-logo="https://i.postimg.cc/t70xq8y1/nba-tv-t.png" tvg-rec="", NBA HD
 http://dns.acaidopara.net:8080/19825638500/29245671893/45258
 
-#EXTINF:-1 group-title="Lista Desportiva" tvg-id="" tvg-logo="https://i.postimg.cc/J4d8ThkK/BTV-Red-t.png" tvg-rec="", Benfica Tv UHD
+#EXTINF:-1 group-title="Lista Desportiva" tvg-name="" tvg-id="" tvg-logo="https://i.postimg.cc/J4d8ThkK/BTV-Red-t.png" tvg-rec="", Benfica Tv UHD
 http://dns.acaidopara.net:8080/19825638500/29245671893/1592
 
-#EXTINF:-1 group-title="Lista Desportiva" tvg-id="" tvg-logo="https://i.postimg.cc/wxmbKTZ0/BTV-Bra-Red-j.png" tvg-rec="", Benfica Tv HD
+#EXTINF:-1 group-title="Lista Desportiva" tvg-name="Benfica Tv 1 PT" tvg-id="BenficaTV1.pt" tvg-logo="https://i.postimg.cc/wxmbKTZ0/BTV-Bra-Red-j.png" tvg-rec="", Benfica Tv HD
 http://dns.acaidopara.net:8080/19825638500/29245671893/1529
 
-#EXTINF:-1 group-title="Lista Desportiva" tvg-id="" tvg-logo="https://i.postimg.cc/Wb9ZX08K/BTV-Branco-t.png" tvg-rec="", Benfica Tv HD
+#EXTINF:-1 group-title="Lista Desportiva" tvg-name="Benfica Tv 1 PT" tvg-id="BenficaTV1.pt" tvg-logo="https://i.postimg.cc/Wb9ZX08K/BTV-Branco-t.png" tvg-rec="", Benfica Tv HD
 http://dns.acaidopara.net:8080/19825638500/29245671893/1530
 
-#EXTINF:-1 group-title="Lista Desportiva" tvg-id="" tvg-logo="https://i.postimg.cc/NfKG7tjk/eleven-1j.jpg" tvg-rec="", Eleven Sports 1 HD
+#EXTINF:-1 group-title="Lista Desportiva" tvg-name="Eleven Sports 1 PT" tvg-id="ElevenSports1.pt" tvg-logo="https://i.postimg.cc/NfKG7tjk/eleven-1j.jpg" tvg-rec="", Eleven Sports 1 HD
 http://dns.acaidopara.net:8080/19825638500/29245671893/2377
 
-#EXTINF:-1 group-title="Lista Desportiva" tvg-id="" tvg-logo="https://i.postimg.cc/1XXH3BZP/eleven-1o.png" tvg-rec="", Eleven Sports 1 HD
+#EXTINF:-1 group-title="Lista Desportiva" tvg-name="Eleven Sports 1 PT" tvg-id="ElevenSports1.pt" tvg-logo="https://i.postimg.cc/1XXH3BZP/eleven-1o.png" tvg-rec="", Eleven Sports 1 HD
 http://dns.acaidopara.net:8080/19825638500/29245671893/2375
 
-#EXTINF:-1 group-title="Lista Desportiva" tvg-id="" tvg-logo="https://i.postimg.cc/BQRSmz89/eleven-2j.jpg" tvg-rec="", Eleven Sports 2 HD
+#EXTINF:-1 group-title="Lista Desportiva" tvg-name="Eleven Sports 2 PT" tvg-id="ElevenSports2.pt" tvg-logo="https://i.postimg.cc/BQRSmz89/eleven-2j.jpg" tvg-rec="", Eleven Sports 2 HD
 http://dns.acaidopara.net:8080/19825638500/29245671893/2385
 
-#EXTINF:-1 group-title="Lista Desportiva" tvg-id="" tvg-logo="https://i.postimg.cc/JnPx8gvP/eleven-2o.png" tvg-rec="", Eleven Sports 2 HD
+#EXTINF:-1 group-title="Lista Desportiva" tvg-name="Eleven Sports 2 PT" tvg-id="ElevenSports2.pt" tvg-logo="https://i.postimg.cc/JnPx8gvP/eleven-2o.png" tvg-rec="", Eleven Sports 2 HD
 http://dns.acaidopara.net:8080/19825638500/29245671893/2382
 
-#EXTINF:-1 group-title="Lista Desportiva" tvg-id="" tvg-logo="https://i.postimg.cc/N0kQffdB/eleven-3j.jpg" tvg-rec="", Eleven Sports 3 HD
+#EXTINF:-1 group-title="Lista Desportiva" tvg-name="Eleven Sports 3 PT" tvg-id="ElevenSports3.pt" tvg-logo="https://i.postimg.cc/N0kQffdB/eleven-3j.jpg" tvg-rec="", Eleven Sports 3 HD
 http://dns.acaidopara.net:8080/19825638500/29245671893/2391
 
-#EXTINF:-1 group-title="Lista Desportiva" tvg-id="" tvg-logo="https://i.postimg.cc/cLnF3FtL/eleven-3o.png" tvg-rec="", Eleven Sports 3 HD
+#EXTINF:-1 group-title="Lista Desportiva" tvg-name="Eleven Sports 3 PT" tvg-id="ElevenSports3.pt" tvg-logo="https://i.postimg.cc/cLnF3FtL/eleven-3o.png" tvg-rec="", Eleven Sports 3 HD
 http://dns.acaidopara.net:8080/19825638500/29245671893/2390
 
-#EXTINF:-1 group-title="Lista Desportiva" tvg-id="" tvg-logo="https://i.postimg.cc/jjbsbJQM/eleven-4j.jpg" tvg-rec="", Eleven Sports 4 HD
+#EXTINF:-1 group-title="Lista Desportiva" tvg-name="Eleven Sports 4 PT" tvg-id="ElevenSports4.pt" tvg-logo="https://i.postimg.cc/jjbsbJQM/eleven-4j.jpg" tvg-rec="", Eleven Sports 4 HD
 http://dns.acaidopara.net:8080/19825638500/29245671893/2398
 
-#EXTINF:-1 group-title="Lista Desportiva" tvg-id="" tvg-logo="https://i.postimg.cc/DZ26tFjS/eleven-4o.png" tvg-rec="", Eleven Sports 4 HD
+#EXTINF:-1 group-title="Lista Desportiva" tvg-name="Eleven Sports 4 PT" tvg-id="ElevenSports4.pt" tvg-logo="https://i.postimg.cc/DZ26tFjS/eleven-4o.png" tvg-rec="", Eleven Sports 4 HD
 http://dns.acaidopara.net:8080/19825638500/29245671893/2396
 
-#EXTINF:-1 group-title="Lista Desportiva" tvg-id="" tvg-logo="https://i.postimg.cc/6qyK0Vtp/eleven-5j.jpg" tvg-rec="", Eleven Sports 5 HD
+#EXTINF:-1 group-title="Lista Desportiva" tvg-name="Eleven Sports 5 PT" tvg-id="ElevenSports5.pt" tvg-logo="https://i.postimg.cc/6qyK0Vtp/eleven-5j.jpg" tvg-rec="", Eleven Sports 5 HD
 http://dns.acaidopara.net:8080/19825638500/29245671893/2405
 
-#EXTINF:-1 group-title="Lista Desportiva" tvg-id="" tvg-logo="https://i.postimg.cc/N0vpkRR7/eleven-5o.png" tvg-rec="", Eleven Sports 5 HD
+#EXTINF:-1 group-title="Lista Desportiva" tvg-name="Eleven Sports 5 PT" tvg-id="ElevenSports5.pt" tvg-logo="https://i.postimg.cc/N0vpkRR7/eleven-5o.png" tvg-rec="", Eleven Sports 5 HD
 http://dns.acaidopara.net:8080/19825638500/29245671893/2402
 
-#EXTINF:-1 group-title="Lista Desportiva" tvg-id="" tvg-logo="https://i.postimg.cc/m21R1Smd/eleven-6j.jpg" tvg-rec="", Eleven Sports 6 HD
+#EXTINF:-1 group-title="Lista Desportiva" tvg-name="Eleven Sports 6 PT" tvg-id="ElevenSports6.pt" tvg-logo="https://i.postimg.cc/m21R1Smd/eleven-6j.jpg" tvg-rec="", Eleven Sports 6 HD
 http://dns.acaidopara.net:8080/19825638500/29245671893/2411
 
-#EXTINF:-1 group-title="Lista Desportiva" tvg-id="" tvg-logo="https://i.postimg.cc/d0RnHDBM/eleven-6o.png" tvg-rec="", Eleven Sports 6 HD
+#EXTINF:-1 group-title="Lista Desportiva" tvg-name="Eleven Sports 6 PT" tvg-id="ElevenSports6.pt" tvg-logo="https://i.postimg.cc/d0RnHDBM/eleven-6o.png" tvg-rec="", Eleven Sports 6 HD
 http://dns.acaidopara.net:8080/19825638500/29245671893/2409
 
 
