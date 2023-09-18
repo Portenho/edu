@@ -1,5 +1,3 @@
-https://drive.google.com/uc?id=1kDmUw8WLU5g1Fgz8i8sdzAosuRwXECKf&export=download
-https://abre.ai/tvfixe-filmes
 
 tv cine top - https://pt.wikipedia.org/wiki/Ficheiro:TVCine-TOP.png
 tv cine edition - https://upload.wikimedia.org/wikipedia/commons/5/50/TVCine-EDITION.png
@@ -21,49 +19,49 @@ film & arts - https://www.filmandarts.tv/theme/assets/fa-logo.png
 ##########################  Lista 1 ##########################
 
 
-#EXTINF:-1 group-title="Lista 1" tvg-id="" tvg-logo="https://i.postimg.cc/HLRVSmTP/Tv-cine-top.png" tvg-rec="", Tv Cine Top HD
+#EXTINF:-1 group-title="Lista 1" tvg-name="Tv Cine Top PT" tvg-id="Tvcine2.pt" tvg-logo="https://i.postimg.cc/HLRVSmTP/Tv-cine-top.png" tvg-rec="", Tv Cine Top HD
 http://dns.acaidopara.net:8080/19825638500/29245671893/1544
-#EXTINF:-1 group-title="Lista 1" tvg-id="" tvg-logo="https://i.postimg.cc/HLRVSmTP/Tv-cine-top.png" tvg-rec="", Tv Cine Top HD
+#EXTINF:-1 group-title="Lista 1" tvg-name="Tv Cine Top PT" tvg-id="Tvcine2.pt" tvg-logo="https://i.postimg.cc/HLRVSmTP/Tv-cine-top.png" tvg-rec="", Tv Cine Top HD
 http://dns.acaidopara.net:8080/19825638500/29245671893/1545
 
-#EXTINF:-1 group-title="Lista 1" tvg-id="" tvg-logo="https://i.postimg.cc/bNmCsVyw/tv-cine-edition.png" tvg-rec="", Tv Cine Edition HD
+#EXTINF:-1 group-title="Lista 1" tvg-name="Tv Cine Edition PT" tvg-id="Tvcine1.pt" tvg-logo="https://i.postimg.cc/bNmCsVyw/tv-cine-edition.png" tvg-rec="", Tv Cine Edition HD
 http://dns.acaidopara.net:8080/19825638500/29245671893/1546
-#EXTINF:-1 group-title="Lista 1" tvg-id="" tvg-logo="https://i.postimg.cc/bNmCsVyw/tv-cine-edition.png" tvg-rec="", Tv Cine Edition HD
+#EXTINF:-1 group-title="Lista 1" tvg-name="Tv Cine Edition PT" tvg-id="Tvcine1.pt" tvg-logo="https://i.postimg.cc/bNmCsVyw/tv-cine-edition.png" tvg-rec="", Tv Cine Edition HD
 http://dns.acaidopara.net:8080/19825638500/29245671893/1547
 
-#EXTINF:-1 group-title="Lista 1" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/TVCine-Emotion.png/534px-TVCine-Emotion.png" tvg-rec="", Tv Cine Emotion HD
+#EXTINF:-1 group-title="Lista 1" tvg-name="Tv Cine Emotion PT" tvg-id="Tvcine3.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/TVCine-Emotion.png/534px-TVCine-Emotion.png" tvg-rec="", Tv Cine Emotion HD
 http://dns.acaidopara.net:8080/19825638500/29245671893/1548
-#EXTINF:-1 group-title="Lista 1" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/TVCine-Emotion.png/534px-TVCine-Emotion.png" tvg-rec="", Tv Cine Emotion HD
+#EXTINF:-1 group-title="Lista 1" tvg-name="Tv Cine Emotion PT" tvg-id="Tvcine3.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/TVCine-Emotion.png/534px-TVCine-Emotion.png" tvg-rec="", Tv Cine Emotion HD
 http://dns.acaidopara.net:8080/19825638500/29245671893/1549
 
-#EXTINF:-1 group-title="Lista 1" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/TVCine-ACTION.png/534px-TVCine-ACTION.png" tvg-rec="", Tv Cine Action HD
+#EXTINF:-1 group-title="Lista 1" tvg-name="Tv Cine Action PT" tvg-id="Tvcine4.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/TVCine-ACTION.png/534px-TVCine-ACTION.png" tvg-rec="", Tv Cine Action HD
 http://dns.acaidopara.net:8080/19825638500/29245671893/1550
-#EXTINF:-1 group-title="Lista 1" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/TVCine-ACTION.png/534px-TVCine-ACTION.png" tvg-rec="", Tv Cine Action HD
+#EXTINF:-1 group-title="Lista 1" tvg-name="Tv Cine Action PT" tvg-id="Tvcine4.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/TVCine-ACTION.png/534px-TVCine-ACTION.png" tvg-rec="", Tv Cine Action HD
 http://dns.acaidopara.net:8080/19825638500/29245671893/1551
 
-#EXTINF:-1 group-title="Lista 1" tvg-id="" tvg-logo="https://pplware.sapo.pt/wp-content/uploads/2019/06/NOS_03.jpg" tvg-rec="", Nos Studios HD
+#EXTINF:-1 group-title="Lista 1" tvg-name="Nos Studios PT" tvg-id="NosStudios.pt" tvg-logo="https://pplware.sapo.pt/wp-content/uploads/2019/06/NOS_03.jpg" tvg-rec="", Nos Studios HD
 http://dns.acaidopara.net:8080/19825638500/29245671893/45491
 
-#EXTINF:-1 group-title="Lista 1" tvg-id="" tvg-logo="https://i.postimg.cc/qv3CKgsZ/HBO.jpg" tvg-rec="", HBO HD
+#EXTINF:-1 group-title="Lista 1" tvg-name="HBO BR" tvg-id="HBO.br" tvg-logo="https://i.postimg.cc/qv3CKgsZ/HBO.jpg" tvg-rec="", HBO HD
 http://dns.acaidopara.net:8080/19825638500/29245671893/24781
-#EXTINF:-1 group-title="Lista 1" tvg-id="" tvg-logo="https://i.postimg.cc/qv3CKgsZ/HBO.jpg" tvg-rec="", HBO HD
+#EXTINF:-1 group-title="Lista 1" tvg-name="HBO BR" tvg-id="HBO.br" tvg-logo="https://i.postimg.cc/qv3CKgsZ/HBO.jpg" tvg-rec="", HBO HD
 http://dns.acaidopara.net:8080/19825638500/29245671893/901855
 
-#EXTINF:-1 group-title="Lista 1" tvg-id="" tvg-logo="https://i.postimg.cc/PrGLjdsW/HBO-MUNDI.png" tvg-rec="", HBO Mundi HD
+#EXTINF:-1 group-title="Lista 1" tvg-name="HBO Mundi BR" tvg-id="HBOMundi.br" tvg-logo="https://i.postimg.cc/PrGLjdsW/HBO-MUNDI.png" tvg-rec="", HBO Mundi HD
 http://dns.acaidopara.net:8080/19825638500/29245671893/2344
-#EXTINF:-1 group-title="Lista 1" tvg-id="" tvg-logo="https://i.postimg.cc/PrGLjdsW/HBO-MUNDI.png" tvg-rec="", HBO Mundi HD
+#EXTINF:-1 group-title="Lista 1" tvg-name="HBO Mundi BR" tvg-id="HBOMundi.br" tvg-logo="https://i.postimg.cc/PrGLjdsW/HBO-MUNDI.png" tvg-rec="", HBO Mundi HD
 http://dns.acaidopara.net:8080/19825638500/29245671893/901856
 
-#EXTINF:-1 group-title="Lista 1" tvg-id="" tvg-logo="https://i.postimg.cc/50SnBsVy/HBO-PLUS.png" tvg-rec="", HBO Plus HD
+#EXTINF:-1 group-title="Lista 1" tvg-name="HBO Plus BR" tvg-id="HBOPlusBrasil.br" tvg-logo="https://i.postimg.cc/50SnBsVy/HBO-PLUS.png" tvg-rec="", HBO Plus BR
 http://dns.acaidopara.net:8080/19825638500/29245671893/901865
 
-#EXTINF:-1 group-title="Lista 1" tvg-id="" tvg-logo="https://i.postimg.cc/NMHH6Fv0/HBO-SIGNATURE.png" tvg-rec="", HBO Signature HD
+#EXTINF:-1 group-title="Lista 1" tvg-name="HBO Signature BR" tvg-id="HBOSignature.br" tvg-logo="https://i.postimg.cc/NMHH6Fv0/HBO-SIGNATURE.png" tvg-rec="", HBO Signature BR
 http://dns.acaidopara.net:8080/19825638500/29245671893/901857
 
-#EXTINF:-1 group-title="Lista 1" tvg-id="" tvg-logo="https://i.postimg.cc/Hx9p11Q2/HBO-XTREME.png" tvg-rec="", HBO Xtreme HD
+#EXTINF:-1 group-title="Lista 1" tvg-name="HBO Xtreme BR" tvg-id="HBOXtreme.br" tvg-logo="https://i.postimg.cc/Hx9p11Q2/HBO-XTREME.png" tvg-rec="", HBO Xtreme BR
 http://dns.acaidopara.net:8080/19825638500/29245671893/901858
 
-#EXTINF:-1 group-title="Lista 1" tvg-id="" tvg-logo="https://i.postimg.cc/7Yfym2QX/STAR-CHANNEL.png" tvg-rec="", Star Channel HD
+#EXTINF:-1 group-title="Lista 1" tvg-name="STAR Cinema BR" tvg-id="STARcinema.br" tvg-logo="https://i.postimg.cc/7Yfym2QX/STAR-CHANNEL.png" tvg-rec="", Star Channel HD
 http://dns.acaidopara.net:8080/19825638500/29245671893/45258
 
 
