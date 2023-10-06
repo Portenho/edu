@@ -1,7 +1,7 @@
 Expira: 13-11-2023
 2 Users
 
-#EXTM3U url-tvg="https://raw.githubusercontent.com/f0nZ/epg-tv-portuguesa/master/guide.xml"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/f0nZ/epg-tv-portuguesa/master/guide.xml,https://github.com/iptv-org/epg/blob/master/sites/meo.pt/meo.pt.channels.xml,https://github.com/iptv-org/epg/blob/master/sites/nos.pt/nos.pt.channels.xml,https://raw.githubusercontent.com/LITUATUI/M3UPT/main/epg/epg-vodafone.xml,https://iptv-org.github.io/epg/guides/pt/mi.tv.xml"
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Generaristas [PT]", RTP 1 HD
 http://dns.acaidopara.net:8080/fatimamir/2jtsubyumm/1604
