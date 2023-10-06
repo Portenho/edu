@@ -1,7 +1,5 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/f0nZ/epg-tv-portuguesa/master/guide.xml,https://github.com/iptv-org/epg/blob/master/sites/meo.pt/meo.pt.channels.xml,https://github.com/iptv-org/epg/blob/master/sites/nos.pt/nos.pt.channels.xml,https://raw.githubusercontent.com/LITUATUI/M3UPT/main/epg/epg-vodafone.xml,https://iptv-org.github.io/epg/guides/pt/mi.tv.xml"
 
-#EXTINF:-1,------▼|PT|-CHAINES.PORTUGAISES-|PT|▼------
-http://r365mail.bet:2103/5B6rTcd0g3/7073518944/1103
 #EXTINF:-1,|PT| RTP 1
 http://r365mail.bet:2103/5B6rTcd0g3/7073518944/1043
 #EXTINF:-1,|PT| RTP 1 FHD
@@ -18,7 +16,7 @@ http://r365mail.bet:2103/5B6rTcd0g3/7073518944/1073
 http://r365mail.bet:2103/5B6rTcd0g3/7073518944/1052
 #EXTINF:-1,|PT| TVI FHD
 http://r365mail.bet:2103/5B6rTcd0g3/7073518944/3158
-#EXTINF:-1,|PT| TVI FICçãO FHD
+#EXTINF:-1,|PT| TVI FICÇÃO FHD
 http://r365mail.bet:2103/5B6rTcd0g3/7073518944/1048
 #EXTINF:-1,|PT| PORTO CANAL
 http://r365mail.bet:2103/5B6rTcd0g3/7073518944/1067
