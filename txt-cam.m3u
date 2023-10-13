@@ -590,30 +590,37 @@ https://hd-auth.skylinewebcams.com/live.m3u8?a=im4vb1egc0fdfcr9eo1jdd0c54
 ########################################################## FILIPINAS ##########################################################################
 
 #EXTINF:0 type="video" description="" tvg-logo="" group-title="Filipinas",Agdao: Davao City
-https://youtu.be/embed/_5pLLRT5FuM
+https://youtu.be/embed/9HKg7gXSB_g
 
+#EXTINF:0 type="video" description="" tvg-logo="" group-title="Filipinas",Agdao Public Market
+https://youtu.be/embed/2WEVMTmd8Uw
 
+#EXTINF:0 type="video" description="" tvg-logo="" group-title="Filipinas",Soliman Street Davao City
+https://youtu.be/embed/DzxGIoBt_fo
 
-
-
-
+#EXTINF:0 type="video" description="" tvg-logo="" group-title="Filipinas",NIght walks in Thailand
+https://youtu.be/embed/QQIXL81-F-c
 
 
 ########################################################## NASA ##########################################################################
 
-
 #EXTINF:0 type="video" description="" tvg-logo="" group-title="Nasa",Live Stream of Earth from Space
-https://youtu.be/embed/4_OT4xFrjmM
+https://youtu.be/embed/_HGQZlK08gQ
 
+#EXTINF:0 type="video" description="" tvg-logo="" group-title="Nasa",Live Stream of NASA Tv
+https://youtu.be/embed/21X5lGlDOfg
 
-
-
+#EXTINF:0 type="video" description="" tvg-logo="" group-title="Nasa",International Space Station
+https://youtu.be/embed/1rcSyN74BY0
 
 
 ########################################################## TAILANDIA ##########################################################################
 
 #EXTINF:0 type="video" description="" tvg-logo="" group-title="Tailandia",Crystal Bay Beach Resort
-https://youtu.be/embed/bkDa8cCrjRs
+https://youtu.be/embed/Fw9hgttWzIg
+
+#EXTINF:0 type="video" description="" tvg-logo="" group-title="Tailandia",Crystal Bay Yacht Club
+https://youtu.be/embed/5FNI26lPfgE
 
 #EXTINF:0 type="video" description="" tvg-logo="" group-title="Tailandia",Choeng Mon Beach Resort
 https://youtu.be/embed/sNcVhEp46os
