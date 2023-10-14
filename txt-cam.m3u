@@ -14,7 +14,8 @@ UKRAINE, FAIXA DE GAZA, PRAIAS PORTUGUESAS, LISBOA, MADEIRA, PORTIMÃO, ESPANHA,
 
 #EXTM3U
 
-
+#EXTINF:-1 group-title="Faixa de Gaza Live" tvg-logo="",Top50 Instagram Follower Count
+https://youtu.be/embed/htajBFzSYhc
 
 ########################################################## FAIXA DE GAZA ##########################################################################
 
@@ -537,50 +538,45 @@ https://youtu.be/embed/Dl1byqohXk8
 
 ########################################################## ESPANHA ##########################################################################
 
-#EXTINF:0 type="video" description="" tvg-logo="" group-title="Espanha",Platja d'Aro: Girona
-https://hd-auth.skylinewebcams.com/live.m3u8?a=vm2i2hli4uirt9smv71qefhmv3
+#EXTINF:0 type="video" description="" tvg-logo="" group-title="Espanha",Malaga Airport
+https://youtu.be/embed/piWvAcJ9iow
 
-#EXTINF:0 type="video" description="" tvg-logo="" group-title="Espanha",Playa de Los Cristianos: Tenerife
-https://hd-auth.skylinewebcams.com/live.m3u8?a=vm2i2hli4uirt9smv71qefhmv3
+#EXTINF:0 type="video" description="" tvg-logo="" group-title="Espanha",Lanzarote Airport
+https://youtu.be/embed/AAlo3eCPVbk
 
-#EXTINF:0 type="video" description="" tvg-logo="" group-title="Espanha",Las Vistas Beach: Tenerife
-https://hd-auth.skylinewebcams.com/live.m3u8?a=vm2i2hli4uirt9smv71qefhmv3
+#EXTINF:0 type="video" description="" tvg-logo="" group-title="Espanha",Tenerife Airport
+https://youtu.be/embed/dyCxFZgrGXw
 
-#EXTINF:0 type="video" description="" tvg-logo="" group-title="Espanha",Playa Grande in Las Canteras: Gran Canaria
-https://hd-auth.skylinewebcams.com/live.m3u8?a=vm2i2hli4uirt9smv71qefhmv3
+#EXTINF:0 type="video" description="" tvg-logo="" group-title="Espanha",Tossa de Mar: Girona
+https://youtu.be/embed/nWFcWooDAxI
 
-#EXTINF:0 type="video" description="" tvg-logo="" group-title="Espanha",Playa Sant Sebastià: Barcelona
-https://hd-auth.skylinewebcams.com/live.m3u8?a=vm2i2hli4uirt9smv71qefhmv3
+#EXTINF:0 type="video" description="" tvg-logo="" group-title="Espanha",Paguera Beach: Mallorca
+https://youtu.be/embed/rFdIFvlxKfE
 
-#EXTINF:0 type="video" description="" tvg-logo="" group-title="Espanha",Playa de Levante: Benidorm
-https://hd-auth.skylinewebcams.com/live.m3u8?a=vm2i2hli4uirt9smv71qefhmv3
+#EXTINF:0 type="video" description="" tvg-logo="" group-title="Espanha",Lekeitioko Udala: Bizkaia
+https://youtu.be/embed/KTvzATgyRik
 
-#EXTINF:0 type="video" description="" tvg-logo="" group-title="Espanha",Playa del Carmen: Barbate
-https://hd-auth.skylinewebcams.com/live.m3u8?a=vm2i2hli4uirt9smv71qefhmv3
+#EXTINF:0 type="video" description="" tvg-logo="" group-title="Espanha",Matalascañas Beach: Sevilha
+https://youtu.be/embed/2cDUIzO5yME
 
-#EXTINF:0 type="video" description="" tvg-logo="" group-title="Espanha",Santa María del Mar: Cádiz
-https://hd-auth.skylinewebcams.com/live.m3u8?a=vm2i2hli4uirt9smv71qefhmv3
+#EXTINF:0 type="video" description="" tvg-logo="" group-title="Espanha",Playa del Albir: Alicante
+https://youtu.be/embed/mdOqWWUxIJw
 
-#EXTINF:0 type="video" description="" tvg-logo="" group-title="Espanha",Playa de La Caleta: Cádiz
-https://hd-auth.skylinewebcams.com/live.m3u8?a=vm2i2hli4uirt9smv71qefhmv3
+#EXTINF:0 type="video" description="" tvg-logo="" group-title="Espanha",Madrid
+https://youtu.be/embed/B4LQcaPfch4
 
-#EXTINF:0 type="video" description="" tvg-logo="" group-title="Espanha",Puerta del Sol: Madrid
-https://hd-auth.skylinewebcams.com/live.m3u8?a=vm2i2hli4uirt9smv71qefhmv3
+#EXTINF:0 type="video" description="" tvg-logo="" group-title="Espanha",Avenida de Madrid: Vigo
+https://youtu.be/embed/XGzncIaJJ44
 
-#EXTINF:0 type="video" description="" tvg-logo="" group-title="Espanha",Calle de Alcalá: Madrid
-https://hd-auth.skylinewebcams.com/live.m3u8?a=vm2i2hli4uirt9smv71qefhmv3
+#EXTINF:0 type="video" description="" tvg-logo="" group-title="Espanha",Valencia
+https://youtu.be/embed/949tK17wOvY
 
-#EXTINF:0 type="video" description="" tvg-logo="" group-title="Espanha",Playa Lloret De Mar: Barcelona
-https://hd-auth.skylinewebcams.com/live.m3u8?a=vm2i2hli4uirt9smv71qefhmv3
+#EXTINF:0 type="video" description="" tvg-logo="" group-title="Espanha",
+https://youtu.be/embed/
 
-#EXTINF:0 type="video" description="" tvg-logo="" group-title="Espanha",Playa de San Sebastian: Barcelona
-https://hd-auth.skylinewebcams.com/live.m3u8?a=vm2i2hli4uirt9smv71qefhmv3
+#EXTINF:0 type="video" description="" tvg-logo="" group-title="Espanha",
+https://youtu.be/embed/
 
-#EXTINF:0 type="video" description="" tvg-logo="" group-title="Espanha",Puerto de la Cruz: Lago Martiánez
-https://hd-auth.skylinewebcams.com/live.m3u8?a=vm2i2hli4uirt9smv71qefhmv3
-
-#EXTINF:0 type="video" description="" tvg-logo="" group-title="Espanha",El Médano Beach: Canary Islands
-https://hd-auth.skylinewebcams.com/live.m3u8?a=vm2i2hli4uirt9smv71qefhmv3
 
 ########################################################## FILIPINAS ##########################################################################
 
