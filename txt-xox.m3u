@@ -238,22 +238,9 @@ http://stream.visit-x.tv:1935/vxtv/live/playlist.m3u8
 http://v2.catcast.tv/content/40381/index.m3u8
 #EXTINF:-1 tvg-name="" group-title="Bad Channels", Blue Huster
 http://193.33.240.8:8080/hustler_hd/index.m3u8
-#EXTINF:-1 tvg-name="" group-title="Bad Channels", Russian
-http://94.154.83.88:10000/russiannight
-#EXTINF:-1 tvg-name="" group-title="Bad Channels", Venus
-http://190.61.102.67:8000/play/a02h
-#EXTINF:-1 tvg-name="" group-title="Bad Channels", Ibiza Tv
-https://cdn1.ibizastream.biz:441/free/Stream1/playlist.m3u8
-#EXTINF:-1 tvg-name="" group-title="Bad Channels", Playboy
-http://93.125.29.22:8901/playboy-tv
 #EXTINF:-1 tvg-name="" group-title="Bad Channels", centoXcento
 http://95.87.227.29:8080/CENTOXCENTO/index.m3u8
-#EXTINF:-1 tvg-name="" group-title="Bad Channels", Passion XXX
-http://95.87.227.29:8080/PASSIONXXX/index.m3u8
 
-
-#EXTINF:-1 tvg-rec="0" group-title="Bad Channels",Playboy Tv
-http://xcui.vitvabc.xyz:8880/live/DQ-NOVO500/ziqDdRRQ6c/38278.m3u8
 #EXTINF:-1 tvg-rec="0" group-title="Bad Channels",Sex Hot
 http://xcui.vitvabc.xyz:8880/live/DQ-NOVO500/ziqDdRRQ6c/38280.m3u8
 #EXTINF:-1 tvg-rec="0" group-title="Bad Channels",Shedoes Anal
