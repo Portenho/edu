@@ -1,7 +1,7 @@
 #EXTM3U
-
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 "-----SPORT TV 1-----"
+
 #EXTINF:-1 tvg-id="" tvg-name="Sport tv 1" tvg-logo="" group-title="Sport Tv 1",1-4k
 http://1.revportal.eu:80/mag00:1A:79:53:44:6D/fhqSBbcUrL/106352
 #EXTINF:-1 tvg-id="" tvg-name="Sport tv 1" tvg-logo="" group-title="Sport Tv 1",1-FHD 
