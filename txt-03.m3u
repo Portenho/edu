@@ -1,377 +1,608 @@
-50 users
-
-#EXTM3U url-tvg="https://raw.githubusercontent.com/f0nZ/epg-tv-portuguesa/master/guide.xml,https://github.com/iptv-org/epg/blob/master/sites/meo.pt/meo.pt.channels.xml,https://github.com/iptv-org/epg/blob/master/sites/nos.pt/nos.pt.channels.xml,https://raw.githubusercontent.com/LITUATUI/M3UPT/main/epg/epg-vodafone.xml,https://iptv-org.github.io/epg/guides/pt/mi.tv.xml"
-
-####################### Generalistas ##############################
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Generalistas",RTP 1
-http://2hubs.ddns.net:25461/loganexch/piB1FRmRt6/62052
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Generalistas",RTP 2
-http://2hubs.ddns.net:25461/loganexch/piB1FRmRt6/62053
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Generalistas",SIC
-http://2hubs.ddns.net:25461/loganexch/piB1FRmRt6/62068
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Generalistas",TVI HD
-http://2hubs.ddns.net:25461/loganexch/piB1FRmRt6/62107
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Generalistas",RTP 3
-http://2hubs.ddns.net:25461/loganexch/piB1FRmRt6/62055
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Generalistas",SIC NOTICIAS
-http://2hubs.ddns.net:25461/loganexch/piB1FRmRt6/62066
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Generalistas",CNN
-http://2hubs.ddns.net:25461/loganexch/piB1FRmRt6/62105
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Generalistas",CMTV HD
-http://2hubs.ddns.net:25461/loganexch/piB1FRmRt6/61994
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Generalistas",CM TV
-http://2hubs.ddns.net:25461/loganexch/piB1FRmRt6/61993
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Generalistas",Porto Canal
-http://2hubs.ddns.net:25461/loganexch/piB1FRmRt6/62050
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Generalistas",SKY News
-http://2hubs.ddns.net:25461/loganexch/piB1FRmRt6/62070
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Generalistas",RTP Africa
-http://2hubs.ddns.net:25461/loganexch/piB1FRmRt6/62056
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Generalistas",RTP Açores
-http://2hubs.ddns.net:25461/loganexch/piB1FRmRt6/62057
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Generalistas",RTP MADEIRA
-http://2hubs.ddns.net:25461/loganexch/piB1FRmRt6/62058
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Generalistas",TPA ANGOLA
-http://2hubs.ddns.net:25461/loganexch/piB1FRmRt6/62089
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Generalistas",TV Globo
-http://2hubs.ddns.net:25461/loganexch/piB1FRmRt6/62096
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Generalistas",EuroNews
-http://2hubs.ddns.net:25461/loganexch/piB1FRmRt6/62003
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Generalistas",EURO CHANNEL
-http://2hubs.ddns.net:25461/loganexch/piB1FRmRt6/62006
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Generalistas",FOX News
-http://2hubs.ddns.net:25461/loganexch/piB1FRmRt6/62022
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Generalistas",France 24
-http://2hubs.ddns.net:25461/loganexch/piB1FRmRt6/62023
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Generalistas",GLOBO PREMIUM
-http://2hubs.ddns.net:25461/loganexch/piB1FRmRt6/62026
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Generalistas",TCV Cabo Verde
-http://2hubs.ddns.net:25461/loganexch/piB1FRmRt6/62086
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Generalistas",TLC
-http://2hubs.ddns.net:25461/loganexch/piB1FRmRt6/62087
-
-
-
-
-####################### Entretenimento ##############################
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimento",TVI Reality
-http://2hubs.ddns.net:25461/loganexch/piB1FRmRt6/62108
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimento",24 Kitchen HD
-http://2hubs.ddns.net:25461/loganexch/piB1FRmRt6/61967
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimento",Food Network
-http://2hubs.ddns.net:25461/loganexch/piB1FRmRt6/62011
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimento",A&E TV
-http://2hubs.ddns.net:25461/loganexch/piB1FRmRt6/61969
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimento",ARTV HD
-http://2hubs.ddns.net:25461/loganexch/piB1FRmRt6/61973
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimento",Biggs
-http://2hubs.ddns.net:25461/loganexch/piB1FRmRt6/61982
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimento",Blaze
-http://2hubs.ddns.net:25461/loganexch/piB1FRmRt6/61983
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimento",Canal 180
-http://2hubs.ddns.net:25461/loganexch/piB1FRmRt6/61986
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimento",Canal de Historia
-http://2hubs.ddns.net:25461/loganexch/piB1FRmRt6/61987
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimento",Canal Q
-http://2hubs.ddns.net:25461/loganexch/piB1FRmRt6/61989
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimento",CAÇÃVISION
-http://2hubs.ddns.net:25461/loganexch/piB1FRmRt6/61990
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimento",Caça e Pesca
-http://2hubs.ddns.net:25461/loganexch/piB1FRmRt6/61991
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimento",Toros TV
-http://2hubs.ddns.net:25461/loganexch/piB1FRmRt6/62088
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimento",Travel HD
-http://2hubs.ddns.net:25461/loganexch/piB1FRmRt6/62091
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimento",TVI FICCAO
-http://2hubs.ddns.net:25461/loganexch/piB1FRmRt6/62106
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimento",Crime & Investigation
-http://2hubs.ddns.net:25461/loganexch/piB1FRmRt6/61995
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimento",Discovery Channel
-http://2hubs.ddns.net:25461/loganexch/piB1FRmRt6/61996
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimento",Discovery Showcase HD
-http://2hubs.ddns.net:25461/loganexch/piB1FRmRt6/61998
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimento",DOG HD
-http://2hubs.ddns.net:25461/loganexch/piB1FRmRt6/62001
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimento",E! Entertainment
-http://2hubs.ddns.net:25461/loganexch/piB1FRmRt6/62002
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimento",Fashion TV
-http://2hubs.ddns.net:25461/loganexch/piB1FRmRt6/62007
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimento",Fuel TV
-http://2hubs.ddns.net:25461/loganexch/piB1FRmRt6/62024
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimento",LOCALVISAO TV HD
-http://2hubs.ddns.net:25461/loganexch/piB1FRmRt6/62031
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimento",Motorvision
-http://2hubs.ddns.net:25461/loganexch/piB1FRmRt6/62035
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimento",Nat Geo Wild
-http://2hubs.ddns.net:25461/loganexch/piB1FRmRt6/62040
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimento",NATIONAL GEOGRAPHIC HD
-http://2hubs.ddns.net:25461/loganexch/piB1FRmRt6/62041
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimento",RTP MEMORIA
-http://2hubs.ddns.net:25461/loganexch/piB1FRmRt6/62059
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimento",ODISSEIA
-http://2hubs.ddns.net:25461/loganexch/piB1FRmRt6/62046
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimento",SIC CARAS
-http://2hubs.ddns.net:25461/loganexch/piB1FRmRt6/62062
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimento",SIC MULHER
-http://2hubs.ddns.net:25461/loganexch/piB1FRmRt6/62065
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimento",SANTUARIO DE FATIMA HD
-http://2hubs.ddns.net:25461/loganexch/piB1FRmRt6/62060
-
-
-
-
-####################### Desporto ##############################
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto",SPORT TV+HD
-http://2hubs.ddns.net:25461/loganexch/piB1FRmRt6/62077
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto",SPORT TV 1 HD
-http://2hubs.ddns.net:25461/loganexch/piB1FRmRt6/62071
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto",Sport TV 2
-http://2hubs.ddns.net:25461/loganexch/piB1FRmRt6/62079
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto",SPORT TV 3 
-http://2hubs.ddns.net:25461/loganexch/piB1FRmRt6/74595
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto",SPORT TV 4 HD
-http://2hubs.ddns.net:25461/loganexch/piB1FRmRt6/62074
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto",Sport TV 5
-http://2hubs.ddns.net:25461/loganexch/piB1FRmRt6/62082
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto",NBA HD
-http://2hubs.ddns.net:25461/loganexch/piB1FRmRt6/62076
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto",NBA HD
-http://2hubs.ddns.net:25461/loganexch/piB1FRmRt6/62042
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto",Benfica TV HD
-http://2hubs.ddns.net:25461/loganexch/piB1FRmRt6/61984
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto",Benfica TV HD
-http://2hubs.ddns.net:25461/loganexch/piB1FRmRt6/61981
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto",Sporting TV HD
-http://2hubs.ddns.net:25461/loganexch/piB1FRmRt6/62083
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto",A Bola TV
-http://2hubs.ddns.net:25461/loganexch/piB1FRmRt6/61968
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto",Canal 11 FHD
-http://2hubs.ddns.net:25461/loganexch/piB1FRmRt6/61985
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto",FIGHT NETWORK HD
-http://2hubs.ddns.net:25461/loganexch/piB1FRmRt6/62008
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto",Fight BOX HD
-http://2hubs.ddns.net:25461/loganexch/piB1FRmRt6/62009
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto",EUROSPORT 1 HD
-http://2hubs.ddns.net:25461/loganexch/piB1FRmRt6/62004
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto",EUROSPORT 2
-http://2hubs.ddns.net:25461/loganexch/piB1FRmRt6/62005
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto",PFC
-http://2hubs.ddns.net:25461/loganexch/piB1FRmRt6/62049
-
-
-
-
-####################### Filmes ##############################
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes",NOS STUDIOS HD
-http://2hubs.ddns.net:25461/loganexch/piB1FRmRt6/62044
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes",AXN BLACK HD
-http://2hubs.ddns.net:25461/loganexch/piB1FRmRt6/61974
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes",AXN Movies HD
-http://2hubs.ddns.net:25461/loganexch/piB1FRmRt6/61975
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes",AXN HD
-http://2hubs.ddns.net:25461/loganexch/piB1FRmRt6/61977
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes",AXN WHITE HD
-http://2hubs.ddns.net:25461/loganexch/piB1FRmRt6/61979
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes",Cinemundo
-http://2hubs.ddns.net:25461/loganexch/piB1FRmRt6/61992
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes",AMC
-http://2hubs.ddns.net:25461/loganexch/piB1FRmRt6/61971
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes",FOX Comedy
-http://2hubs.ddns.net:25461/loganexch/piB1FRmRt6/62012
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes",FOX CRIME HD
-http://2hubs.ddns.net:25461/loganexch/piB1FRmRt6/62014
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes",FOX HD
-http://2hubs.ddns.net:25461/loganexch/piB1FRmRt6/62017
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes",FOX LIFE HD
-http://2hubs.ddns.net:25461/loganexch/piB1FRmRt6/62019
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes",FOX Movies
-http://2hubs.ddns.net:25461/loganexch/piB1FRmRt6/62020
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes",FOX Movies HD
-http://2hubs.ddns.net:25461/loganexch/piB1FRmRt6/62021
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes",Hollywood HD
-http://2hubs.ddns.net:25461/loganexch/piB1FRmRt6/62027
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes",SyFy
-http://2hubs.ddns.net:25461/loganexch/piB1FRmRt6/62084
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes", HBO HD BR Leg
-http://dns.acaidopara.net:8080/907657480043/7850254630876/24781
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes", HBO BR Leg
-http://dns.acaidopara.net:8080/907657480043/7850254630876/901855
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes", HBO Mundi HD BR Leg 
-http://dns.acaidopara.net:8080/907657480043/7850254630876/2344
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes", HBO Mundi BR Leg
-http://dns.acaidopara.net:8080/907657480043/7850254630876/901856
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes", HBO Plus BR Leg
-http://dns.acaidopara.net:8080/907657480043/7850254630876/901865
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes", HBO Signature BR Leg
-http://dns.acaidopara.net:8080/907657480043/7850254630876/901857
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes", HBO Xtreme BR Leg
-http://dns.acaidopara.net:8080/907657480043/7850254630876/901858
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes", Star Channel HD BR Leg
-http://dns.acaidopara.net:8080/907657480043/7850254630876/24779
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes", Star Channel BR Leg
-http://dns.acaidopara.net:8080/907657480043/7850254630876/2338
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes", Telecine Action BR Leg
-http://dns.acaidopara.net:8080/907657480043/7850254630876/2346
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes", Telecine Pipoca BR Leg
-http://dns.acaidopara.net:8080/907657480043/7850254630876/2350
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes", Telecine Premium BR Leg
-http://dns.acaidopara.net:8080/907657480043/7850254630876/2352
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes", Telecine Touch BR Leg
-http://dns.acaidopara.net:8080/907657480043/7850254630876/2354
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes", Warner HD BR Leg
-http://dns.acaidopara.net:8080/907657480043/7850254630876/2367
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes", TNT Series BR Leg
-http://dns.acaidopara.net:8080/907657480043/7850254630876/901861
-
-
-
-
-####################### Musica ##############################
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Musica",MCM TOP
-http://2hubs.ddns.net:25461/loganexch/piB1FRmRt6/62033
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Musica",MTV
-http://2hubs.ddns.net:25461/loganexch/piB1FRmRt6/62036
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Musica",Afro Music
-http://2hubs.ddns.net:25461/loganexch/piB1FRmRt6/61970
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Musica",VH1
-http://2hubs.ddns.net:25461/loganexch/piB1FRmRt6/62109
-
-
-
-
-
-####################### Kids ##############################
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Kids",Disney Channel
-http://2hubs.ddns.net:25461/loganexch/piB1FRmRt6/61999
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Kids",Disney Junior
-http://2hubs.ddns.net:25461/loganexch/piB1FRmRt6/62000
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Kids",Canal Panda
-http://2hubs.ddns.net:25461/loganexch/piB1FRmRt6/61988
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Kids",JIM JAM
-http://2hubs.ddns.net:25461/loganexch/piB1FRmRt6/62028
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Kids",Kuriakos Kids
-http://2hubs.ddns.net:25461/loganexch/piB1FRmRt6/62029
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Kids",Nickelodeon
-http://2hubs.ddns.net:25461/loganexch/piB1FRmRt6/62043
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Kids",PANDA BIGGS
-http://2hubs.ddns.net:25461/loganexch/piB1FRmRt6/62048
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Kids",ZAP VIVA HD
-http://2hubs.ddns.net:25461/loganexch/piB1FRmRt6/62110
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Kids",SIC KIDS
-http://2hubs.ddns.net:25461/loganexch/piB1FRmRt6/62064
+#EXTM3U
+
+
+#EXTINF:-1,PT:-----|GENERALISTAS|-------------------------------------
+
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Generaristas",RTP 1
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/3199
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Generaristas",RTP 2
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/3198
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Generaristas",SIC
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/3196
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Generaristas",TVI
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/3173
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Generaristas",RTP 3
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/3197
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Generaristas",SIC Noticias
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/3194
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Generaristas",CNN
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/3172
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Generaristas",CNN
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/29375
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Generaristas",CMTV FHD
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/29377
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Generaristas",Porto Canal
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/3200
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Generaristas",Porto Canal
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/3223
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Generaristas",RTP Africa
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/29404
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Generaristas",RTP ACORES
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/29403
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Generaristas",RTP MADEIRA
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/29402
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Generaristas",Azores TV
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/29396
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Generaristas",Euronews
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/29360
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Generaristas",Record News
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/29347
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Generaristas",Globo
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/3216
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Generaristas",Globo Now
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/3176
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Generaristas",TV Record
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/3175
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Generaristas",Bloomberg
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/29383
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Generaristas",TPA
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/29372
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Generaristas",CGTN
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/29361
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Generaristas",FOX NEWS
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/29364
+
+
+#EXTINF:-1,PT:-----|SPORTS|--------------------------------------
+
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Desporto",SPORT TV+
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/3187
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Desporto",SPORT TV 1 FHD
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/29392
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Desporto",Sport TV 1 HD
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/3192
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Desporto",SPORT TV 2 FHD
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/29391
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Desporto",Sport TV 2 HD
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/3191
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Desporto",SPORT TV 3 FHD
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/29390
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Desporto",Sport TV 3 HD
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/3190
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Desporto",SPORT TV 4 FHD
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/29389
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Desporto",Sport TV 4 HD
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/3189
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Desporto",SPORT TV 5 FHD
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/49958
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Desporto",Sport TV 5 HD
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/3188
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Desporto",SPORT TV 6 HD
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/29342
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Desporto",NBA
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/29366
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Desporto",NBA
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/29349
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Desporto",Benfica TV 1 FHD
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/3239
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Desporto",Benfica TV 1 HD
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/3238
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Desporto",Eleven Sports 1 FHD
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/49966
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Desporto",Eleven Sports 1 SD
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/29334
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Desporto",Eleven Sports 2 FHD
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/49032
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Desporto",Eleven Sports 2 SD
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/29356
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Desporto",Eleven Sports 3 FHD
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/29371
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Desporto",Eleven Sports 3 SD
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/29345
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Desporto",Eleven Sports 4 FHD
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/29370
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Desporto",Eleven Sports 4 SD
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/29344
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Desporto",Eleven Sports 5 SD
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/29369
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Desporto",Eleven Sports 6 FHD
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/29368
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Desporto",Canal 11
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/29378
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Desporto",Fight Network
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/29358
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Desporto",A Bola TV
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/3248
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Desporto",Euro Sport 1
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/3225
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Desporto",Euro Sport 2
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/3224
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Desporto",Motors TV
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/3210
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Desporto",Motorvision
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/3209
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Desporto",PFC
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/3201
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Desporto",Sporting TV
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/3186
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Desporto",Toros TV
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/3183
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Desporto",Fuel TV
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/3217
+
+#EXTINF:-1,PT:-----|MOVIES|--------------------------------------
+
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Filmes",TV Cine Top HD
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/29408
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Filmes",TV Cine Top
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/3181
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Filmes",TV Cine Edition
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/3178
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Filmes",TV Cine Emotion
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/3180
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Filmes",TV Cine Action
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/3179
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Filmes",NOS Studios
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/29398
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Filmes",MOV
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/3211
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Filmes",Hollywood
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/3214
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Filmes",Cine Mundo
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/3231
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Filmes",AXN
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/3244
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Filmes",AXN Black
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/3243
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Filmes",AXN White
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/3242
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Filmes",Fox
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/3220
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Filmes",Fox Movies
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/3218
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Filmes",Fox Life
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/3219
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Filmes",Fox Comedy
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/3222
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Filmes",Fox Crime
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/3221
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Filmes",Dizi Channel
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/29362
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Filmes",A&E
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/3249
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Filmes",AMC
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/3246
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Filmes",SYFY
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/3185
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Filmes",TLC
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/3184
+
+
+
+#EXTINF:-1,PT:-----|ENTRETENIMENTO|---------------------------------
+
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Entretenimento",TVI Reality
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/29409
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Entretenimento",TVI Ficcao HD
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/29381
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Entretenimento",SIC Mulher
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/3195
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Entretenimento",SIC Radical
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/3193
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Entretenimento",SIC Caras
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/29337
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Entretenimento",Discovery Channel
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/3230
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Entretenimento",Discovery Showcase
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/3229
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Entretenimento",Historia
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/3215
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Entretenimento",NAT GEO Wild
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/3206
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Entretenimento",NAT GEO
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/3205
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Entretenimento",Odisseia
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/3203
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Entretenimento",Blaze
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/29384
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Entretenimento",Caça E Pesca
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/29382
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Entretenimento",Caça E Pesca
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/3233
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Entretenimento",Crime & Investigation
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/29374
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Entretenimento",Investigation Discovery HD
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/29367
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Entretenimento",Caça Vision
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/29363
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Entretenimento",ARTV
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/3245
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Entretenimento",E! Entertainment
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/3226
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Entretenimento",DOG TV
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/29365
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Entretenimento",24 Kitchen
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/29393
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Entretenimento",Foods Network
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/29407
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Entretenimento",Travel Channel
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/3182
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Entretenimento",Fashion TV
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/3174
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Entretenimento",Galeria
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/29395
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Entretenimento",CANAL Q
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/29394
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Entretenimento",Localvisão
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/29348
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Entretenimento",Game Toon
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/29336
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Entretenimento",Canção Nova
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/29376
+
+
+
+
+
+
+
+#EXTINF:-1,PT:-----|MUSICA|--------------------------------------
+
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Musica",Afro Music
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/3247
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Musica",Alma Lusa
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/29353
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Musica",BomSom
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/29405
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Musica",Clubbing TV
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/29406
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Musica",MTV Portugal
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/3207
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Musica",MTV 00s
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/3170
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Musica",Zap Viva HD
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/29350
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Musica",MCM POP
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/29380
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Musica",Trace Urban
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/29379
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Musica",MEZZO HD
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/29352
+
+
+
+
+#EXTINF:-1,PT:-----|KIDS|----------------------------------------
+
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Kids",Baby Tv
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/3241
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Kids",Baby Tv
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/3240
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Kids",Canal Panda
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/3235
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Kids",Cartoon Network
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/3234
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Kids",Disney Channel
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/3228
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Kids",Disney Junior
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/3227
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Kids",Jim Jam
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/3213
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Kids",Nickelodeon
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/3204
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Kids",Panda Biggs
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/3202
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Kids",Nickelodeon
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/29401
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Kids",Nick Jr
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/29354
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Kids",Kuriakos TV
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/29339
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Kids",SIC Kids
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/29341
+
+
+
+
+
+
+#EXTINF:-1,------|xxx-VIP|------
+
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Bad Channels",Hustler HD
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/2985
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Bad Channels",Redlight HD
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/2984
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Bad Channels",Prıvate TV HD
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/2983
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Bad Channels",Dorcel HD
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/2982
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Bad Channels",Dorcel XxX HD
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/2981
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Bad Channels",Vivid Red HD
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/2980
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Bad Channels",Vixen HD
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/2979
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Bad Channels",EroX XxX HD
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/2978
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Bad Channels",Penthouse Gold HD
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/2977
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Bad Channels",Penthouse Reality TV HD
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/2976
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Bad Channels",Penthouse Passion HD
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/2975
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Bad Channels",Super ONE HD
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/2974
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Bad Channels",Babes TV HD
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/2973
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Bad Channels",Xy Plus HD
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/2972
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Bad Channels",Xy Mix HD
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/2971
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Bad Channels",Vivid TV Europe
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/2970
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Bad Channels",Vivid Touch
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/2969
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Bad Channels",DUSK!
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/2968
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Bad Channels",XXL
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/2967
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Bad Channels",Passie XxX
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/2966
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Bad Channels",Passion XxX
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/2965
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Bad Channels",Passion XxX Europe
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/2964
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Bad Channels",Reality Kings TV
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/2963
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Bad Channels",Brazzers TV Europe
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/2962
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Bad Channels",Brazzers TV Europe Ru
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/2961
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Bad Channels",Venus TV
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/2960
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Bad Channels",Sextreme TV
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/2959
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Bad Channels",Passion XxX 1
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/2958
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Bad Channels",Sexy HOT
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/33160
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Bad Channels",Meiden Van Holland Hard
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/33159
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Bad Channels",Evil Angel
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/33158
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Bad Channels",Erotic 
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/33157
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Bad Channels",Erotic 2
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/77934
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Bad Channels",Erotic 3
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/77935
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Bad Channels",Erotic 4
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/33156
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Bad Channels",Erotic 5
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/77936
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Bad Channels",Erotic 6
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/33155
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Bad Channels",Erotic 7
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/33154
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Bad Channels",Erotic 8
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/33153
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Bad Channels",Bang U
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/33152
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Bad Channels",USER DATE
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/33151
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Bad Channels",WOLF WAGNER LOVE
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/33150
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Bad Channels",Brunette
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/33149
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Bad Channels",FOXXY
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/33148
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Bad Channels",OnlyFans Mix 1
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/33147
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Bad Channels",NATALIE MARS
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/33146
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Bad Channels",Beate Uhse
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/33145
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Bad Channels",BRATTY SIS
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/33144
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Bad Channels",CASEY KISSES
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/33143
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Bad Channels",Latina
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/33142
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Bad Channels",COLBY KNOX
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/33141
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Bad Channels",DOGFART NETWORK
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/33140
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Bad Channels",FLAVAWORKS
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/33139
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Bad Channels",JAYS POV
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/33138
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Bad Channels",LETSDOIT
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/33137
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Bad Channels",MOFOS
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/33136
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Bad Channels",NEXT DOOR RAW
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/33135
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Bad Channels",NF BUSTY
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/33134
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Bad Channels",SPANKMONSTER
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/33133
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Bad Channels",SPIZOO
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/33132
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Bad Channels",STEP SIBILINGS CAUGHT
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/33131
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Bad Channels",SUGAR BABES TV
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/33130
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Bad Channels",TREASURE ISLAND MEDIA
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/33129
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Bad Channels",MY PERVY FAMILY
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/33128
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Bad Channels",TEANNA TRUMP
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/33127
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Bad Channels",KYLER MOSS
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/33126
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Bad Channels",MAX KONNOR
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/33125
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Bad Channels",PORNSTAR
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/33124
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Bad Channels",ROCCO STELLE
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/33123
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Bad Channels",TEENS
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/33122
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Bad Channels",THREESOME
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/33121
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Bad Channels",CALVIN BANKS
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/33120
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Bad Channels",JASMIN TV
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/33119
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Bad Channels",DE ANGELO
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/33118
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Bad Channels",JACK HUNTER
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/33117
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Bad Channels",MEN
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/33116
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Bad Channels",BLOWJOB
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/33115
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Bad Channels",MILF
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/33114
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Bad Channels",ANAL
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/33113
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Bad Channels",ASIAN
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/33112
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Bad Channels",BABYSITER
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/33111
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Bad Channels",BIG COOK
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/33110
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Bad Channels",3 WAY PORN
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/33109
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Bad Channels",Blonde
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/33108
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Bad Channels",BLACK
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/33107
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Bad Channels",BLOND
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/33106
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Bad Channels",Compilation
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/33105
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Bad Channels",CASTING
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/33104
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Bad Channels",Interracial
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/33103
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Bad Channels",KISS
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/33102
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Bad Channels",CREAMPIE
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/33101
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Bad Channels",CROSPLAY
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/33100
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Bad Channels",CUCKOLD
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/33099
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Bad Channels",Mia Khalifa
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/33098
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Bad Channels",FETISH
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/33097
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Bad Channels",FISTING
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/33096
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Bad Channels",CHECH SEX CASTING
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/33095
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Bad Channels",HARDCORE
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/33094
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Bad Channels",HD PORN
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/33093
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Bad Channels",TONY PROFANE
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/33092
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Bad Channels",ITALY
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/33091
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Bad Channels",LESBIAN
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/33090
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Bad Channels",MASSAGE
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/33089
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Bad Channels",MASTURBATION
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/33088
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Bad Channels",MY WIFE
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/33087
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Bad Channels",NAUGHTY
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/33086
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Bad Channels",NURSE
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/33085
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Bad Channels",Publick Agent
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/33084
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Bad Channels",OUTDOOR
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/33083
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Bad Channels",POLICE OFFICER
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/33082
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Bad Channels",Blacked 4
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/33081
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Bad Channels",REALITY
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/33080
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Bad Channels",COSMID
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/33079
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Bad Channels",RUSSIA
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/33078
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Bad Channels",SCHOOL
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/33077
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Bad Channels",STUDENT
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/33076
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Bad Channels",SWINGER
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/33075
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Bad Channels",TEENIE
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/33074
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Bad Channels",THREE
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/33073
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Bad Channels",GEFANGENE
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/60658
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Bad Channels",PINK O TV
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/60659
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Bad Channels",BEATE-UHSE TV
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/60660
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Bad Channels",DORCEL HD [VIP]
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/60661
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Bad Channels",SYBL
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/60662
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Bad Channels",Blacked 5
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/60663
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Bad Channels",BUMSBUS
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/60664
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Bad Channels",DEUTSCHLAND REPORT
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/60665
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Bad Channels",EROTIK VON BENAN
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/60666
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Bad Channels",HITZEFREI
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/60667
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Bad Channels",REIFE SWINGER
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/60668
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Bad Channels",Casual Teen Sex 2
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/60669
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Bad Channels",GAY [VIP]
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/60670
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Bad Channels",PINK EROTIC 2 [VIP]
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/60671
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Bad Channels",PINK EROTIC 3 [VIP]
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/60672
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Bad Channels",PINK EROTIC 4 [VIP]
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/60673
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Bad Channels",PINK EROTIC 5 [VIP]
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/60674
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Bad Channels",PINK EROTIC 7 [VIP]
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/60675
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Bad Channels",PINK EROTIC 8 [VIP]
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/60676
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Bad Channels",EXTASY HD [VIP]
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/60677
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Bad Channels",Porno Movies
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/60678
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Bad Channels",Playboy
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/60679
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Bad Channels",8TH STREET
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/60680
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Bad Channels",ALL GROUP SEX
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/60681
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Bad Channels",SuperOne
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/60682
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Bad Channels",ASIAN BONDAGE
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/60683
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Bad Channels",ASIAN SEX DIARY
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/60684
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Bad Channels",BENEFIT MONKEY
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/60685
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Bad Channels",BLACK GFS
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/60686
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="" tvg-logo="" group-title="Bad Channels",Playboy Europe
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/60687
