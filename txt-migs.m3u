@@ -1,5 +1,6 @@
-25-08-2024   01 user
-#EXTM3U
+25-08-2024 top 01 user
+#EXTM3U url-tvg="https://raw.githubusercontent.com/f0nZ/epg-tv-portuguesa/master/guide.xml,https://github.com/iptv-org/epg/blob/master/sites/meo.pt/meo.pt.channels.xml,https://github.com/iptv-org/epg/blob/master/sites/nos.pt/nos.pt.channels.xml,https://raw.githubusercontent.com/LITUATUI/M3UPT/main/epg/epg-vodafone.xml,https://iptv-org.github.io/epg/guides/pt/mi.tv.xml"
+
 
 #EXTINF:-1 PT:-----|GENERALISTAS|----------------
 
@@ -63,11 +64,6 @@ http://iptvplay.xyz:8080/carlosferreira333/333/3135
 http://iptvplay.xyz:8080/carlosferreira333/333/82
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Generaristas", TV Globoᴴᴰ
 http://iptvplay.xyz:8080/carlosferreira333/333/2002
-
-
-
-
-
 
 
 #EXTINF:-1 PT:-----|DESPORTO|---------------
@@ -180,8 +176,14 @@ http://iptvplay.xyz:8080/carlosferreira333/333/5459
 http://iptvplay.xyz:8080/carlosferreira333/333/2055
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", Canal 11ᶠᴴᴰ
 http://iptvplay.xyz:8080/carlosferreira333/333/121
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", MotoGP
+http://iptvplay.xyz:8080/carlosferreira333/333/77954
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", Formula 1
+http://iptvplay.xyz:8080/carlosferreira333/333/77955
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto"Fórmula 1 TV HD
 http://iptvplay.xyz:8080/carlosferreira333/333/79393
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", INSIDE FORMULA 1
+http://iptvplay.xyz:8080/carlosferreira333/333/75807
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", RTP Arena
 http://iptvplay.xyz:8080/carlosferreira333/333/28370
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", Ginx
@@ -218,13 +220,7 @@ http://iptvplay.xyz:8080/carlosferreira333/333/71
 http://iptvplay.xyz:8080/carlosferreira333/333/83
 
 
-
-
-
-
-
-
-
+#EXTINF:-1 PT:-----|FILMES|----------------
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes", TVCine TOP
 http://iptvplay.xyz:8080/carlosferreira333/333/29842
@@ -300,8 +296,117 @@ http://iptvplay.xyz:8080/carlosferreira333/333/88
 http://iptvplay.xyz:8080/carlosferreira333/333/50876
 
 
+#EXTINF:-1 PT:-----|FILMES 24/7|----------------
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes 24/7", Filmes MARVEL
+http://iptvplay.xyz:8080/carlosferreira333/333/75768
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes 24/7", Filmes MARVEL II
+http://iptvplay.xyz:8080/carlosferreira333/333/75769
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes 24/7", Filmes DC TV
+http://iptvplay.xyz:8080/carlosferreira333/333/75770
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes 24/7", Filmes NETFLIX
+http://iptvplay.xyz:8080/carlosferreira333/333/75771
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes 24/7", Filmes HBO MAX PT
+http://iptvplay.xyz:8080/carlosferreira333/333/75772
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes 24/7", Filmes ACTION
+http://iptvplay.xyz:8080/carlosferreira333/333/75773
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes 24/7", Filmes CLÁSSICOS
+http://iptvplay.xyz:8080/carlosferreira333/333/75774
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes 24/7", Filmes WESTERN
+http://iptvplay.xyz:8080/carlosferreira333/333/75775
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes 24/7", Filmes COMÉDIA
+http://iptvplay.xyz:8080/carlosferreira333/333/75776
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes 24/7", DENZEL WASHINGTON
+http://iptvplay.xyz:8080/carlosferreira333/333/75777
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes 24/7", SYLVESTER STALLONE
+http://iptvplay.xyz:8080/carlosferreira333/333/75778
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes 24/7", JACKIE CHAN ADVENTURES
+http://iptvplay.xyz:8080/carlosferreira333/333/75779
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes 24/7", TOM CRUISE
+http://iptvplay.xyz:8080/carlosferreira333/333/75780
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes 24/7", FILMES VAN DAMME
+http://iptvplay.xyz:8080/carlosferreira333/333/75781
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes 24/7", SAMUEL L JACKSON
+http://iptvplay.xyz:8080/carlosferreira333/333/75782
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes 24/7", STARWARS
+http://iptvplay.xyz:8080/carlosferreira333/333/75783
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes 24/7", SÉRIES 24/7
+http://iptvplay.xyz:8080/carlosferreira333/333/75784
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes 24/7", OS MALUCOS DO RISO
+http://iptvplay.xyz:8080/carlosferreira333/333/75785
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes 24/7", APANHADOS
+http://iptvplay.xyz:8080/carlosferreira333/333/75786
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes 24/7", APANHADOS 2
+http://iptvplay.xyz:8080/carlosferreira333/333/75787
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes 24/7", PORTUGAL A RIR
+http://iptvplay.xyz:8080/carlosferreira333/333/75788
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes 24/7", OS SIMPSONS
+http://iptvplay.xyz:8080/carlosferreira333/333/75789
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes 24/7", RICK AND MORTY
+http://iptvplay.xyz:8080/carlosferreira333/333/75790
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes 24/7", DRAGON BALL SUPER
+http://iptvplay.xyz:8080/carlosferreira333/333/75791
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes 24/7", MARVEL SERIES
+http://iptvplay.xyz:8080/carlosferreira333/333/75797
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes 24/7", CINE TV
+http://iptvplay.xyz:8080/carlosferreira333/333/75793
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes 24/7", FICTION MOVIES
+http://iptvplay.xyz:8080/carlosferreira333/333/75794
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes 24/7", ROBOT MOVIES
+http://iptvplay.xyz:8080/carlosferreira333/333/75795
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes 24/7", PORTUGAL TAL E QUAL
+http://iptvplay.xyz:8080/carlosferreira333/333/75799
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes 24/7", BACALHAU COM TODOS
+http://iptvplay.xyz:8080/carlosferreira333/333/75801
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes 24/7", APPLE TV
+http://iptvplay.xyz:8080/carlosferreira333/333/75804
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes 24/7", MAGIC FOR HUMANS
+http://iptvplay.xyz:8080/carlosferreira333/333/75805
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes 24/7", CINEMA PORTUGAL
+http://iptvplay.xyz:8080/carlosferreira333/333/75806
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes 24/7", GATO FEDORENTO
+http://iptvplay.xyz:8080/carlosferreira333/333/75808
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes 24/7", OS BATANETES
+http://iptvplay.xyz:8080/carlosferreira333/333/75809
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes 24/7", TOURADAS E MARRADAS
+http://iptvplay.xyz:8080/carlosferreira333/333/75810
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes 24/7", Top Dreamworks
+http://iptvplay.xyz:8080/carlosferreira333/333/77932
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes 24/7", Top Marvel 1
+http://iptvplay.xyz:8080/carlosferreira333/333/77933
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes 24/7", Top Marvel 2
+http://iptvplay.xyz:8080/carlosferreira333/333/77934
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes 24/7", Top  DC Comics
+http://iptvplay.xyz:8080/carlosferreira333/333/77935
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes 24/7", Top Cinema Portugues
+http://iptvplay.xyz:8080/carlosferreira333/333/77936
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes 24/7", Top Da Semana
+http://iptvplay.xyz:8080/carlosferreira333/333/77937
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes 24/7", Top Cinema
+http://iptvplay.xyz:8080/carlosferreira333/333/77938
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes 24/7", Top Accao
+http://iptvplay.xyz:8080/carlosferreira333/333/77939
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes 24/7", Top Comedias
+http://iptvplay.xyz:8080/carlosferreira333/333/77940
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes 24/7", Top Dramas
+http://iptvplay.xyz:8080/carlosferreira333/333/77941
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes 24/7", Top Ficção e Fantasia
+http://iptvplay.xyz:8080/carlosferreira333/333/77942
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes 24/7", Top Terror
+http://iptvplay.xyz:8080/carlosferreira333/333/77943
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes 24/7", Top Western
+http://iptvplay.xyz:8080/carlosferreira333/333/77944
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes 24/7", Top Sagas e trilogias
+http://iptvplay.xyz:8080/carlosferreira333/333/77945
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes 24/7", Top Documentarios
+http://iptvplay.xyz:8080/carlosferreira333/333/77946
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes 24/7", Top StandUp
+http://iptvplay.xyz:8080/carlosferreira333/333/77947
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes 24/7", Top Luccas Neto
+http://iptvplay.xyz:8080/carlosferreira333/333/77948
 
 
+#EXTINF:-1 PT:-----|ENTRETENIMENTO|----------------
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimento", TVI Reality
 http://iptvplay.xyz:8080/carlosferreira333/333/6
@@ -397,8 +502,7 @@ http://iptvplay.xyz:8080/carlosferreira333/333/118
 http://iptvplay.xyz:8080/carlosferreira333/333/1060
 
 
-
-
+#EXTINF:-1 PT:-----|MUSICA|----------------
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Musica", MTVᴴᴰ
 http://iptvplay.xyz:8080/carlosferreira333/333/70
@@ -406,6 +510,22 @@ http://iptvplay.xyz:8080/carlosferreira333/333/70
 http://iptvplay.xyz:8080/carlosferreira333/333/37218
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Musica", Afro Music
 http://iptvplay.xyz:8080/carlosferreira333/333/136
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Musica", BOOM
+http://iptvplay.xyz:8080/carlosferreira333/333/75798
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Musica", TOMORROWLAND MUSIC
+http://iptvplay.xyz:8080/carlosferreira333/333/75796
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Musica"Top Tomorrowland
+http://iptvplay.xyz:8080/carlosferreira333/333/77953
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Musica", SERTANEJO
+http://iptvplay.xyz:8080/carlosferreira333/333/75804
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Musica", Top The Voice
+http://iptvplay.xyz:8080/carlosferreira333/333/77949
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Musica"Top Music
+http://iptvplay.xyz:8080/carlosferreira333/333/77950
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Musica"Top Concerts
+http://iptvplay.xyz:8080/carlosferreira333/333/77951
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Musica"Top Djs
+http://iptvplay.xyz:8080/carlosferreira333/333/77952
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Musica", Trace Urban
 http://iptvplay.xyz:8080/carlosferreira333/333/23
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Musica", Trace Toca
@@ -422,21 +542,24 @@ http://iptvplay.xyz:8080/carlosferreira333/333/2
 http://iptvplay.xyz:8080/carlosferreira333/333/1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Musica", MEZZO
 http://iptvplay.xyz:8080/carlosferreira333/333/72
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Musica", Top The Voice
-http://iptvplay.xyz:8080/carlosferreira333/333/77949
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Musica"Top Music
-http://iptvplay.xyz:8080/carlosferreira333/333/77950
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Musica"Top Concerts
-http://iptvplay.xyz:8080/carlosferreira333/333/77951
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Musica"Top Djs
-http://iptvplay.xyz:8080/carlosferreira333/333/77952
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Musica"Top Tomorrowland
-http://iptvplay.xyz:8080/carlosferreira333/333/77953
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Musica", TOMORROWLAND MUSIC
-http://iptvplay.xyz:8080/carlosferreira333/333/75796
 
 
+#EXTINF:-1 PT:-----|KIDS|----------------
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Kids", DISNEY +
+http://iptvplay.xyz:8080/carlosferreira333/333/75800
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Kids", TALKING TOM CAT AND FRIENDS
+http://iptvplay.xyz:8080/carlosferreira333/333/75802
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Kids", NETFLIX KIDS
+http://iptvplay.xyz:8080/carlosferreira333/333/75803
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Kids", ANIMAÇÃO PT
+http://iptvplay.xyz:8080/carlosferreira333/333/75792
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Kids", Top Cinema Kids
+http://iptvplay.xyz:8080/carlosferreira333/333/77929
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Kids", Top Pixar
+http://iptvplay.xyz:8080/carlosferreira333/333/77930
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Kids", Top Disney
+http://iptvplay.xyz:8080/carlosferreira333/333/77931
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Kids", Lolly Kids
 http://iptvplay.xyz:8080/carlosferreira333/333/27398
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Kids", Disney Channel
@@ -475,29 +598,8 @@ http://iptvplay.xyz:8080/carlosferreira333/333/47
 http://iptvplay.xyz:8080/carlosferreira333/333/68650
 
 
+#EXTINF:-1 PT:-----|CINEMA|----------------
 
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Cinema", MARVEL
-http://iptvplay.xyz:8080/carlosferreira333/333/75768
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Cinema", MARVEL II
-http://iptvplay.xyz:8080/carlosferreira333/333/75769
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Cinema", DC TV
-http://iptvplay.xyz:8080/carlosferreira333/333/75770
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Cinema", NETFLIX
-http://iptvplay.xyz:8080/carlosferreira333/333/75771
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Cinema", HBOMAX PORTUGAL
-http://iptvplay.xyz:8080/carlosferreira333/333/75772
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Cinema", FILMES ACTION
-http://iptvplay.xyz:8080/carlosferreira333/333/75773
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Cinema", FILMES CLÁSSICOS
-http://iptvplay.xyz:8080/carlosferreira333/333/75774
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Cinema", FILMES WESTERN
-http://iptvplay.xyz:8080/carlosferreira333/333/75775
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Cinema", FILMES COMÉDIA
-http://iptvplay.xyz:8080/carlosferreira333/333/75776
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Cinema", Aquaman e o Reino Perdido (2023)
 http://iptvplay.xyz:8080/movie/carlosferreira333/333/83710.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Cinema", The Bricklayer (2024)
@@ -788,116 +890,7 @@ http://iptvplay.xyz:8080/movie/carlosferreira333/333/80912.mp4
 http://iptvplay.xyz:8080/movie/carlosferreira333/333/80913.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Cinema", Sly (2023)
 http://iptvplay.xyz:8080/movie/carlosferreira333/333/80914.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Cinema", DENZEL WASHINGTON
-http://iptvplay.xyz:8080/carlosferreira333/333/75777
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Cinema", SYLVESTER STALLONE
-http://iptvplay.xyz:8080/carlosferreira333/333/75778
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Cinema", JACKIE CHAN ADVENTURES
-http://iptvplay.xyz:8080/carlosferreira333/333/75779
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Cinema", TOM CRUISE
-http://iptvplay.xyz:8080/carlosferreira333/333/75780
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Cinema", FILMES VAN DAMME
-http://iptvplay.xyz:8080/carlosferreira333/333/75781
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Cinema", SAMUEL L JACKSON
-http://iptvplay.xyz:8080/carlosferreira333/333/75782
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Cinema", STARWARS
-http://iptvplay.xyz:8080/carlosferreira333/333/75783
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Cinema", SÉRIES 24/7
-http://iptvplay.xyz:8080/carlosferreira333/333/75784
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Cinema", OS MALUCOS DO RISO
-http://iptvplay.xyz:8080/carlosferreira333/333/75785
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Cinema", APANHADOS
-http://iptvplay.xyz:8080/carlosferreira333/333/75786
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Cinema", APANHADOS 2
-http://iptvplay.xyz:8080/carlosferreira333/333/75787
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Cinema", PORTUGAL A RIR
-http://iptvplay.xyz:8080/carlosferreira333/333/75788
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Cinema", OS SIMPSONS
-http://iptvplay.xyz:8080/carlosferreira333/333/75789
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Cinema", RICK AND MORTY
-http://iptvplay.xyz:8080/carlosferreira333/333/75790
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Cinema", DRAGON BALL SUPER
-http://iptvplay.xyz:8080/carlosferreira333/333/75791
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Cinema", ANIMAÇÃO PT
-http://iptvplay.xyz:8080/carlosferreira333/333/75792
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Cinema", CINE TV
-http://iptvplay.xyz:8080/carlosferreira333/333/75793
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Cinema", FICTION MOVIES
-http://iptvplay.xyz:8080/carlosferreira333/333/75794
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Cinema", ROBOT MOVIES
-http://iptvplay.xyz:8080/carlosferreira333/333/75795
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Cinema", MARVEL SERIES
-http://iptvplay.xyz:8080/carlosferreira333/333/75797
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Cinema", BOOM
-http://iptvplay.xyz:8080/carlosferreira333/333/75798
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Cinema", PORTUGAL TAL E QUAL
-http://iptvplay.xyz:8080/carlosferreira333/333/75799
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Cinema", DISNEY +
-http://iptvplay.xyz:8080/carlosferreira333/333/75800
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Cinema", BACALHAU COM TODOS
-http://iptvplay.xyz:8080/carlosferreira333/333/75801
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Cinema", TALKING TOM CAT AND FRIENDS
-http://iptvplay.xyz:8080/carlosferreira333/333/75802
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Cinema", NETFLIX KIDS
-http://iptvplay.xyz:8080/carlosferreira333/333/75803
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Cinema", APPLE TV
-http://iptvplay.xyz:8080/carlosferreira333/333/75804
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Cinema", MAGIC FOR HUMANS
-http://iptvplay.xyz:8080/carlosferreira333/333/75805
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Cinema", CINEMA PORTUGAL
-http://iptvplay.xyz:8080/carlosferreira333/333/75806
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Cinema", INSIDE FORMULA 1
-http://iptvplay.xyz:8080/carlosferreira333/333/75807
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Cinema", GATO FEDORENTO
-http://iptvplay.xyz:8080/carlosferreira333/333/75808
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Cinema", OS BATANETES
-http://iptvplay.xyz:8080/carlosferreira333/333/75809
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Cinema", TOURADAS E MARRADAS
-http://iptvplay.xyz:8080/carlosferreira333/333/75810
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Cinema", MotoGP
-http://iptvplay.xyz:8080/carlosferreira333/333/77954
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Cinema", Formula1
-http://iptvplay.xyz:8080/carlosferreira333/333/77955
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Cinema", Top Cinema Kids
-http://iptvplay.xyz:8080/carlosferreira333/333/77929
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Cinema", Top Pixar
-http://iptvplay.xyz:8080/carlosferreira333/333/77930
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Cinema", Top Disney
-http://iptvplay.xyz:8080/carlosferreira333/333/77931
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Cinema", Top Dreamworks
-http://iptvplay.xyz:8080/carlosferreira333/333/77932
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Cinema", Top Marvel 1
-http://iptvplay.xyz:8080/carlosferreira333/333/77933
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Cinema", Top Marvel 2
-http://iptvplay.xyz:8080/carlosferreira333/333/77934
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Cinema", Top  DC Comics
-http://iptvplay.xyz:8080/carlosferreira333/333/77935
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Cinema", Top Cinema Portugues
-http://iptvplay.xyz:8080/carlosferreira333/333/77936
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Cinema", Top Da Semana
-http://iptvplay.xyz:8080/carlosferreira333/333/77937
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Cinema", Top Cinema
-http://iptvplay.xyz:8080/carlosferreira333/333/77938
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Cinema", Top Accao
-http://iptvplay.xyz:8080/carlosferreira333/333/77939
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Cinema", Top Comedias
-http://iptvplay.xyz:8080/carlosferreira333/333/77940
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Cinema", Top Dramas
-http://iptvplay.xyz:8080/carlosferreira333/333/77941
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Cinema", Top Ficção e Fantasia
-http://iptvplay.xyz:8080/carlosferreira333/333/77942
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Cinema", Top Terror
-http://iptvplay.xyz:8080/carlosferreira333/333/77943
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Cinema", Top Western
-http://iptvplay.xyz:8080/carlosferreira333/333/77944
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Cinema", Top Sagas e trilogias
-http://iptvplay.xyz:8080/carlosferreira333/333/77945
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Cinema", Top Documentarios
-http://iptvplay.xyz:8080/carlosferreira333/333/77946
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Cinema", Top StandUp
-http://iptvplay.xyz:8080/carlosferreira333/333/77947
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Cinema", Top Luccas Neto
-http://iptvplay.xyz:8080/carlosferreira333/333/77948
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Cinema", 4 latas (2019)
 http://iptvplay.xyz:8080/movie/carlosferreira333/333/5543.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Cinema", 47 Metros: Medo Profundo - 2019
@@ -5414,8 +5407,6 @@ http://iptvplay.xyz:8080/movie/carlosferreira333/333/80129.mp4
 http://iptvplay.xyz:8080/movie/carlosferreira333/333/80306.mkv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Cinema", Whindersson Nunes: É de Mim Mesmo (2022)
 http://iptvplay.xyz:8080/movie/carlosferreira333/333/80307.mkv
-
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Cinema", Tony (2019)
 http://iptvplay.xyz:8080/movie/carlosferreira333/333/80313.mkv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Cinema", Lucky Luke (1991)
@@ -5528,8 +5519,7 @@ http://iptvplay.xyz:8080/movie/carlosferreira333/333/83603.mkv
 http://iptvplay.xyz:8080/movie/carlosferreira333/333/83606.mkv
 
 
-
-
+#EXTINF:-1 PT:-----|CANAIS LOW (PT)|----------------
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Canais Low (PT)", , RTP1ᴸᴼᵂ
 http://iptvplay.xyz:8080/carlosferreira333/333/65393
@@ -5653,8 +5643,7 @@ http://iptvplay.xyz:8080/carlosferreira333/333/65446
 http://iptvplay.xyz:8080/carlosferreira333/333/65448
 
 
-
-
+#EXTINF:-1 PT:-----|CANAIS BRASIL|----------------
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Canais Brasil", , A&E
 http://iptvplay.xyz:8080/carlosferreira333/333/75276
@@ -6902,6 +6891,7 @@ http://iptvplay.xyz:8080/carlosferreira333/333/79580
 http://iptvplay.xyz:8080/carlosferreira333/333/79535
 
 
+#EXTINF:-1 PT:-----|CANAIS ES|----------------
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Canais ES", 0 FHD
 http://iptvplay.xyz:8080/carlosferreira333/333/73324
@@ -7595,6 +7585,7 @@ http://iptvplay.xyz:8080/carlosferreira333/333/73331
 http://iptvplay.xyz:8080/carlosferreira333/333/73332
 
 
+#EXTINF:-1 PT:-----|CANAIS FR|----------------
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Canais FR", 13EME RUE FHD
 http://iptvplay.xyz:8080/carlosferreira333/333/67825
@@ -9198,8 +9189,7 @@ http://iptvplay.xyz:8080/carlosferreira333/333/68627
 http://iptvplay.xyz:8080/carlosferreira333/333/68628
 
 
-
-
+#EXTINF:-1 PT:-----|CANAIS IT|----------------
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Canais IT", RSI LA 1 HD
 http://iptvplay.xyz:8080/carlosferreira333/333/77598
@@ -9435,8 +9425,7 @@ http://iptvplay.xyz:8080/carlosferreira333/333/77748
 http://iptvplay.xyz:8080/carlosferreira333/333/77749
 
 
-
-
+#EXTINF:-1 PT:-----|CANAIS BE|----------------
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Canais BE", 192 TV
 http://iptvplay.xyz:8080/carlosferreira333/333/72913
@@ -9559,7 +9548,7 @@ http://iptvplay.xyz:8080/carlosferreira333/333/72972
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Canais BE", PLAY SPORTS 3
 
 
-
+#EXTINF:-1 PT:-----|CANAIS DE|----------------
 
 http://iptvplay.xyz:8080/carlosferreira333/333/72973
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Canais DE", 1-2-3 tv
@@ -9984,8 +9973,7 @@ http://iptvplay.xyz:8080/carlosferreira333/333/81800
 http://iptvplay.xyz:8080/carlosferreira333/333/81801
 
 
-
-
+#EXTINF:-1 PT:-----|CANAIS CH|----------------
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Canais CH", 3+
 http://iptvplay.xyz:8080/carlosferreira333/333/63445
@@ -10075,8 +10063,7 @@ http://iptvplay.xyz:8080/carlosferreira333/333/63488
 http://iptvplay.xyz:8080/carlosferreira333/333/63489
 
 
-
-
+#EXTINF:-1 PT:-----|CANAIS UK|----------------
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Canais UK", 4Seven ⓧ HD
 http://iptvplay.xyz:8080/carlosferreira333/333/78939
@@ -10706,12 +10693,7 @@ http://iptvplay.xyz:8080/carlosferreira333/333/79331
 http://iptvplay.xyz:8080/carlosferreira333/333/79332
 
 
-
-
-
-
-
-
+#EXTINF:-1 PT:-----|CANAIS USA|----------------
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Canais USA", Bet Jams
 http://iptvplay.xyz:8080/carlosferreira333/333/64517
@@ -11311,9 +11293,7 @@ http://iptvplay.xyz:8080/carlosferreira333/333/64503
 http://iptvplay.xyz:8080/carlosferreira333/333/64504
 
 
-
-
-
+#EXTINF:-1 PT:-----|BAD CHANNELS|----------------
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Bad Channels", Venus
 http://iptvplay.xyz:8080/carlosferreira333/333/22645
