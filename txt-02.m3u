@@ -100,13 +100,13 @@ http://dns.acaidopara.net:8080/George4899/Halas4899/1541
 http://dns.acaidopara.net:8080/George4899/Halas4899/52023
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimento", RTP Memoria
 http://dns.acaidopara.net:8080/George4899/Halas4899/1499
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", Sport TV + HD 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto [PT]", Sport TV + HD 
 http://dns.acaidopara.net:8080/George4899/Halas4899/51993
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", Sport TV +
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto [PT]", Sport TV +
 http://dns.acaidopara.net:8080/George4899/Halas4899/10795
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", Sport TV 1 FHD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto [PT]", Sport TV 1 FHD
 http://dns.acaidopara.net:8080/George4899/Halas4899/1514
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", Sport TV 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto [PT]", Sport TV 1 HD
 http://dns.acaidopara.net:8080/George4899/Halas4899/1515
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto [PT]", Sport TV 1
 http://dns.acaidopara.net:8080/George4899/Halas4899/1516
@@ -188,11 +188,11 @@ http://dns.acaidopara.net:8080/George4899/Halas4899/2407
 http://dns.acaidopara.net:8080/George4899/Halas4899/2623
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto [PT]", A Bola TV
 http://dns.acaidopara.net:8080/George4899/Halas4899/1535
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto [PT]", Eurosport 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", Eurosport 1
 http://dns.acaidopara.net:8080/George4899/Halas4899/1536
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto [PT]", Eurosport 2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", Eurosport 2
 http://dns.acaidopara.net:8080/George4899/Halas4899/1537
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto [PT]", Fight Network
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", Fight Network
 http://dns.acaidopara.net:8080/George4899/Halas4899/1538
 
 
