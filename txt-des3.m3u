@@ -32,23 +32,23 @@ https://go.wideiptv.top/CMTVPT/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="1" tvg-logo="2" group-title="Generalistas",Porto Canal
 https://stream-03.ix7.dailymotion.com/sec(-SVy60QQ6sKn1Jfj-v9Q0pEASp5Ne30POp12tAO_tWSG8tnKk3rK5crl7UyQUiXG)/dm/3/x8egnb8/s/live-2.m3u8
 
-#EXTINF:-1 tvg-id="1" tvg-logo="2" group-title="Generalistas", TVI África
+#EXTINF:-1 tvg-id="TVIA.pt" tvg-logo="2" group-title="Generalistas", TVI África
 https://video-auth4.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/tviafrica-480p/playlist.m3u8
 
-#EXTINF:-1 tvg-id="1" tvg-logo="2" group-title="Generalistas", RTP Madeira
+#EXTINF:-1 tvg-id="RTPM.pt" tvg-logo="2" group-title="Generalistas", RTP Madeira
 https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/chunklist_b640000_slpt.m3u8
 
-#EXTINF:-1 tvg-id="1" tvg-logo="2" group-title="Generalistas", RTP África
+#EXTINF:-1 tvg-id="RTPA.pt" tvg-logo="2" group-title="Generalistas", RTP África
 https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/chunklist_b640000_slpt.m3u8
 
 #EXTINF:-1 tvg-id="1" tvg-logo="2" group-title="Generalistas", RTP Açores
 https://streaming-live.rtp.pt/liverepeater/smil:rtpacores.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="1" tvg-logo="2" group-title="Generalistas",RTP Internacional
+#EXTINF:-1 tvg-id="RTPI.pt" tvg-logo="2" group-title="Generalistas",RTP Internacional
 https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
 ttps://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/chunklist_b1290000_slpt.m3u8
 
-#EXTINF:-1 tvg-id="1" tvg-logo="2" group-title="Generalistas",RTP Memória
+#EXTINF:-1 tvg-id="RTPM.pt" tvg-logo="2" group-title="Generalistas",RTP Memória
 https://streaming-live.rtp.pt/liverepeater/smil:estudoemcasa.smil/inspiration.m3u8
 ttps://go.wideiptv.top/RTPMemoria/tracks-v1a1/mono.m3u8
 
@@ -67,7 +67,7 @@ ttps://w1.manasat.com/ktv/smil:ktv.smil/chunklist_w2027866142_b1548000_sleng.m3u
 ############### ENTRETENIMENTO ###########################################################################
 
 
-#EXTINF:-1 tvg-id="SIC.pt" tvg-logo="https://i.imgur.com/SPMqiDG.png" group-title="Entretenimento",Big Brother Desafio Final
+#EXTINF:-1 tvg-id="1" tvg-logo="https://i.imgur.com/SPMqiDG.png" group-title="Entretenimento",Big Brother Desafio Final
 https://video-auth4.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-720_passthrough/playlist.m3u8
 
 #EXTINF:-1 tvg-id="1" tvg-logo="2" group-title="Entretenimento",TVI Ficção
