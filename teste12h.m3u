@@ -1,402 +1,76 @@
 #EXTM3U
 
-#EXTINF:-1,PT SPORT TV 1
-http://tv.iptvagora.com:25461/039307076/039307076/37644
-#EXTINF:-1,PT SPORT TV 1 HD
-http://tv.iptvagora.com:25461/039307076/039307076/37645
-#EXTINF:-1,PT SPORT TV 2
-http://tv.iptvagora.com:25461/039307076/039307076/37646
-#EXTINF:-1,PT SPORT TV 2 HD
-http://tv.iptvagora.com:25461/039307076/039307076/37647
-#EXTINF:-1,PT SPORT TV 3
-http://tv.iptvagora.com:25461/039307076/039307076/37648
-#EXTINF:-1,PT SPORT TV 3 HD
-http://tv.iptvagora.com:25461/039307076/039307076/37649
-#EXTINF:-1,PT SPORT TV 4
-http://tv.iptvagora.com:25461/039307076/039307076/37650
-#EXTINF:-1,PT SPORT TV 4 HD
-http://tv.iptvagora.com:25461/039307076/039307076/37651
-#EXTINF:-1,PT SPORT TV 5
-http://tv.iptvagora.com:25461/039307076/039307076/37652
-#EXTINF:-1,PT SPORT TV 5 HD
-http://tv.iptvagora.com:25461/039307076/039307076/37653
-#EXTINF:-1,PT Sport TV+
-http://tv.iptvagora.com:25461/039307076/039307076/37654
+#EXTINF:-1 tvg-id="1" tvg-logo="2" group-title="Desporto", Sport Tv +
+https://love2live.wideiptv.top/SPTPlus/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1,PT ELEVEN SPORTS 1
-http://tv.iptvagora.com:25461/039307076/039307076/37579
-#EXTINF:-1,PT ELEVEN 1 HD
-http://tv.iptvagora.com:25461/039307076/039307076/37580
-#EXTINF:-1,PT ELEVEN SPORTS 2
-http://tv.iptvagora.com:25461/039307076/039307076/37581
-#EXTINF:-1,PT ELEVEN 2 HD
-http://tv.iptvagora.com:25461/039307076/039307076/37582
-#EXTINF:-1,PT ELEVEN SPORTS 3
-http://tv.iptvagora.com:25461/039307076/039307076/37583
-#EXTINF:-1,PT ELEVEN SPORTS 3 HD
-http://tv.iptvagora.com:25461/039307076/039307076/37584
-#EXTINF:-1,PT ELEVEN SPORTS 4
-http://tv.iptvagora.com:25461/039307076/039307076/37585
-#EXTINF:-1,PT ELEVEN SPORTS 4 HD
-http://tv.iptvagora.com:25461/039307076/039307076/37586
-#EXTINF:-1,PT ELEVEN SPORTS 5
-http://tv.iptvagora.com:25461/039307076/039307076/37587
-#EXTINF:-1,PT ELEVEN SPORTS 5 HD
-http://tv.iptvagora.com:25461/039307076/039307076/37588
-#EXTINF:-1,PT ELEVEN SPORTS 6
-http://tv.iptvagora.com:25461/039307076/039307076/37589
-#EXTINF:-1,PT ELEVEN SPORTS 6 HD
-http://tv.iptvagora.com:25461/039307076/039307076/37590
+#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="SPORT TV 1" tvg-logo="http://logo.ottc.pro:8080/logos/PORTUGAL/SPORTTV1HD.png" group-title="Desporto",SPORT TV 1
+https://love2live.wideiptv.top/SPT-1/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1,PT BENFICA TV 1
-http://tv.iptvagora.com:25461/039307076/039307076/37556
-#EXTINF:-1,PT BENFICA TV 1 HD
-http://tv.iptvagora.com:25461/039307076/039307076/37557
-#EXTINF:-1,PT Benfica TV
-http://tv.iptvagora.com:25461/039307076/039307076/37680
+#EXTINF:-1 tvg-id="1" tvg-logo="2" group-title="Desporto", Sport Tv 2
+https://love2live.wideiptv.top/SPT2/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-id="1" tvg-logo="2" group-title="Desporto", Sport Tv 3
+https://love2live.wideiptv.top/SPT3/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1,PT TV SERIES
-http://tv.iptvagora.com:25461/039307076/039307076/37665
-#EXTINF:-1,PT TVCINE ACTION
-http://tv.iptvagora.com:25461/039307076/039307076/37666
-#EXTINF:-1,PT TVCINE EDITION
-http://tv.iptvagora.com:25461/039307076/039307076/37667
-#EXTINF:-1,PT TVCINE EDITION HD
-http://tv.iptvagora.com:25461/039307076/039307076/37668
-#EXTINF:-1,PT TVCINE EMOTION
-http://tv.iptvagora.com:25461/039307076/039307076/37669
-#EXTINF:-1,PT TVCINE EMOTION HD
-http://tv.iptvagora.com:25461/039307076/039307076/37670
-#EXTINF:-1,PT TVCINE TOP
-http://tv.iptvagora.com:25461/039307076/039307076/37671
-#EXTINF:-1,PT TVCINE TOP HD
-http://tv.iptvagora.com:25461/039307076/039307076/37672
-#EXTINF:-1,PT NOS STUDIOS HD
-http://tv.iptvagora.com:25461/039307076/039307076/37620
-#EXTINF:-1,AXN HD LEG
-http://tv.iptvagora.com:25461/039307076/039307076/37685
-#EXTINF:-1,AXN SD LEG
-http://tv.iptvagora.com:25461/039307076/039307076/37686
-#EXTINF:-1,AXN FHD LEG
-http://tv.iptvagora.com:25461/039307076/039307076/37687
-#EXTINF:-1,Star Channel HD LEG
-http://tv.iptvagora.com:25461/039307076/039307076/37688
-#EXTINF:-1,Star Channel SD LEG
-http://tv.iptvagora.com:25461/039307076/039307076/37689
-#EXTINF:-1,Star Channel FHD LEG
-http://tv.iptvagora.com:25461/039307076/039307076/37690
-#EXTINF:-1,HBO HD LEG
-http://tv.iptvagora.com:25461/039307076/039307076/37691
-#EXTINF:-1,HBO SD LEG
-http://tv.iptvagora.com:25461/039307076/039307076/37692
-#EXTINF:-1,HBO FHD LEG
-http://tv.iptvagora.com:25461/039307076/039307076/37693
-#EXTINF:-1,HBO Plus HD LEG
-http://tv.iptvagora.com:25461/039307076/039307076/37694
-#EXTINF:-1,HBO Plus SD LEG
-http://tv.iptvagora.com:25461/039307076/039307076/37695
-#EXTINF:-1,HBO Plus FHD  LEG
-http://tv.iptvagora.com:25461/039307076/039307076/37696
-#EXTINF:-1,HBO Xtreme SD LEG
-http://tv.iptvagora.com:25461/039307076/039307076/37697
-#EXTINF:-1,Max SD LEG
-http://tv.iptvagora.com:25461/039307076/039307076/37698
-#EXTINF:-1,Telecine Action HD LEG
-http://tv.iptvagora.com:25461/039307076/039307076/37699
-#EXTINF:-1,Telecine Action SD LEG
-http://tv.iptvagora.com:25461/039307076/039307076/37700
-#EXTINF:-1,Telecine Fun HD LEG
-http://tv.iptvagora.com:25461/039307076/039307076/37701
-#EXTINF:-1,Telecine Fun SD LEG
-http://tv.iptvagora.com:25461/039307076/039307076/37702
-#EXTINF:-1,Telecine Pipoca HD LEG
-http://tv.iptvagora.com:25461/039307076/039307076/37703
-#EXTINF:-1,Telecine Pipoca SD LEG
-http://tv.iptvagora.com:25461/039307076/039307076/37704
-#EXTINF:-1,Telecine Premium HD LEG
-http://tv.iptvagora.com:25461/039307076/039307076/37705
-#EXTINF:-1,Telecine Premium SD LEG
-http://tv.iptvagora.com:25461/039307076/039307076/37706
-#EXTINF:-1,Telecine Touch HD LEG
-http://tv.iptvagora.com:25461/039307076/039307076/37707
-#EXTINF:-1,Telecine Touch SD LEG
-http://tv.iptvagora.com:25461/039307076/039307076/37708
-#EXTINF:-1,TNT HD LEG
-http://tv.iptvagora.com:25461/039307076/039307076/37709
-#EXTINF:-1,TNT SD LEG
-http://tv.iptvagora.com:25461/039307076/039307076/37710
-#EXTINF:-1,FX HD LEG
-http://tv.iptvagora.com:25461/039307076/039307076/37711
-#EXTINF:-1,FX SD LEG
-http://tv.iptvagora.com:25461/039307076/039307076/37712
-#EXTINF:-1,HBO POP HD LEG
-http://tv.iptvagora.com:25461/039307076/039307076/37713
-#EXTINF:-1,HBO POP SD LEG
-http://tv.iptvagora.com:25461/039307076/039307076/37714
-#EXTINF:-1,MegaPix HD LEG
-http://tv.iptvagora.com:25461/039307076/039307076/37715
-#EXTINF:-1,MegaPix SD LEG
-http://tv.iptvagora.com:25461/039307076/039307076/37716
-#EXTINF:-1,Space HD LEG
-http://tv.iptvagora.com:25461/039307076/039307076/37717
-#EXTINF:-1,Space SD LEG
-http://tv.iptvagora.com:25461/039307076/039307076/37718
-#EXTINF:-1,TNT Series HD LEG
-http://tv.iptvagora.com:25461/039307076/039307076/37719
-#EXTINF:-1,TNT Series SD LEG
-http://tv.iptvagora.com:25461/039307076/039307076/37720
-#EXTINF:-1,Warner HD LEG
-http://tv.iptvagora.com:25461/039307076/039307076/37721
-#EXTINF:-1,Warner SD LEG
-http://tv.iptvagora.com:25461/039307076/039307076/37722
-#EXTINF:-1,Sony Channel HD LEG
-http://tv.iptvagora.com:25461/039307076/039307076/37723
-#EXTINF:-1,Sony Channel SD LEG
-http://tv.iptvagora.com:25461/039307076/039307076/37724
-#EXTINF:-1,Telecine Cult SD LEG
-http://tv.iptvagora.com:25461/039307076/039307076/37725
-#EXTINF:-1,Telecine Cult HD LEG
-http://tv.iptvagora.com:25461/039307076/039307076/37726
-#EXTINF:-1,Glovo TV LEGENDA
-http://tv.iptvagora.com:25461/039307076/039307076/37727
-#EXTINF:-1,Telecine Pipoca FHD LEG
-http://tv.iptvagora.com:25461/039307076/039307076/37728
-#EXTINF:-1,Telecine Premium FHD LEG
-http://tv.iptvagora.com:25461/039307076/039307076/37729
-#EXTINF:-1,Telecine Action FHD LEG
-http://tv.iptvagora.com:25461/039307076/039307076/37730
-#EXTINF:-1,Telecine Touch FHD LEG
-http://tv.iptvagora.com:25461/039307076/039307076/37731
-#EXTINF:-1,Telecine Fun FHD LEG
-http://tv.iptvagora.com:25461/039307076/039307076/37732
-#EXTINF:-1,Telecine Cult FHD LEG
-http://tv.iptvagora.com:25461/039307076/039307076/37733
-#EXTINF:-1,HBO POP FHD LEG
-http://tv.iptvagora.com:25461/039307076/039307076/37734
-#EXTINF:-1,HBO Signature FHD LEG
-http://tv.iptvagora.com:25461/039307076/039307076/37735
-#EXTINF:-1,HBO Signature HD LEG
-http://tv.iptvagora.com:25461/039307076/039307076/37736
-#EXTINF:-1,HBO Mundi FHD LEG
-http://tv.iptvagora.com:25461/039307076/039307076/37737
-#EXTINF:-1,HBO Mundi HD LEG
-http://tv.iptvagora.com:25461/039307076/039307076/37738
-#EXTINF:-1,HBO Xtream FHD LEG
-http://tv.iptvagora.com:25461/039307076/039307076/37739
-#EXTINF:-1,HBO Xtream HD LEG
-http://tv.iptvagora.com:25461/039307076/039307076/37740
-#EXTINF:-1,PT CINEMUNDO
-http://tv.iptvagora.com:25461/039307076/039307076/37569
-#EXTINF:-1,PT CINEMUNDO HD
-http://tv.iptvagora.com:25461/039307076/039307076/37570
-#EXTINF:-1,PT FOX
-http://tv.iptvagora.com:25461/039307076/039307076/37595
-#EXTINF:-1,PT FOX COMEDY
-http://tv.iptvagora.com:25461/039307076/039307076/37596
-#EXTINF:-1,PT FOX COMEDY HD
-http://tv.iptvagora.com:25461/039307076/039307076/37597
-#EXTINF:-1,PT FOX CRIME
-http://tv.iptvagora.com:25461/039307076/039307076/37598
-#EXTINF:-1,PT FOX CRIME HD
-http://tv.iptvagora.com:25461/039307076/039307076/37599
-#EXTINF:-1,PT FOX HD
-http://tv.iptvagora.com:25461/039307076/039307076/37600
-#EXTINF:-1,PT FOX LIFE HD
-http://tv.iptvagora.com:25461/039307076/039307076/37601
-#EXTINF:-1,PT FOX MOVIES
-http://tv.iptvagora.com:25461/039307076/039307076/37602
-#EXTINF:-1,PT FOX MOVIES HD
-http://tv.iptvagora.com:25461/039307076/039307076/37603
+#EXTINF:-1 tvg-id="1" tvg-logo="2" group-title="Desporto", Sport Tv 4
+https://love2live.wideiptv.top/SPT4/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-id="1" tvg-logo="2" group-title="Desporto", Sport Tv 5
+https://love2live.wideiptv.top/SPT5/tracks-v1a1/mono.m3u8
+ttps://love2live.wideiptv.top/SPT5/index.m3u8
 
-#EXTINF:-1,PT A BOLA TV
-http://tv.iptvagora.com:25461/039307076/039307076/37544
-#EXTINF:-1,PT AFRO MUSIC
-http://tv.iptvagora.com:25461/039307076/039307076/37545
-#EXTINF:-1,PT AMC
-http://tv.iptvagora.com:25461/039307076/039307076/37546
-#EXTINF:-1,PT AMC HD
-http://tv.iptvagora.com:25461/039307076/039307076/37547
-#EXTINF:-1,PT AR TV 'PT
-http://tv.iptvagora.com:25461/039307076/039307076/37548
-#EXTINF:-1,PT AXN
-http://tv.iptvagora.com:25461/039307076/039307076/37549
-#EXTINF:-1,PT AXN BLACK
-http://tv.iptvagora.com:25461/039307076/039307076/37550
-#EXTINF:-1,PT AXN BLACK HD
-http://tv.iptvagora.com:25461/039307076/039307076/37551
-#EXTINF:-1,PT AXN HD
-http://tv.iptvagora.com:25461/039307076/039307076/37552
-#EXTINF:-1,PT AXN WHITE
-http://tv.iptvagora.com:25461/039307076/039307076/37553
-#EXTINF:-1,PT AXN WHITE HD
-http://tv.iptvagora.com:25461/039307076/039307076/37554
-#EXTINF:-1,PT BABY TV
-http://tv.iptvagora.com:25461/039307076/039307076/37555
+#EXTINF:-1 tvg-id="1" tvg-logo="2" group-title="Desporto", Sport Tv 6
+https://love2live.wideiptv.top/SPT6/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1,PT BLAZE HD
-http://tv.iptvagora.com:25461/039307076/039307076/37558
-#EXTINF:-1,PT CANAL 11
-http://tv.iptvagora.com:25461/039307076/039307076/37559
-#EXTINF:-1,PT CANAL 11 HD
-http://tv.iptvagora.com:25461/039307076/039307076/37560
-#EXTINF:-1,PT CANAL BIGGS
-http://tv.iptvagora.com:25461/039307076/039307076/37561
-#EXTINF:-1,PT CANAL PANDA
-http://tv.iptvagora.com:25461/039307076/039307076/37562
-#EXTINF:-1,PT CANAL Q
-http://tv.iptvagora.com:25461/039307076/039307076/37563
-#EXTINF:-1,PT Cancao Nova
-http://tv.iptvagora.com:25461/039307076/039307076/37564
-#EXTINF:-1,PT CARTOON NETWORK
-http://tv.iptvagora.com:25461/039307076/039307076/37565
-#EXTINF:-1,PT CAçA E PESCA HD
-http://tv.iptvagora.com:25461/039307076/039307076/37566
-#EXTINF:-1,PT CAçAVISION
-http://tv.iptvagora.com:25461/039307076/039307076/37567
-#EXTINF:-1,PT CBS REALITY
-http://tv.iptvagora.com:25461/039307076/039307076/37568
+#EXTINF:-1 tvg-id="1" tvg-logo="2" group-title="Desporto", NBA
+https://love2live.wideiptv.top/SPTNBA/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1,PT CMTV
-http://tv.iptvagora.com:25461/039307076/039307076/37571
-#EXTINF:-1,PT CMTV HD
-http://tv.iptvagora.com:25461/039307076/039307076/37572
-#EXTINF:-1,PT CRIME INVESTIGATION HD
-http://tv.iptvagora.com:25461/039307076/039307076/37573
-#EXTINF:-1,PT DISCOVERY CHANNEL
-http://tv.iptvagora.com:25461/039307076/039307076/37574
-#EXTINF:-1,PT DISCOVERY CHANNEL HD
-http://tv.iptvagora.com:25461/039307076/039307076/37575
-#EXTINF:-1,PT DISNEY CHANNEL
-http://tv.iptvagora.com:25461/039307076/039307076/37576
-#EXTINF:-1,PT DISNEY JUNIOR
-http://tv.iptvagora.com:25461/039307076/039307076/37577
-#EXTINF:-1,PT E! ENTERTAINMENT HD
-http://tv.iptvagora.com:25461/039307076/039307076/37578
+#EXTINF:-1 tvg-id="" tvg-name="BENFICA" tvg-logo="http://logo.ottc.pro:8080/logos/PORTUGAL/BENFICATV.png" group-title="Desporto",BENFICA
+https://love2live.wideiptv.top/BTV/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1,PT EURONEWS
-http://tv.iptvagora.com:25461/039307076/039307076/37591
-#EXTINF:-1,PT EUROSPORT 1
-http://tv.iptvagora.com:25461/039307076/039307076/37592
-#EXTINF:-1,PT EUROSPORT 2
-http://tv.iptvagora.com:25461/039307076/039307076/37593
-#EXTINF:-1,PT FASHION TV
-http://tv.iptvagora.com:25461/039307076/039307076/37594
-#EXTINF:-1,PT FUEL TV HD
-http://tv.iptvagora.com:25461/039307076/039307076/37604
-#EXTINF:-1,PT GLOBO NOW
-http://tv.iptvagora.com:25461/039307076/039307076/37605
-#EXTINF:-1,PT HISTORIA
-http://tv.iptvagora.com:25461/039307076/039307076/37606
-#EXTINF:-1,PT HOLLYWOOD
-http://tv.iptvagora.com:25461/039307076/039307076/37607
-#EXTINF:-1,PT JIMJAM
-http://tv.iptvagora.com:25461/039307076/039307076/37608
-#EXTINF:-1,PT KOMBAT SPORT
-http://tv.iptvagora.com:25461/039307076/039307076/37609
-#EXTINF:-1,PT KURIAKOS TV
-http://tv.iptvagora.com:25461/039307076/039307076/37610
-#EXTINF:-1,PT MCM POP
-http://tv.iptvagora.com:25461/039307076/039307076/37611
-#EXTINF:-1,PT MCM TOP
-http://tv.iptvagora.com:25461/039307076/039307076/37612
-#EXTINF:-1,PT MOTORVISION HD
-http://tv.iptvagora.com:25461/039307076/039307076/37613
-#EXTINF:-1,PT MTV HD
-http://tv.iptvagora.com:25461/039307076/039307076/37614
-#EXTINF:-1,PT MY CUISINE
-http://tv.iptvagora.com:25461/039307076/039307076/37615
-#EXTINF:-1,PT NAT GEO WILD HD
-http://tv.iptvagora.com:25461/039307076/039307076/37616
-#EXTINF:-1,PT NATIONAL GEOGRAPHIC HD
-http://tv.iptvagora.com:25461/039307076/039307076/37617
-#EXTINF:-1,PT NBA TV HD
-http://tv.iptvagora.com:25461/039307076/039307076/37618
-#EXTINF:-1,PT NICKELODEON
-http://tv.iptvagora.com:25461/039307076/039307076/37619
+#EXTINF:-1 tvg-id="1" tvg-logo="2" group-title="Desporto", BTV Multicamera
+https://love2live.wideiptv.top/BTV-Multi/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1,PT ODISSEIA HD
-http://tv.iptvagora.com:25461/039307076/039307076/37621
-#EXTINF:-1,PT OUTDOOR CHANNEL HD
-http://tv.iptvagora.com:25461/039307076/039307076/37622
-#EXTINF:-1,PT PFC
-http://tv.iptvagora.com:25461/039307076/039307076/37623
-#EXTINF:-1,PT PORTO CANAL HD
-http://tv.iptvagora.com:25461/039307076/039307076/37624
-#EXTINF:-1,PT RECORD NEWS
-http://tv.iptvagora.com:25461/039307076/039307076/37625
-#EXTINF:-1,PT RTP 1
-http://tv.iptvagora.com:25461/039307076/039307076/37626
-#EXTINF:-1,PT RTP 1 HD
-http://tv.iptvagora.com:25461/039307076/039307076/37627
-#EXTINF:-1,PT RTP 2
-http://tv.iptvagora.com:25461/039307076/039307076/37628
-#EXTINF:-1,PT RTP 2 HD
-http://tv.iptvagora.com:25461/039307076/039307076/37629
-#EXTINF:-1,PT RTP 3 HD
-http://tv.iptvagora.com:25461/039307076/039307076/37630
-#EXTINF:-1,PT RTP ACORES
-http://tv.iptvagora.com:25461/039307076/039307076/37631
-#EXTINF:-1,PT RTP AFRICA
-http://tv.iptvagora.com:25461/039307076/039307076/37632
-#EXTINF:-1,PT RTP MADEIRA
-http://tv.iptvagora.com:25461/039307076/039307076/37633
-#EXTINF:-1,PT RTP MEMORIA
-http://tv.iptvagora.com:25461/039307076/039307076/37634
-#EXTINF:-1,PT SANTUARIO DE FATIMA
-http://tv.iptvagora.com:25461/039307076/039307076/37635
-#EXTINF:-1,PT SIC
-http://tv.iptvagora.com:25461/039307076/039307076/37636
-#EXTINF:-1,PT SIC CARAS HD
-http://tv.iptvagora.com:25461/039307076/039307076/37637
-#EXTINF:-1,PT SIC HD
-http://tv.iptvagora.com:25461/039307076/039307076/37638
-#EXTINF:-1,PT SIC KIDS HD
-http://tv.iptvagora.com:25461/039307076/039307076/37639
-#EXTINF:-1,PT SIC MULHER HD
-http://tv.iptvagora.com:25461/039307076/039307076/37640
-#EXTINF:-1,PT SIC NOTICIAS
-http://tv.iptvagora.com:25461/039307076/039307076/37641
-#EXTINF:-1,PT SIC NOTICIAS HD
-http://tv.iptvagora.com:25461/039307076/039307076/37642
-#EXTINF:-1,PT SIC RADICAL HD
-http://tv.iptvagora.com:25461/039307076/039307076/37643
+#EXTINF:-1 tvg-id="elevensports1.pt" tvg-name="ELEVEN 1" tvg-logo="http://logo.ottc.pro:8080/logos/PORTUGAL/ELEVENSPORTS.png" group-title="Desporto",ELEVEN 1
+https://love2live.wideiptv.top/ELEVEN1/tracks-v1a1/mono.m3u8
+ttps://love2live.wideiptv.top/ELEVEN1/index.m3u8
 
-#EXTINF:-1,PT SPORTING TV HD
-http://tv.iptvagora.com:25461/039307076/039307076/37655
-#EXTINF:-1,PT SYFY HD
-http://tv.iptvagora.com:25461/039307076/039307076/37656
-#EXTINF:-1,PT TLC
-http://tv.iptvagora.com:25461/039307076/039307076/37657
-#EXTINF:-1,PT TOROS TV
-http://tv.iptvagora.com:25461/039307076/039307076/37658
-#EXTINF:-1,PT TPA International
-http://tv.iptvagora.com:25461/039307076/039307076/37659
-#EXTINF:-1,PT TRACE TOCA HD
-http://tv.iptvagora.com:25461/039307076/039307076/37660
-#EXTINF:-1,PT Trace Urban
-http://tv.iptvagora.com:25461/039307076/039307076/37661
-#EXTINF:-1,PT TRAVEL CHANNEL HD
-http://tv.iptvagora.com:25461/039307076/039307076/37662
-#EXTINF:-1,PT TV GLOBO HD
-http://tv.iptvagora.com:25461/039307076/039307076/37663
-#EXTINF:-1,PT TV RECORD HD
-http://tv.iptvagora.com:25461/039307076/039307076/37664
+#EXTINF:-1 tvg-id="1" tvg-logo="2" group-title="Desporto", Eleven 2
+https://love2live.wideiptv.top/ELEVEN2/tracks-v1a1/mono.m3u8
+ttps://love2live.wideiptv.top/ELEVEN2/index.m3u8
 
-#EXTINF:-1,PT TVI
-http://tv.iptvagora.com:25461/039307076/039307076/37673
-#EXTINF:-1,PT TVI 24
-http://tv.iptvagora.com:25461/039307076/039307076/37674
-#EXTINF:-1,PT TVI FICAO
-http://tv.iptvagora.com:25461/039307076/039307076/37675
-#EXTINF:-1,PT TVI HD
-http://tv.iptvagora.com:25461/039307076/039307076/37676
-#EXTINF:-1,PT TVI REALITY
-http://tv.iptvagora.com:25461/039307076/039307076/37677
-#EXTINF:-1,PT VH1
-http://tv.iptvagora.com:25461/039307076/039307076/37678
-#EXTINF:-1,PT ZAP Viva HD
-http://tv.iptvagora.com:25461/039307076/039307076/37679
+#EXTINF:-1 tvg-id="1" tvg-logo="2" group-title="Desporto", Eleven 3
+https://love2live.wideiptv.top/ELEVEN3/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="1" tvg-logo="2" group-title="Desporto", Eleven 4
+https://love2live.wideiptv.top/ELEVEN4/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="1" tvg-logo="2" group-title="Desporto", Eleven 5
+https://love2live.wideiptv.top/ELEVEN5/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="1" tvg-logo="2" group-title="Desporto", Eleven 6
+https://love2live.wideiptv.top/ELEVEN6/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="1" tvg-logo="2" group-title="Desporto", Canal 11
+https://love2live.wideiptv.top/Canal11/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="1" tvg-logo="2" group-title="Desporto", A Bola Tv
+https://love2live.wideiptv.top/ABOLA/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="1" tvg-logo="2" group-title="Desporto", Sporting Tv
+https://love2live.wideiptv.top/SPORTING/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="1" tvg-logo="2" group-title="Desporto", Eurosport 1
+https://love2live.wideiptv.top/EURO1PT/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="1" tvg-logo="2" group-title="Desporto", Eurosport 2
+https://love2live.wideiptv.top/EURO2PT/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="1" tvg-logo="2" group-title="Desporto", FightBox
+https://go.wideiptv.top/FightBOX/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="1" tvg-logo="2" group-title="Desporto", FIFA
+https://6953b888.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctcHRfRklGQVBsdXNfSExT/54f88f17-c890-4d50-8da7-9d30da091cbd/5.m3u8
+
 
 
