@@ -1,5 +1,155 @@
 #EXTM3U
 
+################# GENERALISTAS #####################################################################################################
+
+#EXTINF:-1 tvg-id="RTP1.pt" tvg-logo="https://i.imgur.com/w7GV86i.png" group-title="Generalistas",RTP 1
+https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/chunklist_b2540000_slpor.m3u8
+
+#EXTINF:-1 tvg-id="RTP1.pt" tvg-logo="https://i.imgur.com/w7GV86i.png" group-title="Generalistas",RTP 2
+https://streaming-live.rtp.pt/liverepeater/rtp2HD.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RTP1.pt" tvg-logo="https://i.imgur.com/w7GV86i.png" group-title="Generalistas",SIC
+https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_5.m3u8
+ttps://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
+ttps://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_4.m3u8
+	
+#EXTINF:-1 tvg-id="1" tvg-logo="2" group-title="Generalistas",TVI
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/tvi.m3u8
+ttps://video-auth6.iol.pt/edge_servers/tvi-720_passthrough/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8zLzIwMjQgNDoxNjozIEFNJmhhc2hfdmFsdWU9NXNaK2lWTUpmUTAwOWxiaVJTUWxsQT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTg0NTEwYjRkLWQyNDUtNDE2OC1hOTJmLTk4OWI1ZDI1ZDM4NQ==
+
+#EXTINF:-1 tvg-id="1" tvg-logo="2" group-title="Generalistas",RTP 3
+https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="1" tvg-logo="2" group-title="Generalistas",SIC Noticias
+https://d277k9d1h9dro4.cloudfront.net/out/v1/293e7c3464824cbd8818ab8e49dc5fe9/index_4.m3u8
+
+#EXTINF:-1 tvg-id="CNNPortugal.pt" tvg-logo="https://i.imgur.com/bc6tYVZ.png" group-title="Generalistas",CNN Portugal
+https://sktv-forwarders.7m.pl/get.php?x=CNN_Portugal
+
+#EXTINF:-1 tvg-id="1" tvg-logo="2" group-title="Generalistas", CMTV
+https://go.wideiptv.top/CMTVPT/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="1" tvg-logo="2" group-title="Generalistas",Porto Canal
+https://stream-03.ix7.dailymotion.com/sec(-SVy60QQ6sKn1Jfj-v9Q0pEASp5Ne30POp12tAO_tWSG8tnKk3rK5crl7UyQUiXG)/dm/3/x8egnb8/s/live-2.m3u8
+
+#EXTINF:-1 tvg-id="1" tvg-logo="2" group-title="Generalistas", TVI África
+https://video-auth4.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/tviafrica-480p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="1" tvg-logo="2" group-title="Generalistas", RTP Madeira
+https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/chunklist_b640000_slpt.m3u8
+
+#EXTINF:-1 tvg-id="1" tvg-logo="2" group-title="Generalistas", RTP África
+https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/chunklist_b640000_slpt.m3u8
+
+#EXTINF:-1 tvg-id="1" tvg-logo="2" group-title="Generalistas", RTP Açores
+https://streaming-live.rtp.pt/liverepeater/smil:rtpacores.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="1" tvg-logo="2" group-title="Generalistas",RTP Internacional
+https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
+ttps://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/chunklist_b1290000_slpt.m3u8
+
+#EXTINF:-1 tvg-id="1" tvg-logo="2" group-title="Generalistas",RTP Memória
+https://streaming-live.rtp.pt/liverepeater/smil:estudoemcasa.smil/inspiration.m3u8
+ttps://go.wideiptv.top/RTPMemoria/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="1" tvg-logo="2" group-title="Generalistas", TDM - Teledifusão de Macau.png
+https://live4.tdm.com.mo/ch2/_definst_/ch2.live/chunklist_w1487239282.m3u8
+
+#EXTINF:-1 tvg-id="1" tvg-logo="2" group-title="Generalistas", Euronews
+https://euronews-euronews-portugues-1-us.plex.wurl.tv/a03572ef110dfe676d1e25578eb98817.m3u8
+
+#EXTINF:-1 tvg-id="1" tvg-logo="2" group-title="Generalistas",Kuriakos Tv
+https://w1.manasat.com/ktv/smil:ktv.smil/playlist.m3u8
+ttps://w1.manasat.com/ktv/smil:ktv.smil/chunklist_w2027866142_b1548000_sleng.m3u8
+
+
+
+############### ENTRETENIMENTO ###########################################################################
+
+
+#EXTINF:-1 tvg-id="SIC.pt" tvg-logo="https://i.imgur.com/SPMqiDG.png" group-title="Entretenimento",Big Brother Desafio Final
+https://video-auth4.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-720_passthrough/playlist.m3u8
+
+#EXTINF:-1 tvg-id="1" tvg-logo="2" group-title="Entretenimento",TVI Ficção
+https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8
+ttps://bit.ly/3gejKxf?720p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="1" tvg-logo="2" group-title="Entretenimento", SIC Novelas
+https://streamsic.broadpeak.io/channels/d9070446-8448-455e-8075-773b1ba12562/f083c6ea-33af-458e-82c5-f27f6b42f9ec/media_video_1080p30.m3u8?mm_sp&bpkio_sessionid=10e0e45f78-365201d2-a991-4bc3-a671-58d1eae26ef6&bpkio_serviceid=fa2e8c4385712f9a03940c1341482dbf&category=all
+
+#EXTINF:-1 tvg-id="1" tvg-logo="2" group-title="Entretenimento", SIC Alta Definição
+https://production-fast-sic.content.okast.tv/channels/d9070446-8448-455e-8075-773b1ba12562/fc831b20-f252-4e7d-8cc5-2d05f4d43c1c/media_video_1080p30.m3u8?mm_sp&bpkio_sessionid=10e0e45f78-26231080-f209-4e27-bad1-670714035503&bpkio_serviceid=fa2e8c4385712f9a863b1c5e7e32550b&category=all
+
+#EXTINF:-1 tvg-id="1" tvg-logo="2" group-title="Entretenimento", Caçavision TV
+https://go.wideiptv.top/Cacavision/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="1" tvg-logo="2" group-title="Entretenimento", Nosey Escândalos
+https://nosey-4-br.samsung.wurl.tv/3000.m3u8
+
+#EXTINF:-1 tvg-id="1" tvg-logo="2" group-title="Entretenimento", Nasa
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
+
+#EXTINF:-1 tvg-id="1" tvg-logo="2" group-title="Entretenimento", Nasa
+https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
+
+#EXTINF:-1 tvg-id="1" tvg-logo="2" group-title="Entretenimento", OPTO
+https://go.wideiptv.top/SIC-OPTO/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="1" tvg-logo="2" group-title="Entretenimento", Red Bull
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+ttps://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+
+#EXTINF:-1 tvg-id="1" tvg-logo="2" group-title="Entretenimento", Motorvision PT
+https://stream.ads.ottera.tv/cl/240210cn3o2u3ldlenp7260rvg/1280x720_3071200_0_f.m3u8
+
+#EXTINF:-1 tvg-id="1" tvg-logo="2" group-title="Entretenimento", Porta dos Fundos
+https://bit.ly/3ocj9k9?/playlist720p.m3u8
+
+#EXTINF:-1 tvg-id="1" tvg-logo="2" group-title="Entretenimento", Rakuten Documentários
+https://rakuten-documentaries-14-pt.samsung.wurl.tv/2000.m3u8
+
+#EXTINF:-1 tvg-id="1" tvg-logo="2" group-title="Entretenimento", Fama Tv
+https://streamer-a03.videos.sapo.pt/live/famatv/chunklist_w1771588069.m3u8
+
+#EXTINF:-1 tvg-id="1" tvg-logo="2" group-title="Entretenimento", Camões Tv
+https://customer-3s66icmlj6pe1jxm.cloudflarestream.com/5591a95d07ca3d04141053f912543447/manifest/video.m3u8
+
+#EXTINF:-1 tvg-id="1" tvg-logo="2" group-title="Entretenimento", Odisseia
+https://go.wideiptv.top/OdisseiaPT/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="1" tvg-logo="2" group-title="Entretenimento", National Geographic
+https://go.wideiptv.top/NationalGeographicPT/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="1" tvg-logo="2" group-title="Entretenimento", Caça e Pesca
+https://go.wideiptv.top/Caca_e_Pesca/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="1" tvg-logo="2" group-title="Entretenimento", Discovery Channel
+https://go.wideiptv.top/DiscoveryPT/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="1" tvg-logo="2" group-title="Entretenimento", 24 Kitchen
+https://go.wideiptv.top/24KitchenPT/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="1" tvg-logo="2" group-title="Entretenimento", Fuel Tv
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6144d088516ea8000739076a/master.m3u8?advertisingId=%7bPSID%7d&appVersion=unknown&deviceDNT=%7bTARGETOPT%7d&deviceId=%7bPSID%7d&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=%7bAPP_DOMAIN%7d&samsung_app_name=%7bAPP_NAME%7d&us_privacy=1YNY
+
+#EXTINF:-1 tvg-id="1" tvg-logo="2" group-title="Entretenimento", AR Tv
+https://go.wideiptv.top/ARTV/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="1" tvg-logo="2" group-title="Entretenimento", Nasci Para Cantar
+https://stmv5.samcast.com.br/nasciparacantartv/nasciparacantartv/chunklist_w151309571.m3u8
+
+#EXTINF:-1 tvg-id="1" tvg-logo="2" group-title="Entretenimento", Canal História
+https://go.wideiptv.top/HISTORIAPT/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="1" tvg-logo="2" group-title="Entretenimento", Canal Q
+https://go.wideiptv.top/CanalQ/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="1" tvg-logo="2" group-title="Entretenimento", Toros
+https://love2live.wideiptv.top/OneToro/tracks-v1a1/mono.m3u8
+
+
+################## DESPORTO ###########################################################
+
 #EXTINF:-1 tvg-id="1" tvg-logo="2" group-title="Desporto", Sport Tv +
 https://love2live.wideiptv.top/SPTPlus/tracks-v1a1/mono.m3u8
 
@@ -71,3 +221,69 @@ https://go.wideiptv.top/FightBOX/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="1" tvg-logo="2" group-title="Desporto", FIFA
 https://6953b888.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctcHRfRklGQVBsdXNfSExT/54f88f17-c890-4d50-8da7-9d30da091cbd/5.m3u8
+
+
+
+################### FILMES ################################################################################
+
+#EXTINF:-1 tvg-id="1" tvg-logo="2" group-title="Filmes", My Time Movie
+https://appletree-mytime-samsungbrazil.amagi.tv/playlist720p.m3u8
+
+
+
+#################### MUSICA ###################################################################################
+
+#EXTINF:-1 tvg-id="1" tvg-logo="2" group-title="Musica", Kuriakos Music
+https://w2.manasat.com/kmusic/smil:kmusic.smil/chunklist_w1067075076_b1548000_sleng.m3u8
+
+
+
+##################### KIDS ####################################################################################
+
+#EXTINF:-1 tvg-id="1" tvg-logo="2" group-title="Kids", Rakuten Familia
+https://rakuten-family-14-pt.samsung.wurl.tv/3000.m3u8
+
+#EXTINF:-1 tvg-id="1" tvg-logo="2" group-title="Kids", Kuriakos Kids
+https://w2.manasat.com/kkids/smil:kkids.smil/chunklist_w1139862846_b1548000_sleng.m3u8
+ttps://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="1" tvg-logo="2" group-title="Kids", Anime Tv
+https://stmv1.srvif.com/animetv/animetv/chunklist_w144580791.m3u8  
+
+
+
+#################### RELIGIOSOS #################################################################################
+
+#EXTINF:-1 tvg-id="1" tvg-logo="2" group-title="Religiosos", Santuário de Fátima
+https://streamer-a03.videos.sapo.pt/live/santuario/chunklist_w2011984259.m3u8
+
+#EXTINF:-1 tvg-id="1" tvg-logo="2" group-title="Religiosos", Tv Maná 1
+https://w1.manasat.com/tvmana-1/smil:tvmana-1.smil/chunklist_w175819665_b3048000_sleng.m3u8
+
+#EXTINF:-1 tvg-id="1" tvg-logo="2" group-title="Religiosos", Tv Maná 2
+https://w1.manasat.com/tvmana-2/smil:tvmana-2.smil/chunklist_w1940629214_b3048000_sleng.m3u8
+
+#EXTINF:-1 tvg-id="1" tvg-logo="2" group-title="Religiosos", Canção Nova
+https://5c65286fc6ace.streamlock.net/cancaonova/CancaoNova/playlist.m3u8
+
+#EXTINF:-1 tvg-id="1" tvg-logo="2" group-title="Religiosos", Maná Igreja Online
+https://w1.manasat.com/igrejaonline/smil:igrejaonline.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="1" tvg-logo="2" group-title="Religiosos", IES Tv
+https://joaocaiado.com:1443/ies_tv/ngrp:ies_tv_all/chunklist_w261342724_b1206851.m3u8
+
+#EXTINF:-1 tvg-id="1" tvg-logo="2" group-title="Religiosos", IURD Tv
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/5e0dca9c62c344c49c98d1bd67409be5/chunklist_b4628000.m3u8?p=79&s=1649790438&e=1649790558&h=1f557f1aea4a88497cc58ba6ad98eecf
+
+#EXTINF:-1 tvg-id="1" tvg-logo="2" group-title="Religiosos", Way Tv
+https://streamer-a01.videos.sapo.pt/live/sobrenaturaltv/chunklist_w568176644.m3u8
+
+#EXTINF:-1 tvg-id="1" tvg-logo="2" group-title="Religiosos", ADB Tv
+https://streamer-a03.videos.sapo.pt/live/sobrenaturaltv_3/chunklist_w1433377613.m3u8
+
+#EXTINF:-1 tvg-id="1" tvg-logo="2" group-title="Religiosos", Canal Vida
+https://stream.castr.com/5d714f6a0bd97874e36f14e4/live_43f24df056e711ec8a98fbc0216fffd2/index.fmp4.m3u8
+
+#EXTINF:-1 tvg-id="1" tvg-logo="2" group-title="Religiosos", Kuriakos Cine
+https://w2.manasat.com/kcine/smil:kcine.smil/chunklist_w1323567324_b1548000_sleng.m3u8
+
