@@ -328,63 +328,63 @@ https://appletree-mytime-samsungbrazil.amagi.tv/playlist720p.m3u8
 
 #################### MUSICA ###################################################################################
 
-#EXTINF:-1 tvg-id="RadioSines.pt" tvg-logo="https://i.imgur.com/Oe6F1nL.png" group-title="Geral",Rádio Sines
+#EXTINF:-1 tvg-id="RadioSines.pt" tvg-logo="https://i.imgur.com/Oe6F1nL.png" group-title="Música",Rádio Sines
 https://streamer-a01.videos.sapo.pt/live/radiosinesdireto/index.m3u8
 
-#EXTINF:-1 tvg-id="1" tvg-logo="2" group-title="Musica", Kuriakos Music
+#EXTINF:-1 tvg-id="1" tvg-logo="2" group-title="Música", Kuriakos Music
 https://w2.manasat.com/kmusic/smil:kmusic.smil/chunklist_w1067075076_b1548000_sleng.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="MUSIC",CTPAHA Fm
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="Música",CTPAHA Fm
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="MUSIC",TBa
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="Música",TBa
 http://hls.shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="MUSIC",?????
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="Música",?????
 https://hls-video01.cdnvideo.ru/video01/smil:video01.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="MUSIC",Hoboc
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="Música",Hoboc
 http://hls.tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="MUSIC",T2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="Música",T2
 https://live.m2.tv/hls3/stream.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="MUSIC",Afas Nmuua
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="Música",Afas Nmuua
 http://streamer.rtcommufa.ru:1935/ptica/ptica1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="MUSIC", ?ko
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="Música", ?ko
 https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="MUSIC", ?ko STAR
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="Música", ?ko STAR
 https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="MUSIC", ?ko Gold
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="Música", ?ko Gold
 https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="MUSIC", ?ko Expres
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="Música", ?ko Expres
 https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="MUSIC",Xalastra TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="Música",Xalastra TV
 https://live.cast-control.eu:443/xalastratv/xalastratv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="MUSIC",V2BEAT TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="Música",V2BEAT TV
 https://de1se01.v2beat.live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="MUSIC",V2BEAT TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="Música",V2BEAT TV
 https://abr.de1se01.v2beat.live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="MUSIC",TMA
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="Música",TMA
 http://hls.tmacaraibes.com/live/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="MUSIC",Retro Music Television
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="Música",Retro Music Television
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="MUSIC",Qmusic
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="Música",Qmusic
 https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="MUSIC",Q-Music
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="Música",Q-Music
 https://dpp-streamlive-plain.medialaancdn.be/qmusic/plain/hls_hd.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="MUSIC",Play TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="Música",Play TV
 http://web.onair-radio.eu:1935/Alpha-Host/Alpha-Host/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="MUSIC",NG
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="Música",NG
 http://live.streams.ovh:1935/NGradio/NGradio/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="MUSIC",Marutam Music
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="Música",Marutam Music
 https://mntv.livebox.co.in/musichls/live.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yukriadi66/code/master/logo10_5_114441-picsay.png" group-title="MUSIC",Magic TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yukriadi66/code/master/logo10_5_114441-picsay.png" group-title="Música",Magic TV
 https://itv.streams.ovh/magictv/magictv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="MUSIC",Kronehit HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="Música",Kronehit HD
 https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="MUSIC",Desi Channel
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="Música",Desi Channel
 https://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="MUSIC",Caltex TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="Música",Caltex TV
 https://vid1.caltexmusic.com/hls/caltextv.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="MUSIC",Baraza TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="Música",Baraza TV
 https://eco.streams.ovh:443/BarazaTV/BarazaTV/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="MUSIC",4FUN TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="Música",4FUN TV
 https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
 #EXTINF:-1 tvg-id="MasFM.ar" tvg-logo="https://i.imgur.com/TJ4gWQM.png" group-title="Música",Mas FM
 https://vivo.solumedia.com:19360/masfm/masfm.m3u8
@@ -394,21 +394,21 @@ http://195.23.211.179:1935/kmusic/smil:kmusic.smil/playlist.m3u8
 https://5ce9406b73c33.streamlock.net/ONFM/livestream/playlist.m3u8
 #EXTINF:-1 group-title="MÚSICA" tvg-logo="https://i.imgur.com/gNWg9tl.png",30A Música
 https://30a-tv.com/music.m3u8
-#EXTINF:-1 group-title="MÚSICA",4Fun TV
+#EXTINF:-1 group-title="Música",4Fun TV
 https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
-#EXTINF:-1 group-title="MÚSICA" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2019/07/7s_music.png",7S Música
+#EXTINF:-1 group-title="Música" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2019/07/7s_music.png",7S Música
 http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/index.m3u8
-#EXTINF:-1 group-title="MÚSICA" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/DESICHANNEL09.jpg",Canal Desi
+#EXTINF:-1 group-title="Música" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/DESICHANNEL09.jpg",Canal Desi
 https://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/mono.m3u8
-#EXTINF:-1 group-title="MÚSICA" tvg-logo="https://pbs.twimg.com/profile_images/3055217408/a5421a501ccfcc705c5ea69ff102b097_400x400.png",Ócko
+#EXTINF:-1 group-title="Música" tvg-logo="https://pbs.twimg.com/profile_images/3055217408/a5421a501ccfcc705c5ea69ff102b097_400x400.png",Ócko
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_lq.m3u8
-#EXTINF:-1 group-title="MÚSICA" tvg-logo="https://pbs.twimg.com/profile_images/3055217408/a5421a501ccfcc705c5ea69ff102b097_400x400.png",Ócko Expres
+#EXTINF:-1 group-title="Música" tvg-logo="https://pbs.twimg.com/profile_images/3055217408/a5421a501ccfcc705c5ea69ff102b097_400x400.png",Ócko Expres
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_lq.m3u8
-#EXTINF:-1 group-title="MÚSICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Qmusiclogo2015red.jpg/220px-Qmusiclogo2015red.jpg",Q Music
+#EXTINF:-1 group-title="Música" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Qmusiclogo2015red.jpg/220px-Qmusiclogo2015red.jpg",Q Music
 https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8
-#EXTINF:-1 group-title="MÚSICA" tvg-logo="https://i.imgur.com/LRWC8Uo.png",Retro
+#EXTINF:-1 group-title="Música" tvg-logo="https://i.imgur.com/LRWC8Uo.png",Retro
 http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w627639048.m3u8
-#EXTINF:-1 tvg-id="3ABNPraiseHimMusicNetwork.us" tvg-logo="https://i.imgur.com/iBcqT8L.png" group-title="Música;Religiosa",3ABN Praise Him Music Network
+#EXTINF:-1 tvg-id="3ABNPraiseHimMusicNetwork.us" tvg-logo="https://i.imgur.com/iBcqT8L.png" group-title="Música",3ABN Praise Him Music Network
 https://3abn-live.akamaized.net/hls/live/2010551/Praise_Him/master.m3u8
 #EXTINF:-1 tvg-id="AvangTV.us" tvg-logo="https://i.imgur.com/3I1n7fO.png" group-title="Música",Avang TV
 https://hls.avang.live/hls/stream.m3u8
