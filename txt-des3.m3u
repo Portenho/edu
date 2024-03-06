@@ -16,8 +16,12 @@ ttps://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/ind
 
 #EXTINF:-1 tvg-id="1" tvg-logo="2" group-title="Generalistas",TVI
 https://video-auth6.iol.pt/edge_servers/tviinternacional-720p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My81LzIwMjQgNDoxNToyNSBQTSZoYXNoX3ZhbHVlPWJMYituVkliVkZrRkNhaXM2QUtHQ2c9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD0zNjA0ZjY5NC1hYWI3LTQ2YjgtODE5My0zZGY5NThmNDIzYTY=
-ttps://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/tvi.m3u8
-ttps://video-auth6.iol.pt/edge_servers/tvi-720_passthrough/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8zLzIwMjQgNDoxNjozIEFNJmhhc2hfdmFsdWU9NXNaK2lWTUpmUTAwOWxiaVJTUWxsQT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTg0NTEwYjRkLWQyNDUtNDE2OC1hOTJmLTk4OWI1ZDI1ZDM4NQ==
+
+#EXTINF:-1 tvg-id="1" tvg-logo="2" group-title="Generalistas",TVI
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/tvi.m3u8
+
+#EXTINF:-1 tvg-id="1" tvg-logo="2" group-title="Generalistas",TVI
+https://video-auth6.iol.pt/edge_servers/tvi-720_passthrough/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8zLzIwMjQgNDoxNjozIEFNJmhhc2hfdmFsdWU9NXNaK2lWTUpmUTAwOWxiaVJTUWxsQT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTg0NTEwYjRkLWQyNDUtNDE2OC1hOTJmLTk4OWI1ZDI1ZDM4NQ==
 
 
 #EXTINF:-1 tvg-id="1" tvg-logo="2" group-title="Generalistas",RTP 3
@@ -49,11 +53,15 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtpacores.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="1" tvg-logo="2" group-title="Generalistas",RTP Internacional
 https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
-ttps://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/chunklist_b1290000_slpt.m3u8
+
+#EXTINF:-1 tvg-id="1" tvg-logo="2" group-title="Generalistas",RTP Internacional
+https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/chunklist_b1290000_slpt.m3u8
 
 #EXTINF:-1 tvg-id="1" tvg-logo="2" group-title="Generalistas",RTP Memória
 https://streaming-live.rtp.pt/liverepeater/smil:estudoemcasa.smil/inspiration.m3u8
-ttps://go.wideiptv.top/RTPMemoria/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="1" tvg-logo="2" group-title="Generalistas",RTP Memória
+https://go.wideiptv.top/RTPMemoria/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="1" tvg-logo="2" group-title="Generalistas", TDM - Teledifusão de Macau.png
 https://live4.tdm.com.mo/ch2/_definst_/ch2.live/chunklist_w1487239282.m3u8
@@ -75,7 +83,9 @@ https://video-auth4.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvirea
 
 #EXTINF:-1 tvg-id="1" tvg-logo="2" group-title="Entretenimento",TVI Ficção
 https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8
-ttps://bit.ly/3gejKxf?720p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="1" tvg-logo="2" group-title="Entretenimento",TVI Ficção
+https://bit.ly/3gejKxf?720p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="1" tvg-logo="https://static.wixstatic.com/media/3d7ce7_7166196bf35b4d8bb2971fa626be5627~mv2.png/v1/fill/w_175,h_100,al_c,lg_1,q_85,enc_auto/SIC%20Novelas.png" group-title="Entretenimento", SIC Novelas
 https://streamsic.broadpeak.io/channels/d9070446-8448-455e-8075-773b1ba12562/f083c6ea-33af-458e-82c5-f27f6b42f9ec/media_video_1080p30.m3u8?mm_sp&bpkio_sessionid=10e0e45f78-365201d2-a991-4bc3-a671-58d1eae26ef6&bpkio_serviceid=fa2e8c4385712f9a03940c1341482dbf&category=all
@@ -100,7 +110,9 @@ https://go.wideiptv.top/SIC-OPTO/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="1" tvg-logo="https://static.wixstatic.com/media/3d7ce7_82fdb3ec070c494ab25190ca65b5f223~mv2.png/v1/fill/w_175,h_73,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Red%20Bull%20TV.png" group-title="Entretenimento", Red Bull
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
-ttps://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+
+#EXTINF:-1 tvg-id="1" tvg-logo="https://static.wixstatic.com/media/3d7ce7_82fdb3ec070c494ab25190ca65b5f223~mv2.png/v1/fill/w_175,h_73,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Red%20Bull%20TV.png" group-title="Entretenimento", Red Bull
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
 #EXTINF:-1 tvg-id="1" tvg-logo="https://static.wixstatic.com/media/3d7ce7_1a940f9638074acd9c90b5318d7c1f66~mv2.png/v1/fill/w_175,h_100,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Motorvision.png" group-title="Entretenimento", Motorvision PT
 https://stream.ads.ottera.tv/cl/240210cn3o2u3ldlenp7260rvg/1280x720_3071200_0_f.m3u8
@@ -180,7 +192,6 @@ https://server11.net/spt2/tracks-v1a1/mono.m3u8?remote=94.60.143.16&token=608147
 
 #EXTINF:-1 tvg-id="sporttv2.pt" tvg-logo="https://i.postimg.cc/nLTB4dK5/sporttv-2t.png" group-title="Desporto", Sport Tv 2
 https://server11.net/spt2/index.m3u8?token=d78bc44e9958080c863d2373f306e36b0c6cee21-dff4045f010580edec103a518b596666-1709678944-1709675344&remote=94.60.143.16
-
 
 #EXTINF:-1 tvg-id="sporttv3.pt" tvg-logo="https://i.postimg.cc/N0QRrhXm/sporttv-3t.png" group-title="Desporto", Sport Tv 3
 https://love2live.wideiptv.top/SPT3/tracks-v1a1/mono.m3u8
@@ -468,7 +479,7 @@ https://lotus.stingray.com/manifest/classica-cla008-montreal/live/master.m3u8
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingrayclassicrock/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="StingrayCMusic.ca" tvg-logo="https://i.imgur.com/3UppN5P.png" group-title="Música",Stingray CMusic
 https://lotus.stingray.com/manifest/cmusic-cme004-montreal/live/master.m3u8
-#EXTINF:-1 tvg-id="StingrayDJAZZ.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Stingray_Djazz.png/512px-Stingray_Djazz.png" grupo -title="Música",Stingray DJAZZ
+#EXTINF:-1 tvg-id="StingrayDJAZZ.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Stingray_Djazz.png/512px-Stingray_Djazz.png" grupo-title="Música",Stingray DJAZZ
 https://lotus.stingray.com/manifest/djazz-djaads-montreal/live/master.m3u8
 #EXTINF:-1 tvg-id="StingrayEasyListening.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/512px-Stingray_Music_logo.svg.png "group-title="Música",Stingray Easy Listening
 https://lotus.stingray.com/manifest/ose-137ads-montreal/live/master.m3u8
