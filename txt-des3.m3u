@@ -166,172 +166,97 @@ https://love2live.wideiptv.top/OneToro/tracks-v1a1/mono.m3u8
 #################### DESPORTO ###############################################################################################
 
 #EXTINF:-1 tvg-id="SportTVPlus.pt"" tvg-logo="https://i.postimg.cc/JzVNMH4T/sporttv-t.png" group-title="Desporto", Sport Tv +
-https://love2live.wideiptv.top/SPTPlus/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="SportTVPlus.pt"" tvg-logo="https://i.postimg.cc/JzVNMH4T/sporttv-t.png" group-title="Desporto", Sport Tv +
-https://love2live.wideiptv.top/SPTPlus/index.m3u8
+https://love2live.wideiptv.top/SPTPlus/index.fmp4.m3u8?token=27ab6597f13531bd941bf2c02586651e8fdc0f4f-ae5a477492443f9939fb82f37ccc95f4-1710127529-1710116729
 
 #EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="SPORT TV 1" tvg-logo="https://i.postimg.cc/vZrWB84G/sporttv-1t.png" group-title="Desporto",SPORT TV 1
-https://love2live.wideiptv.top/SPT-1/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="sporttv1.pt" tvg-logo="https://i.postimg.cc/vZrWB84G/sporttv-1t.png" group-title="Desporto", Sport Tv 1
-https://love2live.wideiptv.top/SPT1/index.m3u8
-
-#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="SPORT TV 1" tvg-logo="https://i.postimg.cc/fTspyyLb/sporttv-1j.jpg" group-title="Desporto",SPORT TV 1
-https://server11.net/spt1/tracks-v1a1/mono.m3u8?remote=94.60.143.16&token=8d92e2eca7b7670fba159dd72b0ce8d547b02114-2a43284d10af604e0a75ee901904e375-1709675379-1709671779
+https://love2live.wideiptv.top/SPT1/index.fmp4.m3u8?token=c56bce7255bcc15e3ac2cecd6a24f854d5d4d416-8de7b3f9c577f354cb361d0a568fa0d9-1710126217-1710115417
 
 #EXTINF:-1 tvg-id="sporttv2.pt" tvg-logo="https://i.postimg.cc/nLTB4dK5/sporttv-2t.png" group-title="Desporto", Sport Tv 2
-https://love2live.wideiptv.top/SPT2/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="sporttv2.pt" tvg-logo="https://i.postimg.cc/nLTB4dK5/sporttv-2t.png" group-title="Desporto", Sport Tv 2
-https://love2live.wideiptv.top/SPT2/index.m3u8
-
-#EXTINF:-1 tvg-id="sporttv2.pt" tvg-logo="https://i.postimg.cc/nLTB4dK5/sporttv-2t.png" group-title="Desporto", Sport Tv 2
-https://server11.net/spt2/tracks-v1a1/mono.m3u8?remote=94.60.143.16&token=60814740278c3056f9aafaad52ce7b99f9dc22c0-482d27d849dbbfe1a481c15b898de94c-1709675773-1709672173
-
-#EXTINF:-1 tvg-id="sporttv2.pt" tvg-logo="https://i.postimg.cc/nLTB4dK5/sporttv-2t.png" group-title="Desporto", Sport Tv 2
-https://server11.net/spt2/index.m3u8?token=d78bc44e9958080c863d2373f306e36b0c6cee21-dff4045f010580edec103a518b596666-1709678944-1709675344&remote=94.60.143.16
+https://love2live.wideiptv.top/SPT2/index.fmp4.m3u8?token=4d7974e7ee507afc43439d8bdbad9cdb7ede0757-89ac6f8865cad069508149e91d731320-1710126557-1710115757
 
 #EXTINF:-1 tvg-id="sporttv3.pt" tvg-logo="https://i.postimg.cc/N0QRrhXm/sporttv-3t.png" group-title="Desporto", Sport Tv 3
-https://love2live.wideiptv.top/SPT3/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="sporttv3.pt" tvg-logo="https://i.postimg.cc/N0QRrhXm/sporttv-3t.png" group-title="Desporto", Sport Tv 3
-https://love2live.wideiptv.top/SPT3/index.m3u8
-
-#EXTINF:-1 tvg-id="sporttv3.pt" tvg-logo="https://i.postimg.cc/N0QRrhXm/sporttv-3t.png" group-title="Desporto", Sport Tv 3
-https://server11.net/spt3/tracks-v1a1/mono.m3u8?remote=94.60.143.16&token=58ba66af982cca516385a09df9e2494bf1b682a8-728ee47527671be6b4338ee116f4e03d-1709675846-1709672246
+https://love2live.wideiptv.top/SPT3/index.fmp4.m3u8?token=0076d04ef26de970779f0d6c16f94eeb9bff7cdc-70ed861ca6bafad81ed3a39fe311ad81-1710126645-1710115845
 
 #EXTINF:-1 tvg-id="1" tvg-logo="https://i.postimg.cc/wBh9yvJT/sporttv-4t.png" group-title="Desporto", Sport Tv 4
-https://love2live.wideiptv.top/SPT4/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="1" tvg-logo="https://i.postimg.cc/wBh9yvJT/sporttv-4t.png" group-title="Desporto", Sport Tv 4
-https://love2live.wideiptv.top/SPT5/index.m3u8
+https://love2live.wideiptv.top/SPT4/index.fmp4.m3u8?token=2f77a70feb9d3df6a8c18c6510629b65a98c7c32-4f9976e11ee342847f1637046d16fe1b-1710126680-1710115880
 
 #EXTINF:-1 tvg-id="1" tvg-logo="https://i.postimg.cc/C1SSjgHC/sporttv-5t.png" group-title="Desporto", Sport Tv 5
-https://love2live.wideiptv.top/SPT5/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="1" tvg-logo="https://i.postimg.cc/C1SSjgHC/sporttv-5t.png" group-title="Desporto", Sport Tv 5
-https://love2live.wideiptv.top/SPT5/index.m3u8
-
-#EXTINF:-1 tvg-id="1" tvg-logo="https://i.postimg.cc/C1SSjgHC/sporttv-5t.png" group-title="Desporto", Sport Tv 5
-https://server11.net/spt5/tracks-v1a1/mono.m3u8?remote=94.60.143.16&token=9bf3b11ac99c48ee69ba7b54f2a71056e63f99e7-5ca7a92af4961a7e86ebfca97e2d37f2-1709677059-1709673459
+https://love2live.wideiptv.top/SPT5/index.fmp4.m3u8?token=beae488e23cc34e7f5ef392a4bb523d762c81352-3892ea155d9af4709f33fe24d3499748-1710126723-1710115923
 
 #EXTINF:-1 tvg-id="1" tvg-logo="https://i.postimg.cc/sXmymNwk/sporttv-6t.png" group-title="Desporto", Sport Tv 6
-https://love2live.wideiptv.top/SPT6/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="1" tvg-logo="https://i.postimg.cc/sXmymNwk/sporttv-6t.png" group-title="Desporto", Sport Tv 6
-https://love2live.wideiptv.top/SPT6/index.m3u8
+https://love2live.wideiptv.top/SPT6/index.fmp4.m3u8?token=5c1aa15e3c6ed7fa6fd1e65659ef034412e20c78-8b1610ec64a9a2df22aa7dba1c81ef90-1710127569-1710116769
 
 #EXTINF:-1 tvg-id="1" tvg-logo="https://i.postimg.cc/t70xq8y1/nba-tv-t.png" group-title="Desporto", NBA
-https://love2live.wideiptv.top/SPTNBA/tracks-v1a1/mono.m3u8
+https://love2live.wideiptv.top/SPTNBA/index.fmp4.m3u8?token=eca6a6f65cc92b420cdb3ded151e19ce09f1df56-709b9340f1e4117ac0feb362fa771149-1710127609-1710116809
 
-#EXTINF:-1 tvg-id="1" tvg-logo="https://i.postimg.cc/t70xq8y1/nba-tv-t.png" group-title="Desporto", NBA
-https://love2live.wideiptv.top/SPTNBA/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="BENFICA" tvg-logo="https://i.postimg.cc/J4d8ThkK/BTV-Red-t.png" group-title="Desporto",BENFICA
-https://love2live.wideiptv.top/BTV/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="BENFICA" tvg-logo="https://i.postimg.cc/J4d8ThkK/BTV-Red-t.png" group-title="Desporto",BENFICA
-https://love2live.wideiptv.top/BTV/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="BENFICA" tvg-logo="https://i.postimg.cc/J4d8ThkK/BTV-Red-t.png" group-title="Desporto",BENFICA
-https://server11.net/btv/tracks-v1a1/mono.m3u8?remote=94.60.143.16&token=5c1f43ba77a22956e82d02669a9ed425d0b87db0-878146811d5487b8ebcd8d9cf2eb95c1-1709678324-1709674724
-
-#EXTINF:-1 tvg-id="" tvg-name="BENFICA" tvg-logo="https://i.postimg.cc/J4d8ThkK/BTV-Red-t.png" group-title="Desporto",BENFICA
-https://server11.net/btv-alt/tracks-v1a1/mono.m3u8?remote=94.60.143.16&token=eae56ca8f9de1a0c8c293e6f5237c9fdd485d05b-f8d35266e032e3822de35a43c6760a17-1709678428-1709674828
+#EXTINF:-1 tvg-id="" tvg-name="BENFICA" tvg-logo="https://i.postimg.cc/J4d8ThkK/BTV-Red-t.png" group-title="Desporto",Benfica Tv
+https://love2live.wideiptv.top/BTV1/index.fmp4.m3u8?token=b1e98167759fb25e8dd6472c328f66ac4eb46237-05a4f01ab890ee4c40fcc72ea972b36e-1710127471-1710116671
 
 #EXTINF:-1 tvg-id="1" tvg-logo="https://i.postimg.cc/J4d8ThkK/BTV-Red-t.png" group-title="Desporto", BTV Multicamera
-https://love2live.wideiptv.top/BTV-Multi/tracks-v1a1/mono.m3u8
+https://love2live.wideiptv.top/BTV-Multi/index.fmp4.m3u8?token=7c3d643e45374b0a168103cd0897a19a96254d43-6d0f43d06a9c91f41d3fb8f08a3a9e6e-1710128322-1710117522
 
-#EXTINF:-1 tvg-id="1" tvg-logo="https://i.postimg.cc/J4d8ThkK/BTV-Red-t.png" group-title="Desporto", BTV Multicamera
-https://love2live.wideiptv.top/BTV-Multi/index.m3u8
-
-#EXTINF:-1 tvg-id="elevensports1.pt" tvg-name="ELEVEN 1" tvg-logo="https://i.postimg.cc/NfKG7tjk/eleven-1j.jpg" group-title="Desporto",ELEVEN 1
-https://love2live.wideiptv.top/ELEVEN1/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="elevensports1.pt" tvg-name="ELEVEN 1" tvg-logo="https://i.postimg.cc/NfKG7tjk/eleven-1j.jpg" group-title="Desporto",ELEVEN 1
-https://love2live.wideiptv.top/ELEVEN1/index.m3u8
-
-#EXTINF:-1 tvg-id="elevensports1.pt" tvg-name="ELEVEN 1" tvg-logo="hhttps://i.postimg.cc/NfKG7tjk/eleven-1j.jpg" group-title="Desporto",ELEVEN 1
-https://server11.net/eleven1/tracks-v1a1/mono.m3u8?remote=94.60.143.16&token=1da33be695e5f239550acd6fc6f1ad31dcfe5b9d-39dc0fea7fb4981dfa04d6071993445e-1709679123-1709675523
+#EXTINF:-1 tvg-id="elevensports1.pt" tvg-name="ELEVEN 1" tvg-logo="https://i.postimg.cc/NfKG7tjk/eleven-1j.jpg" group-title="Desporto",Eleven 1
+https://love2live.wideiptv.top/ELEVEN1/index.fmp4.m3u8?token=a2eb29cfea7b7715bf7f9d354142a4b812acf86b-07bbe62e71aa125e1cbd2c4b32f85753-1710126817-1710116017
 
 #EXTINF:-1 tvg-id="1" tvg-logo="https://i.postimg.cc/BQRSmz89/eleven-2j.jpg"" group-title="Desporto", Eleven 2
-https://love2live.wideiptv.top/ELEVEN2/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="1" tvg-logo="https://i.postimg.cc/BQRSmz89/eleven-2j.jpg"" group-title="Desporto", Eleven 2
-https://love2live.wideiptv.top/ELEVEN2/index.m3u8
-
-#EXTINF:-1 tvg-id="1" tvg-logo="https://i.postimg.cc/BQRSmz89/eleven-2j.jpg"" group-title="Desporto", Eleven 2
-https://server11.net/eleven2/tracks-v1a1/mono.m3u8?remote=94.60.143.16&token=103eb965ced2b7e18a098c405c46a58f76b25945-5aa5461df5c4eaf3d6959d708e115af9-1709679406-1709675806
+https://love2live.wideiptv.top/ELEVEN2/index.fmp4.m3u8?token=bb79ed9a5145330659b2f17d6c2c31e6a73dec92-eab641ca6eaed3262bfe76970831b15e-1710127122-1710116322
 
 #EXTINF:-1 tvg-id="1" tvg-logo="https://i.postimg.cc/N0kQffdB/eleven-3j.jpg" group-title="Desporto", Eleven 3
-https://love2live.wideiptv.top/ELEVEN3/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="1" tvg-logo="https://i.postimg.cc/N0kQffdB/eleven-3j.jpg" group-title="Desporto", Eleven 3
-https://love2live.wideiptv.top/ELEVEN3/index.m3u8
+https://love2live.wideiptv.top/ELEVEN3/index.fmp4.m3u8?token=35078e79f78a347557b1dac08c7b5948e6eaaf25-37f891cf3a66791f296c7a15851da4a2-1710127188-1710116388
 
 #EXTINF:-1 tvg-id="1" tvg-logo="https://i.postimg.cc/jjbsbJQM/eleven-4j.jpg" group-title="Desporto", Eleven 4
-https://love2live.wideiptv.top/ELEVEN4/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="1" tvg-logo="https://i.postimg.cc/jjbsbJQM/eleven-4j.jpg" group-title="Desporto", Eleven 4
-https://love2live.wideiptv.top/ELEVEN4/index.m3u8
+https://love2live.wideiptv.top/ELEVEN4/index.fmp4.m3u8?token=d70a03c125e8ed21bcab0b3f41790adfc0bf5208-e5bf6e647388e512aa3b7a27bc8d44b4-1710127223-1710116423
 
 #EXTINF:-1 tvg-id="1" tvg-logo="https://i.postimg.cc/6qyK0Vtp/eleven-5j.jpg" group-title="Desporto", Eleven 5
-https://love2live.wideiptv.top/ELEVEN5/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="1" tvg-logo="https://i.postimg.cc/6qyK0Vtp/eleven-5j.jpg" group-title="Desporto", Eleven 5
-https://love2live.wideiptv.top/ELEVEN5/index.m3u8
-
-#EXTINF:-1 tvg-id="1" tvg-logo="https://i.postimg.cc/6qyK0Vtp/eleven-5j.jpg" group-title="Desporto", Eleven 5
-https://server11.net/eleven5/tracks-v1a1/mono.m3u8?remote=94.60.143.16&token=900e125275cadf2f05641087a67cc25fa6e7ad05-2bbb2e385131fd6d022d24ee719ffb50-1709681687-1709678087
+https://love2live.wideiptv.top/ELEVEN5/index.fmp4.m3u8?token=56f97ea84961bf5d6243f2c2e70f7ab099e0fbee-491550a3619fd52a8bdf5be6aa10ad2d-1710127256-1710116456
 
 #EXTINF:-1 tvg-id="1" tvg-logo="https://i.postimg.cc/m21R1Smd/eleven-6j.jpg" group-title="Desporto", Eleven 6
-https://love2live.wideiptv.top/ELEVEN6/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="1" tvg-logo="https://i.postimg.cc/m21R1Smd/eleven-6j.jpg" group-title="Desporto", Eleven 6
-https://love2live.wideiptv.top/ELEVEN6/index.m3u8
+https://love2live.wideiptv.top/ELEVEN6/index.fmp4.m3u8?token=a60bf907a6ac8f5c413f7b07e0d7817eccba110c-7908a46b7df200989e4b86c9fd5c5994-1710127298-1710116498
 
 #EXTINF:-1 tvg-id="1" tvg-logo="https://i.postimg.cc/m21R1Smd/eleven-6j.jpg" group-title="Desporto", Canal 11
-https://love2live.wideiptv.top/Canal11/tracks-v1a1/mono.m3u8
+https://love2live.wideiptv.top/Canal11/index.fmp4.m3u8?token=3a05fd03cbeccd1b64cfc7d0bcb491a640cddd5a-d898ae1301ee001551a9ffe24c353a23-1710127809-1710117009
 
 #EXTINF:-1 tvg-id="1" tvg-logo="https://i.postimg.cc/XNrDyPLt/A-Bola-TV.png" group-title="Desporto", A Bola Tv
-https://love2live.wideiptv.top/ABOLA/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="1" tvg-logo="https://i.postimg.cc/XNrDyPLt/A-Bola-TV.png" group-title="Desporto", A Bola Tv
-https://love2live.wideiptv.top/ABOLA/index.m3u8
+https://love2live.wideiptv.top/ABOLA/index.fmp4.m3u8?token=1e70b42cbf81cd2ef598cfeb446b4686a7cde10e-d6554106ab5c4f579731937e1d5c0f7a-1710127964-1710117164
 
 #EXTINF:-1 tvg-id="1" tvg-logo="https://i.postimg.cc/NfqM3Wzc/Sporting-TV.png" group-title="Desporto", Sporting Tv
-https://love2live.wideiptv.top/SPORTING/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="1" tvg-logo="https://i.postimg.cc/NfqM3Wzc/Sporting-TV.png" group-title="Desporto", Sporting Tv
-https://love2live.wideiptv.top/SPORTING/index.m3u8
+https://love2live.wideiptv.top/SPORTING/index.fmp4.m3u8?token=b5f0d530601195cb1c63763a824202c86076bbd6-cb4e58297860650c9ca7b5849c94aef1-1710128005-1710117205
 
 #EXTINF:-1 tvg-id="1" tvg-logo="https://i.postimg.cc/8cLghkMP/Eurosport-1.png" group-title="Desporto", Eurosport 1
-https://love2live.wideiptv.top/EURO1PT/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="1" tvg-logo="https://i.postimg.cc/8cLghkMP/Eurosport-1.png" group-title="Desporto", Eurosport 1
-https://love2live.wideiptv.top/EURO1PT/index.m3u8
+https://love2live.wideiptv.top/EURO1PT/index.fmp4.m3u8?token=d9e13ffa80b416098e7b24a9d38fd3e2342aceac-04a9285f8b7a4044e7edb0459603b655-1710127344-1710116544
 
 #EXTINF:-1 tvg-id="1" tvg-logo="https://i.postimg.cc/NjsvHcMB/Eurosport-2.png" group-title="Desporto", Eurosport 2
-https://love2live.wideiptv.top/EURO2PT/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="1" tvg-logo="https://i.postimg.cc/NjsvHcMB/Eurosport-2.png" group-title="Desporto", Eurosport 2
-https://love2live.wideiptv.top/EURO2PT/index.m3u8
+https://love2live.wideiptv.top/EURO2PT/index.fmp4.m3u8?token=d43eacb2dd32f61e27d0b1ae9cf294428d1c6eea-dc72fa464204414bd6eb2060925a4fc2-1710127432-1710116632
 
 #EXTINF:-1 tvg-id="1" tvg-logo="https://static.wixstatic.com/media/3d7ce7_11149105524744e7aae9867efc626e54~mv2.jpg/v1/fill/w_100,h_100,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/FIFA.jpg" group-title="Desporto", FIFA
-https://6953b888.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctcHRfRklGQVBsdXNfSExT/54f88f17-c890-4d50-8da7-9d30da091cbd/5.m3u8
-
-
-
-
-
+https://6953b888.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctcHRfRklGQVBsdXNfSExT/41c6f63e-ae46-4058-b228-e5ee0cba10bc/5.m3u8
 
 
 
 ################### FILMES ################################################################################
 
+#EXTINF:-1 tvg-id="$" tvg-logo="&" group-title="Filmes", TvCine Action
+https://go.wideiptv.top/TVCineActionPT/index.fmp4.m3u8?token=cefd1fcb57473edd342890aebac9eadccebcca8c-04a90cef38e7462ea0a9ba3c1021bfbf-1710124140-1710113340
 
-#EXTINF:-1 tvg-id="1" tvg-logo="2" group-title="Filmes", My Time Movie
+#EXTINF:-1 tvg-id="$" tvg-logo="&" group-title="Filmes", TvCine Emotion
+https://go.wideiptv.top/TVCineEmotion/index.fmp4.m3u8?token=0d9294e4f417ecba383c77ba99da38c0a53044fa-f049311fe339d82bdb987dbf3b6a84c2-1710124949-1710114149
+
+#EXTINF:-1 tvg-id="$" tvg-logo="&" group-title="Filmes",  Edition
+https://go.wideiptv.top/TVCineEdition/index.fmp4.m3u8?token=2a63e580fd6044a9d40fcac7b93f603682dec348-dbff2ce339dde6abfea0846b88f3f82a-1710125125-1710114325
+
+#EXTINF:-1 tvg-id="$" tvg-logo="&" group-title="Filmes", TvCine Top
+https://go.wideiptv.top/TVCineTop/index.fmp4.m3u8?token=6c208cb85b96756ce94d0b30e21f50a4e85f2864-f58191b660c058e5d4dfa5eb565e4dee-1710125207-1710114407
+
+#EXTINF:-1 tvg-id="$" tvg-logo="&" group-title="Filmes", Nos Studios
+https://go.wideiptv.top/NOSSTUDIOSPT/index.fmp4.m3u8?token=42fb8567f0d48e79f4029f15289a53301a17af46-f2b63914d967ce6a4c5c262b7ef0f04f-1710125369-1710114569
+
+#EXTINF:-1 tvg-id="$" tvg-logo="&" group-title="Filmes", Cine Mundo
+https://go.wideiptv.top/CinemundoPT/index.fmp4.m3u8?token=784ce0300acc1f52af2b656587f89ad4362c9faf-3d7ea589c6cf0c0e09d1847b13aaced4-1710125488-1710114688
+
+#EXTINF:-1 tvg-id="$" tvg-logo="&" group-title="Filmes", Hollywood
+https://go.wideiptv.top/HollywoodPT/index.fmp4.m3u8?token=b1000a7db741e9f1fa19dae5bb0de95b4ea8f3d7-c7c8eec87536602a5397ae8ef229bb4e-1710125614-1710114814
+
+#EXTINF:-1 tvg-id="$" tvg-logo="&" group-title="Filmes", My Time Movie
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist720p.m3u8
 
 
