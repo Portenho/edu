@@ -1,6 +1,6 @@
 #EXTM3U
 
-"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+"-----SPORT TV 1-----"
 #EXTINF:-1 group-title="Sport Tv 1" tvg-id="" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/sqxxtw1470409111.png" tvg-rec="", Sport Tv 1 HD
 http://dns.acaidopara.net:8080/brunobr2/brasilusa/1514
 #EXTINF:-1 group-title="Sport Tv 1" tvg-id="" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/sqxxtw1470409111.png" tvg-rec="", Sport Tv 1 HD
@@ -16,7 +16,6 @@ http://dns.acaidopara.net:8080/7742847330/2847330774/1514
 #EXTINF:-1 group-title="Sport Tv 1" tvg-id="" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/sqxxtw1470409111.png" tvg-rec="", Sport Tv 1 HD
 http://dns.acaidopara.net:8080/7742847330/2847330774/1515
 
-"-----SPORT TV 1-----"
 #EXTINF:-1 tvg-id="" tvg-name="Sport tv 1" tvg-logo="" group-title="Sport Tv 1",1-4k
 http://iptvplay.xyz:8080/serginho23/s2155151o/22627
 #EXTINF:-1 tvg-id="" tvg-name="Sport tv 1" tvg-logo="" group-title="Sport Tv 1",1-FHD 
@@ -108,9 +107,6 @@ http://iptvplay.xyz:8080/Armandodiluf/998877/38
 http://iptvplay.xyz:8080/Armandodiluf/998877/40
 
 
-
-"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 "-----SPORT TV 2-----"
 
 #EXTINF:-1 group-title="Sport Tv 2" tvg-id="" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/vpwuyu1470409212.png" tvg-rec="", Sport Tv 2 HD
@@ -230,83 +226,7 @@ http://dns.acaidopara.net:8080/7742847330/2847330774/45258
 http://iptvplay.xyz:8080/serginho23/s2155151o/29
 
 
-"-----BENFICA TV-----"
 
-#EXTINF:-1 group-title="Benfica Tv" tvg-id="" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/o89qgl1601130898.png" tvg-rec="", Benfica Tv UHD
-http://dns.acaidopara.net:8080/brunobr2/brasilusa/1592
-#EXTINF:-1 group-title="Benfica Tv" tvg-id="" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/o89qgl1601130898.png" tvg-rec="", Benfica Tv HD
-http://dns.acaidopara.net:8080/brunobr2/brasilusa/1529
-#EXTINF:-1 group-title="Benfica Tv" tvg-id="" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/o89qgl1601130898.png" tvg-rec="", Benfica Tv HD
-http://dns.acaidopara.net:8080/brunobr2/brasilusa/1530
-
-#EXTINF:-1 group-title="Benfica Tv" tvg-id="" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/o89qgl1601130898.png" tvg-rec="", Benfica Tv UHD
-http://dns.acaidopara.net:8080/George4899/Halas4899/1592
-#EXTINF:-1 group-title="Benfica Tv" tvg-id="" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/o89qgl1601130898.png" tvg-rec="", Benfica Tv HD
-http://dns.acaidopara.net:8080/George4899/Halas4899/1529
-#EXTINF:-1 group-title="Benfica Tv" tvg-id="" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/o89qgl1601130898.png" tvg-rec="", Benfica Tv HD
-http://dns.acaidopara.net:8080/George4899/Halas4899/1530
-
-#EXTINF:-1 group-title="Benfica Tv" tvg-id="" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/o89qgl1601130898.png" tvg-rec="", Benfica Tv UHD
-http://dns.acaidopara.net:8080/7742847330/2847330774/1592
-#EXTINF:-1 group-title="Benfica Tv" tvg-id="" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/o89qgl1601130898.png" tvg-rec="", Benfica Tv HD
-http://dns.acaidopara.net:8080/7742847330/2847330774/1529
-#EXTINF:-1 group-title="Benfica Tv" tvg-id="" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/o89qgl1601130898.png" tvg-rec="", Benfica Tv HD
-http://dns.acaidopara.net:8080/7742847330/2847330774/1530
-
-#EXTINF:-1 tvg-id="" tvg-name="BTV" tvg-logo="" group-title="BTV",Benfica Tv UHD
-http://iptvplay.xyz:8080/serginho23/s2155151o/16974
-#EXTINF:-1 tvg-id="" tvg-name="BTV" tvg-logo="" group-title="BTV",1-FHD 
-http://iptvplay.xyz:8080/serginho23/s2155151o/123
-#EXTINF:-1 tvg-id="" tvg-name="BTV" tvg-logo="" group-title="BTV",Benfica Tv HD
-http://iptvplay.xyz:8080/serginho23/s2155151o/122
-#EXTINF:-1 tvg-id="" tvg-name="BTV" tvg-logo="" group-title="BTV",Benfica Tv HD
-http://iptvplay.xyz:8080/serginho23/s2155151o/121
-
-
-"-----ELEVEN 1-----"
-
-#EXTINF:-1 group-title="Eleven Sports 1" tvg-id="" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Eleven_Sports_1_Portugal.png" tvg-rec="", Eleven Sports 1 HD
-http://dns.acaidopara.net:8080/brunobr2/brasilusa/2377
-#EXTINF:-1 group-title="Eleven Sports 1" tvg-id="" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Eleven_Sports_1_Portugal.png" tvg-rec="", Eleven Sports 1 HD
-http://dns.acaidopara.net:8080/brunobr2/brasilusa/2375
-
-#EXTINF:-1 group-title="Eleven Sports 1" tvg-id="" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Eleven_Sports_1_Portugal.png" tvg-rec="", Eleven Sports 1 HD
-http://dns.acaidopara.net:8080/George4899/Halas4899/2377
-#EXTINF:-1 group-title="Eleven Sports 1" tvg-id="" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Eleven_Sports_1_Portugal.png" tvg-rec="", Eleven Sports 1 HD
-http://dns.acaidopara.net:8080/George4899/Halas4899/2375
-
-#EXTINF:-1 group-title="Eleven Sports 1" tvg-id="" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Eleven_Sports_1_Portugal.png" tvg-rec="", Eleven Sports 1 HD
-http://dns.acaidopara.net:8080/7742847330/2847330774/2377
-#EXTINF:-1 group-title="Eleven Sports 1" tvg-id="" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Eleven_Sports_1_Portugal.png" tvg-rec="", Eleven Sports 1 HD
-http://dns.acaidopara.net:8080/7742847330/2847330774/2375
-
-
-
-
-"-----ELEVEN 2-----"
-
-#EXTINF:-1 group-title="Eleven Sports 2" tvg-id="" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Eleven_Sports_2_Portugal.png" tvg-rec="", Eleven Sports 2 HD
-http://dns.acaidopara.net:8080/brunobr2/brasilusa/2385
-#EXTINF:-1 group-title="Eleven Sports 2" tvg-id="" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Eleven_Sports_2_Portugal.png" tvg-rec="", Eleven Sports 2 HD
-http://dns.acaidopara.net:8080/brunobr2/brasilusa/2382
-
-#EXTINF:-1 group-title="Eleven Sports 2" tvg-id="" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Eleven_Sports_2_Portugal.png" tvg-rec="", Eleven Sports 2 HD
-http://dns.acaidopara.net:8080/George4899/Halas4899/2385
-#EXTINF:-1 group-title="Eleven Sports 2" tvg-id="" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Eleven_Sports_2_Portugal.png" tvg-rec="", Eleven Sports 2 HD
-http://dns.acaidopara.net:8080/George4899/Halas4899/2382
-
-#EXTINF:-1 group-title="Eleven Sports 2" tvg-id="" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Eleven_Sports_2_Portugal.png" tvg-rec="", Eleven Sports 2 HD
-http://dns.acaidopara.net:8080/7742847330/2847330774/2385
-#EXTINF:-1 group-title="Eleven Sports 2" tvg-id="" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Eleven_Sports_2_Portugal.png" tvg-rec="", Eleven Sports 2 HD
-http://dns.acaidopara.net:8080/7742847330/2847330774/2382
-
-
-
-
-
-
-"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 "-----SPORT TV 2-----"
 
@@ -336,26 +256,7 @@ http://iptvplay.xyz:8080/JoaoCabrita/cBneVCnUDM/29
 
 "-----BENFICA TV-----"
 
-#EXTINF:-1 tvg-id="" tvg-name="BTV" tvg-logo="" group-title="BTV",3-4K
-http://iptvplay.xyz:8080/JoaoCabrita/cBneVCnUDM/16974
-#EXTINF:-1 tvg-id="" tvg-name="BTV" tvg-logo="" group-title="BTV",3-FHD 
-http://iptvplay.xyz:8080/JoaoCabrita/cBneVCnUDM/123
-#EXTINF:-1 tvg-id="" tvg-name="BTV" tvg-logo="" group-title="BTV",3-HD
-http://iptvplay.xyz:8080/JoaoCabrita/cBneVCnUDM/122
-#EXTINF:-1 tvg-id="" tvg-name="BTV" tvg-logo="" group-title="BTV",3-SD
-http://iptvplay.xyz:8080/JoaoCabrita/cBneVCnUDM/121
 
-
-"-----ELEVEN 1-----"
-
-
-
-
-
-
-
-"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 
 
@@ -387,26 +288,7 @@ http://iptvplay.xyz:8080/grafica/ferreira/29
 
 "-----BENFICA TV-----"
 
-#EXTINF:-1 tvg-id="" tvg-name="BTV" tvg-logo="" group-title="BTV",4-4K
-http://iptvplay.xyz:8080/grafica/ferreira/16974
-#EXTINF:-1 tvg-id="" tvg-name="BTV" tvg-logo="" group-title="BTV",4-FHD 
-http://iptvplay.xyz:8080/grafica/ferreira/123
-#EXTINF:-1 tvg-id="" tvg-name="BTV" tvg-logo="" group-title="BTV",4-HD
-http://iptvplay.xyz:8080/grafica/ferreira/122
-#EXTINF:-1 tvg-id="" tvg-name="BTV" tvg-logo="" group-title="BTV",4-SD
-http://iptvplay.xyz:8080/grafica/ferreira/121
 
-
-"-----ELEVEN 1-----"
-
-
-
-
-
-
-
-"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 "-----SPORT TV 2-----"
 
@@ -436,26 +318,8 @@ http://iptvplay.xyz:8080/Armandodiluf/998877/29
 
 "-----BENFICA TV-----"
 
-#EXTINF:-1 tvg-id="" tvg-name="BTV" tvg-logo="" group-title="BTV",6-4K
-http://iptvplay.xyz:8080/Armandodiluf/998877/16974
-#EXTINF:-1 tvg-id="" tvg-name="BTV" tvg-logo="" group-title="BTV",6-FHD 
-http://iptvplay.xyz:8080/Armandodiluf/998877/123
-#EXTINF:-1 tvg-id="" tvg-name="BTV" tvg-logo="" group-title="BTV",6-HD
-http://iptvplay.xyz:8080/Armandodiluf/998877/122
-#EXTINF:-1 tvg-id="" tvg-name="BTV" tvg-logo="" group-title="BTV",6-SD
-http://iptvplay.xyz:8080/Armandodiluf/998877/121
 
 
-"-----ELEVEN 1-----"
-
-
-
-
-
-
-
-"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 "-----SPORT TV 2-----"
 
@@ -485,26 +349,7 @@ http://iptvplay.xyz:8080/carlos343/3344/29
 
 "-----BENFICA TV-----"
 
-#EXTINF:-1 tvg-id="" tvg-name="BTV" tvg-logo="" group-title="BTV",8-4K
-http://iptvplay.xyz:8080/carlos343/3344/16974
-#EXTINF:-1 tvg-id="" tvg-name="BTV" tvg-logo="" group-title="BTV",8-FHD 
-http://iptvplay.xyz:8080/carlos343/3344/123
-#EXTINF:-1 tvg-id="" tvg-name="BTV" tvg-logo="" group-title="BTV",8-HD
-http://iptvplay.xyz:8080/carlos343/3344/122
-#EXTINF:-1 tvg-id="" tvg-name="BTV" tvg-logo="" group-title="BTV",8-SD
-http://iptvplay.xyz:8080/carlos343/3344/121
 
-
-"-----ELEVEN 1-----"
-
-
-
-
-
-
-
-"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 "-----SPORT TV 2-----"
 
@@ -534,26 +379,8 @@ http://iptvplay.xyz:8080/ManelAlemanha/r8GAvyLNxunh/29
 
 "-----BENFICA TV-----"
 
-#EXTINF:-1 tvg-id="" tvg-name="BTV" tvg-logo="" group-title="BTV",12-4K
-http://iptvplay.xyz:8080/ManelAlemanha/r8GAvyLNxunh/16974
-#EXTINF:-1 tvg-id="" tvg-name="BTV" tvg-logo="" group-title="BTV",12-FHD 
-http://iptvplay.xyz:8080/ManelAlemanha/r8GAvyLNxunh/123
-#EXTINF:-1 tvg-id="" tvg-name="BTV" tvg-logo="" group-title="BTV",12-HD
-http://iptvplay.xyz:8080/ManelAlemanha/r8GAvyLNxunh/122
-#EXTINF:-1 tvg-id="" tvg-name="BTV" tvg-logo="" group-title="BTV",12-SD
-http://iptvplay.xyz:8080/ManelAlemanha/r8GAvyLNxunh/121
 
 
-"-----ELEVEN 1-----"
-
-
-
-
-
-
-
-"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 "-----SPORT TV 2-----"
 
@@ -583,26 +410,7 @@ http://iptvplay.xyz:8080/JoseRamosTgv3/jora2022/29
 
 "-----BENFICA TV-----"
 
-#EXTINF:-1 tvg-id="" tvg-name="BTV" tvg-logo="" group-title="BTV",13-4K
-http://iptvplay.xyz:8080/JoseRamosTgv3/jora2022/16974
-#EXTINF:-1 tvg-id="" tvg-name="BTV" tvg-logo="" group-title="BTV",13-FHD 
-http://iptvplay.xyz:8080/JoseRamosTgv3/jora2022/123
-#EXTINF:-1 tvg-id="" tvg-name="BTV" tvg-logo="" group-title="BTV",13-HD
-http://iptvplay.xyz:8080/JoseRamosTgv3/jora2022/122
-#EXTINF:-1 tvg-id="" tvg-name="BTV" tvg-logo="" group-title="BTV",13-SD
-http://iptvplay.xyz:8080/JoseRamosTgv3/jora2022/121
 
-
-"-----ELEVEN 1-----"
-
-
-
-
-
-
-
-"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 "-----SPORT TV 2-----"
 
@@ -632,26 +440,8 @@ http://iptvplay.xyz:8080/carlosferreira333/333/29
 
 "-----BENFICA TV-----"
 
-#EXTINF:-1 tvg-id="" tvg-name="BTV" tvg-logo="" group-title="BTV",15-4K
-http://iptvplay.xyz:8080/carlosferreira333/333/16974
-#EXTINF:-1 tvg-id="" tvg-name="BTV" tvg-logo="" group-title="BTV",15-FHD 
-http://iptvplay.xyz:8080/carlosferreira333/333/123
-#EXTINF:-1 tvg-id="" tvg-name="BTV" tvg-logo="" group-title="BTV",15-HD
-http://iptvplay.xyz:8080/carlosferreira333/333/122
-#EXTINF:-1 tvg-id="" tvg-name="BTV" tvg-logo="" group-title="BTV",15-SD
-http://iptvplay.xyz:8080/carlosferreira333/333/121
 
 
-"-----ELEVEN 1-----"
-
-
-
-
-
-
-
-"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 "-----SPORT TV 2-----"
 
@@ -681,30 +471,6 @@ http://iptvplay.xyz:8080/JoaoAlves2022/JoAlvesTgv/29
 
 "-----BENFICA TV-----"
 
-#EXTINF:-1 tvg-id="" tvg-name="BTV" tvg-logo="" group-title="BTV",16-4K
-http://iptvplay.xyz:8080/JoaoAlves2022/JoAlvesTgv/16974
-#EXTINF:-1 tvg-id="" tvg-name="BTV" tvg-logo="" group-title="BTV",16-FHD 
-http://iptvplay.xyz:8080/JoaoAlves2022/JoAlvesTgv/123
-#EXTINF:-1 tvg-id="" tvg-name="BTV" tvg-logo="" group-title="BTV",16-HD
-http://iptvplay.xyz:8080/JoaoAlves2022/JoAlvesTgv/122
-#EXTINF:-1 tvg-id="" tvg-name="BTV" tvg-logo="" group-title="BTV",16-SD
-http://iptvplay.xyz:8080/JoaoAlves2022/JoAlvesTgv/121
-
-
-"-----ELEVEN 1-----"
-
-
-
-
-"-----ELEVEN 2-----"
-
-
-
-
-
-
-"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 
 "-----SPORT TV 2-----"
@@ -735,26 +501,7 @@ http://iptvplay.xyz:8080/nunoiptv/nuno123/29
 
 "-----BENFICA TV-----"
 
-#EXTINF:-1 tvg-id="" tvg-name="BTV" tvg-logo="" group-title="BTV",18-4K
-http://iptvplay.xyz:8080/nunoiptv/nuno123/16974
-#EXTINF:-1 tvg-id="" tvg-name="BTV" tvg-logo="" group-title="BTV",18-FHD 
-http://iptvplay.xyz:8080/nunoiptv/nuno123/123
-#EXTINF:-1 tvg-id="" tvg-name="BTV" tvg-logo="" group-title="BTV",18-HD
-http://iptvplay.xyz:8080/nunoiptv/nuno123/122
-#EXTINF:-1 tvg-id="" tvg-name="BTV" tvg-logo="" group-title="BTV",18-SD
-http://iptvplay.xyz:8080/nunoiptv/nuno123/121
 
 
-"-----ELEVEN 1-----"
-
-
-
-
-"-----ELEVEN 2-----"
-
-
-
-
-"-----ELEVEN 3-----"
 
 
