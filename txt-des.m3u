@@ -96,9 +96,6 @@ http://dns.acaidopara.net:8080/19825638500/29245671893/2409
 ########################## SPORT TV + ##########################
 
 #EXTINF:-1 group-title="Sport TV +" tvg-id="" tvg-logo="https://www.sporttv.pt/img/static/logos/sporttv-mais.svg" tvg-rec="", Sport TV + HD
-http://dns.acaidopara.net:8080/19825638500/29245671893/51993
-
-#EXTINF:-1 group-title="Sport TV +" tvg-id="" tvg-logo="https://www.sporttv.pt/img/static/logos/sporttv-mais.svg" tvg-rec="", Sport TV + HD
 http://dns.acaidopara.net:8080/brunobr2/brasilusa/51993
 
 
@@ -107,25 +104,16 @@ http://dns.acaidopara.net:8080/brunobr2/brasilusa/51993
 
 #EXTINF:-1 group-title="Sport Tv 1" tvg-id="" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/sqxxtw1470409111.png" tvg-rec="", Sport Tv 1 HD
 http://dns.acaidopara.net:8080/brunobr2/brasilusa/1514
-
 #EXTINF:-1 group-title="Sport Tv 1" tvg-id="" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/sqxxtw1470409111.png" tvg-rec="", Sport Tv 1 HD
 http://dns.acaidopara.net:8080/brunobr2/brasilusa/1515
 
 #EXTINF:-1 group-title="Sport Tv 1" tvg-id="" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/sqxxtw1470409111.png" tvg-rec="", Sport Tv 1 HD
-http://dns.acaidopara.net:8080/907657480043/7850254630876/1514
-
-#EXTINF:-1 group-title="Sport Tv 1" tvg-id="" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/sqxxtw1470409111.png" tvg-rec="", Sport Tv 1 HD
-http://dns.acaidopara.net:8080/907657480043/7850254630876/1515
-
-#EXTINF:-1 group-title="Sport Tv 1" tvg-id="" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/sqxxtw1470409111.png" tvg-rec="", Sport Tv 1 HD
 http://dns.acaidopara.net:8080/George4899/Halas4899/1514
-
 #EXTINF:-1 group-title="Sport Tv 1" tvg-id="" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/sqxxtw1470409111.png" tvg-rec="", Sport Tv 1 HD
 http://dns.acaidopara.net:8080/George4899/Halas4899/1515
 
 #EXTINF:-1 group-title="Sport Tv 1" tvg-id="" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/sqxxtw1470409111.png" tvg-rec="", Sport Tv 1 HD
 http://dns.acaidopara.net:8080/7742847330/2847330774/1514
-
 #EXTINF:-1 group-title="Sport Tv 1" tvg-id="" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/sqxxtw1470409111.png" tvg-rec="", Sport Tv 1 HD
 http://dns.acaidopara.net:8080/7742847330/2847330774/1515
 
@@ -136,11 +124,6 @@ http://dns.acaidopara.net:8080/7742847330/2847330774/1515
 http://dns.acaidopara.net:8080/brunobr2/brasilusa/1517
 #EXTINF:-1 group-title="Sport Tv 2" tvg-id="" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/vpwuyu1470409212.png" tvg-rec="", Sport Tv 2 HD
 http://dns.acaidopara.net:8080/brunobr2/brasilusa/1518
-
-#EXTINF:-1 group-title="Sport Tv 2" tvg-id="" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/vpwuyu1470409212.png" tvg-rec="", Sport Tv 2 HD
-http://dns.acaidopara.net:8080/907657480043/7850254630876/1517
-#EXTINF:-1 group-title="Sport Tv 2" tvg-id="" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/vpwuyu1470409212.png" tvg-rec="", Sport Tv 2 HD
-http://dns.acaidopara.net:8080/907657480043/7850254630876/1518
 
 #EXTINF:-1 group-title="Sport Tv 2" tvg-id="" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/vpwuyu1470409212.png" tvg-rec="", Sport Tv 2 HD
 http://dns.acaidopara.net:8080/George4899/Halas4899/1517
@@ -161,11 +144,6 @@ http://dns.acaidopara.net:8080/brunobr2/brasilusa/1520
 http://dns.acaidopara.net:8080/brunobr2/brasilusa/1521
 
 #EXTINF:-1 group-title="Sport Tv 3" tvg-id="" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/wwsuqv1470409839.png" tvg-rec="", Sport Tv 3 HD
-http://dns.acaidopara.net:8080/907657480043/7850254630876/1520
-#EXTINF:-1 group-title="Sport Tv 3" tvg-id="" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/wwsuqv1470409839.png" tvg-rec="", Sport Tv 3 HD
-http://dns.acaidopara.net:8080/907657480043/7850254630876/1521
-
-#EXTINF:-1 group-title="Sport Tv 3" tvg-id="" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/wwsuqv1470409839.png" tvg-rec="", Sport Tv 3 HD
 http://dns.acaidopara.net:8080/George4899/Halas4899/1520
 #EXTINF:-1 group-title="Sport Tv 3" tvg-id="" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/wwsuqv1470409839.png" tvg-rec="", Sport Tv 3 HD
 http://dns.acaidopara.net:8080/George4899/Halas4899/1521
@@ -184,11 +162,6 @@ http://dns.acaidopara.net:8080/brunobr2/brasilusa/1523
 http://dns.acaidopara.net:8080/brunobr2/brasilusa/1524
 
 #EXTINF:-1 group-title="Sport Tv 4" tvg-id="" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/vuytwx1470409983.png" tvg-rec="", Sport Tv 4 HD
-http://dns.acaidopara.net:8080/907657480043/7850254630876/1523
-#EXTINF:-1 group-title="Sport Tv 4" tvg-id="" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/vuytwx1470409983.png" tvg-rec="", Sport Tv 4 HD
-http://dns.acaidopara.net:8080/907657480043/7850254630876/1524
-
-#EXTINF:-1 group-title="Sport Tv 4" tvg-id="" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/vuytwx1470409983.png" tvg-rec="", Sport Tv 4 HD
 http://dns.acaidopara.net:8080/George4899/Halas4899/1523
 #EXTINF:-1 group-title="Sport Tv 4" tvg-id="" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/vuytwx1470409983.png" tvg-rec="", Sport Tv 4 HD
 http://dns.acaidopara.net:8080/George4899/Halas4899/1524
@@ -204,12 +177,7 @@ http://dns.acaidopara.net:8080/7742847330/2847330774/1524
 #EXTINF:-1 group-title="Sport Tv 5" tvg-id="" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/uvpqvr1470410094.png" tvg-rec="", Sport Tv 5 HD
 http://dns.acaidopara.net:8080/brunobr2/brasilusa/1526
 #EXTINF:-1 group-title="Sport Tv 5" tvg-id="" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/uvpqvr1470410094.png" tvg-rec="", Sport Tv 5 HD
-http://dns.acaidopara.net:8080/brunobr2/brasilusa/1527
-
-#EXTINF:-1 group-title="Sport Tv 5" tvg-id="" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/uvpqvr1470410094.png" tvg-rec="", Sport Tv 5 HD
-http://dns.acaidopara.net:8080/907657480043/7850254630876/1526
-#EXTINF:-1 group-title="Sport Tv 5" tvg-id="" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/uvpqvr1470410094.png" tvg-rec="", Sport Tv 5 HD
-http://dns.acaidopara.net:8080/907657480043/7850254630876/1527
+http://dns.acaidopara.net:8080/brunobr2/brasilusa/15277
 
 #EXTINF:-1 group-title="Sport Tv 5" tvg-id="" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/uvpqvr1470410094.png" tvg-rec="", Sport Tv 5 HD
 http://dns.acaidopara.net:8080/George4899/Halas4899/1526
@@ -230,11 +198,6 @@ http://dns.acaidopara.net:8080/brunobr2/brasilusa/68314
 http://dns.acaidopara.net:8080/brunobr2/brasilusa/68315
 
 #EXTINF:-1 group-title="Sport Tv 6" tvg-id="" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/cjwfrr1659133957.png" tvg-rec="", Sport Tv 6 HD
-http://dns.acaidopara.net:8080/907657480043/7850254630876/68314
-#EXTINF:-1 group-title="Sport Tv 6" tvg-id="" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/cjwfrr1659133957.png" tvg-rec="", Sport Tv 6 HD
-http://dns.acaidopara.net:8080/907657480043/7850254630876/68315
-
-#EXTINF:-1 group-title="Sport Tv 6" tvg-id="" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/cjwfrr1659133957.png" tvg-rec="", Sport Tv 6 HD
 http://dns.acaidopara.net:8080/George4899/Halas4899/68314
 #EXTINF:-1 group-title="Sport Tv 6" tvg-id="" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/cjwfrr1659133957.png" tvg-rec="", Sport Tv 6 HD
 http://dns.acaidopara.net:8080/George4899/Halas4899/68315
@@ -249,9 +212,6 @@ http://dns.acaidopara.net:8080/7742847330/2847330774/68315
 
 #EXTINF:-1 group-title="NBA" tvg-id="" tvg-logo="https://www.nicepng.com/png/detail/89-893125_nba-logo-transparent-png-transparent-nba-logo-large.png" tvg-rec="", NBA HD
 http://dns.acaidopara.net:8080/brunobr2/brasilusa/45258
-
-#EXTINF:-1 group-title="NBA" tvg-id="" tvg-logo="https://www.nicepng.com/png/detail/89-893125_nba-logo-transparent-png-transparent-nba-logo-large.png" tvg-rec="", NBA HD
-http://dns.acaidopara.net:8080/907657480043/7850254630876/45258
 
 #EXTINF:-1 group-title="NBA" tvg-id="" tvg-logo="https://www.nicepng.com/png/detail/89-893125_nba-logo-transparent-png-transparent-nba-logo-large.png" tvg-rec="", NBA HD
 http://dns.acaidopara.net:8080/George4899/Halas4899/45258
@@ -270,22 +230,11 @@ http://dns.acaidopara.net:8080/brunobr2/brasilusa/1529
 http://dns.acaidopara.net:8080/brunobr2/brasilusa/1530
 
 #EXTINF:-1 group-title="Benfica Tv" tvg-id="" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/o89qgl1601130898.png" tvg-rec="", Benfica Tv UHD
-http://dns.acaidopara.net:8080/907657480043/7850254630876/1592
-#EXTINF:-1 group-title="Benfica Tv" tvg-id="" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/o89qgl1601130898.png" tvg-rec="", Benfica Tv HD
-http://dns.acaidopara.net:8080/907657480043/7850254630876/1529
-#EXTINF:-1 group-title="Benfica Tv" tvg-id="" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/o89qgl1601130898.png" tvg-rec="", Benfica Tv HD
-http://dns.acaidopara.net:8080/907657480043/7850254630876/1530
-
-
-
-#EXTINF:-1 group-title="Benfica Tv" tvg-id="" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/o89qgl1601130898.png" tvg-rec="", Benfica Tv UHD
 http://dns.acaidopara.net:8080/George4899/Halas4899/1592
 #EXTINF:-1 group-title="Benfica Tv" tvg-id="" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/o89qgl1601130898.png" tvg-rec="", Benfica Tv HD
 http://dns.acaidopara.net:8080/George4899/Halas4899/1529
 #EXTINF:-1 group-title="Benfica Tv" tvg-id="" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/o89qgl1601130898.png" tvg-rec="", Benfica Tv HD
 http://dns.acaidopara.net:8080/George4899/Halas4899/1530
-
-
 
 #EXTINF:-1 group-title="Benfica Tv" tvg-id="" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/o89qgl1601130898.png" tvg-rec="", Benfica Tv UHD
 http://dns.acaidopara.net:8080/7742847330/2847330774/1592
@@ -301,11 +250,6 @@ http://dns.acaidopara.net:8080/7742847330/2847330774/1530
 http://dns.acaidopara.net:8080/brunobr2/brasilusa/2377
 #EXTINF:-1 group-title="Eleven Sports 1" tvg-id="" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Eleven_Sports_1_Portugal.png" tvg-rec="", Eleven Sports 1 HD
 http://dns.acaidopara.net:8080/brunobr2/brasilusa/2375
-
-#EXTINF:-1 group-title="Eleven Sports 1" tvg-id="" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Eleven_Sports_1_Portugal.png" tvg-rec="", Eleven Sports 1 HD
-http://dns.acaidopara.net:8080/907657480043/7850254630876/2377
-#EXTINF:-1 group-title="Eleven Sports 1" tvg-id="" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Eleven_Sports_1_Portugal.png" tvg-rec="", Eleven Sports 1 HD
-http://dns.acaidopara.net:8080/907657480043/7850254630876/2375
 
 #EXTINF:-1 group-title="Eleven Sports 1" tvg-id="" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Eleven_Sports_1_Portugal.png" tvg-rec="", Eleven Sports 1 HD
 http://dns.acaidopara.net:8080/George4899/Halas4899/2377
@@ -326,11 +270,6 @@ http://dns.acaidopara.net:8080/brunobr2/brasilusa/2385
 http://dns.acaidopara.net:8080/brunobr2/brasilusa/2382
 
 #EXTINF:-1 group-title="Eleven Sports 2" tvg-id="" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Eleven_Sports_2_Portugal.png" tvg-rec="", Eleven Sports 2 HD
-http://dns.acaidopara.net:8080/907657480043/7850254630876/2385
-#EXTINF:-1 group-title="Eleven Sports 2" tvg-id="" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Eleven_Sports_2_Portugal.png" tvg-rec="", Eleven Sports 2 HD
-http://dns.acaidopara.net:8080/907657480043/7850254630876/2382
-
-#EXTINF:-1 group-title="Eleven Sports 2" tvg-id="" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Eleven_Sports_2_Portugal.png" tvg-rec="", Eleven Sports 2 HD
 http://dns.acaidopara.net:8080/George4899/Halas4899/2385
 #EXTINF:-1 group-title="Eleven Sports 2" tvg-id="" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Eleven_Sports_2_Portugal.png" tvg-rec="", Eleven Sports 2 HD
 http://dns.acaidopara.net:8080/George4899/Halas4899/2382
@@ -347,11 +286,6 @@ http://dns.acaidopara.net:8080/7742847330/2847330774/2382
 http://dns.acaidopara.net:8080/brunobr2/brasilusa/2391
 #EXTINF:-1 group-title="Eleven Sports 3" tvg-id="" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Eleven_Sports_3_Portugal.png" tvg-rec="", Eleven Sports 3 HD
 http://dns.acaidopara.net:8080/brunobr2/brasilusa/2390
-
-#EXTINF:-1 group-title="Eleven Sports 3" tvg-id="" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Eleven_Sports_3_Portugal.png" tvg-rec="", Eleven Sports 3 HD
-http://dns.acaidopara.net:8080/907657480043/7850254630876/2391
-#EXTINF:-1 group-title="Eleven Sports 3" tvg-id="" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Eleven_Sports_3_Portugal.png" tvg-rec="", Eleven Sports 3 HD
-http://dns.acaidopara.net:8080/907657480043/7850254630876/2390
 
 #EXTINF:-1 group-title="Eleven Sports 3" tvg-id="" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Eleven_Sports_3_Portugal.png" tvg-rec="", Eleven Sports 3 HD
 http://dns.acaidopara.net:8080/George4899/Halas4899/2391
@@ -372,12 +306,6 @@ http://dns.acaidopara.net:8080/brunobr2/brasilusa/2398
 http://dns.acaidopara.net:8080/brunobr2/brasilusa/2396
 
 #EXTINF:-1 group-title="Eleven Sports 4" tvg-id="" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Eleven_Sports_4_Portugal.png" tvg-rec="", Eleven Sports 4 HD
-http://dns.acaidopara.net:8080/907657480043/7850254630876/2398
-#EXTINF:-1 group-title="Eleven Sports 4" tvg-id="" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Eleven_Sports_4_Portugal.png" tvg-rec="", Eleven Sports 4 HD
-http://dns.acaidopara.net:8080/907657480043/7850254630876/2396
-
-
-#EXTINF:-1 group-title="Eleven Sports 4" tvg-id="" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Eleven_Sports_4_Portugal.png" tvg-rec="", Eleven Sports 4 HD
 http://dns.acaidopara.net:8080/George4899/Halas4899/2398
 #EXTINF:-1 group-title="Eleven Sports 4" tvg-id="" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Eleven_Sports_4_Portugal.png" tvg-rec="", Eleven Sports 4 HD
 http://dns.acaidopara.net:8080/George4899/Halas4899/2396
@@ -396,11 +324,6 @@ http://dns.acaidopara.net:8080/brunobr2/brasilusa/2405
 http://dns.acaidopara.net:8080/brunobr2/brasilusa/2402
 
 #EXTINF:-1 group-title="Eleven Sports 5" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/93/Eleven_Sports_5.svg" tvg-rec="", Eleven Sports 5 HD
-http://dns.acaidopara.net:8080/907657480043/7850254630876/2405
-#EXTINF:-1 group-title="Eleven Sports 5" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/93/Eleven_Sports_5.svg" tvg-rec="", Eleven Sports 5 HD
-http://dns.acaidopara.net:8080/907657480043/7850254630876/2402
-
-#EXTINF:-1 group-title="Eleven Sports 5" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/93/Eleven_Sports_5.svg" tvg-rec="", Eleven Sports 5 HD
 http://dns.acaidopara.net:8080/George4899/Halas4899/2405
 #EXTINF:-1 group-title="Eleven Sports 5" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/93/Eleven_Sports_5.svg" tvg-rec="", Eleven Sports 5 HD
 http://dns.acaidopara.net:8080/George4899/Halas4899/2402
@@ -417,11 +340,6 @@ http://dns.acaidopara.net:8080/7742847330/2847330774/2402
 http://dns.acaidopara.net:8080/brunobr2/brasilusa/2411
 #EXTINF:-1 group-title="Eleven Sports 6" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0d/Eleven_Sports_6.svg" tvg-rec="", Eleven Sports 6 HD
 http://dns.acaidopara.net:8080/brunobr2/brasilusa/2409
-
-#EXTINF:-1 group-title="Eleven Sports 6" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0d/Eleven_Sports_6.svg" tvg-rec="", Eleven Sports 6 HD
-http://dns.acaidopara.net:8080/907657480043/7850254630876/2411
-#EXTINF:-1 group-title="Eleven Sports 6" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0d/Eleven_Sports_6.svg" tvg-rec="", Eleven Sports 6 HD
-http://dns.acaidopara.net:8080/907657480043/7850254630876/2409
 
 #EXTINF:-1 group-title="Eleven Sports 6" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0d/Eleven_Sports_6.svg" tvg-rec="", Eleven Sports 6 HD
 http://dns.acaidopara.net:8080/George4899/Halas4899/2411
