@@ -1,5 +1,63 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", 
+
+<<<<<<<<< GENERALISTAS >>>>>>>>>
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Generalistas", RTP 1
+http://327609061612793647.ofd0711.xyz:80/live/fe123330/nF4bKYx5aRHe/793647.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Generalistas", RTP 2 HD
+http://327609061612707950.ofd0711.xyz:80/live/fe123330/nF4bKYx5aRHe/707950.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Generalistas", SIC
+http://327609061612339540.ofd0711.xyz:80/live/fe123330/nF4bKYx5aRHe/339540.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Generalistas", TVI HD
+http://327609061612886867.ofd0711.xyz:80/live/fe123330/nF4bKYx5aRHe/886867.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Generalistas", TVI
+http://327609061612408691.ofd0711.xyz:80/live/fe123330/nF4bKYx5aRHe/408691.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Generalistas", RTP 3
+http://327609061612453533.ofd0711.xyz:80/live/fe123330/nF4bKYx5aRHe/453533.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Generalistas", SIC NOTICIAS HD
+http://327609061612886861.ofd0711.xyz:80/live/fe123330/nF4bKYx5aRHe/886861.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Generalistas", CNN HD
+http://327609061612882117.ofd0711.xyz:80/live/fe123330/nF4bKYx5aRHe/882117.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Generalistas", CNN
+http://327609061612799131.ofd0711.xyz:80/live/fe123330/nF4bKYx5aRHe/799131.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Generalistas", PORTO CANAL HD
+http://327609061612884558.ofd0711.xyz:80/live/fe123330/nF4bKYx5aRHe/884558.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Generalistas", CMTV HD
+http://327609061612744485.ofd0711.xyz:80/live/fe123330/nF4bKYx5aRHe/744485.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Generalistas", RTP AÇORES
+http://327609061612806321.ofd0711.xyz:80/live/fe123330/nF4bKYx5aRHe/806321.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Generalistas", RTP MADEIRA
+http://327609061612755836.ofd0711.xyz:80/live/fe123330/nF4bKYx5aRHe/755836.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Generalistas", RTP AFRICA
+http://327609061612802489.ofd0711.xyz:80/live/fe123330/nF4bKYx5aRHe/802489.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Generalistas", EURONEWS
+http://327609061612883946.ofd0711.xyz:80/live/fe123330/nF4bKYx5aRHe/883946.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Generalistas", GLOBO NEWS HD
+http://327609061612876358.ofd0711.xyz:80/live/fe123330/nF4bKYx5aRHe/876358.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Generalistas", GLOBO HD
+http://327609061612855653.ofd0711.xyz:80/live/fe123330/nF4bKYx5aRHe/855653.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Generalistas", TV RECORD HD
+http://327609061612802503.ofd0711.xyz:80/live/fe123330/nF4bKYx5aRHe/802503.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Generalistas", TPA
+http://327609061612802500.ofd0711.xyz:80/live/fe123330/nF4bKYx5aRHe/802500.ts
+
+
 <<<<<<<<< Desporto >>>>>>>>>
 <<<<<<<<< Sport TV + >>>>>>>>>
 
@@ -90,9 +148,6 @@ http://327609061612848240.ofd0711.xyz:80/live/fe123330/nF4bKYx5aRHe/848240.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", ELEVEN 1 HD
 http://327609061612798232.ofd0711.xyz:80/live/fe123330/nF4bKYx5aRHe/798232.ts
 
-
-
-
 <<<<<<<<< Eleven Sport 2 >>>>>>>>>
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", ELEVEN 2 HD
@@ -140,14 +195,12 @@ http://327609061612806570.ofd0711.xyz:80/live/fe123330/nF4bKYx5aRHe/806570.ts
 
 <<<<<<<<< Sporting TV >>>>>>>>>
 
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", SPORTING TV HD
 http://327609061612802498.ofd0711.xyz:80/live/fe123330/nF4bKYx5aRHe/802498.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", SPORTING TV HD
 http://327609061612877481.ofd0711.xyz:80/live/fe123330/nF4bKYx5aRHe/877481.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", SPORTING TV
 http://327609061612319007.ofd0711.xyz:80/live/fe123330/nF4bKYx5aRHe/319007.ts
-
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", CANAL 11 HD
 http://327609061612879081.ofd0711.xyz:80/live/fe123330/nF4bKYx5aRHe/879081.ts
@@ -237,65 +290,6 @@ http://327609061612864794.ofd0711.xyz:80/live/fe123330/nF4bKYx5aRHe/864794.ts
 http://327609061612623304.ofd0711.xyz:80/live/fe123330/nF4bKYx5aRHe/623304.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes", AMC HD
 http://327609061612867925.ofd0711.xyz:80/live/fe123330/nF4bKYx5aRHe/867925.ts
-
-<<<<<<<<< GENERALISTAS >>>>>>>>>
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Generalistas", RTP 1
-http://327609061612793647.ofd0711.xyz:80/live/fe123330/nF4bKYx5aRHe/793647.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Generalistas", RTP 2 HD
-http://327609061612707950.ofd0711.xyz:80/live/fe123330/nF4bKYx5aRHe/707950.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Generalistas", SIC
-http://327609061612339540.ofd0711.xyz:80/live/fe123330/nF4bKYx5aRHe/339540.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Generalistas", TVI HD
-http://327609061612886867.ofd0711.xyz:80/live/fe123330/nF4bKYx5aRHe/886867.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Generalistas", TVI
-http://327609061612408691.ofd0711.xyz:80/live/fe123330/nF4bKYx5aRHe/408691.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Generalistas", RTP 3
-http://327609061612453533.ofd0711.xyz:80/live/fe123330/nF4bKYx5aRHe/453533.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Generalistas", SIC NOTICIAS HD
-http://327609061612886861.ofd0711.xyz:80/live/fe123330/nF4bKYx5aRHe/886861.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Generalistas", CNN HD
-http://327609061612882117.ofd0711.xyz:80/live/fe123330/nF4bKYx5aRHe/882117.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Generalistas", CNN
-http://327609061612799131.ofd0711.xyz:80/live/fe123330/nF4bKYx5aRHe/799131.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Generalistas", PORTO CANAL HD
-http://327609061612884558.ofd0711.xyz:80/live/fe123330/nF4bKYx5aRHe/884558.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Generalistas", CMTV HD
-http://327609061612744485.ofd0711.xyz:80/live/fe123330/nF4bKYx5aRHe/744485.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Generalistas", RTP AÇORES
-http://327609061612806321.ofd0711.xyz:80/live/fe123330/nF4bKYx5aRHe/806321.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Generalistas", RTP MADEIRA
-http://327609061612755836.ofd0711.xyz:80/live/fe123330/nF4bKYx5aRHe/755836.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Generalistas", RTP AFRICA
-http://327609061612802489.ofd0711.xyz:80/live/fe123330/nF4bKYx5aRHe/802489.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Generalistas", EURONEWS
-http://327609061612883946.ofd0711.xyz:80/live/fe123330/nF4bKYx5aRHe/883946.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Generalistas", GLOBO NEWS HD
-http://327609061612876358.ofd0711.xyz:80/live/fe123330/nF4bKYx5aRHe/876358.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Generalistas", GLOBO HD
-http://327609061612855653.ofd0711.xyz:80/live/fe123330/nF4bKYx5aRHe/855653.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Generalistas", TV RECORD HD
-http://327609061612802503.ofd0711.xyz:80/live/fe123330/nF4bKYx5aRHe/802503.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Generalistas", TPA
-http://327609061612802500.ofd0711.xyz:80/live/fe123330/nF4bKYx5aRHe/802500.ts
-
-
 
 <<<<<<<<< ENTRETENIMENTO >>>>>>>>>
 
@@ -459,7 +453,6 @@ http://327609061612857687.ofd0711.xyz:80/live/fe123330/nF4bKYx5aRHe/857687.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Kids", PT: CARTOONITO
 http://327609061612848457.ofd0711.xyz:80/live/fe123330/nF4bKYx5aRHe/848457.ts
-
 
 <<<<<<<<< MUSICA >>>>>>>>>
 
