@@ -22,7 +22,7 @@ http://327609061612453533.ofd0711.xyz:80/live/fe123330/nF4bKYx5aRHe/453533.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Generalistas", SIC NOTICIAS
 http://327609061612886861.ofd0711.xyz:80/live/fe123330/nF4bKYx5aRHe/886861.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Generalistas", CNN HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Generalistas", CNN
 http://327609061612882117.ofd0711.xyz:80/live/fe123330/nF4bKYx5aRHe/882117.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Generalistas", CNN
 http://327609061612799131.ofd0711.xyz:80/live/fe123330/nF4bKYx5aRHe/799131.ts
@@ -30,7 +30,7 @@ http://327609061612799131.ofd0711.xyz:80/live/fe123330/nF4bKYx5aRHe/799131.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Generalistas", PORTO CANAL
 http://327609061612884558.ofd0711.xyz:80/live/fe123330/nF4bKYx5aRHe/884558.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Generalistas", CMTV HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Generalistas", CMTV
 http://327609061612744485.ofd0711.xyz:80/live/fe123330/nF4bKYx5aRHe/744485.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Generalistas", RTP AÇORES
@@ -456,7 +456,7 @@ http://327609061612848457.ofd0711.xyz:80/live/fe123330/nF4bKYx5aRHe/848457.ts
 
 <<<<<<<<< MUSICA >>>>>>>>>
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Musica", ALMA LUSA
+#EXTINF:-1 tvg-id="AlmaLusa.pt" tvg-name="ALMA LUSA" tvg-logo="" group-title="Musica", ALMA LUSA
 http://327609061612886644.ofd0711.xyz:80/live/fe123330/nF4bKYx5aRHe/886644.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Musica", AFRO MUSIC
