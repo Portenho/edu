@@ -5,13 +5,13 @@
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Generalistas", RTP 1
 http://327609061612793647.ofd0711.xyz:80/live/fe123330/nF4bKYx5aRHe/793647.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Generalistas", RTP 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Generalistas", RTP 2
 http://327609061612707950.ofd0711.xyz:80/live/fe123330/nF4bKYx5aRHe/707950.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Generalistas", SIC
 http://327609061612339540.ofd0711.xyz:80/live/fe123330/nF4bKYx5aRHe/339540.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Generalistas", TVI HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Generalistas", TVI
 http://327609061612886867.ofd0711.xyz:80/live/fe123330/nF4bKYx5aRHe/886867.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Generalistas", TVI
 http://327609061612408691.ofd0711.xyz:80/live/fe123330/nF4bKYx5aRHe/408691.ts
@@ -19,7 +19,7 @@ http://327609061612408691.ofd0711.xyz:80/live/fe123330/nF4bKYx5aRHe/408691.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Generalistas", RTP 3
 http://327609061612453533.ofd0711.xyz:80/live/fe123330/nF4bKYx5aRHe/453533.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Generalistas", SIC NOTICIAS HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Generalistas", SIC NOTICIAS
 http://327609061612886861.ofd0711.xyz:80/live/fe123330/nF4bKYx5aRHe/886861.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Generalistas", CNN HD
@@ -27,7 +27,7 @@ http://327609061612882117.ofd0711.xyz:80/live/fe123330/nF4bKYx5aRHe/882117.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Generalistas", CNN
 http://327609061612799131.ofd0711.xyz:80/live/fe123330/nF4bKYx5aRHe/799131.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Generalistas", PORTO CANAL HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Generalistas", PORTO CANAL
 http://327609061612884558.ofd0711.xyz:80/live/fe123330/nF4bKYx5aRHe/884558.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Generalistas", CMTV HD
@@ -45,13 +45,13 @@ http://327609061612802489.ofd0711.xyz:80/live/fe123330/nF4bKYx5aRHe/802489.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Generalistas", EURONEWS
 http://327609061612883946.ofd0711.xyz:80/live/fe123330/nF4bKYx5aRHe/883946.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Generalistas", GLOBO NEWS HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Generalistas", GLOBO NEWS
 http://327609061612876358.ofd0711.xyz:80/live/fe123330/nF4bKYx5aRHe/876358.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Generalistas", GLOBO HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Generalistas", GLOBO
 http://327609061612855653.ofd0711.xyz:80/live/fe123330/nF4bKYx5aRHe/855653.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Generalistas", TV RECORD HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Generalistas", TV RECORD
 http://327609061612802503.ofd0711.xyz:80/live/fe123330/nF4bKYx5aRHe/802503.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Generalistas", TPA
@@ -61,61 +61,61 @@ http://327609061612802500.ofd0711.xyz:80/live/fe123330/nF4bKYx5aRHe/802500.ts
 <<<<<<<<< Desporto >>>>>>>>>
 <<<<<<<<< Sport TV + >>>>>>>>>
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", SPORT TV +
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", SPORT TV+
 http://327609061612777315.ofd0711.xyz:80/live/fe123330/nF4bKYx5aRHe/777315.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", SPORT TV +
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", SPORT TV+
 http://327609061612785070.ofd0711.xyz:80/live/fe123330/nF4bKYx5aRHe/785070.ts
 
 <<<<<<<<< Sport TV 1 >>>>>>>>>
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", SPORT TV 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", SPORT TV 1
 http://327609061612802499.ofd0711.xyz:80/live/fe123330/nF4bKYx5aRHe/802499.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", SPORT TV 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", SPORT TV 1
 http://327609061612871946.ofd0711.xyz:80/live/fe123330/nF4bKYx5aRHe/871946.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", SPORT TV 1
 http://327609061612623298.ofd0711.xyz:80/live/fe123330/nF4bKYx5aRHe/623298.ts
 
 <<<<<<<<< Sport TV 2 >>>>>>>>>
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", SPORT TV 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", SPORT TV 2
 http://327609061612887017.ofd0711.xyz:80/live/fe123330/nF4bKYx5aRHe/887017.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", SPORT TV 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", SPORT TV 2
 http://327609061612318977.ofd0711.xyz:80/live/fe123330/nF4bKYx5aRHe/318977.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", SPORT TV 2
 http://327609061612798248.ofd0711.xyz:80/live/fe123330/nF4bKYx5aRHe/798248.ts
 
 <<<<<<<<< Sport TV 3 >>>>>>>>>
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", SPORT TV 3 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", SPORT TV 3
 http://327609061612860062.ofd0711.xyz:80/live/fe123330/nF4bKYx5aRHe/860062.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", SPORT TV 3 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", SPORT TV 3
 http://327609061612882934.ofd0711.xyz:80/live/fe123330/nF4bKYx5aRHe/882934.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", SPORT TV 3
 http://327609061612339545.ofd0711.xyz:80/live/fe123330/nF4bKYx5aRHe/339545.ts
 
 <<<<<<<<< Sport TV 4 >>>>>>>>>
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", SPORT TV 4 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", SPORT TV 4
 http://327609061612868953.ofd0711.xyz:80/live/fe123330/nF4bKYx5aRHe/868953.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", SPORT TV 4 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", SPORT TV 4
 http://327609061612874009.ofd0711.xyz:80/live/fe123330/nF4bKYx5aRHe/874009.tsI
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", SPORT TV 4
 http://327609061612835012.ofd0711.xyz:80/live/fe123330/nF4bKYx5aRHe/835012.ts
 
 <<<<<<<<< Sport TV 5 >>>>>>>>>
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", SPORT TV 5 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", SPORT TV 5
 http://327609061612879799.ofd0711.xyz:80/live/fe123330/nF4bKYx5aRHe/879799.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", SPORT TV 5 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", SPORT TV 5
 http://327609061612777317.ofd0711.xyz:80/live/fe123330/nF4bKYx5aRHe/777317.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", SPORT TV 5
 http://327609061612318994.ofd0711.xyz:80/live/fe123330/nF4bKYx5aRHe/318994.ts
 
 <<<<<<<<< Sport TV 6 >>>>>>>>>
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", SPORT TV 6 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", SPORT TV 6
 http://327609061612416381.ofd0711.xyz:80/live/fe123330/nF4bKYx5aRHe/416381.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", SPORT TV 6 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", SPORT TV 6
 http://327609061612860063.ofd0711.xyz:80/live/fe123330/nF4bKYx5aRHe/860063.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", SPORT TV 6
 http://327609061612879343.ofd0711.xyz:80/live/fe123330/nF4bKYx5aRHe/879343.ts
@@ -123,91 +123,91 @@ http://327609061612879343.ofd0711.xyz:80/live/fe123330/nF4bKYx5aRHe/879343.ts
 
 <<<<<<<<< Sport TV NBA >>>>>>>>>
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", NBA HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", NBA
 http://327609061612690408.ofd0711.xyz:80/live/fe123330/nF4bKYx5aRHe/690408.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", NBA HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", NBA
 http://327609061612437114.ofd0711.xyz:80/live/fe123330/nF4bKYx5aRHe/437114.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", NBA
 http://327609061612437114.ofd0711.xyz:80/live/fe123330/nF4bKYx5aRHe/873574.ts
 
 <<<<<<<<< Benfica TV >>>>>>>>>
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", BENFICA TV HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", BTV
 http://327609061612851883.ofd0711.xyz:80/live/fe123330/nF4bKYx5aRHe/851883.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", BENFICA TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", BTV
 http://327609061612868629.ofd0711.xyz:80/live/fe123330/nF4bKYx5aRHe/868629.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", BENFICA TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", BTV
 http://327609061612869253.ofd0711.xyz:80/live/fe123330/nF4bKYx5aRHe/869253.ts
 
 <<<<<<<<< Eleven Sport 1 >>>>>>>>>
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", ELEVEN 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", ELEVEN 1
 http://327609061612779952.ofd0711.xyz:80/live/fe123330/nF4bKYx5aRHe/779952.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", ELEVEN 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", ELEVEN 1
 http://327609061612848240.ofd0711.xyz:80/live/fe123330/nF4bKYx5aRHe/848240.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", ELEVEN 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", ELEVEN 1
 http://327609061612798232.ofd0711.xyz:80/live/fe123330/nF4bKYx5aRHe/798232.ts
 
 <<<<<<<<< Eleven Sport 2 >>>>>>>>>
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", ELEVEN 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", ELEVEN 2
 http://327609061612873576.ofd0711.xyz:80/live/fe123330/nF4bKYx5aRHe/873576.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", ELEVEN 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", ELEVEN 2
 http://327609061612880889.ofd0711.xyz:80/live/fe123330/nF4bKYx5aRHe/880889.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", ELEVEN 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", ELEVEN 2
 http://327609061612885051.ofd0711.xyz:80/live/fe123330/nF4bKYx5aRHe/885051.ts
 
 <<<<<<<<< Eleven Sport 3 >>>>>>>>>
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", ELEVEN 3 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", ELEVEN 3
 http://327609061612882933.ofd0711.xyz:80/live/fe123330/nF4bKYx5aRHe/882933.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", ELEVEN 3 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", ELEVEN 3
 http://327609061612836905.ofd0711.xyz:80/live/fe123330/nF4bKYx5aRHe/836905.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", ELEVEN 3
 http://327609061612845748.ofd0711.xyz:80/live/fe123330/nF4bKYx5aRHe/845748.ts
 
 <<<<<<<<< Eleven Sport 4 >>>>>>>>>
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", ELEVEN 4 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", ELEVEN 4
 http://327609061612833977.ofd0711.xyz:80/live/fe123330/nF4bKYx5aRHe/833977.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", ELEVEN 4 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", ELEVEN 4
 http://327609061612845749.ofd0711.xyz:80/live/fe123330/nF4bKYx5aRHe/845749.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", ELEVEN 4 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", ELEVEN 4
 http://327609061612755739.ofd0711.xyz:80/live/fe123330/nF4bKYx5aRHe/755739.ts
 
 <<<<<<<<< Eleven Sport 5 >>>>>>>>>
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", ELEVEN 5 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", ELEVEN 5
 http://327609061612885054.ofd0711.xyz:80/live/fe123330/nF4bKYx5aRHe/885054.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", ELEVEN 5 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", ELEVEN 5
 http://327609061612880892.ofd0711.xyz:80/live/fe123330/nF4bKYx5aRHe/880892.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", ELEVEN 5 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", ELEVEN 5
 http://327609061612886857.ofd0711.xyz:80/live/fe123330/nF4bKYx5aRHe/886857.ts
 
 <<<<<<<<< Eleven Sport 6 >>>>>>>>>
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", ELEVEN 6 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", ELEVEN 6
 http://327609061612852924.ofd0711.xyz:80/live/fe123330/nF4bKYx5aRHe/852924.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", ELEVEN 6 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", ELEVEN 6
 http://327609061612845751.ofd0711.xyz:80/live/fe123330/nF4bKYx5aRHe/845751.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", ELEVEN 6 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", ELEVEN 6
 http://327609061612806570.ofd0711.xyz:80/live/fe123330/nF4bKYx5aRHe/806570.ts
 
 <<<<<<<<< Sporting TV >>>>>>>>>
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", SPORTING TV HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", SPORTING TV
 http://327609061612802498.ofd0711.xyz:80/live/fe123330/nF4bKYx5aRHe/802498.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", SPORTING TV HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", SPORTING TV
 http://327609061612877481.ofd0711.xyz:80/live/fe123330/nF4bKYx5aRHe/877481.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", SPORTING TV
 http://327609061612319007.ofd0711.xyz:80/live/fe123330/nF4bKYx5aRHe/319007.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", CANAL 11 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", CANAL 11
 http://327609061612879081.ofd0711.xyz:80/live/fe123330/nF4bKYx5aRHe/879081.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", CANAL 11 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", CANAL 11
 http://327609061612837385.ofd0711.xyz:80/live/fe123330/nF4bKYx5aRHe/837385.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", EUROSPORT 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", EUROSPORT 1
 http://327609061612875511.ofd0711.xyz:80/live/fe123330/nF4bKYx5aRHe/875511.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", EUROSPORT 1
 http://327609061612882105.ofd0711.xyz:80/live/fe123330/nF4bKYx5aRHe/882105.ts
@@ -217,7 +217,7 @@ http://327609061612755751.ofd0711.xyz:80/live/fe123330/nF4bKYx5aRHe/755751.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", EUROSPORT 2
 http://327609061612883209.ofd0711.xyz:80/live/fe123330/nF4bKYx5aRHe/883209.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", A BOLA TV HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", A BOLA TV
 http://327609061612799113.ofd0711.xyz:80/live/fe123330/nF4bKYx5aRHe/799113.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", A BOLA TV
 http://327609061612866689.ofd0711.xyz:80/live/fe123330/nF4bKYx5aRHe/866689.ts
@@ -225,70 +225,70 @@ http://327609061612866689.ofd0711.xyz:80/live/fe123330/nF4bKYx5aRHe/866689.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", PFC
 http://327609061612755818.ofd0711.xyz:80/live/fe123330/nF4bKYx5aRHe/755818.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", COMBATE HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", COMBATE
 http://327609061612880247.ofd0711.xyz:80/live/fe123330/nF4bKYx5aRHe/880247.ts
 
 <<<<<<<<< FILMES >>>>>>>>>
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes", TVCINE TOP HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes", TVCINE TOP
 http://327609061612838702.ofd0711.xyz:80/live/fe123330/nF4bKYx5aRHe/838702.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes", TVCINE TOP HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes", TVCINE TOP
 http://327609061612864815.ofd0711.xyz:80/live/fe123330/nF4bKYx5aRHe/864815.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes", TVCINE EDITION HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes", TVCINE EDITION
 http://327609061612755911.ofd0711.xyz:80/live/fe123330/nF4bKYx5aRHe/755911.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes", TVCINE EDITION
 http://327609061612755898.ofd0711.xyz:80/live/fe123330/nF4bKYx5aRHe/755898.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes", TVCINE EMOTION HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes", TVCINE EMOTION
 http://327609061612871403.ofd0711.xyz:80/live/fe123330/nF4bKYx5aRHe/871403.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes", TVCINE EMOTION HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes", TVCINE EMOTION
 http://327609061612865426.ofd0711.xyz:80/live/fe123330/nF4bKYx5aRHe/865426.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes", TVCINE ACTION HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes", TVCINE ACTION
 http://327609061612800703.ofd0711.xyz:80/live/fe123330/nF4bKYx5aRHe/800703.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes", TVCINE ACTION HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes", TVCINE ACTION
 http://327609061612854765.ofd0711.xyz:80/live/fe123330/nF4bKYx5aRHe/854765.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes", NOS STUDIOS HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes", NOS STUDIOS
 http://327609061612875515.ofd0711.xyz:80/live/fe123330/nF4bKYx5aRHe/875515.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes", NOS STUDIOS HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes", NOS STUDIOS
 http://327609061612879082.ofd0711.xyz:80/live/fe123330/nF4bKYx5aRHe/879082.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes", HOLLYWOOD HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes", HOLLYWOOD
 http://327609061612886860.ofd0711.xyz:80/live/fe123330/nF4bKYx5aRHe/886860.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes", HOLLYWOOD HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes", HOLLYWOOD
 http://327609061612374678.ofd0711.xyz:80/live/fe123330/nF4bKYx5aRHe/374678.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes", CINEMUNDO HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes", CINEMUNDO
 http://327609061612794928.ofd0711.xyz:80/live/fe123330/nF4bKYx5aRHe/794928.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes", CINEMUNDO
 http://327609061612799130.ofd0711.xyz:80/live/fe123330/nF4bKYx5aRHe/799130.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes", AXN HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes", AXN
 http://327609061612856211.ofd0711.xyz:80/live/fe123330/nF4bKYx5aRHe/856211.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes", AXN MOVIES HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes", AXN MOVIES
 http://327609061612339490.ofd0711.xyz:80/live/fe123330/nF4bKYx5aRHe/339490.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes", AXN MOVIES HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes", AXN MOVIES
 http://327609061612880241.ofd0711.xyz:80/live/fe123330/nF4bKYx5aRHe/880241.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes", AXN WHITE HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes", AXN WHITE
 http://327609061612886853.ofd0711.xyz:80/live/fe123330/nF4bKYx5aRHe/886853.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes", STAR HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes", STAR
 http://327609061612877009.ofd0711.xyz:80/live/fe123330/nF4bKYx5aRHe/877009.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes", STAR MOVIES HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes", STAR MOVIES
 http://327609061612849654.ofd0711.xyz:80/live/fe123330/nF4bKYx5aRHe/849654.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes", STAR LIFE HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes", STAR LIFE
 http://327609061612802470.ofd0711.xyz:80/live/fe123330/nF4bKYx5aRHe/802470.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes", STAR LIFE
 http://327609061612874003.ofd0711.xyz:80/live/fe123330/nF4bKYx5aRHe/874003.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes", STAR COMEDY HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes", STAR COMEDY
 http://327609061612780278.ofd0711.xyz:80/live/fe123330/nF4bKYx5aRHe/780278.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes", STAR CRIME HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes", STAR CRIME
 http://327609061612864794.ofd0711.xyz:80/live/fe123330/nF4bKYx5aRHe/864794.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes", SYFY
 http://327609061612623304.ofd0711.xyz:80/live/fe123330/nF4bKYx5aRHe/623304.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes", AMC HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes", AMC
 http://327609061612867925.ofd0711.xyz:80/live/fe123330/nF4bKYx5aRHe/867925.ts
 
 <<<<<<<<< ENTRETENIMENTO >>>>>>>>>
