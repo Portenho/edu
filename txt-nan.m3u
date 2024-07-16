@@ -3,9 +3,9 @@
 <<<<<<<<< Desporto >>>>>>>>>
 <<<<<<<<< Sport TV + >>>>>>>>>
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", SPORT TV + HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", SPORT TV +
 http://327609061612777315.ofd0711.xyz:80/live/fe123330/nF4bKYx5aRHe/777315.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", SPORT TV+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", SPORT TV +
 http://327609061612785070.ofd0711.xyz:80/live/fe123330/nF4bKYx5aRHe/785070.ts
 
 <<<<<<<<< Sport TV 1 >>>>>>>>>
@@ -14,7 +14,7 @@ http://327609061612785070.ofd0711.xyz:80/live/fe123330/nF4bKYx5aRHe/785070.ts
 http://327609061612802499.ofd0711.xyz:80/live/fe123330/nF4bKYx5aRHe/802499.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", SPORT TV 1 HD
 http://327609061612871946.ofd0711.xyz:80/live/fe123330/nF4bKYx5aRHe/871946.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", SPORT TV 1 SD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", SPORT TV 1
 http://327609061612623298.ofd0711.xyz:80/live/fe123330/nF4bKYx5aRHe/623298.ts
 
 <<<<<<<<< Sport TV 2 >>>>>>>>>
