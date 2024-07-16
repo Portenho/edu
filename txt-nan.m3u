@@ -123,20 +123,20 @@ http://327609061612879343.ofd0711.xyz:80/live/fe123330/nF4bKYx5aRHe/879343.ts
 
 <<<<<<<<< Sport TV NBA >>>>>>>>>
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", NBA
+#EXTINF:-1 tvg-id="NBA.pt" tvg-name="NBA" tvg-logo="" group-title="Desporto", NBA
 http://327609061612690408.ofd0711.xyz:80/live/fe123330/nF4bKYx5aRHe/690408.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", NBA
+#EXTINF:-1 tvg-id="NBA.pt" tvg-name="NBA" tvg-logo="" group-title="Desporto", NBA
 http://327609061612437114.ofd0711.xyz:80/live/fe123330/nF4bKYx5aRHe/437114.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", NBA
+#EXTINF:-1 tvg-id="NBA.pt" tvg-name="NBA" tvg-logo="" group-title="Desporto", NBA
 http://327609061612437114.ofd0711.xyz:80/live/fe123330/nF4bKYx5aRHe/873574.ts
 
 <<<<<<<<< Benfica TV >>>>>>>>>
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", BTV
+#EXTINF:-1 tvg-id="BTVMulticamaras.pt" tvg-name="BenficaTV Multicâmaras" tvg-logo="" group-title="Desporto", BTV
 http://327609061612851883.ofd0711.xyz:80/live/fe123330/nF4bKYx5aRHe/851883.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", BTV
+#EXTINF:-1 tvg-id="BTVMulticamaras.pt" tvg-name="BenficaTV Multicâmaras" tvg-logo="" group-title="Desporto", BTV
 http://327609061612868629.ofd0711.xyz:80/live/fe123330/nF4bKYx5aRHe/868629.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", BTV
+#EXTINF:-1 tvg-id="BTV.pt" tvg-name="" tvg-logo="BenficaTV" group-title="Desporto", BTV
 http://327609061612869253.ofd0711.xyz:80/live/fe123330/nF4bKYx5aRHe/869253.ts
 
 <<<<<<<<< Eleven Sport 1 >>>>>>>>>
