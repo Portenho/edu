@@ -7,19 +7,6 @@ http://dns.acaidopara.net:8080/brunobr2/brasilusa/51993
 
 
 ########################## SPORT TV 1 ##########################
-#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="SportTV 1" tvg-logo="https://i.postimg.cc/Y051W296/Sport-Tv-UHD.png" group-title="Sport Tv 1", Sport Tv 1 UHD
-http://iptvplay.xyz:8080/brunobr2/brasilusa/22627
-#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="SportTV 1" tvg-logo="https://i.postimg.cc/vZrWB84G/sporttv-1t.png" group-title="Sport Tv 1", Sport Tv 1 HD
-http://dns.acaidopara.net:8080/brunobr2/brasilusa/1514
-#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="SportTV 1" tvg-logo="https://i.postimg.cc/vZrWB84G/sporttv-1t.png" group-title="Sport Tv 1", Sport Tv 1 HD
-http://dns.acaidopara.net:8080/brunobr2/brasilusa/1515
-
-#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="SportTV 1" tvg-logo="https://i.postimg.cc/Y051W296/Sport-Tv-UHD.png" group-title="Sport Tv 1", Sport Tv 1 UHD
-http://iptvplay.xyz:8080/7742847330/2847330774/22627
-#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="SportTV 1" tvg-logo="https://i.postimg.cc/vZrWB84G/sporttv-1t.png" group-title="Sport Tv 1", Sport Tv 1 HD
-http://dns.acaidopara.net:8080/7742847330/2847330774/1514
-#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="SportTV 1" tvg-logo="https://i.postimg.cc/vZrWB84G/sporttv-1t.png" group-title="Sport Tv 1", Sport Tv 1 HD
-http://dns.acaidopara.net:8080/7742847330/2847330774/1515
 
 #EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="SportTV 1" tvg-logo="https://i.postimg.cc/Y051W296/Sport-Tv-UHD.png" group-title="Sport Tv 1", Sport Tv 1 UHD
 http://iptvplay.xyz:8080/grafica/ferreira/22627
@@ -92,6 +79,16 @@ http://iptvplay.xyz:8080/Armandodiluf/998877/39
 http://iptvplay.xyz:8080/Armandodiluf/998877/38
 #EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="SportTV 1" tvg-logo="https://i.postimg.cc/vZrWB84G/sporttv-1t.png" group-title="Sport Tv 1", Sport Tv 1
 http://iptvplay.xyz:8080/Armandodiluf/998877/40
+
+#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="SportTV 1" tvg-logo="https://i.postimg.cc/vZrWB84G/sporttv-1t.png" group-title="Sport Tv 1", Sport Tv 1 HD
+http://dns.acaidopara.net:8080/brunobr2/brasilusa/1514
+#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="SportTV 1" tvg-logo="https://i.postimg.cc/vZrWB84G/sporttv-1t.png" group-title="Sport Tv 1", Sport Tv 1 HD
+http://dns.acaidopara.net:8080/brunobr2/brasilusa/1515
+
+#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="SportTV 1" tvg-logo="https://i.postimg.cc/vZrWB84G/sporttv-1t.png" group-title="Sport Tv 1", Sport Tv 1 HD
+http://dns.acaidopara.net:8080/7742847330/2847330774/1514
+#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="SportTV 1" tvg-logo="https://i.postimg.cc/vZrWB84G/sporttv-1t.png" group-title="Sport Tv 1", Sport Tv 1 HD
+http://dns.acaidopara.net:8080/7742847330/2847330774/1515
 
 
 
