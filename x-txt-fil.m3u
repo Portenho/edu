@@ -1,313 +1,159 @@
+#EXTM3U
 
-tv cine top - https://pt.wikipedia.org/wiki/Ficheiro:TVCine-TOP.png
-tv cine edition - https://upload.wikimedia.org/wikipedia/commons/5/50/TVCine-EDITION.png
-tv cine emotion - https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/TVCine-Emotion.png/534px-TVCine-Emotion.png
-tv cine action - https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/TVCine-ACTION.png/534px-TVCine-ACTION.png
-Nos Studios - https://pplware.sapo.pt/wp-content/uploads/2019/06/NOS_03.jpg
-HBO - https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/300px-HBO_logo.svg.png
-HBO Mundi - https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/2560px-HBO_Mundi.svg.png
-HBO Plus - https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/HBO Plus_logo_2011.png
-HBO Signature - https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png
-HBO Extreme - https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png
-Star Channel - https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Star_Channel_2021.png
-Telecine Touch - https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Telecine_Touch_%282019%29.svg/375px-Telecine_Touch_%282019%29.svg.png
-Telecine Cult - https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Telecine_Cult_2019.png/330px-Telecine_Cult_2019.png
-film & arts - https://www.filmandarts.tv/theme/assets/fa-logo.png
+#EXTINF:0 type="video" description="1" tvg-logo="" group-title="Live Concerts",Amy Winehouse London 2007
+https://www.googleapis.com/drive/v3/files/13deOGNslcut-MrwWqFXl-twMMPOCEo8D?alt=media&key=AIzaSyBsb8eB3YrYkvOQX_e1q_GEEGuxR0ppP70
 
-#EXTM3U url-tvg="https://raw.githubusercontent.com/f0nZ/epg-tv-portuguesa/master/guide.xml,https://github.com/iptv-org/epg/blob/master/sites/meo.pt/meo.pt.channels.xml,https://github.com/iptv-org/epg/blob/master/sites/nos.pt/nos.pt.channels.xml,https://raw.githubusercontent.com/LITUATUI/M3UPT/main/epg/epg-vodafone.xml,https://iptv-org.github.io/epg/guides/pt/mi.tv.xml"
+#EXTINF:0 type="video" description="1" tvg-logo="" group-title="Live Concerts",Anjos Tour 20 Anos Live Lisboa 2020
+https://www.googleapis.com/drive/v3/files/1U91sLVLz7JnysGOzF8Wq32XmUjc5u8_x?alt=media&key=AIzaSyBsb8eB3YrYkvOQX_e1q_GEEGuxR0ppP70
 
-##########################  Lista 1 ##########################
+#EXTINF:0 type="video" description="" tvg-logo="" group-title="Live Concerts",Bárbara Tinoco - Live Casino Estoril 2021
+https://www.googleapis.com/drive/v3/files/1D4MZoeJIUXWXLMehSW6dgMB_CbpHTS1q?alt=media&key=AIzaSyBsb8eB3YrYkvOQX_e1q_GEEGuxR0ppP70
 
+#EXTINF:0 type="video" description="1" tvg-logo="" group-title="Live Concerts",Beyoncé Los Angeles 2007
+https://www.googleapis.com/drive/v3/files/1BYn8i8ycGblbmesIsphV0wgfJ9ZLUboQ?alt=media&key=AIzaSyBsb8eB3YrYkvOQX_e1q_GEEGuxR0ppP70
 
-#EXTINF:-1 group-title="Lista 1" tvg-name="Tv Cine Top PT" tvg-id="Tvcine2.pt" tvg-logo="https://i.postimg.cc/HLRVSmTP/Tv-cine-top.png" tvg-rec="", Tv Cine Top HD
-http://dns.acaidopara.net:8080/19825638500/29245671893/1544
-#EXTINF:-1 group-title="Lista 1" tvg-name="Tv Cine Top PT" tvg-id="Tvcine2.pt" tvg-logo="https://i.postimg.cc/HLRVSmTP/Tv-cine-top.png" tvg-rec="", Tv Cine Top HD
-http://dns.acaidopara.net:8080/19825638500/29245671893/1545
+#EXTINF:0 type="video" description="1" tvg-logo="" group-title="Live Concerts",Calema Live Campo Pequeno 2019
+https://www.googleapis.com/drive/v3/files/12Jw7v_5rBzRxnTkTVbSoVhP6vFDD8Ekk?alt=media&key=AIzaSyBsb8eB3YrYkvOQX_e1q_GEEGuxR0ppP70
 
-#EXTINF:-1 group-title="Lista 1" tvg-name="Tv Cine Edition PT" tvg-id="Tvcine1.pt" tvg-logo="https://i.postimg.cc/bNmCsVyw/tv-cine-edition.png" tvg-rec="", Tv Cine Edition HD
-http://dns.acaidopara.net:8080/19825638500/29245671893/1546
-#EXTINF:-1 group-title="Lista 1" tvg-name="Tv Cine Edition PT" tvg-id="Tvcine1.pt" tvg-logo="https://i.postimg.cc/bNmCsVyw/tv-cine-edition.png" tvg-rec="", Tv Cine Edition HD
-http://dns.acaidopara.net:8080/19825638500/29245671893/1547
+#EXTINF:0 type="video" description="1" tvg-logo="" group-title="Live Concerts",Coldplay Toronto 2006
+https://www.googleapis.com/drive/v3/files/1Fye1E326xqgkPhBqHiKqYeuzXCzptDd2?alt=media&key=AIzaSyBsb8eB3YrYkvOQX_e1q_GEEGuxR0ppP70
 
-#EXTINF:-1 group-title="Lista 1" tvg-name="Tv Cine Emotion PT" tvg-id="Tvcine3.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/TVCine-Emotion.png/534px-TVCine-Emotion.png" tvg-rec="", Tv Cine Emotion HD
-http://dns.acaidopara.net:8080/19825638500/29245671893/1548
-#EXTINF:-1 group-title="Lista 1" tvg-name="Tv Cine Emotion PT" tvg-id="Tvcine3.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/TVCine-Emotion.png/534px-TVCine-Emotion.png" tvg-rec="", Tv Cine Emotion HD
-http://dns.acaidopara.net:8080/19825638500/29245671893/1549
+#EXTINF:0 type="video" description="1" tvg-logo="" group-title="Live Concerts",David Carreira Bom Para Portugal 2021
+https://www.googleapis.com/drive/v3/files/1MQvdQpC8AuqqZYW2c3SRHtrEQPgYzMtz?alt=media&key=AIzaSyBsb8eB3YrYkvOQX_e1q_GEEGuxR0ppP70
 
-#EXTINF:-1 group-title="Lista 1" tvg-name="Tv Cine Action PT" tvg-id="Tvcine4.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/TVCine-ACTION.png/534px-TVCine-ACTION.png" tvg-rec="", Tv Cine Action HD
-http://dns.acaidopara.net:8080/19825638500/29245671893/1550
-#EXTINF:-1 group-title="Lista 1" tvg-name="Tv Cine Action PT" tvg-id="Tvcine4.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/TVCine-ACTION.png/534px-TVCine-ACTION.png" tvg-rec="", Tv Cine Action HD
-http://dns.acaidopara.net:8080/19825638500/29245671893/1551
+#EXTINF:0 type="video" description="1" tvg-logo="" group-title="Live Concerts",Diogo Piçarra Live Lisboa 2022
+https://www.googleapis.com/drive/v3/files/1q-9gLnDjTKkvk-_23T-wyrOqOFfe5R8n?alt=media&key=AIzaSyBsb8eB3YrYkvOQX_e1q_GEEGuxR0ppP70
 
-#EXTINF:-1 group-title="Lista 1" tvg-name="Nos Studios PT" tvg-id="NosStudios.pt" tvg-logo="https://pplware.sapo.pt/wp-content/uploads/2019/06/NOS_03.jpg" tvg-rec="", Nos Studios HD
-http://dns.acaidopara.net:8080/19825638500/29245671893/45491
+#EXTINF:0 type="video" description="1" tvg-logo="" group-title="Live Concerts",Ed Sheeran Live Dublin 2014
+https://www.googleapis.com/drive/v3/files/18EsnkkAt8vHncwjMJubXYw-A9wBIBO7t?alt=media&key=AIzaSyBsb8eB3YrYkvOQX_e1q_GEEGuxR0ppP70
 
-#EXTINF:-1 group-title="Lista 1" tvg-name="HBO BR" tvg-id="HBO.br" tvg-logo="https://i.postimg.cc/qv3CKgsZ/HBO.jpg" tvg-rec="", HBO HD
-http://dns.acaidopara.net:8080/19825638500/29245671893/24781
-#EXTINF:-1 group-title="Lista 1" tvg-name="HBO BR" tvg-id="HBO.br" tvg-logo="https://i.postimg.cc/qv3CKgsZ/HBO.jpg" tvg-rec="", HBO HD
-http://dns.acaidopara.net:8080/19825638500/29245671893/901855
+#EXTINF:0 type="video" description="1" tvg-logo="" group-title="Live Concerts",Elton John Live Londres 2013
+https://www.googleapis.com/drive/v3/files/1nGrZ5GZrYZM2Rrtb1WbIKy1_YS3QGpkt?alt=media&key=AIzaSyBsb8eB3YrYkvOQX_e1q_GEEGuxR0ppP70
 
-#EXTINF:-1 group-title="Lista 1" tvg-name="HBO Mundi BR" tvg-id="HBOMundi.br" tvg-logo="https://i.postimg.cc/PrGLjdsW/HBO-MUNDI.png" tvg-rec="", HBO Mundi HD
-http://dns.acaidopara.net:8080/19825638500/29245671893/2344
-#EXTINF:-1 group-title="Lista 1" tvg-name="HBO Mundi BR" tvg-id="HBOMundi.br" tvg-logo="https://i.postimg.cc/PrGLjdsW/HBO-MUNDI.png" tvg-rec="", HBO Mundi HD
-http://dns.acaidopara.net:8080/19825638500/29245671893/901856
+#EXTINF:0 type="video" description="1" tvg-logo="" group-title="Live Concerts",Eminem Live Detroit 2002
+https://www.googleapis.com/drive/v3/files/16zWhbyySsdO4G_LzLgazPuaXWSFftHm_?alt=media&key=AIzaSyBsb8eB3YrYkvOQX_e1q_GEEGuxR0ppP70
 
-#EXTINF:-1 group-title="Lista 1" tvg-name="HBO Plus BR" tvg-id="HBOPlusBrasil.br" tvg-logo="https://i.postimg.cc/50SnBsVy/HBO-PLUS.png" tvg-rec="", HBO Plus BR
-http://dns.acaidopara.net:8080/19825638500/29245671893/901865
+#EXTINF:0 type="video" description="1" tvg-logo="" group-title="Live Concerts",Eric Clapton Tokio 2001
+https://www.googleapis.com/drive/v3/files/1TXvUuDw7Va3ICGqiBYETDu1ZB8BbqQgF?alt=media&key=AIzaSyBsb8eB3YrYkvOQX_e1q_GEEGuxR0ppP70
 
-#EXTINF:-1 group-title="Lista 1" tvg-name="HBO Signature BR" tvg-id="HBOSignature.br" tvg-logo="https://i.postimg.cc/NMHH6Fv0/HBO-SIGNATURE.png" tvg-rec="", HBO Signature BR
-http://dns.acaidopara.net:8080/19825638500/29245671893/901857
+#EXTINF:0 type="video" description="1" tvg-logo="" group-title="Live Concerts",Gorillaz Live Finland 2022
+https://www.googleapis.com/drive/v3/files/1sNHeCgEXFM0twuQEionkB0F_ioSwx9HO?alt=media&key=AIzaSyBsb8eB3YrYkvOQX_e1q_GEEGuxR0ppP70
 
-#EXTINF:-1 group-title="Lista 1" tvg-name="HBO Xtreme BR" tvg-id="HBOXtreme.br" tvg-logo="https://i.postimg.cc/Hx9p11Q2/HBO-XTREME.png" tvg-rec="", HBO Xtreme BR
-http://dns.acaidopara.net:8080/19825638500/29245671893/901858
+#EXTINF:0 type="video" description="1" tvg-logo="" group-title="Live Concerts",Imagine Dragons Live Berlin 2018
+https://www.googleapis.com/drive/v3/files/1sNHeCgEXFM0twuQEionkB0F_ioSwx9HO?alt=media&key=AIzaSyBsb8eB3YrYkvOQX_e1q_GEEGuxR0ppP70
 
-#EXTINF:-1 group-title="Lista 1" tvg-name="STAR Cinema BR" tvg-id="STARcinema.br" tvg-logo="https://i.postimg.cc/7Yfym2QX/STAR-CHANNEL.png" tvg-rec="", Star Channel HD
-http://dns.acaidopara.net:8080/19825638500/29245671893/45258
+#EXTINF:0 type="video" description="1" tvg-logo="" group-title="Live Concerts",Joe Cocker Live Cologne 2013
+https://www.googleapis.com/drive/v3/files/1ev63BNEj6FKD5fBL6AKbzNtIMBB9Y4qV?alt=media&key=AIzaSyBsb8eB3YrYkvOQX_e1q_GEEGuxR0ppP70
 
+#EXTINF:0 type="video" description="1" tvg-logo="" group-title="Live Concerts",John Mayer Live Toronto 2009
+https://www.googleapis.com/drive/v3/files/1sNHeCgEXFM0twuQEionkB0F_ioSwx9HO?alt=media&key=AIzaSyBsb8eB3YrYkvOQX_e1q_GEEGuxR0ppP70
 
+#EXTINF:0 type="video" description="1" tvg-logo="" group-title="Live Concerts",Linkin Park Live Texas 2003
+https://www.googleapis.com/drive/v3/files/1u9NU7m1Fv8O3iOz1iqESSD72Lm6opz6u?alt=media&key=AIzaSyBsb8eB3YrYkvOQX_e1q_GEEGuxR0ppP70
 
-##########################  Lista 2 ##########################
+#EXTINF:0 type="video" description="1" tvg-logo="" group-title="Live Concerts",Luan Santana live Salvador 2020
+https://www.googleapis.com/drive/v3/files/1Wz7aHcrnbVmIyngVoOiAC6eHHqKfwo?alt=media&key=AIzaSyBsb8eB3YrYkvOQX_e1q_GEEGuxR0ppP70
 
-#EXTINF:-1 group-title="Lista 2" tvg-id="" tvg-logo="https://pt.wikipedia.org/wiki/Ficheiro:TVCine-TOP.png" tvg-rec="", Tv Cine Top HD
-http://dns.acaidopara.net:8080/brunobr2/brasilusa/1544
-#EXTINF:-1 group-title="Lista 2" tvg-id="" tvg-logo="https://pt.wikipedia.org/wiki/Ficheiro:TVCine-TOP.png" tvg-rec="", Tv Cine Top HD
-http://dns.acaidopara.net:8080/brunobr2/brasilusa/1545
+#EXTINF:0 type="video" description="1" tvg-logo="" group-title="Live Concerts",Luan Santana live Salvador 2022
+https://www.googleapis.com/drive/v3/files/1qCyM-s765NJmGNaXZ5lXMi0Ky3uNH9yJ?alt=media&key=AIzaSyBsb8eB3YrYkvOQX_e1q_GEEGuxR0ppP70
 
-#EXTINF:-1 group-title="Lista 2" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/TVCine-EDITION.png" tvg-rec="", Tv Cine Edition HD
-http://dns.acaidopara.net:8080/brunobr2/brasilusa/1546
-#EXTINF:-1 group-title="Lista 2" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/TVCine-EDITION.png" tvg-rec="", Tv Cine Edition HD
-http://dns.acaidopara.net:8080/brunobr2/brasilusa/1547
+#EXTINF:0 type="video" description="1" tvg-logo="" group-title="Live Concerts",Michael Jackson Live Munich 1997
+https://www.googleapis.com/drive/v3/files/1uUpR0pii8SeZk_DjHIqmFOf3iXpBZ_FU?alt=media&key=AIzaSyBsb8eB3YrYkvOQX_e1q_GEEGuxR0ppP70
 
-#EXTINF:-1 group-title="Lista 2" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/TVCine-Emotion.png/534px-TVCine-Emotion.png" tvg-rec="", Tv Cine Emotion HD
-http://dns.acaidopara.net:8080/brunobr2/brasilusa/1548
-#EXTINF:-1 group-title="Lista 2" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/TVCine-Emotion.png/534px-TVCine-Emotion.png" tvg-rec="", Tv Cine Emotion HD
-http://dns.acaidopara.net:8080/brunobr2/brasilusa/1549
+#EXTINF:0 type="video" description="1" tvg-logo="" group-title="Live Concerts",Os Quatro e Meia Live Convento S.Francisco 2018 
+https://www.googleapis.com/drive/v3/files/1B4q-pj7CVCZKQd-HLU7qhPG2ewq-mjA9?alt=media&key=AIzaSyBsb8eB3YrYkvOQX_e1q_GEEGuxR0ppP70
 
-#EXTINF:-1 group-title="Lista 2" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/TVCine-ACTION.png/534px-TVCine-ACTION.png" tvg-rec="", Tv Cine Action HD
-http://dns.acaidopara.net:8080/brunobr2/brasilusa/1550
-#EXTINF:-1 group-title="Lista 2" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/TVCine-ACTION.png/534px-TVCine-ACTION.png" tvg-rec="", Tv Cine Action HD
-http://dns.acaidopara.net:8080/brunobr2/brasilusa/1551
+#EXTINF:0 type="video" description="1" tvg-logo="" group-title="Live Concerts",Phil Colins Paris 2004
+https://www.googleapis.com/drive/v3/files/1X3-QxURHBmkowqDewtvoy0ltflyG1mXn?alt=media&key=AIzaSyBsb8eB3YrYkvOQX_e1q_GEEGuxR0ppP70
 
-#EXTINF:-1 group-title="Lista 2" tvg-id="" tvg-logo="https://pplware.sapo.pt/wp-content/uploads/2019/06/NOS_03.jpg" tvg-rec="", Nos Studios HD
-http://dns.acaidopara.net:8080/brunobr2/brasilusa/45491
+#EXTINF:0 type="video" description="1" tvg-logo="" group-title="Live Concerts",Pink Floyd Live New York 1988
+https://www.googleapis.com/drive/v3/files/1CFPqB80OK6O9yfhnwdeOpBHoVHyC8XhO?alt=media&key=AIzaSyBsb8eB3YrYkvOQX_e1q_GEEGuxR0ppP70
 
-#EXTINF:-1 group-title="Lista 2" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/300px-HBO_logo.svg.png" tvg-rec="", HBO HD
-http://dns.acaidopara.net:8080/brunobr2/brasilusa/24781
-#EXTINF:-1 group-title="Lista 2" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/300px-HBO_logo.svg.png" tvg-rec="", HBO HD
-http://dns.acaidopara.net:8080/brunobr2/brasilusa/901855
+#EXTINF:0 type="video" description="1" tvg-logo="" group-title="Live Concerts",Pink Floyd Live Venice 1989
+https://www.googleapis.com/drive/v3/files/1HpJs0w-yvgJVNNiX-StZBYLV7pta11lX?alt=media&key=AIzaSyBsb8eB3YrYkvOQX_e1q_GEEGuxR0ppP70
 
-#EXTINF:-1 group-title="Lista 2" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/2560px-HBO_Mundi.svg.png" tvg-rec="", HBO Mundi HD
-http://dns.acaidopara.net:8080/brunobr2/brasilusa/2344
-#EXTINF:-1 group-title="Lista 2" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/2560px-HBO_Mundi.svg.png" tvg-rec="", HBO Mundi HD
-http://dns.acaidopara.net:8080/brunobr2/brasilusa/901856
+#EXTINF:0 type="video" description="1" tvg-logo="" group-title="Live Concerts",Red Hot Chili Peppers Irland 2003
+https://www.googleapis.com/drive/v3/files/1ivnvJCdi9KE6CSd2OnTYVeRmLBWLN4TO?alt=media&key=AIzaSyBsb8eB3YrYkvOQX_e1q_GEEGuxR0ppP70
 
-#EXTINF:-1 group-title="Lista 2" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/HBO Plus_logo_2011.png" tvg-rec="", HBO Plus HD
-http://dns.acaidopara.net:8080/brunobr2/brasilusa/901865
+####################################################################################################################################
+#EXTINF:0 type="video" description="2" tvg-logo="" group-title="Live Concerts",Links em OFF
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95396f932c837b49397360/playlist.m3u8
 
-#EXTINF:-1 group-title="Lista 2" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png" tvg-rec="", HBO Signature HD
-http://dns.acaidopara.net:8080/brunobr2/brasilusa/901857
 
-#EXTINF:-1 group-title="Lista 2" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" tvg-rec="", HBO Xtreme HD
-http://dns.acaidopara.net:8080/brunobr2/brasilusa/901858
+#EXTINF:0 type="video" description="2" tvg-logo="" group-title="Live Concerts",Justin Timberlake Live Iceland 2014
+https://www.googleapis.com/drive/v3/files/1snjqVnFsuqcz1MBx2PAuiZmJyO1vidSR?alt=media&key=AIzaSyAlPzqosshkbsZlvJ7sPw9nC4hTyfr6KD4
 
-#EXTINF:-1 group-title="Lista 2" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Star_Channel_2021.png" tvg-rec="", Star Channel HD
-http://dns.acaidopara.net:8080/brunobr2/brasilusa/45258
+#EXTINF:0 type="video" description="2" tvg-logo="" group-title="Live Concerts",Lenny Kravitz Live Argentina 2019
+https://www.googleapis.com/drive/v3/files/133CWtOW1x8XM_Q5Tp2BQp3MeolRotzrV?alt=media&key=AIzaSyAlPzqosshkbsZlvJ7sPw9nC4hTyfr6KD4
 
+#EXTINF:0 type="video" description="2" tvg-logo="" group-title="Live Concerts",Linkin Park Live Texas 2009
+https://www.googleapis.com/drive/v3/files/1PuK5XDDROPqsvQXrL0OOf2IE5iYO0QmW?alt=media&key=AIzaSyAlPzqosshkbsZlvJ7sPw9nC4hTyfr6KD4
 
+#EXTINF:0 type="video" description="2" tvg-logo="" group-title="Live Concerts",Marron 5 Live Tokio 2022
+https://www.googleapis.com/drive/v3/files/1NBK5iNYfVmwzqKR4AgPOMiEjfH2K_soC?alt=media&key=AIzaSyAlPzqosshkbsZlvJ7sPw9nC4hTyfr6KD4
 
-##########################  Lista 3 ##########################
+#EXTINF:0 type="video" description="2" tvg-logo="" group-title="Live Concerts",Mickael Carreira Live Lisboa 2010
+https://www.googleapis.com/drive/v3/files/1SISSWZG68zGc3j1MGN99nh01UTEYi5OD?alt=media&key=AIzaSyAlPzqosshkbsZlvJ7sPw9nC4hTyfr6KD4
 
-#EXTINF:-1 group-title="Lista 3" tvg-id="" tvg-logo="https://pt.wikipedia.org/wiki/Ficheiro:TVCine-TOP.png" tvg-rec="", Tv Cine Top HD
-http://dns.acaidopara.net:8080/907657480043/7850254630876/1544
-#EXTINF:-1 group-title="Lista 3" tvg-id="" tvg-logo="https://pt.wikipedia.org/wiki/Ficheiro:TVCine-TOP.png" tvg-rec="", Tv Cine Top HD
-http://dns.acaidopara.net:8080/907657480043/7850254630876/1545
+#EXTINF:0 type="video" description="2" tvg-logo="" group-title="Live Concerts",Rihanna Live New York 2016
+https://www.googleapis.com/drive/v3/files/1FeF56SEA6ZMnjsH5z2F8xs2rXcRRgvZR?alt=media&key=AIzaSyAlPzqosshkbsZlvJ7sPw9nC4hTyfr6KD4
 
-#EXTINF:-1 group-title="Lista 3" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/TVCine-EDITION.png" tvg-rec="", Tv Cine Edition HD
-http://dns.acaidopara.net:8080/907657480043/7850254630876/1546
-#EXTINF:-1 group-title="Lista 3" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/TVCine-EDITION.png" tvg-rec="", Tv Cine Edition HD
-http://dns.acaidopara.net:8080/907657480043/7850254630876/1547
+#EXTINF:0 type="video" description="2" tvg-logo="" group-title="Live Concerts",Simply Red Live Sydney 2010
+https://www.googleapis.com/drive/v3/files/1FOLatcKU5va35T5ksWr-XuXcD9ke_NCg?alt=media&key=AIzaSyAlPzqosshkbsZlvJ7sPw9nC4hTyfr6KD4
 
-#EXTINF:-1 group-title="Lista 3" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/TVCine-Emotion.png/534px-TVCine-Emotion.png" tvg-rec="", Tv Cine Emotion HD
-http://dns.acaidopara.net:8080/907657480043/7850254630876/1548
-#EXTINF:-1 group-title="Lista 3" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/TVCine-Emotion.png/534px-TVCine-Emotion.png" tvg-rec="", Tv Cine Emotion HD
-http://dns.acaidopara.net:8080/907657480043/7850254630876/1549
+#EXTINF:0 type="video" description="2" tvg-logo="" group-title="Live Concerts",The Cure Live Texas 2013
+https://www.googleapis.com/drive/v3/files/1vHV6FgeyM_jQv9zmAWb7H_j4U4uAhzBo?alt=media&key=AIzaSyAlPzqosshkbsZlvJ7sPw9nC4hTyfr6KD4
 
-#EXTINF:-1 group-title="Lista 3" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/TVCine-ACTION.png/534px-TVCine-ACTION.png" tvg-rec="", Tv Cine Action HD
-http://dns.acaidopara.net:8080/907657480043/7850254630876/1550
-#EXTINF:-1 group-title="Lista 3" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/TVCine-ACTION.png/534px-TVCine-ACTION.png" tvg-rec="", Tv Cine Action HD
-http://dns.acaidopara.net:8080/907657480043/7850254630876/1551
+#EXTINF:0 type="video" description="2" tvg-logo="" group-title="Live Concerts",Tina Turner Live Russia 1996
+https://www.googleapis.com/drive/v3/files/142eS5eD3HyNHGtOvbA6CALvcId3II0Dx?alt=media&key=AIzaSyAlPzqosshkbsZlvJ7sPw9nC4hTyfr6KD4
 
-#EXTINF:-1 group-title="Lista 3" tvg-id="" tvg-logo="https://pplware.sapo.pt/wp-content/uploads/2019/06/NOS_03.jpg" tvg-rec="", Nos Studios HD
-http://dns.acaidopara.net:8080/907657480043/7850254630876/45491
+#EXTINF:0 type="video" description="2" tvg-logo="" group-title="Live Concerts",Tony Carreira 30 Anos Live Lisboa 2018
+https://www.googleapis.com/drive/v3/files/1K8KF4gzO-b27c9ukKfAF5R1Wc9wKEwCU?alt=media&key=AIzaSyAlPzqosshkbsZlvJ7sPw9nC4hTyfr6KD4
 
-#EXTINF:-1 group-title="Lista 3" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/300px-HBO_logo.svg.png" tvg-rec="", HBO HD
-http://dns.acaidopara.net:8080/907657480043/7850254630876/24781
-#EXTINF:-1 group-title="Lista 3" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/300px-HBO_logo.svg.png" tvg-rec="", HBO HD
-http://dns.acaidopara.net:8080/907657480043/7850254630876/901855
+#EXTINF:0 type="video" description="2" tvg-logo="" group-title="Live Concerts",U2 Live Mexico City 2011
+https://www.googleapis.com/drive/v3/files/1adpFKWJ9yYGgb5YgepILpaAjFce2eJha?alt=media&key=AIzaSyAlPzqosshkbsZlvJ7sPw9nC4hTyfr6KD4
 
-#EXTINF:-1 group-title="Lista 3" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/2560px-HBO_Mundi.svg.png" tvg-rec="", HBO Mundi HD
-http://dns.acaidopara.net:8080/907657480043/7850254630876/2344
-#EXTINF:-1 group-title="Lista 3" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/2560px-HBO_Mundi.svg.png" tvg-rec="", HBO Mundi HD
-http://dns.acaidopara.net:8080/907657480043/7850254630876/901856
+#EXTINF:0 type="video" description="2" tvg-logo="" group-title="Live Concerts",U2 Live Paris 2018
+https://www.googleapis.com/drive/v3/files/1mP1SNcyIhzUcGCVQtN-rr2Q7xiD-7yBQ?alt=media&key=AIzaSyAlPzqosshkbsZlvJ7sPw9nC4hTyfr6KD4
 
-#EXTINF:-1 group-title="Lista 3" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/HBO Plus_logo_2011.png" tvg-rec="", HBO Plus HD
-http://dns.acaidopara.net:8080/907657480043/7850254630876/901865
+#########################################################################################################################
+##########################################################################################################################
+#EXTINF:0 type="video" description="2" tvg-logo="" group-title="Live Concerts",Links em OFF
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95396f932c837b49397360/playlist.m3u8
 
-#EXTINF:-1 group-title="Lista 3" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png" tvg-rec="", HBO Signature HD
-http://dns.acaidopara.net:8080/907657480043/7850254630876/901857
 
-#EXTINF:-1 group-title="Lista 3" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" tvg-rec="", HBO Xtreme HD
-http://dns.acaidopara.net:8080/907657480043/7850254630876/901858
+#EXTINF:0 type="video" description="2" tvg-logo="" group-title="Live Concerts",Justin Timberlake Live Iceland 2014
+https://www.googleapis.com/drive/v3/files/1snjqVnFsuqcz1MBx2PAuiZmJyO1vidSR?alt=media&key=AIzaSyAlPzqosshkbsZlvJ7sPw9nC4hTyfr6KD4
 
-#EXTINF:-1 group-title="Lista 3" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Star_Channel_2021.png" tvg-rec="", Star Channel HD
-http://dns.acaidopara.net:8080/907657480043/7850254630876/45258
+#EXTINF:0 type="video" description="2" tvg-logo="" group-title="Live Concerts",Lenny Kravitz Live Argentina 2019
+https://www.googleapis.com/drive/v3/files/133CWtOW1x8XM_Q5Tp2BQp3MeolRotzrV?alt=media&key=AIzaSyAlPzqosshkbsZlvJ7sPw9nC4hTyfr6KD4
 
+#EXTINF:0 type="video" description="2" tvg-logo="" group-title="Live Concerts",Linkin Park Live Texas 2009
+https://www.googleapis.com/drive/v3/files/1PuK5XDDROPqsvQXrL0OOf2IE5iYO0QmW?alt=media&key=AIzaSyAlPzqosshkbsZlvJ7sPw9nC4hTyfr6KD4
 
+#EXTINF:0 type="video" description="2" tvg-logo="" group-title="Live Concerts",Marron 5 Live Tokio 2022
+https://www.googleapis.com/drive/v3/files/1NBK5iNYfVmwzqKR4AgPOMiEjfH2K_soC?alt=media&key=AIzaSyAlPzqosshkbsZlvJ7sPw9nC4hTyfr6KD4
 
-##########################  Lista 4 ##########################
+#EXTINF:0 type="video" description="2" tvg-logo="" group-title="Live Concerts",Mickael Carreira Live Lisboa 2010
+https://www.googleapis.com/drive/v3/files/1SISSWZG68zGc3j1MGN99nh01UTEYi5OD?alt=media&key=AIzaSyAlPzqosshkbsZlvJ7sPw9nC4hTyfr6KD4
 
-#EXTINF:-1 group-title="Lista 4" tvg-id="" tvg-logo="https://pt.wikipedia.org/wiki/Ficheiro:TVCine-TOP.png" tvg-rec="", Tv Cine Top HD
-http://dns.acaidopara.net:8080/George4899/Halas4899/1544
-#EXTINF:-1 group-title="Lista 4" tvg-id="" tvg-logo="https://pt.wikipedia.org/wiki/Ficheiro:TVCine-TOP.png" tvg-rec="", Tv Cine Top HD
-http://dns.acaidopara.net:8080/George4899/Halas4899/1545
+#EXTINF:0 type="video" description="2" tvg-logo="" group-title="Live Concerts",Rihanna Live New York 2016
+https://www.googleapis.com/drive/v3/files/1FeF56SEA6ZMnjsH5z2F8xs2rXcRRgvZR?alt=media&key=AIzaSyAlPzqosshkbsZlvJ7sPw9nC4hTyfr6KD4
 
-#EXTINF:-1 group-title="Lista 4" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/TVCine-EDITION.png" tvg-rec="", Tv Cine Edition HD
-http://dns.acaidopara.net:8080/George4899/Halas4899/1546
-#EXTINF:-1 group-title="Lista 4" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/TVCine-EDITION.png" tvg-rec="", Tv Cine Edition HD
-http://dns.acaidopara.net:8080/George4899/Halas4899/1547
+#EXTINF:0 type="video" description="2" tvg-logo="" group-title="Live Concerts",Simply Red Live Sydney 2010
+https://www.googleapis.com/drive/v3/files/1FOLatcKU5va35T5ksWr-XuXcD9ke_NCg?alt=media&key=AIzaSyAlPzqosshkbsZlvJ7sPw9nC4hTyfr6KD4
 
-#EXTINF:-1 group-title="Lista 4" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/TVCine-Emotion.png/534px-TVCine-Emotion.png" tvg-rec="", Tv Cine Emotion HD
-http://dns.acaidopara.net:8080/George4899/Halas4899/1548
-#EXTINF:-1 group-title="Lista 4" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/TVCine-Emotion.png/534px-TVCine-Emotion.png" tvg-rec="", Tv Cine Emotion HD
-http://dns.acaidopara.net:8080/George4899/Halas4899/1549
+#EXTINF:0 type="video" description="2" tvg-logo="" group-title="Live Concerts",The Cure Live Texas 2013
+https://www.googleapis.com/drive/v3/files/1vHV6FgeyM_jQv9zmAWb7H_j4U4uAhzBo?alt=media&key=AIzaSyAlPzqosshkbsZlvJ7sPw9nC4hTyfr6KD4
 
-#EXTINF:-1 group-title="Lista 4" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/TVCine-ACTION.png/534px-TVCine-ACTION.png" tvg-rec="", Tv Cine Action HD
-http://dns.acaidopara.net:8080/George4899/Halas4899/1550
-#EXTINF:-1 group-title="Lista 4" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/TVCine-ACTION.png/534px-TVCine-ACTION.png" tvg-rec="", Tv Cine Action HD
-http://dns.acaidopara.net:8080/George4899/Halas4899/1551
+#EXTINF:0 type="video" description="2" tvg-logo="" group-title="Live Concerts",Tina Turner Live Russia 1996
+https://www.googleapis.com/drive/v3/files/142eS5eD3HyNHGtOvbA6CALvcId3II0Dx?alt=media&key=AIzaSyAlPzqosshkbsZlvJ7sPw9nC4hTyfr6KD4
 
-#EXTINF:-1 group-title="Lista 4" tvg-id="" tvg-logo="https://pplware.sapo.pt/wp-content/uploads/2019/06/NOS_03.jpg" tvg-rec="", Nos Studios HD
-http://dns.acaidopara.net:8080/George4899/Halas4899/45491
+#EXTINF:0 type="video" description="2" tvg-logo="" group-title="Live Concerts",Tony Carreira 30 Anos Live Lisboa 2018
+https://www.googleapis.com/drive/v3/files/1K8KF4gzO-b27c9ukKfAF5R1Wc9wKEwCU?alt=media&key=AIzaSyAlPzqosshkbsZlvJ7sPw9nC4hTyfr6KD4
 
-#EXTINF:-1 group-title="Lista 4" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/300px-HBO_logo.svg.png" tvg-rec="", HBO HD
-http://dns.acaidopara.net:8080/George4899/Halas4899/24781
-#EXTINF:-1 group-title="Lista 4" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/300px-HBO_logo.svg.png" tvg-rec="", HBO HD
-http://dns.acaidopara.net:8080/George4899/Halas4899/901855
+#EXTINF:0 type="video" description="2" tvg-logo="" group-title="Live Concerts",U2 Live Mexico City 2011
+https://www.googleapis.com/drive/v3/files/1adpFKWJ9yYGgb5YgepILpaAjFce2eJha?alt=media&key=AIzaSyAlPzqosshkbsZlvJ7sPw9nC4hTyfr6KD4
 
-#EXTINF:-1 group-title="Lista 4" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/2560px-HBO_Mundi.svg.png" tvg-rec="", HBO Mundi HD
-http://dns.acaidopara.net:8080/George4899/Halas4899/2344
-#EXTINF:-1 group-title="Lista 4" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/2560px-HBO_Mundi.svg.png" tvg-rec="", HBO Mundi HD
-http://dns.acaidopara.net:8080/George4899/Halas4899/901856
-
-#EXTINF:-1 group-title="Lista 4" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/HBO Plus_logo_2011.png" tvg-rec="", HBO Plus HD
-http://dns.acaidopara.net:8080/George4899/Halas4899/901865
-
-#EXTINF:-1 group-title="Lista 4" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png" tvg-rec="", HBO Signature HD
-http://dns.acaidopara.net:8080/George4899/Halas4899/901857
-
-#EXTINF:-1 group-title="Lista 4" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" tvg-rec="", HBO Xtreme HD
-http://dns.acaidopara.net:8080/George4899/Halas4899/901858
-
-#EXTINF:-1 group-title="Lista 4" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Star_Channel_2021.png" tvg-rec="", Star Channel HD
-http://dns.acaidopara.net:8080/George4899/Halas4899/45258
-
-
-
-##########################  Lista 5 ##########################
-
-#EXTINF:-1 group-title="Lista 5" tvg-id="" tvg-logo="https://pt.wikipedia.org/wiki/Ficheiro:TVCine-TOP.png" tvg-rec="", Tv Cine Top HD
-http://dns.acaidopara.net:8080/7742847330/2847330774/1544
-#EXTINF:-1 group-title="Lista 5" tvg-id="" tvg-logo="https://pt.wikipedia.org/wiki/Ficheiro:TVCine-TOP.png" tvg-rec="", Tv Cine Top HD
-http://dns.acaidopara.net:8080/7742847330/2847330774/1545
-
-#EXTINF:-1 group-title="Lista 5" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/TVCine-EDITION.png" tvg-rec="", Tv Cine Edition HD
-http://dns.acaidopara.net:8080/7742847330/2847330774/1546
-#EXTINF:-1 group-title="Lista 5" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/TVCine-EDITION.png" tvg-rec="", Tv Cine Edition HD
-http://dns.acaidopara.net:8080/7742847330/2847330774/1547
-
-#EXTINF:-1 group-title="Lista 5" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/TVCine-Emotion.png/534px-TVCine-Emotion.png" tvg-rec="", Tv Cine Emotion HD
-http://dns.acaidopara.net:8080/7742847330/2847330774/1548
-#EXTINF:-1 group-title="Lista 5" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/TVCine-Emotion.png/534px-TVCine-Emotion.png" tvg-rec="", Tv Cine Emotion HD
-http://dns.acaidopara.net:8080/7742847330/2847330774/1549
-
-#EXTINF:-1 group-title="Lista 5" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/TVCine-ACTION.png/534px-TVCine-ACTION.png" tvg-rec="", Tv Cine Action HD
-http://dns.acaidopara.net:8080/7742847330/2847330774/1550
-#EXTINF:-1 group-title="Lista 5" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/TVCine-ACTION.png/534px-TVCine-ACTION.png" tvg-rec="", Tv Cine Action HD
-http://dns.acaidopara.net:8080/7742847330/2847330774/1551
-
-#EXTINF:-1 group-title="Lista 5" tvg-id="" tvg-logo="https://pplware.sapo.pt/wp-content/uploads/2019/06/NOS_03.jpg" tvg-rec="", Nos Studios HD
-http://dns.acaidopara.net:8080/7742847330/2847330774/45491
-
-#EXTINF:-1 group-title="Lista 5" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/300px-HBO_logo.svg.png" tvg-rec="", HBO HD
-http://dns.acaidopara.net:8080/7742847330/2847330774/24781
-#EXTINF:-1 group-title="Lista 5" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/300px-HBO_logo.svg.png" tvg-rec="", HBO HD
-http://dns.acaidopara.net:8080/7742847330/2847330774/901855
-
-#EXTINF:-1 group-title="Lista 5" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/2560px-HBO_Mundi.svg.png" tvg-rec="", HBO Mundi HD
-http://dns.acaidopara.net:8080/7742847330/2847330774/2344
-#EXTINF:-1 group-title="Lista 5" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/2560px-HBO_Mundi.svg.png" tvg-rec="", HBO Mundi HD
-http://dns.acaidopara.net:8080/7742847330/2847330774/901856
-
-#EXTINF:-1 group-title="Lista 5" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/HBO Plus_logo_2011.png" tvg-rec="", HBO Plus HD
-http://dns.acaidopara.net:8080/7742847330/2847330774/901865
-
-#EXTINF:-1 group-title="Lista 5" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png" tvg-rec="", HBO Signature HD
-http://dns.acaidopara.net:8080/7742847330/2847330774/901857
-
-#EXTINF:-1 group-title="Lista 5" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" tvg-rec="", HBO Xtreme HD
-http://dns.acaidopara.net:8080/7742847330/2847330774/901858
-
-#EXTINF:-1 group-title="Lista 5" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Star_Channel_2021.png" tvg-rec="", Star Channel HD
-http://dns.acaidopara.net:8080/7742847330/2847330774/45258
-
-
-
-
-##########################  Lista 6 ##########################
-
-#EXTINF:-1 group-title="Lista 6" tvg-id="" tvg-logo="https://pt.wikipedia.org/wiki/Ficheiro:TVCine-TOP.png" tvg-rec="", Tv Cine Top HD
-http://dns.acaidopara.net:8080/fatimamir/2jtsubyumm/1544
-#EXTINF:-1 group-title="Lista 6" tvg-id="" tvg-logo="https://pt.wikipedia.org/wiki/Ficheiro:TVCine-TOP.png" tvg-rec="", Tv Cine Top HD
-http://dns.acaidopara.net:8080/fatimamir/2jtsubyumm/1545
-
-#EXTINF:-1 group-title="Lista 6" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/TVCine-EDITION.png" tvg-rec="", Tv Cine Edition HD
-http://dns.acaidopara.net:8080/fatimamir/2jtsubyumm/1546
-#EXTINF:-1 group-title="Lista 6" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/TVCine-EDITION.png" tvg-rec="", Tv Cine Edition HD
-http://dns.acaidopara.net:8080/fatimamir/2jtsubyumm/1547
-
-#EXTINF:-1 group-title="Lista 6" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/TVCine-Emotion.png/534px-TVCine-Emotion.png" tvg-rec="", Tv Cine Emotion HD
-http://dns.acaidopara.net:8080/fatimamir/2jtsubyumm/1548
-#EXTINF:-1 group-title="Lista 6" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/TVCine-Emotion.png/534px-TVCine-Emotion.png" tvg-rec="", Tv Cine Emotion HD
-http://dns.acaidopara.net:8080/fatimamir/2jtsubyumm/1549
-
-#EXTINF:-1 group-title="Lista 6" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/TVCine-ACTION.png/534px-TVCine-ACTION.png" tvg-rec="", Tv Cine Action HD
-http://dns.acaidopara.net:8080/fatimamir/2jtsubyumm/1550
-#EXTINF:-1 group-title="Lista 6" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/TVCine-ACTION.png/534px-TVCine-ACTION.png" tvg-rec="", Tv Cine Action HD
-http://dns.acaidopara.net:8080/fatimamir/2jtsubyumm/1551
-
-#EXTINF:-1 group-title="Lista 6" tvg-id="" tvg-logo="https://pplware.sapo.pt/wp-content/uploads/2019/06/NOS_03.jpg" tvg-rec="", Nos Studios HD
-http://dns.acaidopara.net:8080/fatimamir/2jtsubyumm/45491
-
-#EXTINF:-1 group-title="Lista 6" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/300px-HBO_logo.svg.png" tvg-rec="", HBO HD
-http://dns.acaidopara.net:8080/fatimamir/2jtsubyumm/24781
-#EXTINF:-1 group-title="Lista 6" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/300px-HBO_logo.svg.png" tvg-rec="", HBO HD
-http://dns.acaidopara.net:8080/fatimamir/2jtsubyumm/901855
-
-#EXTINF:-1 group-title="Lista 6" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/2560px-HBO_Mundi.svg.png" tvg-rec="", HBO Mundi HD
-http://dns.acaidopara.net:8080/fatimamir/2jtsubyumm/2344
-#EXTINF:-1 group-title="Lista 6" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/2560px-HBO_Mundi.svg.png" tvg-rec="", HBO Mundi HD
-http://dns.acaidopara.net:8080/fatimamir/2jtsubyumm/2344
-
-#EXTINF:-1 group-title="Lista 6" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/HBO Plus_logo_2011.png" tvg-rec="", HBO Plus HD
-http://dns.acaidopara.net:8080/fatimamir/2jtsubyumm/901865
-
-#EXTINF:-1 group-title="Lista 6" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png" tvg-rec="", HBO Signature HD
-http://dns.acaidopara.net:8080/fatimamir/2jtsubyumm/901857
-
-#EXTINF:-1 group-title="Lista 6" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" tvg-rec="", HBO Xtreme HD
-http://dns.acaidopara.net:8080/fatimamir/2jtsubyumm/901858
-
-#EXTINF:-1 group-title="Lista 6" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Star_Channel_2021.png" tvg-rec="", Star Channel HD
-http://dns.acaidopara.net:8080/fatimamir/2jtsubyumm/45258
-
-
+#EXTINF:0 type="video" description="2" tvg-logo="" group-title="Live Concerts",U2 Live Paris 2018
+https://www.googleapis.com/drive/v3/files/1mP1SNcyIhzUcGCVQtN-rr2Q7xiD-7yBQ?alt=media&key=AIzaSyAlPzqosshkbsZlvJ7sPw9nC4hTyfr6KD4
