@@ -307,15 +307,6 @@ http://iptvplay.xyz:8080/nunoiptv/nuno123/29
 
 ########################## BENFICA TV ##########################
 
-#EXTINF:-1 tvg-id="BenficaTV.pt" tvg-name="BENFICA TV" tvg-logo="https://i.postimg.cc/wxmbKTZ0/BTV-Bra-Red-j.png" group-title="Benfica Tv", Benfica Tv UHD
-http://dns.acaidopara.net:8080/brunobr2/brasilusa/1592
-#EXTINF:-1 tvg-id="BenficaTV.pt" tvg-name="BENFICA TV" tvg-logo="https://i.postimg.cc/wxmbKTZ0/BTV-Bra-Red-j.png" group-title="Benfica Tv", Benfica Tv HD
-http://dns.acaidopara.net:8080/brunobr2/brasilusa/1529
-#EXTINF:-1 tvg-id="BenficaTV.pt" tvg-name="BENFICA TV" tvg-logo="https://i.postimg.cc/wxmbKTZ0/BTV-Bra-Red-j.png" group-title="Benfica Tv", Benfica Tv HD
-http://dns.acaidopara.net:8080/brunobr2/brasilusa/1530
-
-#EXTINF:-1 tvg-id="BenficaTV.pt" tvg-name="BENFICA TV" tvg-logo="https://i.postimg.cc/wxmbKTZ0/BTV-Bra-Red-j.png" group-title="Benfica Tv", Benfica Tv UHD
-http://dns.acaidopara.net:8080/7742847330/2847330774/1592
 #EXTINF:-1 tvg-id="BenficaTV.pt" tvg-name="BENFICA TV" tvg-logo="https://i.postimg.cc/wxmbKTZ0/BTV-Bra-Red-j.png" group-title="Benfica Tv", Benfica Tv HD
 http://dns.acaidopara.net:8080/7742847330/2847330774/1529
 #EXTINF:-1 tvg-id="BenficaTV.pt" tvg-name="BENFICA TV" tvg-logo="https://i.postimg.cc/wxmbKTZ0/BTV-Bra-Red-j.png" group-title="Benfica Tv", Benfica Tv HD
@@ -392,6 +383,10 @@ http://iptvplay.xyz:8080/nunoiptv/nuno123/123
 http://iptvplay.xyz:8080/nunoiptv/nuno123/122
 #EXTINF:-1 tvg-id="BenficaTV.pt" tvg-name="BENFICA TV" tvg-logo="https://i.postimg.cc/wxmbKTZ0/BTV-Bra-Red-j.png" group-title="Benfica Tv", Benfica Tv
 http://iptvplay.xyz:8080/nunoiptv/nuno123/121
+#EXTINF:-1 tvg-id="BenficaTV.pt" tvg-name="BENFICA TV" tvg-logo="https://i.postimg.cc/wxmbKTZ0/BTV-Bra-Red-j.png" group-title="Benfica Tv", Benfica Tv HD
+http://dns.acaidopara.net:8080/brunobr2/brasilusa/1529
+#EXTINF:-1 tvg-id="BenficaTV.pt" tvg-name="BENFICA TV" tvg-logo="https://i.postimg.cc/wxmbKTZ0/BTV-Bra-Red-j.png" group-title="Benfica Tv", Benfica Tv HD
+http://dns.acaidopara.net:8080/brunobr2/brasilusa/1530
 
 
 ########################## ELEVEN SPORTS 1 ##########################
