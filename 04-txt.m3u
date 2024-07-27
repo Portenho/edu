@@ -1,0 +1,103 @@
+#EXTM3U url-tvg="https://raw.githubusercontent.com/f0nZ/epg-tv-portuguesa/master/guide.xml,https://github.com/iptv-org/epg/blob/master/sites/meo.pt/meo.pt.channels.xml,https://github.com/iptv-org/epg/blob/master/sites/nos.pt/nos.pt.channels.xml,https://raw.githubusercontent.com/LITUATUI/M3UPT/main/epg/epg-vodafone.xml,https://iptv-org.github.io/epg/guides/pt/mi.tv.xml"
+
+5 USERS ILIMITADA
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Ilimitada", SPORT TV 1 FHD
+http://fortv.cc:8080/tamikahomecare/tamikahomecare/167742
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Ilimitada", SPORT TV 2 HD
+http://fortv.cc:8080/tamikahomecare/tamikahomecare/167743
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Ilimitada", SPORT TV 3 HD
+http://fortv.cc:8080/tamikahomecare/tamikahomecare/167744
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Ilimitada", SPORT TV 4 FHD
+http://fortv.cc:8080/tamikahomecare/tamikahomecare/167745
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Ilimitada", ELEVEN SPORTS 3 HD
+http://fortv.cc:8080/tamikahomecare/tamikahomecare/167748
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Ilimitada", ELEVEN SPORTS 4 HD
+http://fortv.cc:8080/tamikahomecare/tamikahomecare/167749
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Ilimitada", ELEVEN SPORTS 5 HD
+http://fortv.cc:8080/tamikahomecare/tamikahomecare/167750
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Ilimitada", TV CINE ACTION FHD
+http://fortv.cc:8080/tamikahomecare/tamikahomecare/164809
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Ilimitada", NOS STUDIOS FHD
+http://fortv.cc:8080/tamikahomecare/tamikahomecare/164811
+
+##########################################
+
+10 USERS 27-06-2026
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="27-06-2026", SPORT TV 1 FHD
+http://fortv.cc:8080/6p1EkK/694038/167742
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="27-06-2026", SPORT TV 2 HD
+http://fortv.cc:8080/6p1EkK/694038/167743
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="27-06-2026", SPORT TV 3 HD
+http://fortv.cc:8080/6p1EkK/694038/167744
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="27-06-2026", SPORT TV 4 FHD
+http://fortv.cc:8080/6p1EkK/694038/167745
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="27-06-2026", ELEVEN SPORTS 3 HD
+http://fortv.cc:8080/6p1EkK/694038/167748
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="27-06-2026", ELEVEN SPORTS 4 HD
+http://fortv.cc:8080/6p1EkK/694038/167749
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="27-06-2026", ELEVEN SPORTS 5 HD
+http://fortv.cc:8080/6p1EkK/694038/167750
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="27-06-2026", TV CINE ACTION FHD
+http://fortv.cc:8080/6p1EkK/694038/164809
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="27-06-2026", NOS STUDIOS FHD
+http://fortv.cc:8080/6p1EkK/694038/164811
+
+###########################################
+
+10 USERS 06-08-2025
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="06-08-2025", SPORT TV 1 FHD
+http://fortv.cc:8080/5jcvQu/558834/167742
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="06-08-2025", SPORT TV 2 HD
+http://fortv.cc:8080/5jcvQu/558834/167743
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="06-08-2025", SPORT TV 3 HD
+http://fortv.cc:8080/5jcvQu/558834/167744
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="06-08-2025", SPORT TV 4 FHD
+http://fortv.cc:8080/5jcvQu/558834/167745
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="06-08-2025", ELEVEN SPORTS 3 HD
+http://fortv.cc:8080/5jcvQu/558834/167748
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="06-08-2025", ELEVEN SPORTS 4 HD
+http://fortv.cc:8080/5jcvQu/558834/167749
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="06-08-2025", ELEVEN SPORTS 5 HD
+http://fortv.cc:8080/5jcvQu/558834/167750
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="06-08-2025", TV CINE ACTION FHD
+http://fortv.cc:8080/5jcvQu/558834/164809
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="06-08-2025", NOS STUDIOS FHD
+http://fortv.cc:8080/5jcvQu/558834/164811
+
+##########################################
+
+08 USERS 29-03-2025
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="29-03-2025", SPORT TV 1 FHD
+http://1tv41.icu:8080/30065823/63154294/167742
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="29-03-2025", SPORT TV 2 HD
+http://1tv41.icu:8080/30065823/63154294/167743
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="29-03-2025", SPORT TV 3 HD
+http://1tv41.icu:8080/30065823/63154294/167744
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="29-03-2025", SPORT TV 4 FHD
+http://1tv41.icu:8080/30065823/63154294/167745
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="29-03-2025", ELEVEN SPORTS 3 HD
+http://1tv41.icu:8080/30065823/63154294/167748
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="29-03-2025", ELEVEN SPORTS 4 HD
+http://1tv41.icu:8080/30065823/63154294/167749
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="29-03-2025", ELEVEN SPORTS 5 HD
+http://1tv41.icu:8080/30065823/63154294/167750
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="29-03-2025", TV CINE ACTION FHD
+http://1tv41.icu:8080/30065823/63154294/164809
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="29-03-2025", NOS STUDIOS FHD
+http://1tv41.icu:8080/30065823/63154294/164811
+
+##########################################
+
+
+
+
+
+
+
+
+
+
