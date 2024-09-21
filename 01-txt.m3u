@@ -1,486 +1,177 @@
-Lista 1 - http://smart.runtop.xyz:80/get.php?username=moura3506&password=GRHUGY3F22&type=m3u
-Lista 2 - http://smart.runtop.xyz:80/get.php?username=fe123330&password=nF4bKYx5aRHe&type=m3u
-Lista 3 - http://smart.runtop.xyz:80/get.php?username=MFCiptv2023.6&password=6b7fUS8sd4gQ&type=m3u
-
-
 #EXTM3U url-tvg="https://raw.githubusercontent.com/f0nZ/epg-tv-portuguesa/master/guide.xml,https://github.com/iptv-org/epg/blob/master/sites/meo.pt/meo.pt.channels.xml,https://github.com/iptv-org/epg/blob/master/sites/nos.pt/nos.pt.channels.xml,https://raw.githubusercontent.com/LITUATUI/M3UPT/main/epg/epg-vodafone.xml,https://iptv-org.github.io/epg/guides/pt/mi.tv.xml"
 
-<<<<<<<<< GENERALISTAS >>>>>>>>>
+#EXTINF:-1  tvg-logo="" group-title="Desporto", SPORT TV 1 HD
+http://tvviper.cobratw.com:9090/Brokenarmy77@virginmedia.com/242361
+#EXTINF:-1  tvg-logo="" group-title="Desporto", SPORT TV 1 HD
+http://tvviper.cobratw.com:9090/Brokenarmy77@virginmedia.com/242363
+#EXTINF:-1  tvg-logo="" group-title="Desporto", SPORT TV 1
+http://tvviper.cobratw.com:9090/Brokenarmy77@virginmedia.com/242360
+#EXTINF:-1  tvg-logo="" group-title="Desporto", SPORT TV 2 HD
+http://tvviper.cobratw.com:9090/Brokenarmy77@virginmedia.com/242364
+#EXTINF:-1  tvg-logo="" group-title="Desporto", SPORT TV 2 HD
+http://tvviper.cobratw.com:9090/Brokenarmy77@virginmedia.com/242365
+#EXTINF:-1  tvg-logo="" group-title="Desporto", SPORT TV 2
+http://tvviper.cobratw.com:9090/Brokenarmy77@virginmedia.com/242366
+#EXTINF:-1  tvg-logo="" group-title="Desporto", SPORT TV 3 HD
+http://tvviper.cobratw.com:9090/Brokenarmy77@virginmedia.com/242372
+#EXTINF:-1  tvg-logo="" group-title="Desporto", SPORT TV 3
+http://tvviper.cobratw.com:9090/Brokenarmy77@virginmedia.com/242371
+#EXTINF:-1  tvg-logo="" group-title="Desporto", SPORT TV 4 HD
+http://tvviper.cobratw.com:9090/Brokenarmy77@virginmedia.com/242373
+#EXTINF:-1  tvg-logo="" group-title="Desporto", SPORT TV 4 HD
+http://tvviper.cobratw.com:9090/Brokenarmy77@virginmedia.com/242374
+#EXTINF:-1  tvg-logo="" group-title="Desporto", SPORT TV 4 SD
+http://tvviper.cobratw.com:9090/Brokenarmy77@virginmedia.com/242375
+#EXTINF:-1  tvg-logo="" group-title="Desporto", SPORT TV 5 HD
+http://tvviper.cobratw.com:9090/Brokenarmy77@virginmedia.com/242377
+#EXTINF:-1  tvg-logo="" group-title="Desporto", SPORT TV 5 HD
+http://tvviper.cobratw.com:9090/Brokenarmy77@virginmedia.com/242378
+#EXTINF:-1  tvg-logo="" group-title="Desporto", SPORT TV 5 SD
+http://tvviper.cobratw.com:9090/Brokenarmy77@virginmedia.com/242379
+#EXTINF:-1  tvg-logo="" group-title="Desporto", SPORT TV 6 HD
+http://tvviper.cobratw.com:9090/Brokenarmy77@virginmedia.com/242381
+#EXTINF:-1  tvg-logo="" group-title="Desporto", SPORT TV 6 HD
+http://tvviper.cobratw.com:9090/Brokenarmy77@virginmedia.com/242382
+#EXTINF:-1  tvg-logo="" group-title="Desporto", SPORT TV NBA
+http://tvviper.cobratw.com:9090/Brokenarmy77@virginmedia.com/242383
+#EXTINF:-1  tvg-logo="" group-title="Desporto", SPORT TV NBA
+http://tvviper.cobratw.com:9090/Brokenarmy77@virginmedia.com/242384
+#EXTINF:-1  tvg-logo="" group-title="Desporto", BTV HD
+http://tvviper.cobratw.com:9090/Brokenarmy77@virginmedia.com/242385
+#EXTINF:-1  tvg-logo="" group-title="Desporto", BTV HD
+http://tvviper.cobratw.com:9090/Brokenarmy77@virginmedia.com/242386
+#EXTINF:-1  tvg-logo="" group-title="Desporto", BTV HD
+http://tvviper.cobratw.com:9090/Brokenarmy77@virginmedia.com/242387
+#EXTINF:-1  tvg-logo="" group-title="Desporto", BTV
+http://tvviper.cobratw.com:9090/Brokenarmy77@virginmedia.com/242388
+#EXTINF:-1  tvg-logo="" group-title="Desporto", BTV
+http://tvviper.cobratw.com:9090/Brokenarmy77@virginmedia.com/242389
+#EXTINF:-1  tvg-logo="" group-title="Desporto", SPORTING TV HD
+http://tvviper.cobratw.com:9090/Brokenarmy77@virginmedia.com/242390
+#EXTINF:-1  tvg-logo="" group-title="Desporto", SPORTING TV
+http://tvviper.cobratw.com:9090/Brokenarmy77@virginmedia.com/242391
+#EXTINF:-1  tvg-logo="" group-title="Desporto", ELEVEN SPORTS 1 HD
+http://tvviper.cobratw.com:9090/Brokenarmy77@virginmedia.com/242392
+#EXTINF:-1  tvg-logo="" group-title="Desporto", ELEVEN SPORTS 1 HD
+http://tvviper.cobratw.com:9090/Brokenarmy77@virginmedia.com/242393
+#EXTINF:-1  tvg-logo="" group-title="Desporto", ELEVEN SPORTS 1 HD
+http://tvviper.cobratw.com:9090/Brokenarmy77@virginmedia.com/242394
+#EXTINF:-1  tvg-logo="" group-title="Desporto", ELEVEN SPORTS 1
+http://tvviper.cobratw.com:9090/Brokenarmy77@virginmedia.com/242395
+#EXTINF:-1  tvg-logo="" group-title="Desporto", ELEVEN SPORTS 2 HD
+http://tvviper.cobratw.com:9090/Brokenarmy77@virginmedia.com/242397
+#EXTINF:-1  tvg-logo="" group-title="Desporto", ELEVEN SPORTS 2 HD
+http://tvviper.cobratw.com:9090/Brokenarmy77@virginmedia.com/242398
+#EXTINF:-1  tvg-logo="" group-title="Desporto", ELEVEN SPORTS 2 SD
+http://tvviper.cobratw.com:9090/Brokenarmy77@virginmedia.com/242399
+#EXTINF:-1  tvg-logo="" group-title="Desporto", ELEVEN SPORTS 3 HD
+http://tvviper.cobratw.com:9090/Brokenarmy77@virginmedia.com/242402
+#EXTINF:-1  tvg-logo="" group-title="Desporto", ELEVEN SPORTS 3 HD
+http://tvviper.cobratw.com:9090/Brokenarmy77@virginmedia.com/242403
+#EXTINF:-1  tvg-logo="" group-title="Desporto", ELEVEN SPORTS 3
+http://tvviper.cobratw.com:9090/Brokenarmy77@virginmedia.com/242404
+#EXTINF:-1  tvg-logo="" group-title="Desporto", ELEVEN SPORTS 4 HD
+http://tvviper.cobratw.com:9090/Brokenarmy77@virginmedia.com/242406
+#EXTINF:-1  tvg-logo="" group-title="Desporto", ELEVEN SPORTS 4 HD
+http://tvviper.cobratw.com:9090/Brokenarmy77@virginmedia.com/242407
+#EXTINF:-1  tvg-logo="" group-title="Desporto", ELEVEN SPORTS 4 HD
+http://tvviper.cobratw.com:9090/Brokenarmy77@virginmedia.com/242408
+#EXTINF:-1  tvg-logo="" group-title="Desporto", ELEVEN SPORTS 5 HD
+http://tvviper.cobratw.com:9090/Brokenarmy77@virginmedia.com/242410
+#EXTINF:-1  tvg-logo="" group-title="Desporto", ELEVEN SPORTS 5 HD
+http://tvviper.cobratw.com:9090/Brokenarmy77@virginmedia.com/242411
+#EXTINF:-1  tvg-logo="" group-title="Desporto", ELEVEN SPORTS 5 HD
+http://tvviper.cobratw.com:9090/Brokenarmy77@virginmedia.com/242412
+#EXTINF:-1  tvg-logo="" group-title="Desporto", ELEVEN SPORTS 6 HD
+http://tvviper.cobratw.com:9090/Brokenarmy77@virginmedia.com/242413
+#EXTINF:-1  tvg-logo="" group-title="Desporto", ELEVEN SPORTS 6 HD
+http://tvviper.cobratw.com:9090/Brokenarmy77@virginmedia.com/242414
+#EXTINF:-1  tvg-logo="" group-title="Desporto", ELEVEN SPORTS 6
+http://tvviper.cobratw.com:9090/Brokenarmy77@virginmedia.com/242415
+
+
+#EXTINF:-1  tvg-logo="" group-title="Filmes", TVCINE + HD
+http://tvviper.cobratw.com:9090/Brokenarmy77@virginmedia.com/242226
+#EXTINF:-1  tvg-logo="" group-title="Filmes", TV CINE TOP HD
+http://tvviper.cobratw.com:9090/Brokenarmy77@virginmedia.com/242227
+#EXTINF:-1  tvg-logo="" group-title="Filmes", TV CINE TOP
+http://tvviper.cobratw.com:9090/Brokenarmy77@virginmedia.com/242228
+#EXTINF:-1  tvg-logo="" group-title="Filmes", TV CINE TOP
+http://tvviper.cobratw.com:9090/Brokenarmy77@virginmedia.com/242229
+#EXTINF:-1  tvg-logo="" group-title="Filmes", TV CINE EDITION  HD
+http://tvviper.cobratw.com:9090/Brokenarmy77@virginmedia.com/242230
+#EXTINF:-1  tvg-logo="" group-title="Filmes", TV CINE EDITION
+http://tvviper.cobratw.com:9090/Brokenarmy77@virginmedia.com/242231
+#EXTINF:-1  tvg-logo="" group-title="Filmes", TV CINE EDITION
+http://tvviper.cobratw.com:9090/Brokenarmy77@virginmedia.com/242232
+#EXTINF:-1  tvg-logo="" group-title="Filmes", TV CINE EMOTION HD
+http://tvviper.cobratw.com:9090/Brokenarmy77@virginmedia.com/242233
+#EXTINF:-1  tvg-logo="" group-title="Filmes", TV CINE EMOTION
+http://tvviper.cobratw.com:9090/Brokenarmy77@virginmedia.com/242234
+#EXTINF:-1  tvg-logo="" group-title="Filmes", TV CINE ACTION HD
+http://tvviper.cobratw.com:9090/Brokenarmy77@virginmedia.com/242235
+#EXTINF:-1  tvg-logo="" group-title="Filmes", TV CINE ACTION HD
+http://tvviper.cobratw.com:9090/Brokenarmy77@virginmedia.com/242236
+#EXTINF:-1  tvg-logo="" group-title="Filmes", TV CINE ACTION
+http://tvviper.cobratw.com:9090/Brokenarmy77@virginmedia.com/242237
+#EXTINF:-1  tvg-logo="" group-title="Filmes", NOS STUDIOS HD
+http://tvviper.cobratw.com:9090/Brokenarmy77@virginmedia.com/242239
+#EXTINF:-1  tvg-logo="" group-title="Filmes", NOS STUDIOS
+http://tvviper.cobratw.com:9090/Brokenarmy77@virginmedia.com/242238
+#EXTINF:-1  tvg-logo="" group-title="Filmes", NOS STUDIOS
+http://tvviper.cobratw.com:9090/Brokenarmy77@virginmedia.com/242240
+#EXTINF:-1  tvg-logo="" group-title="Filmes", HOLLYWOOD HD
+http://tvviper.cobratw.com:9090/Brokenarmy77@virginmedia.com/242241
+#EXTINF:-1  tvg-logo="" group-title="Filmes", HOLLYWOOD HD
+http://tvviper.cobratw.com:9090/Brokenarmy77@virginmedia.com/242242
+#EXTINF:-1  tvg-logo="" group-title="Filmes", FOX MOVIES HD
+http://tvviper.cobratw.com:9090/Brokenarmy77@virginmedia.com/242245
+#EXTINF:-1  tvg-logo="" group-title="Filmes", FOX MOVIES
+http://tvviper.cobratw.com:9090/Brokenarmy77@virginmedia.com/242244
+#EXTINF:-1  tvg-logo="" group-title="Filmes", CINEMUNDO HD
+http://tvviper.cobratw.com:9090/Brokenarmy77@virginmedia.com/242247
+#EXTINF:-1  tvg-logo="" group-title="Filmes", CINEMUNDO
+http://tvviper.cobratw.com:9090/Brokenarmy77@virginmedia.com/242249
+#EXTINF:-1  tvg-logo="" group-title="Filmes", AMC HD
+http://tvviper.cobratw.com:9090/Brokenarmy77@virginmedia.com/242250
+#EXTINF:-1  tvg-logo="" group-title="Filmes", AMC HD
+http://tvviper.cobratw.com:9090/Brokenarmy77@virginmedia.com/242251
+#EXTINF:-1  tvg-logo="" group-title="Filmes", AXN HD
+http://tvviper.cobratw.com:9090/Brokenarmy77@virginmedia.com/242255
+#EXTINF:-1  tvg-logo="" group-title="Filmes", AXN SD
+http://tvviper.cobratw.com:9090/Brokenarmy77@virginmedia.com/242257
+#EXTINF:-1  tvg-logo="" group-title="Filmes", AXN WHITE HD
+http://tvviper.cobratw.com:9090/Brokenarmy77@virginmedia.com/242258
+#EXTINF:-1  tvg-logo="" group-title="Filmes", AXN WHITE
+http://tvviper.cobratw.com:9090/Brokenarmy77@virginmedia.com/242260
+#EXTINF:-1  tvg-logo="" group-title="Filmes", AXN MOVIES HD
+http://tvviper.cobratw.com:9090/Brokenarmy77@virginmedia.com/242261
+#EXTINF:-1  tvg-logo="" group-title="Filmes", AXN MOVIES HD
+http://tvviper.cobratw.com:9090/Brokenarmy77@virginmedia.com/242262
+#EXTINF:-1  tvg-logo="" group-title="Filmes", AXN MOVIES
+http://tvviper.cobratw.com:9090/Brokenarmy77@virginmedia.com/242263
+#EXTINF:-1  tvg-logo="" group-title="Filmes", SYFY HD
+http://tvviper.cobratw.com:9090/Brokenarmy77@virginmedia.com/242265
+#EXTINF:-1  tvg-logo="" group-title="Filmes", SYFY
+http://tvviper.cobratw.com:9090/Brokenarmy77@virginmedia.com/242264
+#EXTINF:-1  tvg-logo="" group-title="Filmes", STAR CHANNEL HD
+http://tvviper.cobratw.com:9090/Brokenarmy77@virginmedia.com/242266
+#EXTINF:-1  tvg-logo="" group-title="Filmes", STAR CHANNEL 
+http://tvviper.cobratw.com:9090/Brokenarmy77@virginmedia.com/242268
+#EXTINF:-1  tvg-logo="" group-title="Filmes", STAR CRIME HD
+http://tvviper.cobratw.com:9090/Brokenarmy77@virginmedia.com/242269
+#EXTINF:-1  tvg-logo="" group-title="Filmes", STAR CRIME HD
+http://tvviper.cobratw.com:9090/Brokenarmy77@virginmedia.com/242270
+#EXTINF:-1  tvg-logo="" group-title="Filmes", STAR CRIME
+http://tvviper.cobratw.com:9090/Brokenarmy77@virginmedia.com/242271
+#EXTINF:-1  tvg-logo="" group-title="Filmes", STAR COMEDY HD
+http://tvviper.cobratw.com:9090/Brokenarmy77@virginmedia.com/242272
+#EXTINF:-1  tvg-logo="" group-title="Filmes", STAR COMEDY HD
+http://tvviper.cobratw.com:9090/Brokenarmy77@virginmedia.com/242273
+#EXTINF:-1  tvg-logo="" group-title="Filmes", STAR COMEDY
+http://tvviper.cobratw.com:9090/Brokenarmy77@virginmedia.com/242274
+#EXTINF:-1  tvg-logo="" group-title="Filmes", STAR LIFE HD
+http://tvviper.cobratw.com:9090/Brokenarmy77@virginmedia.com/242275
+#EXTINF:-1  tvg-logo="" group-title="Filmes", STAR LIFE
+http://tvviper.cobratw.com:9090/Brokenarmy77@virginmedia.com/242276
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Generalistas", RTP 1
-http://327609061612793647.ofd0711.xyz:80/live/moura3506/GRHUGY3F22/793647.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Generalistas", RTP 2
-http://327609061612707950.ofd0711.xyz:80/live/moura3506/GRHUGY3F22/707950.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Generalistas", SIC
-http://327609061612339540.ofd0711.xyz:80/live/moura3506/GRHUGY3F22/339540.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Generalistas", TVI
-http://327609061612886867.ofd0711.xyz:80/live/moura3506/GRHUGY3F22/886867.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Generalistas", TVI
-http://327609061612408691.ofd0711.xyz:80/live/moura3506/GRHUGY3F22/408691.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Generalistas", RTP 3
-http://327609061612453533.ofd0711.xyz:80/live/moura3506/GRHUGY3F22/453533.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Generalistas", SIC NOTICIAS
-http://327609061612886861.ofd0711.xyz:80/live/moura3506/GRHUGY3F22/886861.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Generalistas", CNN
-http://327609061612882117.ofd0711.xyz:80/live/moura3506/GRHUGY3F22/882117.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Generalistas", CNN
-http://327609061612799131.ofd0711.xyz:80/live/moura3506/GRHUGY3F22/799131.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Generalistas", PORTO CANAL
-http://327609061612884558.ofd0711.xyz:80/live/moura3506/GRHUGY3F22/884558.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Generalistas", CMTV
-http://327609061612744485.ofd0711.xyz:80/live/moura3506/GRHUGY3F22/744485.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Generalistas", RTP AÇORES
-http://327609061612806321.ofd0711.xyz:80/live/moura3506/GRHUGY3F22/806321.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Generalistas", RTP MADEIRA
-http://327609061612755836.ofd0711.xyz:80/live/moura3506/GRHUGY3F22/755836.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Generalistas", RTP AFRICA
-http://327609061612802489.ofd0711.xyz:80/live/moura3506/GRHUGY3F22/802489.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Generalistas", EURONEWS
-http://327609061612883946.ofd0711.xyz:80/live/moura3506/GRHUGY3F22/883946.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Generalistas", GLOBO NEWS
-http://327609061612876358.ofd0711.xyz:80/live/moura3506/GRHUGY3F22/876358.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Generalistas", GLOBO
-http://327609061612855653.ofd0711.xyz:80/live/moura3506/GRHUGY3F22/855653.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Generalistas", TV RECORD
-http://327609061612802503.ofd0711.xyz:80/live/moura3506/GRHUGY3F22/802503.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Generalistas", TPA
-http://327609061612802500.ofd0711.xyz:80/live/moura3506/GRHUGY3F22/802500.ts
-
-
-<<<<<<<<< Desporto >>>>>>>>>
-<<<<<<<<< Sport TV + >>>>>>>>>
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", SportTV+
-http://327609061612777315.ofd0711.xyz:80/live/moura3506/GRHUGY3F22/777315.ts
-#EXTINF:-1 tvg-id="SportTVplus.pt" tvg-name="SportTV+" tvg-logo="" group-title="Desporto", Sport TV +
-http://327609061612785070.ofd0711.xyz:80/live/moura3506/GRHUGY3F22/785070.ts
-
-<<<<<<<<< Sport TV 1 >>>>>>>>>
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", SPORT TV 1
-http://327609061612802499.ofd0711.xyz:80/live/moura3506/GRHUGY3F22/802499.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", SPORT TV 1
-http://327609061612871946.ofd0711.xyz:80/live/moura3506/GRHUGY3F22/871946.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", SPORT TV 1
-http://327609061612623298.ofd0711.xyz:80/live/moura3506/GRHUGY3F22/623298.ts
-
-<<<<<<<<< Sport TV 2 >>>>>>>>>
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", SPORT TV 2
-http://327609061612887017.ofd0711.xyz:80/live/moura3506/GRHUGY3F22/887017.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", SPORT TV 2
-http://327609061612318977.ofd0711.xyz:80/live/moura3506/GRHUGY3F22/318977.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", SPORT TV 2
-http://327609061612798248.ofd0711.xyz:80/live/moura3506/GRHUGY3F22/798248.ts
-
-<<<<<<<<< Sport TV 3 >>>>>>>>>
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", SPORT TV 3
-http://327609061612860062.ofd0711.xyz:80/live/moura3506/GRHUGY3F22/860062.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", SPORT TV 3
-http://327609061612882934.ofd0711.xyz:80/live/moura3506/GRHUGY3F22/882934.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", SPORT TV 3
-http://327609061612339545.ofd0711.xyz:80/live/moura3506/GRHUGY3F22/339545.ts
-
-<<<<<<<<< Sport TV 4 >>>>>>>>>
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", SPORT TV 4
-http://327609061612868953.ofd0711.xyz:80/live/moura3506/GRHUGY3F22/868953.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", SPORT TV 4
-http://327609061612874009.ofd0711.xyz:80/live/moura3506/GRHUGY3F22/874009.tsI
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", SPORT TV 4
-http://327609061612835012.ofd0711.xyz:80/live/moura3506/GRHUGY3F22/835012.ts
-
-<<<<<<<<< Sport TV 5 >>>>>>>>>
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", SPORT TV 5
-http://327609061612879799.ofd0711.xyz:80/live/moura3506/GRHUGY3F22/879799.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", SPORT TV 5
-http://327609061612777317.ofd0711.xyz:80/live/moura3506/GRHUGY3F22/777317.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", SPORT TV 5
-http://327609061612318994.ofd0711.xyz:80/live/moura3506/GRHUGY3F22/318994.ts
-
-<<<<<<<<< Sport TV 6 >>>>>>>>>
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", SPORT TV 6
-http://327609061612416381.ofd0711.xyz:80/live/moura3506/GRHUGY3F22/416381.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", SPORT TV 6
-http://327609061612860063.ofd0711.xyz:80/live/moura3506/GRHUGY3F22/860063.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", SPORT TV 6
-http://327609061612879343.ofd0711.xyz:80/live/moura3506/GRHUGY3F22/879343.ts
-
-
-<<<<<<<<< Sport TV NBA >>>>>>>>>
-
-#EXTINF:-1 tvg-id="NBA.pt" tvg-name="NBA" tvg-logo="" group-title="Desporto", NBA
-http://327609061612690408.ofd0711.xyz:80/live/moura3506/GRHUGY3F22/690408.ts
-#EXTINF:-1 tvg-id="NBA.pt" tvg-name="NBA" tvg-logo="" group-title="Desporto", NBA
-http://327609061612437114.ofd0711.xyz:80/live/moura3506/GRHUGY3F22/437114.ts
-#EXTINF:-1 tvg-id="NBA.pt" tvg-name="NBA" tvg-logo="" group-title="Desporto", NBA
-http://327609061612437114.ofd0711.xyz:80/live/moura3506/GRHUGY3F22/873574.ts
-
-<<<<<<<<< Benfica TV >>>>>>>>>
-
-#EXTINF:-1 tvg-id="BTVMulticamaras.pt" tvg-name="BenficaTV Multicâmaras" tvg-logo="" group-title="Desporto", BTV
-http://327609061612851883.ofd0711.xyz:80/live/moura3506/GRHUGY3F22/851883.ts
-#EXTINF:-1 tvg-id="BTVMulticamaras.pt" tvg-name="BenficaTV Multicâmaras" tvg-logo="" group-title="Desporto", BTV
-http://327609061612868629.ofd0711.xyz:80/live/moura3506/GRHUGY3F22/868629.ts
-#EXTINF:-1 tvg-id="BTV.pt" tvg-name="" tvg-logo="BenficaTV" group-title="Desporto", BTV
-http://327609061612869253.ofd0711.xyz:80/live/moura3506/GRHUGY3F22/869253.ts
-
-<<<<<<<<< Eleven Sport 1 >>>>>>>>>
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", ELEVEN 1
-http://327609061612779952.ofd0711.xyz:80/live/moura3506/GRHUGY3F22/779952.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", ELEVEN 1
-http://327609061612848240.ofd0711.xyz:80/live/moura3506/GRHUGY3F22/848240.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", ELEVEN 1
-http://327609061612798232.ofd0711.xyz:80/live/moura3506/GRHUGY3F22/798232.ts
-
-<<<<<<<<< Eleven Sport 2 >>>>>>>>>
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", ELEVEN 2
-http://327609061612873576.ofd0711.xyz:80/live/moura3506/GRHUGY3F22/873576.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", ELEVEN 2
-http://327609061612880889.ofd0711.xyz:80/live/moura3506/GRHUGY3F22/880889.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", ELEVEN 2
-http://327609061612885051.ofd0711.xyz:80/live/moura3506/GRHUGY3F22/885051.ts
-
-<<<<<<<<< Eleven Sport 3 >>>>>>>>>
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", ELEVEN 3
-http://327609061612882933.ofd0711.xyz:80/live/moura3506/GRHUGY3F22/882933.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", ELEVEN 3
-http://327609061612836905.ofd0711.xyz:80/live/moura3506/GRHUGY3F22/836905.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", ELEVEN 3
-http://327609061612845748.ofd0711.xyz:80/live/moura3506/GRHUGY3F22/845748.ts
-
-<<<<<<<<< Eleven Sport 4 >>>>>>>>>
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", ELEVEN 4
-http://327609061612833977.ofd0711.xyz:80/live/moura3506/GRHUGY3F22/833977.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", ELEVEN 4
-http://327609061612845749.ofd0711.xyz:80/live/moura3506/GRHUGY3F22/845749.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", ELEVEN 4
-http://327609061612755739.ofd0711.xyz:80/live/moura3506/GRHUGY3F22/755739.ts
-
-<<<<<<<<< Eleven Sport 5 >>>>>>>>>
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", ELEVEN 5
-http://327609061612885054.ofd0711.xyz:80/live/moura3506/GRHUGY3F22/885054.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", ELEVEN 5
-http://327609061612880892.ofd0711.xyz:80/live/moura3506/GRHUGY3F22/880892.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", ELEVEN 5
-http://327609061612886857.ofd0711.xyz:80/live/moura3506/GRHUGY3F22/886857.ts
-
-<<<<<<<<< Eleven Sport 6 >>>>>>>>>
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", ELEVEN 6
-http://327609061612852924.ofd0711.xyz:80/live/moura3506/GRHUGY3F22/852924.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", ELEVEN 6
-http://327609061612845751.ofd0711.xyz:80/live/moura3506/GRHUGY3F22/845751.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", ELEVEN 6
-http://327609061612806570.ofd0711.xyz:80/live/moura3506/GRHUGY3F22/806570.ts
-
-<<<<<<<<< Sporting TV >>>>>>>>>
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", SPORTING TV
-http://327609061612802498.ofd0711.xyz:80/live/moura3506/GRHUGY3F22/802498.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", SPORTING TV
-http://327609061612877481.ofd0711.xyz:80/live/moura3506/GRHUGY3F22/877481.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", SPORTING TV
-http://327609061612319007.ofd0711.xyz:80/live/moura3506/GRHUGY3F22/319007.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", CANAL 11
-http://327609061612879081.ofd0711.xyz:80/live/moura3506/GRHUGY3F22/879081.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", CANAL 11
-http://327609061612837385.ofd0711.xyz:80/live/moura3506/GRHUGY3F22/837385.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", EUROSPORT 1
-http://327609061612875511.ofd0711.xyz:80/live/moura3506/GRHUGY3F22/875511.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", EUROSPORT 1
-http://327609061612882105.ofd0711.xyz:80/live/moura3506/GRHUGY3F22/882105.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", EUROSPORT 2
-http://327609061612755751.ofd0711.xyz:80/live/moura3506/GRHUGY3F22/755751.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", EUROSPORT 2
-http://327609061612883209.ofd0711.xyz:80/live/moura3506/GRHUGY3F22/883209.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", A BOLA TV
-http://327609061612799113.ofd0711.xyz:80/live/moura3506/GRHUGY3F22/799113.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", A BOLA TV
-http://327609061612866689.ofd0711.xyz:80/live/moura3506/GRHUGY3F22/866689.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", PFC
-http://327609061612755818.ofd0711.xyz:80/live/moura3506/GRHUGY3F22/755818.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desporto", COMBATE
-http://327609061612880247.ofd0711.xyz:80/live/moura3506/GRHUGY3F22/880247.ts
-
-<<<<<<<<< FILMES >>>>>>>>>
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes", TVCINE TOP
-http://327609061612838702.ofd0711.xyz:80/live/moura3506/GRHUGY3F22/838702.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes", TVCINE TOP
-http://327609061612864815.ofd0711.xyz:80/live/moura3506/GRHUGY3F22/864815.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes", TVCINE EDITION
-http://327609061612755911.ofd0711.xyz:80/live/moura3506/GRHUGY3F22/755911.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes", TVCINE EDITION
-http://327609061612755898.ofd0711.xyz:80/live/moura3506/GRHUGY3F22/755898.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes", TVCINE EMOTION
-http://327609061612871403.ofd0711.xyz:80/live/moura3506/GRHUGY3F22/871403.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes", TVCINE EMOTION
-http://327609061612865426.ofd0711.xyz:80/live/moura3506/GRHUGY3F22/865426.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes", TVCINE ACTION
-http://327609061612800703.ofd0711.xyz:80/live/moura3506/GRHUGY3F22/800703.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes", TVCINE ACTION
-http://327609061612854765.ofd0711.xyz:80/live/moura3506/GRHUGY3F22/854765.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes", NOS STUDIOS
-http://327609061612875515.ofd0711.xyz:80/live/moura3506/GRHUGY3F22/875515.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes", NOS STUDIOS
-http://327609061612879082.ofd0711.xyz:80/live/moura3506/GRHUGY3F22/879082.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes", HOLLYWOOD
-http://327609061612886860.ofd0711.xyz:80/live/moura3506/GRHUGY3F22/886860.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes", HOLLYWOOD
-http://327609061612374678.ofd0711.xyz:80/live/moura3506/GRHUGY3F22/374678.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes", CINEMUNDO
-http://327609061612794928.ofd0711.xyz:80/live/moura3506/GRHUGY3F22/794928.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes", CINEMUNDO
-http://327609061612799130.ofd0711.xyz:80/live/moura3506/GRHUGY3F22/799130.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes", AXN
-http://327609061612856211.ofd0711.xyz:80/live/moura3506/GRHUGY3F22/856211.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes", AXN MOVIES
-http://327609061612339490.ofd0711.xyz:80/live/moura3506/GRHUGY3F22/339490.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes", AXN MOVIES
-http://327609061612880241.ofd0711.xyz:80/live/moura3506/GRHUGY3F22/880241.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes", AXN WHITE
-http://327609061612886853.ofd0711.xyz:80/live/moura3506/GRHUGY3F22/886853.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes", STAR
-http://327609061612877009.ofd0711.xyz:80/live/moura3506/GRHUGY3F22/877009.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes", STAR MOVIES
-http://327609061612849654.ofd0711.xyz:80/live/moura3506/GRHUGY3F22/849654.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes", STAR LIFE
-http://327609061612802470.ofd0711.xyz:80/live/moura3506/GRHUGY3F22/802470.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes", STAR LIFE
-http://327609061612874003.ofd0711.xyz:80/live/moura3506/GRHUGY3F22/874003.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes", STAR COMEDY
-http://327609061612780278.ofd0711.xyz:80/live/moura3506/GRHUGY3F22/780278.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes", STAR CRIME
-http://327609061612864794.ofd0711.xyz:80/live/moura3506/GRHUGY3F22/864794.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes", SYFY
-http://327609061612623304.ofd0711.xyz:80/live/moura3506/GRHUGY3F22/623304.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes", AMC
-http://327609061612867925.ofd0711.xyz:80/live/moura3506/GRHUGY3F22/867925.ts
-
-<<<<<<<<< ENTRETENIMENTO >>>>>>>>>
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimento", TVI REALITY
-http://327609061612886654.ofd0711.xyz:80/live/moura3506/GRHUGY3F22/886654.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimento", TVI REALITY
-http://327609061612619237.ofd0711.xyz:80/live/moura3506/GRHUGY3F22/619237.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimento", TVI REALITY MOSAICO
-http://327609061612794966.ofd0711.xyz:80/live/moura3506/GRHUGY3F22/794966.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimento", TVI REALITY CAM 1
-http://327609061612794961.ofd0711.xyz:80/live/moura3506/GRHUGY3F22/794961.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimento", TVI REALITY CAM 2
-http://327609061612880265.ofd0711.xyz:80/live/moura3506/GRHUGY3F22/880265.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimento", TVI REALITY CAM 3
-http://327609061612863485.ofd0711.xyz:80/live/moura3506/GRHUGY3F22/863485.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimento", TVI REALITY CAM 4
-http://327609061612863953.ofd0711.xyz:80/live/moura3506/GRHUGY3F22/863953.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimento", TVI FICÇAO
-http://327609061612778272.ofd0711.xyz:80/live/moura3506/GRHUGY3F22/778272.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimento", SIC CARAS
-http://327609061612871398.ofd0711.xyz:80/live/moura3506/GRHUGY3F22/871398.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimento", SIC MULHER
-http://327609061612712738.ofd0711.xyz:80/live/moura3506/GRHUGY3F22/712738.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimento", CASA E COZINHA
-http://327609061612755689.ofd0711.xyz:80/live/moura3506/GRHUGY3F22/755689.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimento", 24 KITCHEN
-http://327609061612799112.ofd0711.xyz:80/live/moura3506/GRHUGY3F22/799112.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimento", MY CUISINE
-http://327609061612880899.ofd0711.xyz:80/live/moura3506/GRHUGY3F22/880899.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimento", FOOD NETWORK
-http://327609061612886858.ofd0711.xyz:80/live/moura3506/GRHUGY3F22/886858.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimento", CAZA Y PESCA
-http://327609061612755670.ofd0711.xyz:80/live/moura3506/GRHUGY3F22/755670.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimento", CAÇAVISION
-http://327609061612880245.ofd0711.xyz:80/live/moura3506/GRHUGY3F22/880245.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimento", ONETORO
-http://327609061612871949.ofd0711.xyz:80/live/moura3506/GRHUGY3F22/871949.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimento", RTP ARENA
-http://327609061612844852.ofd0711.xyz:80/live/moura3506/GRHUGY3F22/844852.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimento", CANAL 180
-http://327609061612799128.ofd0711.xyz:80/live/moura3506/GRHUGY3F22/799128.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimento", DOG TV
-http://327609061612802454.ofd0711.xyz:80/live/moura3506/GRHUGY3F22/802454.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimento", DISCOVERY CHANNEL
-http://327609061612744495.ofd0711.xyz:80/live/moura3506/GRHUGY3F22/744495.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimento", ID INVESTIGATION DISCOVERY CHANNEL
-http://327609061612802475.ofd0711.xyz:80/live/moura3506/GRHUGY3F22/802475.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimento", CRIME & INVESTIGATION
-http://327609061612880887.ofd0711.xyz:80/live/moura3506/GRHUGY3F22/880887.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimento", ODISSEIA
-http://327609061612877010.ofd0711.xyz:80/live/moura3506/GRHUGY3F22/877010.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimento", TRAVEL CHANNEL
-http://327609061612755894.ofd0711.xyz:80/live/moura3506/GRHUGY3F22/755894.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimento", CANAL Q
-http://327609061612755681.ofd0711.xyz:80/live/moura3506/GRHUGY3F22/755681.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimento", HISTORIA
-http://327609061612449179.ofd0711.xyz:80/live/moura3506/GRHUGY3F22/449179.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimento", NATIONAL GEOGRAPHIC
-http://327609061612755805.ofd0711.xyz:80/live/moura3506/GRHUGY3F22/755805.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimento", NATIONAL GEOGRAPHIC WILD
-http://327609061612879089.ofd0711.xyz:80/live/moura3506/GRHUGY3F22/879089.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimento", BLAZE TV
-http://327609061612755663.ofd0711.xyz:80/live/moura3506/GRHUGY3F22/755663.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimento", E! ENTERTAINMENT
-http://327609061612884812.ofd0711.xyz:80/live/moura3506/GRHUGY3F22/884812.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimento", BBC ENTERTAINMENT
-http://327609061612880243.ofd0711.xyz:80/live/moura3506/GRHUGY3F22/880243.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimento", MOTORVISION
-http://327609061612886173.ofd0711.xyz:80/live/moura3506/GRHUGY3F22/886173.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimento", KURIAKOS TV
-http://327609061612748997.ofd0711.xyz:80/live/moura3506/GRHUGY3F22/748997.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimento", CANÇAO NOVA
-http://327609061612755683.ofd0711.xyz:80/live/moura3506/GRHUGY3F22/755683.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimento", ARTV
-http://327609061612755645.ofd0711.xyz:80/live/moura3506/GRHUGY3F22/755645.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimento", RTP MEMORIA
-http://327609061612449215.ofd0711.xyz:80/live/moura3506/GRHUGY3F22/449215.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimento", FUEL TV
-http://327609061612857182.ofd0711.xyz:80/live/moura3506/GRHUGY3F22/857182.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimento", AZORES TV
-http://327609061612873999.ofd0711.xyz:80/live/moura3506/GRHUGY3F22/873999.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimento", FASHION TV
-http://327609061612879088.ofd0711.xyz:80/live/moura3506/GRHUGY3F22/879088.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimento", TLC
-http://327609061612742820.ofd0711.xyz:80/live/moura3506/GRHUGY3F22/742820.ts
-
-<<<<<<<<< INFANTIL >>>>>>>>>
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Kids", DISNEY JUNIOR
-http://327609061612802452.ofd0711.xyz:80/live/moura3506/GRHUGY3F22/802452.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Kids", DISNEY CHANNEL
-http://327609061612307642.ofd0711.xyz:80/live/moura3506/GRHUGY3F22/307642.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Kids", CANAL PANDA
-http://327609061612307607.ofd0711.xyz:80/live/moura3506/GRHUGY3F22/307607.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Kids", PANDA BIGGS
-http://327609061612802484.ofd0711.xyz:80/live/moura3506/GRHUGY3F22/802484.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Kids", PANDA KIDS
-http://327609061612845759.ofd0711.xyz:80/live/moura3506/GRHUGY3F22/845759.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Kids", NICK JUNIOR
-http://327609061612755807.ofd0711.xyz:80/live/moura3506/GRHUGY3F22/755807.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Kids", NICKELODEON
-http://327609061612755809.ofd0711.xyz:80/live/moura3506/GRHUGY3F22/755809.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Kids", SIC K
-http://327609061612755845.ofd0711.xyz:80/live/moura3506/GRHUGY3F22/755845.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Kids", ZAP VIVA
-http://327609061612794967.ofd0711.xyz:80/live/moura3506/GRHUGY3F22/794967.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Kids", CARTOON NETWORK
-http://327609061612755685.ofd0711.xyz:80/live/moura3506/GRHUGY3F22/755685.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Kids", BABY TV
-http://327609061612845740.ofd0711.xyz:80/live/moura3506/GRHUGY3F22/845740.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Kids", LOLLY KIDS
-http://327609061612883212.ofd0711.xyz:80/live/moura3506/GRHUGY3F22/883212.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Kids", JIM JAM
-http://327609061612857687.ofd0711.xyz:80/live/moura3506/GRHUGY3F22/857687.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Kids", PT: CARTOONITO
-http://327609061612848457.ofd0711.xyz:80/live/moura3506/GRHUGY3F22/848457.ts
-
-<<<<<<<<< MUSICA >>>>>>>>>
-
-#EXTINF:-1 tvg-id="AlmaLusa.pt" tvg-name="ALMA LUSA" tvg-logo="https://i.postimg.cc/W1Rkd8Xy/Alma-Lusa.png" group-title="Musica", ALMA LUSA
-http://327609061612886644.ofd0711.xyz:80/live/moura3506/GRHUGY3F22/886644.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Musica", AFRO MUSIC
-http://327609061612799116.ofd0711.xyz:80/live/moura3506/GRHUGY3F22/799116.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Musica", MTV PORTUGAL
-http://327609061612674397.ofd0711.xyz:80/live/moura3506/GRHUGY3F22/674397.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Musica", MTV anos 2000
-http://327609061612845758.ofd0711.xyz:80/live/moura3506/GRHUGY3F22/845758.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Musica", MCM TOP
-http://327609061612802478.ofd0711.xyz:80/live/moura3506/GRHUGY3F22/802478.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Musica", TRACE URBAN
-http://327609061612802501.ofd0711.xyz:80/live/moura3506/GRHUGY3F22/802501.ts
-
-#EXTINF:-1 tvg-id="TraceToca.pt" tvg-name="Rastrear Toca" tvg-logo="" group-title="Musica", TRACE TOCA
-http://327609061612755890.ofd0711.xyz:80/live/moura3506/GRHUGY3F22/755890.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Musica", MEZZO
-http://327609061612823126.ofd0711.xyz:80/live/moura3506/GRHUGY3F22/823126.ts
