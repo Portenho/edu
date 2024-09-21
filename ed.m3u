@@ -1,4 +1,5 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/f0nZ/epg-tv-portuguesa/master/guide.xml,https://github.com/iptv-org/epg/blob/master/sites/meo.pt/meo.pt.channels.xml,https://github.com/iptv-org/epg/blob/master/sites/nos.pt/nos.pt.channels.xml,https://raw.githubusercontent.com/LITUATUI/M3UPT/main/epg/epg-vodafone.xml,https://iptv-org.github.io/epg/guides/pt/mi.tv.xml"
+
 #EXTINF:-1  tvg-logo="" group-title="Desporto", SPORT TV 1 HD
 http://tvviper.cobratw.com:9090/frenchbullyzscotland/30010170/242361
 #EXTINF:-1  tvg-logo="" group-title="Desporto", SPORT TV 1 HD
