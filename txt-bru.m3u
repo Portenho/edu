@@ -1,640 +1,168 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/f0nZ/epg-tv-portuguesa/master/guide.xml,https://github.com/iptv-org/epg/blob/master/sites/meo.pt/meo.pt.channels.xml,https://github.com/iptv-org/epg/blob/master/sites/nos.pt/nos.pt.channels.xml,https://raw.githubusercontent.com/LITUATUI/M3UPT/main/epg/epg-vodafone.xml,https://iptv-org.github.io/epg/guides/pt/mi.tv.xml"
+#EXTM3U
+
+#EXTINF:-1  tvg-logo="" group-title="Desporto", SPORT TV 1 HD
+http://tvviper.cobratw.com:9090/frenchbullyzscotland/30010170/242361
+#EXTINF:-1  tvg-logo="" group-title="Desporto", SPORT TV 1 HD
+http://tvviper.cobratw.com:9090/frenchbullyzscotland/30010170/242363
+#EXTINF:-1  tvg-logo="" group-title="Desporto", SPORT TV 1
+http://tvviper.cobratw.com:9090/frenchbullyzscotland/30010170/242360
+#EXTINF:-1  tvg-logo="" group-title="Desporto", SPORT TV 2 HD
+http://tvviper.cobratw.com:9090/frenchbullyzscotland/30010170/242364
+#EXTINF:-1  tvg-logo="" group-title="Desporto", SPORT TV 2 HD
+http://tvviper.cobratw.com:9090/frenchbullyzscotland/30010170/242365
+#EXTINF:-1  tvg-logo="" group-title="Desporto", SPORT TV 2
+http://tvviper.cobratw.com:9090/frenchbullyzscotland/30010170/242366
+#EXTINF:-1  tvg-logo="" group-title="Desporto", SPORT TV 3 HD
+http://tvviper.cobratw.com:9090/frenchbullyzscotland/30010170/242372
+#EXTINF:-1  tvg-logo="" group-title="Desporto", SPORT TV 3
+http://tvviper.cobratw.com:9090/frenchbullyzscotland/30010170/242371
+#EXTINF:-1  tvg-logo="" group-title="Desporto", SPORT TV 4 HD
+http://tvviper.cobratw.com:9090/frenchbullyzscotland/30010170/242373
+#EXTINF:-1  tvg-logo="" group-title="Desporto", SPORT TV 4 HD
+http://tvviper.cobratw.com:9090/frenchbullyzscotland/30010170/242374
+#EXTINF:-1  tvg-logo="" group-title="Desporto", SPORT TV 4 SD
+http://tvviper.cobratw.com:9090/frenchbullyzscotland/30010170/242375
+#EXTINF:-1  tvg-logo="" group-title="Desporto", SPORT TV 5 HD
+http://tvviper.cobratw.com:9090/frenchbullyzscotland/30010170/242377
+#EXTINF:-1  tvg-logo="" group-title="Desporto", SPORT TV 5 HD
+http://tvviper.cobratw.com:9090/frenchbullyzscotland/30010170/242378
+#EXTINF:-1  tvg-logo="" group-title="Desporto", SPORT TV 5 SD
+http://tvviper.cobratw.com:9090/frenchbullyzscotland/30010170/242379
+#EXTINF:-1  tvg-logo="" group-title="Desporto", SPORT TV 6 HD
+http://tvviper.cobratw.com:9090/frenchbullyzscotland/30010170/242381
+#EXTINF:-1  tvg-logo="" group-title="Desporto", SPORT TV 6 HD
+http://tvviper.cobratw.com:9090/frenchbullyzscotland/30010170/242382
+#EXTINF:-1  tvg-logo="" group-title="Desporto", NBA
+http://tvviper.cobratw.com:9090/frenchbullyzscotland/30010170/242383
+#EXTINF:-1  tvg-logo="" group-title="Desporto", NBA
+http://tvviper.cobratw.com:9090/frenchbullyzscotland/30010170/242384
+#EXTINF:-1  tvg-logo="" group-title="Desporto", Benfica Tv
+http://tvviper.cobratw.com:9090/frenchbullyzscotland/30010170/242385
+#EXTINF:-1  tvg-logo="" group-title="Desporto", Benfica Tv
+http://tvviper.cobratw.com:9090/frenchbullyzscotland/30010170/242386
+#EXTINF:-1  tvg-logo="" group-title="Desporto", Benfica Tv
+http://tvviper.cobratw.com:9090/frenchbullyzscotland/30010170/242387
+#EXTINF:-1  tvg-logo="" group-title="Desporto", ELEVEN SPORTS 1 HD
+http://tvviper.cobratw.com:9090/frenchbullyzscotland/30010170/242392
+#EXTINF:-1  tvg-logo="" group-title="Desporto", ELEVEN SPORTS 1 HD
+http://tvviper.cobratw.com:9090/frenchbullyzscotland/30010170/242393
+#EXTINF:-1  tvg-logo="" group-title="Desporto", ELEVEN SPORTS 1 HD
+http://tvviper.cobratw.com:9090/frenchbullyzscotland/30010170/242394
+#EXTINF:-1  tvg-logo="" group-title="Desporto", ELEVEN SPORTS 1
+http://tvviper.cobratw.com:9090/frenchbullyzscotland/30010170/242395
+#EXTINF:-1  tvg-logo="" group-title="Desporto", ELEVEN SPORTS 2 HD
+http://tvviper.cobratw.com:9090/frenchbullyzscotland/30010170/242397
+#EXTINF:-1  tvg-logo="" group-title="Desporto", ELEVEN SPORTS 2 HD
+http://tvviper.cobratw.com:9090/frenchbullyzscotland/30010170/242398
+#EXTINF:-1  tvg-logo="" group-title="Desporto", ELEVEN SPORTS 2 SD
+http://tvviper.cobratw.com:9090/frenchbullyzscotland/30010170/242399
+#EXTINF:-1  tvg-logo="" group-title="Desporto", ELEVEN SPORTS 3 HD
+http://tvviper.cobratw.com:9090/frenchbullyzscotland/30010170/242402
+#EXTINF:-1  tvg-logo="" group-title="Desporto", ELEVEN SPORTS 3 HD
+http://tvviper.cobratw.com:9090/frenchbullyzscotland/30010170/242403
+#EXTINF:-1  tvg-logo="" group-title="Desporto", ELEVEN SPORTS 3
+http://tvviper.cobratw.com:9090/frenchbullyzscotland/30010170/242404
+#EXTINF:-1  tvg-logo="" group-title="Desporto", ELEVEN SPORTS 4 HD
+http://tvviper.cobratw.com:9090/frenchbullyzscotland/30010170/242406
+#EXTINF:-1  tvg-logo="" group-title="Desporto", ELEVEN SPORTS 4 HD
+http://tvviper.cobratw.com:9090/frenchbullyzscotland/30010170/242407
+#EXTINF:-1  tvg-logo="" group-title="Desporto", ELEVEN SPORTS 4 HD
+http://tvviper.cobratw.com:9090/frenchbullyzscotland/30010170/242408
+#EXTINF:-1  tvg-logo="" group-title="Desporto", ELEVEN SPORTS 5 HD
+http://tvviper.cobratw.com:9090/frenchbullyzscotland/30010170/242410
+#EXTINF:-1  tvg-logo="" group-title="Desporto", ELEVEN SPORTS 5 HD
+http://tvviper.cobratw.com:9090/frenchbullyzscotland/30010170/242411
+#EXTINF:-1  tvg-logo="" group-title="Desporto", ELEVEN SPORTS 5 HD
+http://tvviper.cobratw.com:9090/frenchbullyzscotland/30010170/242412
+#EXTINF:-1  tvg-logo="" group-title="Desporto", ELEVEN SPORTS 6 HD
+http://tvviper.cobratw.com:9090/frenchbullyzscotland/30010170/242413
+#EXTINF:-1  tvg-logo="" group-title="Desporto", ELEVEN SPORTS 6 HD
+http://tvviper.cobratw.com:9090/frenchbullyzscotland/30010170/242414
+#EXTINF:-1  tvg-logo="" group-title="Desporto", ELEVEN SPORTS 6
+http://tvviper.cobratw.com:9090/frenchbullyzscotland/30010170/242415
 
 
-*********** GENERALISTAS ***********
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Generalistas", RTP 1 FHD
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/9265
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Generalistas", RTP 2 HD
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/9267
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Generalistas", SIC HD
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/73070
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Generalistas", SIC
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/9365
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Generalistas", TVI HD
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/9388
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Generalistas", TVI
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/9385
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Generalistas", RTP 3
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/9269
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Generalistas", SIC NOTICIAS HD
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/9371
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Generalistas", Sic Noticias
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/9284
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Generalistas", CNN
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/9386
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Generalistas", CMTV HD
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/9320
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Generalistas", CMTV
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/9285
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Generalistas", PORTO CANAL HD
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/9363
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Generalistas", Porto Canal
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/9401
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Generalistas", RTP ACORES
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/9272
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Generalistas", RTP MADEIRA
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/9273
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Generalistas", RTP Africa
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/9275
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Generalistas", TCV Internacional
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/74985
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Generalistas", GLOBO NOW HD
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/9397
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Generalistas", GLOBO PORTUGAL
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/9342
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Generalistas", TPA
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/9377
-
-
-
-
-
-*********** ENTRETENIMENTO ***********
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Entretenimento", TVI REALITY
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/9389
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Entretenimento", Nat Geo
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/9277
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Entretenimento", SIC MULHER HD
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/9370
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Entretenimento", Sic Mulher
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/9286
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Entretenimento", SIC CARAS HD
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/9366
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Entretenimento", SIC Caras
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/9287
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Entretenimento", SIC RADICAL HD
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/9372
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Entretenimento", SIC Radical
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/9288
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Entretenimento", OPTO SIC
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/62261
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Entretenimento", ARTV
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/9295
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Entretenimento", CACA E PESCA
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/9311
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Entretenimento", CANAL HISTORIA
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/9313
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Entretenimento", CANAL Q
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/9315
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Entretenimento", CANCAO NOVA
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/9316
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Entretenimento", DISCOVERY
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/9322
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Entretenimento", ID INVESTIGATION DISCOVERY HD
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/9345
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Entretenimento", TOROS TV HD
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/9376
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Entretenimento", TRAVEL CHANNEL HD
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/9378
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Entretenimento", TVI FICCAO
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/9387
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Entretenimento", DISCOVERY HD
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/9391
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Entretenimento", ODISSEIA
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/9392
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Entretenimento", MY CUISINE
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/9398
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Entretenimento", TRAVEL CHANNEL HD
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/9448
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Entretenimento", 24 KITCHEN HD
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/9300
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Entretenimento", BLAZE
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/9308
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Entretenimento", CRIME + INVESTIGATION
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/9321
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Entretenimento", CACAVISION
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/9312
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Entretenimento", E! ENTERTAINMENT
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/9325
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Entretenimento", FINE LIVING NETWORK HD
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/9334
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Entretenimento", FOOD NETWORK HD
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/9335
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Entretenimento", ODISSEIA HD
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/9360
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Entretenimento", CBS REALITY
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/9318
-
-
-
-
-
-
-
-*********** DESPORTO ***********
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Desporto", SPORT TV + HD
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/9403
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Desporto", SPORT TV 1 HD
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/9405
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Desporto", SPORT TV 1
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/9404
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Desporto", SPORT TV 2 HD
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/9407
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Desporto", SPORT TV 2
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/9406
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Desporto", SPORT TV 3 HD
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/9409
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Desporto", SPORT TV 3
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/9408
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Desporto", SPORT TV 4 HD
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/9411
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Desporto", SPORT TV 4
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/9410
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Desporto", SPORT TV 5 HD
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/9413
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Desporto", SPORT TV 5
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/9412
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Desporto", SPORT TV 6 HD
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/84531
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Desporto", SPORT TV NBA  HD
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/9414
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Desporto", BTV HD
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/9310
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Desporto", BTV
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/9309
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Desporto", SPORT TV 1 HD
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/9330
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Desporto", Eleven Sports 1
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/9422
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Desporto", ELEVEN  2 HD
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/9326
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Desporto", Eleven Sports 2
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/9421
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Desporto", ELEVEN 3 HD
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/9327
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Desporto", Eleven Sports 3
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/9417
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Desporto", ELEVEN 4 HD
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/9331
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Desporto", Eleven Sports 4
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/9420
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Desporto", ELEVEN 5 HD
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/9328
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Desporto", Eleven Sports 5
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/9419
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Desporto", ELEVEN 6 HD
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/9329
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Desporto", Eleven Sports 6
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/9418
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Desporto", 11 HD
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/9299
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Desporto", A BOLA TV
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/9301
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Desporto", SPORTING TV HD
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/93
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Desporto", Sporting TV
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/9402
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Desporto", EUROSPORT  1 HD
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/9332
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Desporto", Eurosport 1
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/62263
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Desporto", Eurosport 2
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/9416
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Desporto", Eurosport 2 GOLF 
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/9415
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Desporto", FIGHT NETWORK HD
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/9333
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Desporto", FUEL TV HD
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/9341
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Desporto", KOMBAT SPORT
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/9347
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Desporto", TV RECORD HD
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/9379
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Desporto", TV RECORD
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/9399
-
-
-
-*********** FILMES ***********
-
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Filmes", TVCINE TOP HD
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/9381
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Filmes", TVCINE TOP
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/9289
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Filmes", TVCINE EDITION HD
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/9382
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Filmes", TVCINE EDITION
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/9290
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Filmes", TVCINE EMOTION HD
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/9383
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Filmes", TVCINE 3 EMOTION
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/9291
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Filmes", TVCINE ACTION HD
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/9384
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Filmes", TV SERIES HD
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/9380
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Filmes", NOS STUDIOS
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/83316
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Filmes", HOLLYWOOD HD
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/9344
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Filmes", AMC HD
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/9303
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Filmes", AXN BLACK HD
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/9304
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Filmes", AXN Black
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/9278
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Filmes", AXN White
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/9279
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Filmes", Fox Crime
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/9281
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Filmes", Fox Life
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/9282
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Filmes", Fox Movies
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/9283
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Filmes", HOLLYWOOD
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/9294
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Filmes", SYFY
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/9298
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Filmes", AXN HD
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/9305
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Filmes", AXN WHITE HD
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/9306
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Filmes", CINEMUNDO HD
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/9319
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Filmes", FOX COMEDY HD
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/9336
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Filmes", FOX CRIME HD
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/9337
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Filmes", FOX HD
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/9338
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Filmes", FOX LIFE HD
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/9339
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Filmes", FOX MOVIES HD
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/9340
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Filmes", SYFY-HD
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/9374
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Filmes", TLC
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/9375
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Filmes", AXN
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/9393
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Filmes", Cinemundo HD
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/9394
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Filmes", NOS STUDIO HD
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/9438
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Filmes", AMC
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/9276
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Filmes", Fox Comedy
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/9280
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Filmes", BIGGS
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/9296
-
-
-
-
-*********** MUSICA ***********
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Música", AFRO MUSIC
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/9302
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Música", MTV Portugal
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/9395
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Música", VH1
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/9390
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Música", MCM POP
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/9349
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Música", MCM TOP
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/9350
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Música", MEZZO-LIVE HD
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/9351
-
-
-
-
-
-
-
-*********** KIDS ***********
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Kids", Sic K HD
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/9369
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Kids", BABY TV
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/9307
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Kids", CANAL PANDA
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/9314
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Kids", CARTOON NETWORK
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/9317
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Kids", DISNEY CHANNEL
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/9323
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Kids", JIM JAM
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/9346
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Kids", PANDA BIGGS
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/9361
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Kids", DISNEY JUNIOR
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/9324
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Kids", NICKELODEON
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/9358
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Kids", NICK JUNIOR
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/55639
-
-
-
-
-
-*********** BAD CHANNELS ***********
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Bad Channels", FILMAX Adult 3 HD
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/55572
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Bad Channels", HOT CLUB 2
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/55581
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Bad Channels", HOT CLUB 1
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/55582
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Bad Channels", HOT
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/55583
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Bad Channels", Pink Erotic 1
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/55584
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Bad Channels", iFlixT een
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/55593
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Bad Channels", MR SEXE 12
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/55594
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Bad Channels", MR SEXE 9
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/55597
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Bad Channels", MR SEXE 7
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/55598
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Bad Channels", MR SEXE 6
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/55599
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Bad Channels", MR SEXE 5
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/55600
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Bad Channels", MR SEXE 4
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/55601
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Bad Channels", MR SEXE 3
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/55602
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Bad Channels", MR SEXE 2
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/55603
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Bad Channels", MR SEXE 1
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/55604
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Bad Channels", Fashion TV
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/55606
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Bad Channels", Penthouse Passion
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/55607
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Bad Channels", Penthouse Quikies
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/55608
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Bad Channels", PINK
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/55609
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Bad Channels", RUSSKAYA
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/55610
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Bad Channels", SIRINST
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/55614
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Bad Channels", SUPER ONE
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/55615
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Bad Channels", VENUS TV
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/55616
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Bad Channels", PENTHOUSE GOLD
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/55618
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Bad Channels", BLUE HUSTLER
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/55620
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Bad Channels", HUSTLER
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/55621
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Bad Channels", VIVID RED
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/55622
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Bad Channels", VIVID TV Europe
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/55623
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Bad Channels", DORCEL TV
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/55624
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Bad Channels", PRIVE TV
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/55625
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Bad Channels", PENTHOUSE 2
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/55628
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Bad Channels", PENTHOUSE
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/55630
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Bad Channels", BBW
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/56723
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Bad Channels", SMOKING
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/56724
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Bad Channels", Live Cams
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/56725
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Bad Channels", Anal
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/56726
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Bad Channels", Big Ass
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/56727
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Bad Channels", Big Dick
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/56728
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Bad Channels", Big Tits
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/56729
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Bad Channels", BBW
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/56730
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Bad Channels", SMOKING
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/56731
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Bad Channels", Live Cams
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/56732
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Bad Channels", Anal
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/56733
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Bad Channels", Big Ass
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/56734
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Bad Channels", Big Dick
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/56735
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Bad Channels", Interracial
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/56736
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Bad Channels", Latina
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/56737
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Bad Channels", Lesbian
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/56738
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Bad Channels", MILF
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/56739
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Bad Channels", Pornstar
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/56740
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Bad Channels", POV
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/56741
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Bad Channels", Rough
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/56742
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Bad Channels", Russian
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/56743
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Bad Channels", Teen
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/56744
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Bad Channels", SMOKING
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/56750
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Bad Channels", Live Cams
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/56751
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Bad Channels", tred
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/56722
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Bad Channels", Beate Uhse.TV
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/82391
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Bad Channels", Alba XXX 1
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/82392
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Bad Channels", Alba XXX 2
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/82393
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Bad Channels", Alba XXX 3
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/82394
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Bad Channels", Alba XXX 4
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/82395
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Bad Channels", Alba XXX 5
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/82396
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Bad Channels", Alba XXX 6
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/82397
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Bad Channels", Alba XXX HD1
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/82398
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Bad Channels", Alba XXX HD2
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/82399
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Bad Channels", Bangbros
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/82400
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Bad Channels", Blacked
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/82401
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Bad Channels", CiNE PORN 1 HD
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/82402
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Bad Channels", CiNE PORN 2 HD
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/82403
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Bad Channels", CiNE PORN 3 HD
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/82404
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Bad Channels", CiNE PORN 4 HD
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/82405
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Bad Channels", CiNE PORN 5 HD
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/82406
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Bad Channels", CiNE PORN 6 HD
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/82407
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Bad Channels", CiNE PORN 7 HD
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/82408
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Bad Channels", CiNE PORN 8 HD
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/82409
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Bad Channels", Cum 4k UHD
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/82410
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Bad Channels", Daughter Swap
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/82411
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Bad Channels", Day with a Pornstar
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/82412
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Bad Channels", DDF Network
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/82413
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Bad Channels", Erox HD
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/82414
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Bad Channels", Eroxxx HD
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/82415
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Bad Channels", FAKE AGENT
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/82416
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Bad Channels", Family Hookups
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/82417
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Bad Channels", Family Strokes
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/82418
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Bad Channels", FILMAX Adult 1 HD
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/82419
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Bad Channels", FILMAX Adult 10 HD
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/82420
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Bad Channels", FILMAX Adult 2 HD
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/82421
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Bad Channels", FILMAX Adult 4 HD
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/82422
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Bad Channels", FILMAX Adult 5 HD
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/82423
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Bad Channels", FILMAX Adult 6 HD
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/82424
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Bad Channels", FILMAX Adult 7 HD
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/82425
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Bad Channels", FILMAX Adult 8 HD
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/82426
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Bad Channels", FILMAX Adult 9 HD
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/82427
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Bad Channels", French Lover Europe
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/82428
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Bad Channels", Hot FHD
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/82431
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Bad Channels", HOT HD
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/82432
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Bad Channels", HUSTLER HD
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/82433
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Bad Channels", Little Caprice
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/82434
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Bad Channels", Mia Khalifa
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/82435
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Bad Channels", My Pervy Family
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/82436
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Bad Channels", Passion HD
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/82438
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Bad Channels", Passion HD
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/82439
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Bad Channels", Public Agent
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/82440
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Bad Channels", Pure Babes HD
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/82441
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Bad Channels", REDBOX ADULTS 1
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/82442
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Bad Channels", REDBOX ADULTS 10
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/82443
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Bad Channels", REDBOX ADULTS 11
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/82444
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Bad Channels", REDBOX ADULTS 12
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/82445
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Bad Channels", REDBOX ADULTS 13
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/82446
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Bad Channels", REDBOX ADULTS 14
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/82447
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Bad Channels", REDBOX ADULTS 15
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/82448
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Bad Channels", REDBOX ADULTS 16
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/82449
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Bad Channels", REDBOX ADULTS 17
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/82450
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Bad Channels", REDBOX ADULTS 18
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/82451
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Bad Channels", REDBOX ADULTS 19
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/82452
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Bad Channels", REDBOX ADULTS 2
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/82453
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Bad Channels", REDBOX ADULTS 20
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/82454
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Bad Channels", REDBOX ADULTS 21
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/82455
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Bad Channels", REDBOX ADULTS 22
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/82456
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Bad Channels", REDBOX ADULTS 23
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/82457
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Bad Channels", REDBOX ADULTS 24
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/82458
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Bad Channels", REDBOX ADULTS 25
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/82459
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Bad Channels", REDBOX ADULTS 26
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/82460
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Bad Channels", REDBOX ADULTS 27
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/82461
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Bad Channels", REDBOX ADULTS 28
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/82462
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Bad Channels", REDBOX ADULTS 29
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/82463
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Bad Channels", REDBOX ADULTS 3
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/82464
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Bad Channels", REDBOX ADULTS 30
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/82465
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Bad Channels", REDBOX ADULTS 31
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/82466
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Bad Channels", REDBOX ADULTS 32
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/82467
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Bad Channels", REDBOX ADULTS 33
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/82468
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Bad Channels", REDBOX ADULTS 34
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/82469
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Bad Channels", REDBOX ADULTS 35
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/82470
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Bad Channels", REDBOX ADULTS 36
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/82471
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Bad Channels", REDBOX ADULTS 37
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/82472
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Bad Channels", REDBOX ADULTS 38
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/82473
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Bad Channels", REDBOX ADULTS 39
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/82474
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Bad Channels", REDBOX ADULTS 4
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/82475
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Bad Channels", REDBOX ADULTS 40
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/82476
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Bad Channels", REDBOX ADULTS 5
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/82477
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Bad Channels", REDBOX ADULTS 6
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/82478
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Bad Channels", REDBOX ADULTS 7
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/82479
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Bad Channels", REDBOX ADULTS 8
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/82480
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Bad Channels", REDBOX ADULTS 9
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/82481
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Bad Channels", RK TV HD
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/82482
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Bad Channels", True Amateurs
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/82483
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Bad Channels", U BANG TV HD
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/82484
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Bad Channels", XXL
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/82485
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Bad Channels", XY Plus HD
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/82486
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Bad Channels", XY Plus+1 HD
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/82487
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Bad Channels", XY Plus+12 HD
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/82488
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Bad Channels", XY Plus+2 HD
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/82489
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Bad Channels", XY Plus+24 HD
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/82490
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Bad Channels", XY Plus+6 HD
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/82491
+#EXTINF:-1  tvg-logo="" group-title="Filmes", TVCINE+
+http://tvviper.cobratw.com:9090/frenchbullyzscotland/30010170/242226
+#EXTINF:-1  tvg-logo="" group-title="Filmes", TV CINE TOP HD
+http://tvviper.cobratw.com:9090/frenchbullyzscotland/30010170/242227
+#EXTINF:-1  tvg-logo="" group-title="Filmes", TV CINE TOP
+http://tvviper.cobratw.com:9090/frenchbullyzscotland/30010170/242228
+#EXTINF:-1  tvg-logo="" group-title="Filmes", TV CINE TOP
+http://tvviper.cobratw.com:9090/frenchbullyzscotland/30010170/242229
+#EXTINF:-1  tvg-logo="" group-title="Filmes", TV CINE EDITION  HD
+http://tvviper.cobratw.com:9090/frenchbullyzscotland/30010170/242230
+#EXTINF:-1  tvg-logo="" group-title="Filmes", TV CINE EDITION
+http://tvviper.cobratw.com:9090/frenchbullyzscotland/30010170/242231
+#EXTINF:-1  tvg-logo="" group-title="Filmes", TV CINE EDITION
+http://tvviper.cobratw.com:9090/frenchbullyzscotland/30010170/242232
+#EXTINF:-1  tvg-logo="" group-title="Filmes", TV CINE EMOTION HD
+http://tvviper.cobratw.com:9090/frenchbullyzscotland/30010170/242233
+#EXTINF:-1  tvg-logo="" group-title="Filmes", TV CINE EMOTION
+http://tvviper.cobratw.com:9090/frenchbullyzscotland/30010170/242234
+#EXTINF:-1  tvg-logo="" group-title="Filmes", TV CINE ACTION HD
+http://tvviper.cobratw.com:9090/frenchbullyzscotland/30010170/242235
+#EXTINF:-1  tvg-logo="" group-title="Filmes", TV CINE ACTION HD
+http://tvviper.cobratw.com:9090/frenchbullyzscotland/30010170/242236
+#EXTINF:-1  tvg-logo="" group-title="Filmes", TV CINE ACTION
+http://tvviper.cobratw.com:9090/frenchbullyzscotland/30010170/242237
+#EXTINF:-1  tvg-logo="" group-title="Filmes", NOS STUDIOS
+http://tvviper.cobratw.com:9090/frenchbullyzscotland/30010170/242239
+#EXTINF:-1  tvg-logo="" group-title="Filmes", NOS STUDIOS
+http://tvviper.cobratw.com:9090/frenchbullyzscotland/30010170/242238
+#EXTINF:-1  tvg-logo="" group-title="Filmes", NOS STUDIOS
+http://tvviper.cobratw.com:9090/frenchbullyzscotland/30010170/242240
+#EXTINF:-1  tvg-logo="" group-title="Filmes", HOLLYWOOD HD
+http://tvviper.cobratw.com:9090/frenchbullyzscotland/30010170/242241
+#EXTINF:-1  tvg-logo="" group-title="Filmes", HOLLYWOOD HD
+http://tvviper.cobratw.com:9090/frenchbullyzscotland/30010170/242242
+#EXTINF:-1  tvg-logo="" group-title="Filmes", STAR MOVIES
+http://tvviper.cobratw.com:9090/frenchbullyzscotland/30010170/242245
+#EXTINF:-1  tvg-logo="" group-title="Filmes", STAR MOVIES
+http://tvviper.cobratw.com:9090/frenchbullyzscotland/30010170/242244
+#EXTINF:-1  tvg-logo="" group-title="Filmes", CINEMUNDO HD
+http://tvviper.cobratw.com:9090/frenchbullyzscotland/30010170/242247
+#EXTINF:-1  tvg-logo="" group-title="Filmes", CINEMUNDO
+http://tvviper.cobratw.com:9090/frenchbullyzscotland/30010170/242249
+#EXTINF:-1  tvg-logo="" group-title="Filmes", AMC HD
+http://tvviper.cobratw.com:9090/frenchbullyzscotland/30010170/242250
+#EXTINF:-1  tvg-logo="" group-title="Filmes", AMC HD
+http://tvviper.cobratw.com:9090/frenchbullyzscotland/30010170/242251
+#EXTINF:-1  tvg-logo="" group-title="Filmes", AXN HD
+http://tvviper.cobratw.com:9090/frenchbullyzscotland/30010170/242255
+#EXTINF:-1  tvg-logo="" group-title="Filmes", AXN SD
+http://tvviper.cobratw.com:9090/frenchbullyzscotland/30010170/242257
+#EXTINF:-1  tvg-logo="" group-title="Filmes", AXN WHITE HD
+http://tvviper.cobratw.com:9090/frenchbullyzscotland/30010170/242258
+#EXTINF:-1  tvg-logo="" group-title="Filmes", AXN WHITE
+http://tvviper.cobratw.com:9090/frenchbullyzscotland/30010170/242260
+#EXTINF:-1  tvg-logo="" group-title="Filmes", AXN MOVIES
+http://tvviper.cobratw.com:9090/frenchbullyzscotland/30010170/242261
+#EXTINF:-1  tvg-logo="" group-title="Filmes", AXN MOVIES
+http://tvviper.cobratw.com:9090/frenchbullyzscotland/30010170/242262
+#EXTINF:-1  tvg-logo="" group-title="Filmes", AXN MOVIES
+http://tvviper.cobratw.com:9090/frenchbullyzscotland/30010170/242263
+#EXTINF:-1  tvg-logo="" group-title="Filmes", SYFY HD
+http://tvviper.cobratw.com:9090/frenchbullyzscotland/30010170/242265
+#EXTINF:-1  tvg-logo="" group-title="Filmes", SYFY
+http://tvviper.cobratw.com:9090/frenchbullyzscotland/30010170/242264
+#EXTINF:-1  tvg-logo="" group-title="Filmes", STAR CHANNEL
+http://tvviper.cobratw.com:9090/frenchbullyzscotland/30010170/242266
+#EXTINF:-1  tvg-logo="" group-title="Filmes", STAR CHANNEL 
+http://tvviper.cobratw.com:9090/frenchbullyzscotland/30010170/242268
+#EXTINF:-1  tvg-logo="" group-title="Filmes", STAR CRIME HD
+http://tvviper.cobratw.com:9090/frenchbullyzscotland/30010170/242269
+#EXTINF:-1  tvg-logo="" group-title="Filmes", STAR CRIME HD
+http://tvviper.cobratw.com:9090/frenchbullyzscotland/30010170/242270
+#EXTINF:-1  tvg-logo="" group-title="Filmes", STAR CRIME
+http://tvviper.cobratw.com:9090/frenchbullyzscotland/30010170/242271
+#EXTINF:-1  tvg-logo="" group-title="Filmes", STAR COMEDY HD
+http://tvviper.cobratw.com:9090/frenchbullyzscotland/30010170/242272
+#EXTINF:-1  tvg-logo="" group-title="Filmes", STAR COMEDY HD
+http://tvviper.cobratw.com:9090/frenchbullyzscotland/30010170/242273
+#EXTINF:-1  tvg-logo="" group-title="Filmes", STAR COMEDY
+http://tvviper.cobratw.com:9090/frenchbullyzscotland/30010170/242274
+#EXTINF:-1  tvg-logo="" group-title="Filmes", STAR LIFE HD
+http://tvviper.cobratw.com:9090/frenchbullyzscotland/30010170/242275
+#EXTINF:-1  tvg-logo="" group-title="Filmes", STAR LIFE
+http://tvviper.cobratw.com:9090/frenchbullyzscotland/30010170/242276
