@@ -1,103 +1,176 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/f0nZ/epg-tv-portuguesa/master/guide.xml,https://github.com/iptv-org/epg/blob/master/sites/meo.pt/meo.pt.channels.xml,https://github.com/iptv-org/epg/blob/master/sites/nos.pt/nos.pt.channels.xml,https://raw.githubusercontent.com/LITUATUI/M3UPT/main/epg/epg-vodafone.xml,https://iptv-org.github.io/epg/guides/pt/mi.tv.xml"
 
-5 USERS ILIMITADA
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Ilimitada", SPORT TV 1 FHD
-http://fortv.cc:8080/tamikahomecare/tamikahomecare/167742
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Ilimitada", SPORT TV 2 HD
-http://fortv.cc:8080/tamikahomecare/tamikahomecare/167743
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Ilimitada", SPORT TV 3 HD
-http://fortv.cc:8080/tamikahomecare/tamikahomecare/167744
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Ilimitada", SPORT TV 4 FHD
-http://fortv.cc:8080/tamikahomecare/tamikahomecare/167745
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Ilimitada", ELEVEN SPORTS 3 HD
-http://fortv.cc:8080/tamikahomecare/tamikahomecare/167748
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Ilimitada", ELEVEN SPORTS 4 HD
-http://fortv.cc:8080/tamikahomecare/tamikahomecare/167749
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Ilimitada", ELEVEN SPORTS 5 HD
-http://fortv.cc:8080/tamikahomecare/tamikahomecare/167750
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Ilimitada", TV CINE ACTION FHD
-http://fortv.cc:8080/tamikahomecare/tamikahomecare/164809
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Ilimitada", NOS STUDIOS FHD
-http://fortv.cc:8080/tamikahomecare/tamikahomecare/164811
-
-##########################################
-
-10 USERS 27-06-2026
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="27-06-2026", SPORT TV 1 FHD
-http://fortv.cc:8080/6p1EkK/694038/167742
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="27-06-2026", SPORT TV 2 HD
-http://fortv.cc:8080/6p1EkK/694038/167743
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="27-06-2026", SPORT TV 3 HD
-http://fortv.cc:8080/6p1EkK/694038/167744
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="27-06-2026", SPORT TV 4 FHD
-http://fortv.cc:8080/6p1EkK/694038/167745
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="27-06-2026", ELEVEN SPORTS 3 HD
-http://fortv.cc:8080/6p1EkK/694038/167748
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="27-06-2026", ELEVEN SPORTS 4 HD
-http://fortv.cc:8080/6p1EkK/694038/167749
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="27-06-2026", ELEVEN SPORTS 5 HD
-http://fortv.cc:8080/6p1EkK/694038/167750
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="27-06-2026", TV CINE ACTION FHD
-http://fortv.cc:8080/6p1EkK/694038/164809
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="27-06-2026", NOS STUDIOS FHD
-http://fortv.cc:8080/6p1EkK/694038/164811
-
-###########################################
-
-10 USERS 06-08-2025
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="06-08-2025", SPORT TV 1 FHD
-http://fortv.cc:8080/5jcvQu/558834/167742
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="06-08-2025", SPORT TV 2 HD
-http://fortv.cc:8080/5jcvQu/558834/167743
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="06-08-2025", SPORT TV 3 HD
-http://fortv.cc:8080/5jcvQu/558834/167744
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="06-08-2025", SPORT TV 4 FHD
-http://fortv.cc:8080/5jcvQu/558834/167745
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="06-08-2025", ELEVEN SPORTS 3 HD
-http://fortv.cc:8080/5jcvQu/558834/167748
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="06-08-2025", ELEVEN SPORTS 4 HD
-http://fortv.cc:8080/5jcvQu/558834/167749
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="06-08-2025", ELEVEN SPORTS 5 HD
-http://fortv.cc:8080/5jcvQu/558834/167750
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="06-08-2025", TV CINE ACTION FHD
-http://fortv.cc:8080/5jcvQu/558834/164809
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="06-08-2025", NOS STUDIOS FHD
-http://fortv.cc:8080/5jcvQu/558834/164811
-
-##########################################
-
-08 USERS 29-03-2025
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="29-03-2025", SPORT TV 1 FHD
-http://1tv41.icu:8080/30065823/63154294/167742
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="29-03-2025", SPORT TV 2 HD
-http://1tv41.icu:8080/30065823/63154294/167743
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="29-03-2025", SPORT TV 3 HD
-http://1tv41.icu:8080/30065823/63154294/167744
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="29-03-2025", SPORT TV 4 FHD
-http://1tv41.icu:8080/30065823/63154294/167745
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="29-03-2025", ELEVEN SPORTS 3 HD
-http://1tv41.icu:8080/30065823/63154294/167748
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="29-03-2025", ELEVEN SPORTS 4 HD
-http://1tv41.icu:8080/30065823/63154294/167749
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="29-03-2025", ELEVEN SPORTS 5 HD
-http://1tv41.icu:8080/30065823/63154294/167750
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="29-03-2025", TV CINE ACTION FHD
-http://1tv41.icu:8080/30065823/63154294/164809
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="29-03-2025", NOS STUDIOS FHD
-http://1tv41.icu:8080/30065823/63154294/164811
-
-##########################################
+#EXTINF:-1  tvg-logo="" group-title="Desporto", SPORT TV 1 HD
+http://tvviper.cobratw.com:9090/Watson75@live.co.uk/SZB5nmfv85wg/242361
+#EXTINF:-1  tvg-logo="" group-title="Desporto", SPORT TV 1 HD
+http://tvviper.cobratw.com:9090/Watson75@live.co.uk/SZB5nmfv85wg/242363
+#EXTINF:-1  tvg-logo="" group-title="Desporto", SPORT TV 1
+http://tvviper.cobratw.com:9090/Watson75@live.co.uk/SZB5nmfv85wg/242360
+#EXTINF:-1  tvg-logo="" group-title="Desporto", SPORT TV 2 HD
+http://tvviper.cobratw.com:9090/Watson75@live.co.uk/SZB5nmfv85wg/242364
+#EXTINF:-1  tvg-logo="" group-title="Desporto", SPORT TV 2 HD
+http://tvviper.cobratw.com:9090/Watson75@live.co.uk/SZB5nmfv85wg/242365
+#EXTINF:-1  tvg-logo="" group-title="Desporto", SPORT TV 2
+http://tvviper.cobratw.com:9090/Watson75@live.co.uk/SZB5nmfv85wg/242366
+#EXTINF:-1  tvg-logo="" group-title="Desporto", SPORT TV 3 HD
+http://tvviper.cobratw.com:9090/Watson75@live.co.uk/SZB5nmfv85wg/242372
+#EXTINF:-1  tvg-logo="" group-title="Desporto", SPORT TV 3
+http://tvviper.cobratw.com:9090/Watson75@live.co.uk/SZB5nmfv85wg/242371
+#EXTINF:-1  tvg-logo="" group-title="Desporto", SPORT TV 4 HD
+http://tvviper.cobratw.com:9090/Watson75@live.co.uk/SZB5nmfv85wg/242373
+#EXTINF:-1  tvg-logo="" group-title="Desporto", SPORT TV 4 HD
+http://tvviper.cobratw.com:9090/Watson75@live.co.uk/SZB5nmfv85wg/242374
+#EXTINF:-1  tvg-logo="" group-title="Desporto", SPORT TV 4 SD
+http://tvviper.cobratw.com:9090/Watson75@live.co.uk/SZB5nmfv85wg/242375
+#EXTINF:-1  tvg-logo="" group-title="Desporto", SPORT TV 5 HD
+http://tvviper.cobratw.com:9090/Watson75@live.co.uk/SZB5nmfv85wg/242377
+#EXTINF:-1  tvg-logo="" group-title="Desporto", SPORT TV 5 HD
+http://tvviper.cobratw.com:9090/Watson75@live.co.uk/SZB5nmfv85wg/242378
+#EXTINF:-1  tvg-logo="" group-title="Desporto", SPORT TV 5 SD
+http://tvviper.cobratw.com:9090/Watson75@live.co.uk/SZB5nmfv85wg/242379
+#EXTINF:-1  tvg-logo="" group-title="Desporto", SPORT TV 6 HD
+http://tvviper.cobratw.com:9090/Watson75@live.co.uk/SZB5nmfv85wg/242381
+#EXTINF:-1  tvg-logo="" group-title="Desporto", SPORT TV 6 HD
+http://tvviper.cobratw.com:9090/Watson75@live.co.uk/SZB5nmfv85wg/242382
+#EXTINF:-1  tvg-logo="" group-title="Desporto", NBA
+http://tvviper.cobratw.com:9090/Watson75@live.co.uk/SZB5nmfv85wg/242383
+#EXTINF:-1  tvg-logo="" group-title="Desporto", NBA
+http://tvviper.cobratw.com:9090/Watson75@live.co.uk/SZB5nmfv85wg/242384
+#EXTINF:-1  tvg-logo="" group-title="Desporto", Benfica Tv
+http://tvviper.cobratw.com:9090/Watson75@live.co.uk/SZB5nmfv85wg/242385
+#EXTINF:-1  tvg-logo="" group-title="Desporto", Benfica Tv
+http://tvviper.cobratw.com:9090/Watson75@live.co.uk/SZB5nmfv85wg/242386
+#EXTINF:-1  tvg-logo="" group-title="Desporto", Benfica Tv
+http://tvviper.cobratw.com:9090/Watson75@live.co.uk/SZB5nmfv85wg/242387
+#EXTINF:-1  tvg-logo="" group-title="Desporto", Benfica Tv
+http://tvviper.cobratw.com:9090/Watson75@live.co.uk/SZB5nmfv85wg/242388
+#EXTINF:-1  tvg-logo="" group-title="Desporto", Benfica Tv
+http://tvviper.cobratw.com:9090/Watson75@live.co.uk/SZB5nmfv85wg/242389
+#EXTINF:-1  tvg-logo="" group-title="Desporto", SPORTING TV HD
+http://tvviper.cobratw.com:9090/Watson75@live.co.uk/SZB5nmfv85wg/242390
+#EXTINF:-1  tvg-logo="" group-title="Desporto", SPORTING TV
+http://tvviper.cobratw.com:9090/Watson75@live.co.uk/SZB5nmfv85wg/242391
+#EXTINF:-1  tvg-logo="" group-title="Desporto", ELEVEN SPORTS 1 HD
+http://tvviper.cobratw.com:9090/Watson75@live.co.uk/SZB5nmfv85wg/242392
+#EXTINF:-1  tvg-logo="" group-title="Desporto", ELEVEN SPORTS 1 HD
+http://tvviper.cobratw.com:9090/Watson75@live.co.uk/SZB5nmfv85wg/242393
+#EXTINF:-1  tvg-logo="" group-title="Desporto", ELEVEN SPORTS 1 HD
+http://tvviper.cobratw.com:9090/Watson75@live.co.uk/SZB5nmfv85wg/242394
+#EXTINF:-1  tvg-logo="" group-title="Desporto", ELEVEN SPORTS 1
+http://tvviper.cobratw.com:9090/Watson75@live.co.uk/SZB5nmfv85wg/242395
+#EXTINF:-1  tvg-logo="" group-title="Desporto", ELEVEN SPORTS 2 HD
+http://tvviper.cobratw.com:9090/Watson75@live.co.uk/SZB5nmfv85wg/242397
+#EXTINF:-1  tvg-logo="" group-title="Desporto", ELEVEN SPORTS 2 HD
+http://tvviper.cobratw.com:9090/Watson75@live.co.uk/SZB5nmfv85wg/242398
+#EXTINF:-1  tvg-logo="" group-title="Desporto", ELEVEN SPORTS 2 SD
+http://tvviper.cobratw.com:9090/Watson75@live.co.uk/SZB5nmfv85wg/242399
+#EXTINF:-1  tvg-logo="" group-title="Desporto", ELEVEN SPORTS 3 HD
+http://tvviper.cobratw.com:9090/Watson75@live.co.uk/SZB5nmfv85wg/242402
+#EXTINF:-1  tvg-logo="" group-title="Desporto", ELEVEN SPORTS 3 HD
+http://tvviper.cobratw.com:9090/Watson75@live.co.uk/SZB5nmfv85wg/242403
+#EXTINF:-1  tvg-logo="" group-title="Desporto", ELEVEN SPORTS 3
+http://tvviper.cobratw.com:9090/Watson75@live.co.uk/SZB5nmfv85wg/242404
+#EXTINF:-1  tvg-logo="" group-title="Desporto", ELEVEN SPORTS 4 HD
+http://tvviper.cobratw.com:9090/Watson75@live.co.uk/SZB5nmfv85wg/242406
+#EXTINF:-1  tvg-logo="" group-title="Desporto", ELEVEN SPORTS 4 HD
+http://tvviper.cobratw.com:9090/Watson75@live.co.uk/SZB5nmfv85wg/242407
+#EXTINF:-1  tvg-logo="" group-title="Desporto", ELEVEN SPORTS 4 HD
+http://tvviper.cobratw.com:9090/Watson75@live.co.uk/SZB5nmfv85wg/242408
+#EXTINF:-1  tvg-logo="" group-title="Desporto", ELEVEN SPORTS 5 HD
+http://tvviper.cobratw.com:9090/Watson75@live.co.uk/SZB5nmfv85wg/242410
+#EXTINF:-1  tvg-logo="" group-title="Desporto", ELEVEN SPORTS 5 HD
+http://tvviper.cobratw.com:9090/Watson75@live.co.uk/SZB5nmfv85wg/242411
+#EXTINF:-1  tvg-logo="" group-title="Desporto", ELEVEN SPORTS 5 HD
+http://tvviper.cobratw.com:9090/Watson75@live.co.uk/SZB5nmfv85wg/242412
+#EXTINF:-1  tvg-logo="" group-title="Desporto", ELEVEN SPORTS 6 HD
+http://tvviper.cobratw.com:9090/Watson75@live.co.uk/SZB5nmfv85wg/242413
+#EXTINF:-1  tvg-logo="" group-title="Desporto", ELEVEN SPORTS 6 HD
+http://tvviper.cobratw.com:9090/Watson75@live.co.uk/SZB5nmfv85wg/242414
+#EXTINF:-1  tvg-logo="" group-title="Desporto", ELEVEN SPORTS 6
+http://tvviper.cobratw.com:9090/Watson75@live.co.uk/SZB5nmfv85wg/242415
 
 
-
-
-
-
-
-
-
-
+#EXTINF:-1  tvg-logo="" group-title="Filmes", TVCINE+
+http://tvviper.cobratw.com:9090/Watson75@live.co.uk/SZB5nmfv85wg/242226
+#EXTINF:-1  tvg-logo="" group-title="Filmes", TV CINE TOP HD
+http://tvviper.cobratw.com:9090/Watson75@live.co.uk/SZB5nmfv85wg/242227
+#EXTINF:-1  tvg-logo="" group-title="Filmes", TV CINE TOP
+http://tvviper.cobratw.com:9090/Watson75@live.co.uk/SZB5nmfv85wg/242228
+#EXTINF:-1  tvg-logo="" group-title="Filmes", TV CINE TOP
+http://tvviper.cobratw.com:9090/Watson75@live.co.uk/SZB5nmfv85wg/242229
+#EXTINF:-1  tvg-logo="" group-title="Filmes", TV CINE EDITION  HD
+http://tvviper.cobratw.com:9090/Watson75@live.co.uk/SZB5nmfv85wg/242230
+#EXTINF:-1  tvg-logo="" group-title="Filmes", TV CINE EDITION
+http://tvviper.cobratw.com:9090/Watson75@live.co.uk/SZB5nmfv85wg/242231
+#EXTINF:-1  tvg-logo="" group-title="Filmes", TV CINE EDITION
+http://tvviper.cobratw.com:9090/Watson75@live.co.uk/SZB5nmfv85wg/242232
+#EXTINF:-1  tvg-logo="" group-title="Filmes", TV CINE EMOTION HD
+http://tvviper.cobratw.com:9090/Watson75@live.co.uk/SZB5nmfv85wg/242233
+#EXTINF:-1  tvg-logo="" group-title="Filmes", TV CINE EMOTION
+http://tvviper.cobratw.com:9090/Watson75@live.co.uk/SZB5nmfv85wg/242234
+#EXTINF:-1  tvg-logo="" group-title="Filmes", TV CINE ACTION HD
+http://tvviper.cobratw.com:9090/Watson75@live.co.uk/SZB5nmfv85wg/242235
+#EXTINF:-1  tvg-logo="" group-title="Filmes", TV CINE ACTION HD
+http://tvviper.cobratw.com:9090/Watson75@live.co.uk/SZB5nmfv85wg/242236
+#EXTINF:-1  tvg-logo="" group-title="Filmes", TV CINE ACTION
+http://tvviper.cobratw.com:9090/Watson75@live.co.uk/SZB5nmfv85wg/242237
+#EXTINF:-1  tvg-logo="" group-title="Filmes", NOS STUDIOS
+http://tvviper.cobratw.com:9090/Watson75@live.co.uk/SZB5nmfv85wg/242239
+#EXTINF:-1  tvg-logo="" group-title="Filmes", NOS STUDIOS
+http://tvviper.cobratw.com:9090/Watson75@live.co.uk/SZB5nmfv85wg/242238
+#EXTINF:-1  tvg-logo="" group-title="Filmes", NOS STUDIOS
+http://tvviper.cobratw.com:9090/Watson75@live.co.uk/SZB5nmfv85wg/242240
+#EXTINF:-1  tvg-logo="" group-title="Filmes", HOLLYWOOD HD
+http://tvviper.cobratw.com:9090/Watson75@live.co.uk/SZB5nmfv85wg/242241
+#EXTINF:-1  tvg-logo="" group-title="Filmes", HOLLYWOOD HD
+http://tvviper.cobratw.com:9090/Watson75@live.co.uk/SZB5nmfv85wg/242242
+#EXTINF:-1  tvg-logo="" group-title="Filmes", STAR MOVIES
+http://tvviper.cobratw.com:9090/Watson75@live.co.uk/SZB5nmfv85wg/242245
+#EXTINF:-1  tvg-logo="" group-title="Filmes", STAR MOVIES
+http://tvviper.cobratw.com:9090/Watson75@live.co.uk/SZB5nmfv85wg/242244
+#EXTINF:-1  tvg-logo="" group-title="Filmes", CINEMUNDO HD
+http://tvviper.cobratw.com:9090/Watson75@live.co.uk/SZB5nmfv85wg/242247
+#EXTINF:-1  tvg-logo="" group-title="Filmes", CINEMUNDO
+http://tvviper.cobratw.com:9090/Watson75@live.co.uk/SZB5nmfv85wg/242249
+#EXTINF:-1  tvg-logo="" group-title="Filmes", AMC HD
+http://tvviper.cobratw.com:9090/Watson75@live.co.uk/SZB5nmfv85wg/242250
+#EXTINF:-1  tvg-logo="" group-title="Filmes", AMC HD
+http://tvviper.cobratw.com:9090/Watson75@live.co.uk/SZB5nmfv85wg/242251
+#EXTINF:-1  tvg-logo="" group-title="Filmes", AXN HD
+http://tvviper.cobratw.com:9090/Watson75@live.co.uk/SZB5nmfv85wg/242255
+#EXTINF:-1  tvg-logo="" group-title="Filmes", AXN SD
+http://tvviper.cobratw.com:9090/Watson75@live.co.uk/SZB5nmfv85wg/242257
+#EXTINF:-1  tvg-logo="" group-title="Filmes", AXN WHITE HD
+http://tvviper.cobratw.com:9090/Watson75@live.co.uk/SZB5nmfv85wg/242258
+#EXTINF:-1  tvg-logo="" group-title="Filmes", AXN WHITE
+http://tvviper.cobratw.com:9090/Watson75@live.co.uk/SZB5nmfv85wg/242260
+#EXTINF:-1  tvg-logo="" group-title="Filmes", AXN MOVIES
+http://tvviper.cobratw.com:9090/Watson75@live.co.uk/SZB5nmfv85wg/242261
+#EXTINF:-1  tvg-logo="" group-title="Filmes", AXN MOVIES
+http://tvviper.cobratw.com:9090/Watson75@live.co.uk/SZB5nmfv85wg/242262
+#EXTINF:-1  tvg-logo="" group-title="Filmes", AXN MOVIES
+http://tvviper.cobratw.com:9090/Watson75@live.co.uk/SZB5nmfv85wg/242263
+#EXTINF:-1  tvg-logo="" group-title="Filmes", SYFY HD
+http://tvviper.cobratw.com:9090/Watson75@live.co.uk/SZB5nmfv85wg/242265
+#EXTINF:-1  tvg-logo="" group-title="Filmes", SYFY
+http://tvviper.cobratw.com:9090/Watson75@live.co.uk/SZB5nmfv85wg/242264
+#EXTINF:-1  tvg-logo="" group-title="Filmes", STAR CHANNEL
+http://tvviper.cobratw.com:9090/Watson75@live.co.uk/SZB5nmfv85wg/242266
+#EXTINF:-1  tvg-logo="" group-title="Filmes", STAR CHANNEL 
+http://tvviper.cobratw.com:9090/Watson75@live.co.uk/SZB5nmfv85wg/242268
+#EXTINF:-1  tvg-logo="" group-title="Filmes", STAR CRIME HD
+http://tvviper.cobratw.com:9090/Watson75@live.co.uk/SZB5nmfv85wg/242269
+#EXTINF:-1  tvg-logo="" group-title="Filmes", STAR CRIME HD
+http://tvviper.cobratw.com:9090/Watson75@live.co.uk/SZB5nmfv85wg/242270
+#EXTINF:-1  tvg-logo="" group-title="Filmes", STAR CRIME
+http://tvviper.cobratw.com:9090/Watson75@live.co.uk/SZB5nmfv85wg/242271
+#EXTINF:-1  tvg-logo="" group-title="Filmes", STAR COMEDY HD
+http://tvviper.cobratw.com:9090/Watson75@live.co.uk/SZB5nmfv85wg/242272
+#EXTINF:-1  tvg-logo="" group-title="Filmes", STAR COMEDY HD
+http://tvviper.cobratw.com:9090/Watson75@live.co.uk/SZB5nmfv85wg/242273
+#EXTINF:-1  tvg-logo="" group-title="Filmes", STAR COMEDY
+http://tvviper.cobratw.com:9090/Watson75@live.co.uk/SZB5nmfv85wg/242274
+#EXTINF:-1  tvg-logo="" group-title="Filmes", STAR LIFE HD
+http://tvviper.cobratw.com:9090/Watson75@live.co.uk/SZB5nmfv85wg/242275
+#EXTINF:-1  tvg-logo="" group-title="Filmes", STAR LIFE
+http://tvviper.cobratw.com:9090/Watson75@live.co.uk/SZB5nmfv85wg/242276
