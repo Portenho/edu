@@ -125,9 +125,9 @@ http://013tv.com:8080/resplice/wdLIS4d9758INyuX/1459
 http://013tv.com:8080/resplice/wdLIS4d9758INyuX/1457
 #EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Filmes", Canal Hollywood
 http://013tv.com:8080/resplice/wdLIS4d9758INyuX/1455
-#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Filmes", Cine Mundo
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Filmes", Cinemundo
 http://013tv.com:8080/resplice/wdLIS4d9758INyuX/1477
-#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Filmes", Dizi Channel
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="https://i.postimg.cc/SRVYV6Bf/Dizi-Channel.png" group-title="Filmes", Dizi Channel
 http://013tv.com:8080/resplice/wdLIS4d9758INyuX/300240
 #EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Filmes", AMC
 http://013tv.com:8080/resplice/wdLIS4d9758INyuX/1473
