@@ -182,7 +182,7 @@ http://013tv.com:8080/resplice/wdLIS4d9758INyuX/1521
 http://013tv.com:8080/resplice/wdLIS4d9758INyuX/5914
 #EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Entretenimento", Local visão
 http://013tv.com:8080/resplice/wdLIS4d9758INyuX/10335
-#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Entretenimento", MEO Destaques
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="https://i.postimg.cc/Cxg3T9Q1/MEO.png" group-title="Entretenimento", MEO Destaques
 http://013tv.com:8080/resplice/wdLIS4d9758INyuX/265256
 #EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Entretenimento", Motorvision TV
 http://013tv.com:8080/resplice/wdLIS4d9758INyuX/4012
