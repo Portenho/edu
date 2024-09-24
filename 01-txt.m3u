@@ -1,23 +1,305 @@
-http://cord-cutter.net:8080/get.php?username=70453597&password=56651433&type=m3u	8	01/03/2026
-#EXTM3U
-#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Desporto", SPORT TV 1 HD
-http://cord-cutter.net:8080/70453597/56651433/167742
-#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Desporto", SPORT TV 2 HD
-http://cord-cutter.net:8080/70453597/56651433/167743
-#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Desporto", SPORT TV 4 HD
-http://cord-cutter.net:8080/70453597/56651433/167745
-#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Desporto", Eleven Sports 1 HD 
-http://cord-cutter.net:8080/70453597/56651433/35264
-#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Desporto", ELEVEN SPORTS 3 HD
-http://cord-cutter.net:8080/70453597/56651433/167748
-#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Desporto", ELEVEN SPORTS 4 HD
-http://cord-cutter.net:8080/70453597/56651433/167749
-#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Desporto", ELEVEN SPORTS 5 HD
-http://cord-cutter.net:8080/70453597/56651433/167750
-#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Desporto", BENFICA TV HD
-http://cord-cutter.net:8080/70453597/56651433/136726
+http://fortv.cc:8080/get.php?username=resplice&password=wdLIS4d9758INyuX&type=m3u  06-10-2024 1500u
+ 
+#EXTM3U url-tvg="https://raw.githubusercontent.com/f0nZ/epg-tv-portuguesa/master/guide.xml,https://github.com/iptv-org/epg/blob/master/sites/meo.pt/meo.pt.channels.xml,https://github.com/iptv-org/epg/blob/master/sites/nos.pt/nos.pt.channels.xml,https://raw.githubusercontent.com/LITUATUI/M3UPT/main/epg/epg-vodafone.xml,https://iptv-org.github.io/epg/guides/pt/mi.tv.xml"
 
-#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Filmes", TV CINE ACTION
-http://cord-cutter.net:8080/70453597/56651433/164809
-#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Filmes", NOS STUDIOS
-http://cord-cutter.net:8080/70453597/56651433/164811
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Generalistas", RTP 1
+http://013tv.com:8080/resplice/wdLIS4d9758INyuX/1404
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Generalistas", RTP 2
+http://013tv.com:8080/resplice/wdLIS4d9758INyuX/1406
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Generalistas", SIC
+http://013tv.com:8080/resplice/wdLIS4d9758INyuX/1408
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Generalistas", TVI
+http://013tv.com:8080/resplice/wdLIS4d9758INyuX/1410
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Generalistas", RTP 3
+http://013tv.com:8080/resplice/wdLIS4d9758INyuX/1418
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Generalistas", SIC Noticias
+http://013tv.com:8080/resplice/wdLIS4d9758INyuX/1416
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Generalistas", CNN Portugal
+http://013tv.com:8080/resplice/wdLIS4d9758INyuX/1414
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Generalistas", CM TV
+http://013tv.com:8080/resplice/wdLIS4d9758INyuX/1412
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Generalistas", Porto Canal
+http://013tv.com:8080/resplice/wdLIS4d9758INyuX/1419
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Generalistas", RTP Internacional
+http://013tv.com:8080/resplice/wdLIS4d9758INyuX/278418
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Generalistas", SIC Internacional
+http://013tv.com:8080/resplice/wdLIS4d9758INyuX/297535
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Generalistas", TVI Africa
+http://013tv.com:8080/resplice/wdLIS4d9758INyuX/304259
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Generalistas", euronews
+http://013tv.com:8080/resplice/wdLIS4d9758INyuX/4007
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Generalistas", TPA Notícias
+http://013tv.com:8080/resplice/wdLIS4d9758INyuX/298022
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Generalistas", Record TV
+http://013tv.com:8080/resplice/wdLIS4d9758INyuX/298700
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Generalistas", CNBC
+http://013tv.com:8080/resplice/wdLIS4d9758INyuX/304046
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Generalistas", RTP Madeira
+http://013tv.com:8080/resplice/wdLIS4d9758INyuX/278558
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Generalistas", RTP Açores
+http://013tv.com:8080/resplice/wdLIS4d9758INyuX/2055
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Generalistas", RTP África
+http://013tv.com:8080/resplice/wdLIS4d9758INyuX/1424
+
+
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Desporto", SPORT TV +
+http://013tv.com:8080/resplice/wdLIS4d9758INyuX/1481
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Desporto", SPORT TV 1
+http://013tv.com:8080/resplice/wdLIS4d9758INyuX/1483
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Desporto", SPORT TV 2
+http://013tv.com:8080/resplice/wdLIS4d9758INyuX/1486
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Desporto", SPORT TV 3
+http://013tv.com:8080/resplice/wdLIS4d9758INyuX/1489
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Desporto", SPORT TV 4
+http://013tv.com:8080/resplice/wdLIS4d9758INyuX/1492
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Desporto", SPORT TV 5
+http://013tv.com:8080/resplice/wdLIS4d9758INyuX/1495
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Desporto", SPORT TV 6
+http://013tv.com:8080/resplice/wdLIS4d9758INyuX/281487
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Desporto", SPORT TV 7
+http://013tv.com:8080/resplice/wdLIS4d9758INyuX/305284
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Desporto", NBA
+http://013tv.com:8080/resplice/wdLIS4d9758INyuX/2051
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Desporto", NBA
+http://013tv.com:8080/resplice/wdLIS4d9758INyuX/296750
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Desporto", Benfica TV
+http://013tv.com:8080/resplice/wdLIS4d9758INyuX/1497
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Desporto", ELEVEN SPORTS 1
+http://013tv.com:8080/resplice/wdLIS4d9758INyuX/1499
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Desporto", ELEVEN SPORTS 2
+http://013tv.com:8080/resplice/wdLIS4d9758INyuX/1503
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Desporto", ELEVEN SPORTS 3
+http://013tv.com:8080/resplice/wdLIS4d9758INyuX/1506
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Desporto", ELEVEN SPORTS 4
+http://013tv.com:8080/resplice/wdLIS4d9758INyuX/1509
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Desporto", ELEVEN SPORTS 5
+http://013tv.com:8080/resplice/wdLIS4d9758INyuX/1512
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Desporto", ELEVEN SPORTS 6
+http://013tv.com:8080/resplice/wdLIS4d9758INyuX/1515
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Desporto", Canal 11
+http://013tv.com:8080/resplice/wdLIS4d9758INyuX/1480
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Desporto", Sporting TV
+http://013tv.com:8080/resplice/wdLIS4d9758INyuX/1519
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Desporto", A Bola TV
+http://013tv.com:8080/resplice/wdLIS4d9758INyuX/1420
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Desporto", Eurosport 1
+http://013tv.com:8080/resplice/wdLIS4d9758INyuX/1517
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Desporto", Eurosport 2
+http://013tv.com:8080/resplice/wdLIS4d9758INyuX/1518
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Desporto", Eurosport 6
+http://013tv.com:8080/resplice/wdLIS4d9758INyuX/304871
+
+
+
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Filmes", TVCine Action
+http://013tv.com:8080/resplice/wdLIS4d9758INyuX/1452
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Filmes", TVCine Edition
+http://013tv.com:8080/resplice/wdLIS4d9758INyuX/82254
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Filmes", TVCine Emotion
+http://013tv.com:8080/resplice/wdLIS4d9758INyuX/1448
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Filmes", TVCine Top
+http://013tv.com:8080/resplice/wdLIS4d9758INyuX/1446
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Filmes", MEO Videoclube
+http://013tv.com:8080/resplice/wdLIS4d9758INyuX/265255
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Filmes", Netflix Kids
+http://013tv.com:8080/resplice/wdLIS4d9758INyuX/201051
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Filmes", NOS Studios
+http://013tv.com:8080/resplice/wdLIS4d9758INyuX/1454
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Filmes", NOS Studios
+http://013tv.com:8080/resplice/wdLIS4d9758INyuX/278550
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Filmes", AXN
+http://013tv.com:8080/resplice/wdLIS4d9758INyuX/1469
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Filmes", AXN Movies
+http://013tv.com:8080/resplice/wdLIS4d9758INyuX/1471
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Filmes", AXN White
+http://013tv.com:8080/resplice/wdLIS4d9758INyuX/1467
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Filmes", STAR Channel
+http://013tv.com:8080/resplice/wdLIS4d9758INyuX/1461
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Filmes", STAR Comedy
+http://013tv.com:8080/resplice/wdLIS4d9758INyuX/1465
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Filmes", STAR Crime
+http://013tv.com:8080/resplice/wdLIS4d9758INyuX/1463
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Filmes", STAR Life
+http://013tv.com:8080/resplice/wdLIS4d9758INyuX/1459
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Filmes", STAR Movies
+http://013tv.com:8080/resplice/wdLIS4d9758INyuX/1457
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Filmes", Canal Hollywood
+http://013tv.com:8080/resplice/wdLIS4d9758INyuX/1455
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Filmes", Cine Mundo
+http://013tv.com:8080/resplice/wdLIS4d9758INyuX/1477
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Filmes", Dizi Channel
+http://013tv.com:8080/resplice/wdLIS4d9758INyuX/300240
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Filmes", AMC
+http://013tv.com:8080/resplice/wdLIS4d9758INyuX/1473
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Filmes", SYFY
+http://013tv.com:8080/resplice/wdLIS4d9758INyuX/1475
+
+
+
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Entretenimento", TVI Reality
+http://013tv.com:8080/resplice/wdLIS4d9758INyuX/1423
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Entretenimento", TVI Ficção
+http://013tv.com:8080/resplice/wdLIS4d9758INyuX/1421
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Entretenimento", 24 Kitchen
+http://013tv.com:8080/resplice/wdLIS4d9758INyuX/2025
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Entretenimento", Casa e Cozinha
+http://013tv.com:8080/resplice/wdLIS4d9758INyuX/6097
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Entretenimento", Food Network
+http://013tv.com:8080/resplice/wdLIS4d9758INyuX/2044
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Entretenimento", Travel Channel
+http://013tv.com:8080/resplice/wdLIS4d9758INyuX/1529
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Entretenimento", Travelxp
+http://013tv.com:8080/resplice/wdLIS4d9758INyuX/301244
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Entretenimento", Caza y Pesca
+http://013tv.com:8080/resplice/wdLIS4d9758INyuX/297997
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Entretenimento", Caçavision
+http://013tv.com:8080/resplice/wdLIS4d9758INyuX/13956
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Entretenimento", Discovery World
+http://013tv.com:8080/resplice/wdLIS4d9758INyuX/296226
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Entretenimento", Odisseia
+http://013tv.com:8080/resplice/wdLIS4d9758INyuX/1532
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Entretenimento", Historia
+http://013tv.com:8080/resplice/wdLIS4d9758INyuX/1525
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Entretenimento", HGTV
+http://013tv.com:8080/resplice/wdLIS4d9758INyuX/304031
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Entretenimento", DOG TV
+http://013tv.com:8080/resplice/wdLIS4d9758INyuX/302763
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Entretenimento", SIC Caras
+http://013tv.com:8080/resplice/wdLIS4d9758INyuX/5910
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Entretenimento", SIC Mulher
+http://013tv.com:8080/resplice/wdLIS4d9758INyuX/1427
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Entretenimento", SIC Novelas
+http://013tv.com:8080/resplice/wdLIS4d9758INyuX/299727
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Entretenimento", SIC Radical
+http://013tv.com:8080/resplice/wdLIS4d9758INyuX/1429
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Entretenimento", E!
+http://013tv.com:8080/resplice/wdLIS4d9758INyuX/1526
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Entretenimento", FASHIONTV
+http://013tv.com:8080/resplice/wdLIS4d9758INyuX/2656
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Entretenimento", Fuel TV
+http://013tv.com:8080/resplice/wdLIS4d9758INyuX/1521
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Entretenimento", Investigation Discovery
+http://013tv.com:8080/resplice/wdLIS4d9758INyuX/5914
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Entretenimento", Local visão
+http://013tv.com:8080/resplice/wdLIS4d9758INyuX/10335
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Entretenimento", MEO Destaques
+http://013tv.com:8080/resplice/wdLIS4d9758INyuX/265256
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Entretenimento", Motorvision TV
+http://013tv.com:8080/resplice/wdLIS4d9758INyuX/4012
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Entretenimento", NAT GEO
+http://013tv.com:8080/resplice/wdLIS4d9758INyuX/1530
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Entretenimento", NAT GEO Wild
+http://013tv.com:8080/resplice/wdLIS4d9758INyuX/1531
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Entretenimento", OPTO
+http://013tv.com:8080/resplice/wdLIS4d9758INyuX/299728
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Entretenimento", Queens United TV
+http://013tv.com:8080/resplice/wdLIS4d9758INyuX/299377
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Entretenimento", SAUDE+
+http://013tv.com:8080/resplice/wdLIS4d9758INyuX/81973
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Entretenimento", TLC
+http://013tv.com:8080/resplice/wdLIS4d9758INyuX/1479
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Entretenimento", A&E
+http://013tv.com:8080/resplice/wdLIS4d9758INyuX/279741
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Entretenimento", Blaze
+http://013tv.com:8080/resplice/wdLIS4d9758INyuX/3996
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Entretenimento", Bloomberg
+http://013tv.com:8080/resplice/wdLIS4d9758INyuX/5933
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Entretenimento", AMC Crime
+http://013tv.com:8080/resplice/wdLIS4d9758INyuX/302758
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Entretenimento", Boomerang
+http://013tv.com:8080/resplice/wdLIS4d9758INyuX/24529
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Entretenimento", Campo Pequeno
+http://013tv.com:8080/resplice/wdLIS4d9758INyuX/28029
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Entretenimento", CANAL 180
+http://013tv.com:8080/resplice/wdLIS4d9758INyuX/146057
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Entretenimento", Canal Q
+http://013tv.com:8080/resplice/wdLIS4d9758INyuX/1430
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Entretenimento", CBS Reality
+http://013tv.com:8080/resplice/wdLIS4d9758INyuX/1528
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Entretenimento", Crime District
+http://013tv.com:8080/resplice/wdLIS4d9758INyuX/298636
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Entretenimento", Crime+ Investigation
+http://013tv.com:8080/resplice/wdLIS4d9758INyuX/5928
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Entretenimento", RTP Memória
+http://013tv.com:8080/resplice/wdLIS4d9758INyuX/1425
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Entretenimento", AR TV Canal Parlamento
+http://013tv.com:8080/resplice/wdLIS4d9758INyuX/300645
+
+
+
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Musica", BOM SOM
+http://013tv.com:8080/resplice/wdLIS4d9758INyuX/302759
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Musica", Alma Lusa
+http://013tv.com:8080/resplice/wdLIS4d9758INyuX/264642
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Musica", Afro Music Channel
+http://013tv.com:8080/resplice/wdLIS4d9758INyuX/1536
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Musica", Trace Brasil
+http://013tv.com:8080/resplice/wdLIS4d9758INyuX/303879
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Musica", Trace Latina
+http://013tv.com:8080/resplice/wdLIS4d9758INyuX/303880
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Musica", Trace Urban
+http://013tv.com:8080/resplice/wdLIS4d9758INyuX/303870
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Musica", MTV Portugal
+http://013tv.com:8080/resplice/wdLIS4d9758INyuX/1534
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Musica", MTV 00s
+http://013tv.com:8080/resplice/wdLIS4d9758INyuX/304586
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Musica", MTV Classic
+http://013tv.com:8080/resplice/wdLIS4d9758INyuX/304880
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Musica", MCM POP
+http://013tv.com:8080/resplice/wdLIS4d9758INyuX/304584
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Musica", MCM TOP
+http://013tv.com:8080/resplice/wdLIS4d9758INyuX/304585
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Musica", Stingray Retro
+http://013tv.com:8080/resplice/wdLIS4d9758INyuX/303881
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Musica", C Music
+http://013tv.com:8080/resplice/wdLIS4d9758INyuX/302761
+
+
+
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Kids", Netflix Kids
+http://013tv.com:8080/resplice/wdLIS4d9758INyuX/201051
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Kids", Disney Channel
+http://013tv.com:8080/resplice/wdLIS4d9758INyuX/1434
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Kids", Disney Junior
+http://013tv.com:8080/resplice/wdLIS4d9758INyuX/1435
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Kids", Disney Marvel
+http://013tv.com:8080/resplice/wdLIS4d9758INyuX/304582
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Kids", Disney Pixar
+http://013tv.com:8080/resplice/wdLIS4d9758INyuX/304583
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Kids", Disney+
+http://013tv.com:8080/resplice/wdLIS4d9758INyuX/226084
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Kids", FIREMAN SAM
+http://013tv.com:8080/resplice/wdLIS4d9758INyuX/304032
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Kids", Kanuca TV
+http://013tv.com:8080/resplice/wdLIS4d9758INyuX/304879
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Kids", Kuriakos Kids
+http://013tv.com:8080/resplice/wdLIS4d9758INyuX/10828
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Kids", Biggs
+http://013tv.com:8080/resplice/wdLIS4d9758INyuX/1439
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Kids", Canal Panda
+http://013tv.com:8080/resplice/wdLIS4d9758INyuX/1438
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Kids", Cartoon Network
+http://013tv.com:8080/resplice/wdLIS4d9758INyuX/1440
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Kids", Cartoonito
+http://013tv.com:8080/resplice/wdLIS4d9758INyuX/300637
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Kids", Nick Junior
+http://013tv.com:8080/resplice/wdLIS4d9758INyuX/9693
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Kids", nickelodeon
+http://013tv.com:8080/resplice/wdLIS4d9758INyuX/1436
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Kids", PANDA Kids
+http://013tv.com:8080/resplice/wdLIS4d9758INyuX/290678
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Kids", SIC K
+http://013tv.com:8080/resplice/wdLIS4d9758INyuX/4021
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Kids", Baby TV
+http://013tv.com:8080/resplice/wdLIS4d9758INyuX/1441
+
+
+
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Religiosos", Fatima TV
+http://013tv.com:8080/resplice/wdLIS4d9758INyuX/53924
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Religiosos", Cancao Nova
+http://013tv.com:8080/resplice/wdLIS4d9758INyuX/290766
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Religiosos", Kuriakos TV
+http://013tv.com:8080/resplice/wdLIS4d9758INyuX/9697
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Religiosos", TV Mana 1
+http://013tv.com:8080/resplice/wdLIS4d9758INyuX/298811
