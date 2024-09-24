@@ -192,9 +192,7 @@ http://013tv.com:8080/resplice/wdLIS4d9758INyuX/1530
 http://013tv.com:8080/resplice/wdLIS4d9758INyuX/1531
 #EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Entretenimento", OPTO
 http://013tv.com:8080/resplice/wdLIS4d9758INyuX/299728
-#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Entretenimento", Queens United TV
-http://013tv.com:8080/resplice/wdLIS4d9758INyuX/299377
-#EXTINF:-1 tvg-id="SaudeMais.pt" tvg-name="saudemais S+" tvg-logo="!" group-title="Entretenimento", SAUDE+
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="https://i.postimg.cc/XqkGYR48/Saude.png" group-title="Entretenimento", SAUDE+
 http://013tv.com:8080/resplice/wdLIS4d9758INyuX/81973
 #EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Entretenimento", TLC
 http://013tv.com:8080/resplice/wdLIS4d9758INyuX/1479
