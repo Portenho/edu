@@ -1,3 +1,23 @@
+http://cord-cutter.net:8080/get.php?username=70453597&password=56651433&type=m3u	8	01/03/2026
 #EXTM3U
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Desporto", SPORT TV 1 HD
+http://cord-cutter.net:8080/70453597/56651433/167742
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Desporto", SPORT TV 2 HD
+http://cord-cutter.net:8080/70453597/56651433/167743
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Desporto", SPORT TV 4 HD
+http://cord-cutter.net:8080/70453597/56651433/167745
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Desporto", Eleven Sports 1 HD 
+http://cord-cutter.net:8080/70453597/56651433/35264
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Desporto", ELEVEN SPORTS 3 HD
+http://cord-cutter.net:8080/70453597/56651433/167748
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Desporto", ELEVEN SPORTS 4 HD
+http://cord-cutter.net:8080/70453597/56651433/167749
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Desporto", ELEVEN SPORTS 5 HD
+http://cord-cutter.net:8080/70453597/56651433/167750
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Desporto", BENFICA TV HD
+http://cord-cutter.net:8080/70453597/56651433/136726
 
-
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Filmes", TV CINE ACTION
+http://cord-cutter.net:8080/70453597/56651433/164809
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Filmes", NOS STUDIOS
+http://cord-cutter.net:8080/70453597/56651433/164811
