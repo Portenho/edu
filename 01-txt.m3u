@@ -99,9 +99,9 @@ http://013tv.com:8080/resplice/wdLIS4d9758INyuX/82254
 http://013tv.com:8080/resplice/wdLIS4d9758INyuX/1448
 #EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Filmes", TVCine Top
 http://013tv.com:8080/resplice/wdLIS4d9758INyuX/1446
-#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Filmes", MEO Videoclube
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="https://i.postimg.cc/qv9bQ17X/MEO-Videoclube.jpg" group-title="Filmes", MEO Videoclube
 http://013tv.com:8080/resplice/wdLIS4d9758INyuX/265255
-#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Filmes", Netflix Kids
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="https://i.postimg.cc/FzWGSZqS/Netflix-Kids.png" group-title="Filmes", Netflix Kids
 http://013tv.com:8080/resplice/wdLIS4d9758INyuX/201051
 #EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Filmes", NOS Studios
 http://013tv.com:8080/resplice/wdLIS4d9758INyuX/1454
