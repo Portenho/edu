@@ -28,7 +28,7 @@ http://013tv.com:8080/resplice/wdLIS4d9758INyuX/297535
 http://013tv.com:8080/resplice/wdLIS4d9758INyuX/304259
 #EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Generalistas", euronews
 http://013tv.com:8080/resplice/wdLIS4d9758INyuX/4007
-#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Generalistas", TPA Notícias
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="https://i.postimg.cc/63Dq6Hd3/tpa-noticias.jpg" group-title="Generalistas", TPA Notícias
 http://013tv.com:8080/resplice/wdLIS4d9758INyuX/298022
 #EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Generalistas", Record TV
 http://013tv.com:8080/resplice/wdLIS4d9758INyuX/298700
