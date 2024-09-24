@@ -56,7 +56,7 @@ http://013tv.com:8080/resplice/wdLIS4d9758INyuX/1492
 http://013tv.com:8080/resplice/wdLIS4d9758INyuX/1495
 #EXTINF:-1 tvg-id="$" tvg-name="SPORT.TV6" tvg-logo="!" group-title="Desporto", SPORT.TV6
 http://013tv.com:8080/resplice/wdLIS4d9758INyuX/281487
-#EXTINF:-1 tvg-id="sporttv7.pt" tvg-name="SportTV 7" tvg-logo="!" group-title="Desporto", SPORT.TV7
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="https://i.postimg.cc/HxTH6wWn/sport-tv-7j.png" group-title="Desporto", SPORT.TV7
 http://013tv.com:8080/resplice/wdLIS4d9758INyuX/305284
 #EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Desporto", NBA
 http://013tv.com:8080/resplice/wdLIS4d9758INyuX/2051
