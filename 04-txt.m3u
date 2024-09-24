@@ -1,2 +1,24 @@
+http://cord-cutter.net:8080/get.php?username=nturman@triad.rr.com&password=nturman@2024&type=m3u	5	01/03/2025
 #EXTM3U url-tvg="https://raw.githubusercontent.com/f0nZ/epg-tv-portuguesa/master/guide.xml,https://github.com/iptv-org/epg/blob/master/sites/meo.pt/meo.pt.channels.xml,https://github.com/iptv-org/epg/blob/master/sites/nos.pt/nos.pt.channels.xml,https://raw.githubusercontent.com/LITUATUI/M3UPT/main/epg/epg-vodafone.xml,https://iptv-org.github.io/epg/guides/pt/mi.tv.xml"
 
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Desporto", SPORT TV 1 HD
+http://cord-cutter.net:8080/nturman@triad.rr.com/nturman@2024/167742
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Desporto", SPORT TV 2 HD
+http://cord-cutter.net:8080/nturman@triad.rr.com/nturman@2024/167743
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Desporto", SPORT TV 4 HD
+http://cord-cutter.net:8080/nturman@triad.rr.com/nturman@2024/167745
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Desporto", Eleven Sports 1 HD 
+http://cord-cutter.net:8080/nturman@triad.rr.com/nturman@2024/35264
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Desporto", ELEVEN SPORTS 3 HD
+http://cord-cutter.net:8080/nturman@triad.rr.com/nturman@2024/167748
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Desporto", ELEVEN SPORTS 4 HD
+http://cord-cutter.net:8080/nturman@triad.rr.com/nturman@2024/167749
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Desporto", ELEVEN SPORTS 5 HD
+http://cord-cutter.net:8080/nturman@triad.rr.com/nturman@2024/167750
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Desporto", BENFICA TV HD
+http://cord-cutter.net:8080/nturman@triad.rr.com/nturman@2024/136726
+
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Filmes", TV CINE ACTION
+http://cord-cutter.net:8080/nturman@triad.rr.com/nturman@2024/164809
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Filmes", NOS STUDIOS
+http://cord-cutter.net:8080/nturman@triad.rr.com/nturman@2024/164811
