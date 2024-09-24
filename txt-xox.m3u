@@ -1,9 +1,7 @@
 #EXTM3U
 
-############################# CHANNELS ################################## CHANNELS ##########################################
+############################# CHANNELS ################################## CHANNELS ##########################
 
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/NjgD2YB7/Bad-Channels.png" group-title="Bad Videos",Alba XXX HD1
-http://013tv.com:8080/resplice/wdLIS4d9758INyuX/8311
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/NjgD2YB7/Bad-Channels.png" group-title="Bad Videos",Alba XXX HD1 +1
 http://013tv.com:8080/resplice/wdLIS4d9758INyuX/296945
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/NjgD2YB7/Bad-Channels.png" group-title="Bad Videos",Alba XXX HD2
