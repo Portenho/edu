@@ -206,7 +206,7 @@ http://013tv.com:8080/resplice/wdLIS4d9758INyuX/5933
 http://013tv.com:8080/resplice/wdLIS4d9758INyuX/302758
 #EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Entretenimento", Boomerang
 http://013tv.com:8080/resplice/wdLIS4d9758INyuX/24529
-#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Entretenimento", Campo Pequeno
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="https://i.postimg.cc/85PPb7Sh/campo-pequeno.jpg" group-title="Entretenimento", Campo Pequeno
 http://013tv.com:8080/resplice/wdLIS4d9758INyuX/28029
 #EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Entretenimento", CANAL 180
 http://013tv.com:8080/resplice/wdLIS4d9758INyuX/146057
