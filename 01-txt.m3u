@@ -202,7 +202,7 @@ http://013tv.com:8080/resplice/wdLIS4d9758INyuX/279741
 http://013tv.com:8080/resplice/wdLIS4d9758INyuX/3996
 #EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Entretenimento", Bloomberg
 http://013tv.com:8080/resplice/wdLIS4d9758INyuX/5933
-#EXTINF:-1 tvg-id="AMCCrime.pt" tvg-name="AMC Crime" tvg-logo="!" group-title="Entretenimento", AMC Crime
+#EXTINF:-1 tvg-id="AMCCrime.pt" tvg-name="AMC Crime" tvg-logo="https://i.postimg.cc/m2tnxBjB/amc-crime.png" group-title="Entretenimento", AMC Crime
 http://013tv.com:8080/resplice/wdLIS4d9758INyuX/302758
 #EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Entretenimento", Boomerang
 http://013tv.com:8080/resplice/wdLIS4d9758INyuX/24529
