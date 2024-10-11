@@ -3,9 +3,6 @@ http://cord-cutter.net:8080/get.php?username=7kjJ21&password=193846&type=m3u	8	1
 #EXTINF:-1 tvg-logo="" group-title="Fotos", Luzia e Eduardo
 https://raw.githubusercontent.com/Portenho/Arquivos-Video/main/Eduardo%20e%20Luzia%20.mp4
 
-#EXTINF:-1 tvg-logo="" group-title="TikTok", Animais Fofinhos
-https://v16-webapp-prime.tiktok.com/video/tos/useast2a/tos-useast2a-ve-0068-euttp/og5iYCAlIDIncwQfEv4xJEMmzKbmFBFjhQioAh/?a=1988&bti=ODszNWYuMDE6&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&br=2050&bt=1025&cs=0&ds=6&ft=4fUEKMec8Zmo0xgc1b4jVxMrrpWrKsd.&mime_type=video_mp4&qs=0&rc=M2ZnNmlpZjlnNTc1Z2doZkBpM3N0a3I5cnlzdjMzZjczM0BhXzVgMl8xNWIxYTM0NTAxYSNgX2BsMmRrZDFgLS1kMWNzcw%3D%3D&btag=e00090000&expire=1728708329&l=20241011224317FDE7D88551C05021BCFB&ply_type=2&policy=2&signature=0b522f3700711ad7a266b9700fc08975&tk=tt_chain_token
-
 
 #EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Desporto", SPORT TV 1 HD
 http://cord-cutter.net:8080/7kjJ21/193846/167742
