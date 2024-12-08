@@ -1,1 +1,253 @@
-gfgxn
+#EXTM3U url-tvg="https://raw.githubusercontent.com/f0nZ/epg-tv-portuguesa/master/guide.xml,https://github.com/iptv-org/epg/blob/master/sites/meo.pt/meo.pt.channels.xml,https://github.com/iptv-org/epg/blob/master/sites/nos.pt/nos.pt.channels.xml,https://raw.githubusercontent.com/LITUATUI/M3UPT/main/epg/epg-vodafone.xml,https://iptv-org.github.io/epg/guides/pt/mi.tv.xml"
+
+#EXTM3U
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Sport Tv 5", 1
+http://viprrbz.top:8080/VIP018991732458705264/f761709eda8c/99488
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Sport Tv 5", 2
+http://viprrbz.top:8080/VIP011991731497213260/66e018331572/99488
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Sport Tv 5", 3
+http://viprrbz.top:8080/VIP01982171683203180/684016ca5a28/99488
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Sport Tv 5", 4
+http://viprrbz.top:8080/VIP017871730026492121/5a2ff51948a2/99488
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Sport Tv 5", 5
+http://viprrbz.top:8080/VIP014141732902879269/4760d179e790/99488
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Sport Tv 5", 6
+http://viprrbz.top:8080/VIP019351732638052265/dd36c5888360/99488
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Sport Tv 5", 7
+http://vo01.mohdtv.com:8880/voby3984/46oO2zKm6yVzIq9J/3188
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Sport Tv 5", 8
+http://vo01.mohdtv.com:8880/voby3984/46oO2zKm6yVzIq9J/49958
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Sport Tv 5", 9
+http://viprrbz.top:8080/VIP0187172599763929/91731791460008/99488
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Sport Tv 5", 10
+http://viprrbz.top:8080/VIP01164171640213880/9062a5613350/99488
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Sport Tv 5", 11
+http://viprrbz.top:8080/VIP0151171415889497/01714158894378/99488
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Sport Tv 5", 12
+http://viprrbz.top:8080/VIP018011729150624111/b84edcd3a319/99488
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Sport Tv 5", 13
+http://viprrbz.top:8080/VIP016971729330110112/def59d86e5d8/99488
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Sport Tv 5", 14
+http://vo01.mohdtv.com:8880/voby2411110096/wP1hEdkH1N8Dp9E7/3188
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Sport Tv 5", 15
+http://vo01.mohdtv.com:8880/voby2411110096/wP1hEdkH1N8Dp9E7/49958
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Sport Tv 5", 16
+http://vo01.mohdtv.com:8880/voby2411110011/cOjbhQLOKUdM89uN/3188
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Sport Tv 5", 17
+http://vo01.mohdtv.com:8880/voby2411110011/cOjbhQLOKUdM89uN/49958
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Sport Tv 5", 18
+http://viprrbz.top:8080/SVIP0169172769480214/51727694802838/99488
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Sport Tv 5", 19
+http://vo01.mohdtv.com:8880/voby2411110025/eEWAKh3z9I6BBkso/3188
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Sport Tv 5", 20
+http://vo01.mohdtv.com:8880/voby2411110025/eEWAKh3z9I6BBkso/49958
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Sport Tv 5", 21
+http://viprrbz.top:8080/VIP01335172448754895/23cf2ecbf399/99488
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Sport Tv 5", 22
+http://vo01.mohdtv.com:8880/voby5056/GDIji9zDmL4T1JsR/3188
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Sport Tv 5", 23
+http://vo01.mohdtv.com:8880/voby5056/GDIji9zDmL4T1JsR/49958
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Sport Tv 5", 24
+http://vo01.mohdtv.com:8880/voby0050d1/DJ1TTwv8pOedDXKj/3188
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Sport Tv 5", 25
+http://vo01.mohdtv.com:8880/voby0050d1/DJ1TTwv8pOedDXKj/49958
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Sport Tv 5", 26
+http://vo01.mohdtv.com:8880/voby2407230056/LZdgjaSalrH0gGeM/3188
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Sport Tv 5", 27
+http://vo01.mohdtv.com:8880/voby2407230056/LZdgjaSalrH0gGeM/49958
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Sport Tv 5", 28
+http://vo01.mohdtv.com:8880/voby2411110027/eew43IyBHQumhkiJ/3188
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Sport Tv 5", 29
+http://vo01.mohdtv.com:8880/voby2411110027/eew43IyBHQumhkiJ/49958
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Sport Tv 5", 30
+http://vo01.mohdtv.com:8880/voby2411110049/EK7Zv65dhahW94Yh/3188
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Sport Tv 5", 31
+http://vo01.mohdtv.com:8880/voby2411110049/EK7Zv65dhahW94Yh/49958
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Sport Tv 5", 32
+http://vo01.mohdtv.com:8880/voby2407230074/JMMxFo0GuIIpSW7H/3188
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Sport Tv 5", 33
+http://vo01.mohdtv.com:8880/voby2407230074/JMMxFo0GuIIpSW7H/49958
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Sport Tv 5", 34
+http://viprrbz.top:8080/VIP01692172269193092/031ec0f22c29/99488
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Sport Tv 5", 35
+http://viprrbz.top:8080/VIP0171171328866169/44ef88796412/99488
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Sport Tv 5", 36
+http://viprrbz.top:8080/VIP01924171983614186/2032f73a6a65/99488
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Sport Tv 5", 37
+http://viprrbz.top:8080/VIP01697172669118799/80fba95604f6/99488
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Sport Tv 5", 38
+http://vo01.mohdtv.com:8880/ALLChannels681def21afe4/fOirL8w4YphapMc6/3188
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Sport Tv 5", 39
+http://vo01.mohdtv.com:8880/ALLChannels681def21afe4/fOirL8w4YphapMc6/49958
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Sport Tv 5", 40
+http://vo01.mohdtv.com:8880/voby2408280006/P7PjsvuS9sRfWmUn/3188
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Sport Tv 5", 41
+http://vo01.mohdtv.com:8880/voby2408280006/P7PjsvuS9sRfWmUn/49958
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Sport Tv 5", 42
+http://vo01.mohdtv.com:8880/voby2407230017/k95kWKOpLT7pHntG/3188
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Sport Tv 5", 43
+http://vo01.mohdtv.com:8880/voby2407230017/k95kWKOpLT7pHntG/49958
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Sport Tv 5", 44
+http://vo01.mohdtv.com:8880/voby3024/dVini9Uy590q4XWX/3188
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Sport Tv 5", 45
+http://vo01.mohdtv.com:8880/voby3024/dVini9Uy590q4XWX/49958
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Sport Tv 5", 46
+http://viprrbz.top:8080/VIP01685171838585885/11e14949186f/99488
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Sport Tv 5", 47
+http://vo01.mohdtv.com:8880/voby5299/IVrVTspk84pXQxhH/3188
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Sport Tv 5", 48
+http://vo01.mohdtv.com:8880/voby5299/IVrVTspk84pXQxhH/49958
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Sport Tv 5", 49
+http://vo01.mohdtv.com:8880/voby005195/MD5F3fIEe5YRupK9/3188
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Sport Tv 5", 50
+http://vo01.mohdtv.com:8880/voby005195/MD5F3fIEe5YRupK9/49958
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Sport Tv 5", 51
+http://vo01.mohdtv.com:8880/voby1868/64917262/3188
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Sport Tv 5", 52
+http://vo01.mohdtv.com:8880/voby1868/64917262/49958
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Sport Tv 5", 53
+http://viprrbz.top:8080/VIP0132171196934663/891d26f49f38/99488
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Sport Tv 5", 54
+http://viprrbz.top:8080/VIP0134169738065628/5c49fcdbf223/99488
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Sport Tv 5", 55
+http://viprrbz.top:8080/VIP01661171421019072/c5d5717e6707/99488
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Sport Tv 5", 56
+http://viprrbz.top:8080/VIP0189171221460963/5aa98805c8c8/99488
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Sport Tv 5", 57
+http://vo01.mohdtv.com:8880/voby4542/unwP69nq5Q7v7J55/3188
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Sport Tv 5", 58
+http://vo01.mohdtv.com:8880/voby4542/unwP69nq5Q7v7J55/49958
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Sport Tv 5", 59
+http://viprrbz.top:8080/VIP0171171123579660/6500b4b15084/99488
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Sport Tv 5", 60
+http://vo01.mohdtv.com:8880/voby4849/xu3IdwUlAStYsQtb/3188
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Sport Tv 5", 61
+http://vo01.mohdtv.com:8880/voby4849/xu3IdwUlAStYsQtb/49958
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Sport Tv 5", 62
+http://viprrbz.top:8080/VIP0173171213248463/df750f883de3/99488
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Sport Tv 5", 63
+http://viprrbz.top:8080/VIP0197169380481112/81693804811/99488
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Sport Tv 5", 64
+http://vo01.mohdtv.com:8880/voby4927/jtVJCHUSU1mEuCm9/3188
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Sport Tv 5", 65
+http://vo01.mohdtv.com:8880/voby4927/jtVJCHUSU1mEuCm9/49958
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Sport Tv 5", 66
+http://vo01.mohdtv.com:8880/voby5389/ySIpmOrAQMsdKVAI/3188
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Sport Tv 5", 67
+http://vo01.mohdtv.com:8880/voby5389/ySIpmOrAQMsdKVAI/49958
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Sport Tv 5", 68
+http://vo01.mohdtv.com:8880/voby2040/78993954/3188
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Sport Tv 5", 69
+http://vo01.mohdtv.com:8880/voby2040/78993954/49958
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Sport Tv 5", 70
+http://viprrbz.top:8080/VIP0177171183776962/d444f2ad45ab/99488
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Sport Tv 5", 71
+http://viprrbz.top:8080/VIP0142170791705153/b1cf55e67454/99488
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Sport Tv 5", 72
+http://vo01.mohdtv.com:8880/voby4874/BBLKQgrmu3hyGpJb/3188
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Sport Tv 5", 73
+http://vo01.mohdtv.com:8880/voby4874/BBLKQgrmu3hyGpJb/49958
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Sport Tv 5", 74
+http://vo01.mohdtv.com:8880/voby5181/0ERdLPzg03bixK81/3188
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Sport Tv 5", 75
+http://vo01.mohdtv.com:8880/voby5181/0ERdLPzg03bixK81/49958
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Sport Tv 5", 76
+http://viprrbz.top:8080/VIP0166171209089987/31727988522213/99488
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Sport Tv 5", 76
+http://viprrbz.top:8080/VIP01426172647761398/3c70d3b456ce/99488
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Sport Tv 5", 78
+http://vo01.mohdtv.com:8880/voby5152/j583zQAqwlKfaSrs/3188
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Sport Tv 5", 79
+http://vo01.mohdtv.com:8880/voby5152/j583zQAqwlKfaSrs/49958
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Sport Tv 5", 80
+http://viprrbz.top:8080/VIP0177170775766652/4837ca2bb4b1/99488
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Sport Tv 5", 81
+http://viprrbz.top:8080/VIP0142170939858154/856d8d1ea090/99488
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Sport Tv 5", 82
+http://viprrbz.top:8080/VIP011881717321158007/36f56ee7e78d/99488
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Sport Tv 5", 83
+http://viprrbz.top:8080/VIP013173296129429/91732961294529/99488
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Sport Tv 5", 84
+http://viprrbz.top:8080/VIP0191171396147639/71732832538285/99488
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Sport Tv 5", 85
+http://vo01.mohdtv.com:8880/voby5236/FQBiugle5AvHaaBf/3188
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Sport Tv 5", 86
+http://vo01.mohdtv.com:8880/voby5236/FQBiugle5AvHaaBf/49958
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Sport Tv 5", 87
+http://vo01.mohdtv.com:8880/voby5215/76486985/3188
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Sport Tv 5", 88
+http://vo01.mohdtv.com:8880/voby5215/76486985/49958
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Sport Tv 5", 89
+http://viprrbz.top:8080/VIP019791732006392261/eb5a2d38cc7f/99488
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Sport Tv 5", 90
+http://viprrbz.top:8080/VIP016041732285418262/37b149a5dec9/99488
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Sport Tv 5", 91
+http://viprrbz.top:8080/VIP0118169470619519/91694706195/99488
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Sport Tv 5", 92
+http://viprrbz.top:8080/VIP015521732327497263/686867c0b02a/99488
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Sport Tv 5", 93
+http://vo01.mohdtv.com:8880/voby5015/81553994/3188
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Sport Tv 5", 94
+http://vo01.mohdtv.com:8880/voby5015/81553994/49958
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Sport Tv 5", 95
+http://vo01.mohdtv.com:8880/voby5219/644565580cde00588157/3188
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Sport Tv 5", 96
+http://vo01.mohdtv.com:8880/voby5219/644565580cde00588157/49958
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Sport Tv 5", 97
+http://viprrbz.top:8080/VIP014881731340040259/1b5979d44c09/99488
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Sport Tv 5", 98
+http://viprrbz.top:8080/VIP017391731852823261/6fc461df4259/99488
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Sport Tv 5", 99
+http://viprrbz.top:8080/VIP0113170635856388/01706358563274/99488
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Sport Tv 5", 100
+http://vo01.mohdtv.com:8880/voby5102/s79x6R7wuxKU4E1E/3188
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Sport Tv 5", 101
+http://vo01.mohdtv.com:8880/voby5102/s79x6R7wuxKU4E1E/49958
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Sport Tv 5", 102
+http://viprrbz.top:8080/VIP0163171490139175/384751faa5c4/99488
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Sport Tv 5", 103
+http://rafadnsvip.live:8080/barote16/B1234t2020/40
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Sport Tv 5", 104
+http://rafadnsvip.live:8080/barote16/B1234t2020/283
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Sport Tv 5", 105
+http://rafadnsvip.live:8080/barote16/B1234t2020/73483
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Sport Tv 5", 106
+http://viprrbz.top:8080/VIP0180172996342286/11729963422621/99488
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Sport Tv 5", 107
+http://vo01.mohdtv.com:8880/voby5040/sjGnF0plFycUNAl4/3188
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Sport Tv 5", 108
+http://vo01.mohdtv.com:8880/voby5040/sjGnF0plFycUNAl4/49958
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Sport Tv 5", 109
+http://vo01.mohdtv.com:8880/voby5151/18587952/3188
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Sport Tv 5", 110
+http://vo01.mohdtv.com:8880/voby5151/18587952/49958
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Sport Tv 5", 111
+http://viprrbz.top:8080/VIP01441729927819119/82bdf8252142/99488
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Sport Tv 5", 112
+http://vo01.mohdtv.com:8880/voby5067/66392189/3188
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Sport Tv 5", 113
+http://vo01.mohdtv.com:8880/voby5067/66392189/49958
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Sport Tv 5", 114
+http://viprrbz.top:8080/VIP0143173245388485/21732453884321/99488
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Sport Tv 5", 115
+http://vo01.mohdtv.com:8880/voby5092/iGp49WMzNpVZZig0/3188
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Sport Tv 5", 116
+http://vo01.mohdtv.com:8880/voby5092/iGp49WMzNpVZZig0/49958
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Sport Tv 5", 117
+http://vo01.mohdtv.com:8880/voby5086/587jvQjYdlhxEUOi/3188
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Sport Tv 5", 118
+http://vo01.mohdtv.com:8880/voby5086/587jvQjYdlhxEUOi/49958
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Sport Tv 5", 119
+http://vo01.mohdtv.com:8880/voby5047/5pNF5LV3DX4KXl4W/3188
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Sport Tv 5", 120
+http://vo01.mohdtv.com:8880/voby5047/5pNF5LV3DX4KXl4W/49958
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Sport Tv 5", 121
+http://viprrbz.top:8080/SVIP0170172933014521/51729330145798/99488
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Sport Tv 5", 122
+http://vo01.mohdtv.com:8880/voby5057/BKiyUT2p1s0c1GxR/3188
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Sport Tv 5", 123
+http://vo01.mohdtv.com:8880/voby5057/BKiyUT2p1s0c1GxR/49958
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Sport Tv 5", 124
+http://viprrbz.top:8080/VIP0159170583191749/29d5b62aed97/99488
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Sport Tv 5", 125
+http://viprrbz.top:8080/VIP010170332161944/91703321619428/99488
