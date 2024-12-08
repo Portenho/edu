@@ -78,23 +78,6 @@ http://iptvplay.xyz:8080/Armandodiluf/998877/37
 
 ########################## SPORT TV 3 ##########################
 
-#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="SportTV 3" tvg-logo="https://i.postimg.cc/N0QRrhXm/sporttv-3t.png" group-title="Sport Tv 3", Sport Tv 3 HD
-http://dns.acaidopara.net:8080/brunobr2/brasilusa/1520
-#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="SportTV 3" tvg-logo="https://i.postimg.cc/N0QRrhXm/sporttv-3t.png" group-title="Sport Tv 3", Sport Tv 3 HD
-http://dns.acaidopara.net:8080/brunobr2/brasilusa/1521
-
-#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="SportTV 3" tvg-logo="https://i.postimg.cc/N0QRrhXm/sporttv-3t.png" group-title="Sport Tv 3", Sport Tv 3 HD
-http://dns.acaidopara.net:8080/7742847330/2847330774/1520
-#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="SportTV 3" tvg-logo="https://i.postimg.cc/N0QRrhXm/sporttv-3t.png" group-title="Sport Tv 3", Sport Tv 3 HD
-http://dns.acaidopara.net:8080/7742847330/2847330774/1521
-
-#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="SportTV 3" tvg-logo="https://i.postimg.cc/gc81G8G5/sporttv-3j.jpg" group-title="Sport Tv 3", Sport Tv 3 HD 
-http://iptvplay.xyz:8080/grafica/ferreira/33
-#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="SportTV 3" tvg-logo="https://i.postimg.cc/gc81G8G5/sporttv-3j.jpg" group-title="Sport Tv 3", Sport Tv 3 HD
-http://iptvplay.xyz:8080/grafica/ferreira/32
-#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="SportTV 3" tvg-logo="https://i.postimg.cc/gc81G8G5/sporttv-3j.jpg" group-title="Sport Tv 3", Sport Tv 3
-http://iptvplay.xyz:8080/grafica/ferreira/34
-
 #EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="SportTV 3" tvg-logo="https://i.postimg.cc/N0QRrhXm/sporttv-3t.png" group-title="Sport Tv 3", Sport Tv 3 HD 
 http://iptvplay.xyz:8080/Armandodiluf/998877/33
 #EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="SportTV 3" tvg-logo="https://i.postimg.cc/N0QRrhXm/sporttv-3t.png" group-title="Sport Tv 3", Sport Tv 3 HD
@@ -109,33 +92,12 @@ http://iptvplay.xyz:8080/carlos343/3344/32
 #EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="SportTV 3" tvg-logo="https://i.postimg.cc/gc81G8G5/sporttv-3j.jpg" group-title="Sport Tv 3", Sport Tv 3
 http://iptvplay.xyz:8080/carlos343/3344/34
 
-#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="SportTV 3" tvg-logo="https://i.postimg.cc/N0QRrhXm/sporttv-3t.png" group-title="Sport Tv 3", Sport Tv 3 HD 
-http://iptvplay.xyz:8080/ManelAlemanha/r8GAvyLNxunh/33
-#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="SportTV 3" tvg-logo="https://i.postimg.cc/N0QRrhXm/sporttv-3t.png" group-title="Sport Tv 3", Sport Tv 3 HD
-http://iptvplay.xyz:8080/ManelAlemanha/r8GAvyLNxunh/32
-#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="SportTV 3" tvg-logo="https://i.postimg.cc/N0QRrhXm/sporttv-3t.png" group-title="Sport Tv 3", Sport Tv 3
-http://iptvplay.xyz:8080/ManelAlemanha/r8GAvyLNxunh/34
-
 #EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="SportTV 3" tvg-logo="https://i.postimg.cc/gc81G8G5/sporttv-3j.jpg" group-title="Sport Tv 3", Sport Tv 3 HD 
 http://iptvplay.xyz:8080/JoseRamosTgv3/jora2022/33
 #EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="SportTV 3" tvg-logo="https://i.postimg.cc/gc81G8G5/sporttv-3j.jpg" group-title="Sport Tv 3", Sport Tv 3 HD
 http://iptvplay.xyz:8080/JoseRamosTgv3/jora2022/32
 #EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="SportTV 3" tvg-logo="https://i.postimg.cc/gc81G8G5/sporttv-3j.jpg" group-title="Sport Tv 3", Sport Tv 3
 http://iptvplay.xyz:8080/JoseRamosTgv3/jora2022/34
-
-#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="SportTV 3" tvg-logo="https://i.postimg.cc/N0QRrhXm/sporttv-3t.png" group-title="Sport Tv 3", Sport Tv 3HD 
-http://iptvplay.xyz:8080/carlosferreira333/333/33
-#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="SportTV 3" tvg-logo="https://i.postimg.cc/N0QRrhXm/sporttv-3t.png" group-title="Sport Tv 3", Sport Tv 3HD
-http://iptvplay.xyz:8080/carlosferreira333/333/32
-#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="SportTV 3" tvg-logo="https://i.postimg.cc/N0QRrhXm/sporttv-3t.png" group-title="Sport Tv 3", Sport Tv 3
-http://iptvplay.xyz:8080/carlosferreira333/333/34
-
-#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="SportTV 3" tvg-logo="https://i.postimg.cc/gc81G8G5/sporttv-3j.jpg" group-title="Sport Tv 3", Sport Tv 3 HD 
-http://iptvplay.xyz:8080/JoaoAlves2022/JoAlvesTgv/33
-#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="SportTV 3" tvg-logo="https://i.postimg.cc/gc81G8G5/sporttv-3j.jpg" group-title="Sport Tv 3", Sport Tv 3 HD
-http://iptvplay.xyz:8080/JoaoAlves2022/JoAlvesTgv/32
-#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="SportTV 3" tvg-logo="https://i.postimg.cc/gc81G8G5/sporttv-3j.jpg" group-title="Sport Tv 3", Sport Tv 3
-http://iptvplay.xyz:8080/JoaoAlves2022/JoAlvesTgv/34
 
 #EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="SportTV 3" tvg-logo="https://i.postimg.cc/N0QRrhXm/sporttv-3t.png" group-title="Sport Tv 3", Eleven 3 HD 
 http://iptvplay.xyz:8080/nunoiptv/nuno123/33
@@ -153,36 +115,16 @@ http://dns.acaidopara.net:8080/brunobr2/brasilusa/1523
 #EXTINF:-1 tvg-id="sporttv4.pt" tvg-name="SportTV 4" tvg-logo="https://i.postimg.cc/wBh9yvJT/sporttv-4t.png" group-title="Sport Tv 4", Sport Tv 4 HD
 http://dns.acaidopara.net:8080/brunobr2/brasilusa/1524
 
-#EXTINF:-1 tvg-id="sporttv4.pt" tvg-name="SportTV 4" tvg-logo="https://i.postimg.cc/wBh9yvJT/sporttv-4t.png" group-title="Sport Tv 4", Sport Tv 4 HD
-http://dns.acaidopara.net:8080/7742847330/2847330774/1523
-#EXTINF:-1 tvg-id="sporttv4.pt" tvg-name="SportTV 4" tvg-logo="https://i.postimg.cc/wBh9yvJT/sporttv-4t.png" group-title="Sport Tv 4", Sport Tv 4 HD
-http://dns.acaidopara.net:8080/7742847330/2847330774/1524
-
 
 ########################## SPORT TV 5 ##########################
 
-#EXTINF:-1 tvg-id="sporttv5.pt" tvg-name="SportTV 5" tvg-logo="https://i.postimg.cc/C1SSjgHC/sporttv-5t.png" group-title="Sport Tv 5", Sport Tv 5 HD
-http://dns.acaidopara.net:8080/brunobr2/brasilusa/1526
-#EXTINF:-1 tvg-id="sporttv5.pt" tvg-name="SportTV 5" tvg-logo="https://i.postimg.cc/C1SSjgHC/sporttv-5t.png" group-title="Sport Tv 5", Sport Tv 5 HD
-http://dns.acaidopara.net:8080/brunobr2/brasilusa/15277
 
-#EXTINF:-1 tvg-id="sporttv5.pt" tvg-name="SportTV 5" tvg-logo="https://i.postimg.cc/C1SSjgHC/sporttv-5t.png" group-title="Sport Tv 5", Sport Tv 5 HD
-http://dns.acaidopara.net:8080/7742847330/2847330774/1526
-#EXTINF:-1 tvg-id="sporttv5.pt" tvg-name="SportTV 5" tvg-logo="https://i.postimg.cc/C1SSjgHC/sporttv-5t.png" group-title="Sport Tv 5", Sport Tv 5 HD
-http://dns.acaidopara.net:8080/7742847330/2847330774/1527
 
 
 ########################## SPORT TV 6 ##########################
 
 #EXTINF:-1 tvg-id="SportTV6.pt" tvg-name="Sport TV 6 HD" tvg-logo="https://i.postimg.cc/sXmymNwk/sporttv-6t.png" group-title="Sport Tv 6", Sport Tv 6 HD
 http://dns.acaidopara.net:8080/brunobr2/brasilusa/68314
-#EXTINF:-1 tvg-id="SportTV6.pt" tvg-name="Sport TV 6 HD" tvg-logo="https://i.postimg.cc/sXmymNwk/sporttv-6t.png" group-title="Sport Tv 6", Sport Tv 6 HD
-http://dns.acaidopara.net:8080/brunobr2/brasilusa/68315
-
-#EXTINF:-1 tvg-id="SportTV6.pt" tvg-name="Sport TV 6 HD" tvg-logo="https://i.postimg.cc/sXmymNwk/sporttv-6t.png" group-title="Sport Tv 6", Sport Tv 6 HD
-http://dns.acaidopara.net:8080/7742847330/2847330774/68314
-#EXTINF:-1 tvg-id="SportTV6.pt" tvg-name="Sport TV 6 HD" tvg-logo="https://i.postimg.cc/sXmymNwk/sporttv-6t.png" group-title="Sport Tv 6", Sport Tv 6 HD
-http://dns.acaidopara.net:8080/7742847330/2847330774/68315
 
 
 ########################## NBA ##########################
