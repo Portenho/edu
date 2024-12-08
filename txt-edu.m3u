@@ -1,8 +1,5 @@
 http://cord-cutter.net:8080/get.php?username=7kjJ21&password=193846&type=m3u	8	13/11/2024
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="Recordações", Luzia e Eduardo
-https://raw.githubusercontent.com/Portenho/Arquivos-Video/main/Eduardo%20e%20Luzia%20.mp4
-
 #EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Generalistas", RTP 1
 http://rafadnsvip.live:8080/Mauro/M12345@2024/1
 #EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Generalistas", RTP 1
