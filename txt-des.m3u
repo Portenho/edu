@@ -55,11 +55,12 @@ http://iptvplay.xyz:8080/carlos343/3344/35
 #EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="SportTV 2" tvg-logo="https://i.postimg.cc/28xJZYb7/sporttv-2j.jpg" group-title="Sport Tv 2", Sport Tv 2
 http://iptvplay.xyz:8080/carlos343/3344/37
 
-3
-
-4
-
-5
+#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="SportTV 2" tvg-logo="https://i.postimg.cc/28xJZYb7/sporttv-2j.jpg" group-title="Sport Tv 2", Sport Tv 2HD
+http://iptvplay.xyz:8080/JoseRamosTgv3/jora2022/36
+#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="SportTV 2" tvg-logo="https://i.postimg.cc/28xJZYb7/sporttv-2j.jpg" group-title="Sport Tv 2", Sport Tv 2HD
+http://iptvplay.xyz:8080/JoseRamosTgv3/jora2022/35
+#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="SportTV 2" tvg-logo="https://i.postimg.cc/28xJZYb7/sporttv-2j.jpg" group-title="Sport Tv 2", Sport Tv 2
+http://iptvplay.xyz:8080/JoseRamosTgv3/jora2022/37
 
 #EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="SportTV 2" tvg-logo="https://i.postimg.cc/nLTB4dK5/sporttv-2t.png" group-title="Sport Tv 2", Sport Tv 2 HD 
 http://iptvplay.xyz:8080/nunoiptv/nuno123/36
@@ -68,7 +69,12 @@ http://iptvplay.xyz:8080/nunoiptv/nuno123/35
 #EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="SportTV 2" tvg-logo="https://i.postimg.cc/nLTB4dK5/sporttv-2t.png" group-title="Sport Tv 2", Sport Tv 2
 http://iptvplay.xyz:8080/nunoiptv/nuno123/37
 
-
+#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="SportTV 2" tvg-logo="https://i.postimg.cc/nLTB4dK5/sporttv-2t.png" group-title="Sport Tv 2", Sport Tv 2 HD
+http://iptvplay.xyz:8080/Armandodiluf/998877/36
+#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="SportTV 2" tvg-logo="https://i.postimg.cc/nLTB4dK5/sporttv-2t.png" group-title="Sport Tv 2", Sport Tv 2 HD
+http://iptvplay.xyz:8080/Armandodiluf/998877/35
+#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="SportTV 2" tvg-logo="https://i.postimg.cc/nLTB4dK5/sporttv-2t.png" group-title="Sport Tv 2", Sport Tv 2
+http://iptvplay.xyz:8080/Armandodiluf/998877/37
 
 ########################## SPORT TV 3 ##########################
 
