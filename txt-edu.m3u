@@ -64,14 +64,7 @@ http://rafadnsvip.live:8080/Mauro/M12345@2024/164
 http://rafadnsvip.live:8080/Mauro/M12345@2024/15353
 
 
-#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Desporto", A Bola TV
-http://rafadnsvip.live:8080/Mauro/M12345@2024/27
-#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Desporto", A Bola TV
-http://rafadnsvip.live:8080/Mauro/M12345@2024/22167
-#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Desporto", CANAL 11
-http://rafadnsvip.live:8080/Mauro/M12345@2024/23282
-#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Desporto", Canal 11
-http://rafadnsvip.live:8080/Mauro/M12345@2024/32
+
 #EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Desporto", Sport TV+
 http://rafadnsvip.live:8080/Mauro/M12345@2024/34
 #EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Desporto", Sport TV+
@@ -156,6 +149,14 @@ http://rafadnsvip.live:8080/Mauro/M12345@2024/71
 http://rafadnsvip.live:8080/Mauro/M12345@2024/72
 #EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Desporto", Eurosport 2
 http://rafadnsvip.live:8080/Mauro/M12345@2024/73
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Desporto", A Bola TV
+http://rafadnsvip.live:8080/Mauro/M12345@2024/27
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Desporto", A Bola TV
+http://rafadnsvip.live:8080/Mauro/M12345@2024/22167
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Desporto", CANAL 11
+http://rafadnsvip.live:8080/Mauro/M12345@2024/23282
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Desporto", Canal 11
+http://rafadnsvip.live:8080/Mauro/M12345@2024/32
 
 
 #EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Filmes", TVCine Top
