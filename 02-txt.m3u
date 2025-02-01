@@ -1,33 +1,55 @@
 http://cord-cutter.net:8080/get.php?username=4wgpZN&password=006253&type=m3u	14-09-2025--5U
 
 #EXTM3U url-tvg="https://raw.githubusercontent.com/f0nZ/epg-tv-portuguesa/master/guide.xml,https://github.com/iptv-org/epg/blob/master/sites/meo.pt/meo.pt.channels.xml,https://github.com/iptv-org/epg/blob/master/sites/nos.pt/nos.pt.channels.xml,https://raw.githubusercontent.com/LITUATUI/M3UPT/main/epg/epg-vodafone.xml,https://iptv-org.github.io/epg/guides/pt/mi.tv.xml"
+#EXTM3U
+#EXTINF:-1,PT: RTP 1 FHD
+http://tv14s.xyz:8080/qkciptv@gmail.com/DKKyGZa7dS/164792
+#EXTINF:-1,PT: TVI
+http://tv14s.xyz:8080/qkciptv@gmail.com/DKKyGZa7dS/78526
+#EXTINF:-1,PT: CNN HD
+http://tv14s.xyz:8080/qkciptv@gmail.com/DKKyGZa7dS/164802
+#EXTINF:-1,PT: CMTV
+http://tv14s.xyz:8080/qkciptv@gmail.com/DKKyGZa7dS/78441
+#EXTINF:-1,PT: TV CINE ACTION FHD
+http://tv14s.xyz:8080/qkciptv@gmail.com/DKKyGZa7dS/164809
+#EXTINF:-1,PT: NOS STUDIOS FHD
+http://tv14s.xyz:8080/qkciptv@gmail.com/DKKyGZa7dS/164811
+#EXTINF:-1,PT: HOLLYWOOD FHD
+http://tv14s.xyz:8080/qkciptv@gmail.com/DKKyGZa7dS/164813
+#EXTINF:-1,PT: AXN WHITE FHD
+http://tv14s.xyz:8080/qkciptv@gmail.com/DKKyGZa7dS/164815
+#EXTINF:-1,PT: AXN MOVIES  HD
+http://tv14s.xyz:8080/qkciptv@gmail.com/DKKyGZa7dS/164818
+#EXTINF:-1,PT: SYFY FHD
+http://tv14s.xyz:8080/qkciptv@gmail.com/DKKyGZa7dS/164821
+#EXTINF:-1,PT: TV GLOBO HD
+http://tv14s.xyz:8080/qkciptv@gmail.com/DKKyGZa7dS/164824
+#EXTINF:-1,PT: CLUBBING TV
+http://tv14s.xyz:8080/qkciptv@gmail.com/DKKyGZa7dS/164850
+#EXTINF:-1,PT: ZAP VIVA FHD
+http://tv14s.xyz:8080/qkciptv@gmail.com/DKKyGZa7dS/164853
+#EXTINF:-1,PT: TPA INTERNACIONAL SD
+http://tv14s.xyz:8080/qkciptv@gmail.com/DKKyGZa7dS/164855
+#EXTINF:-1,PT: TVC CABO VERDE
+http://tv14s.xyz:8080/qkciptv@gmail.com/DKKyGZa7dS/164858
+#EXTINF:-1,PT: EURONEWS
+http://tv14s.xyz:8080/qkciptv@gmail.com/DKKyGZa7dS/164859
+#EXTINF:-1,PT: TVI REALITY
+http://tv14s.xyz:8080/qkciptv@gmail.com/DKKyGZa7dS/164861
+#EXTINF:-1,PT: SPORT TV 1 FHD
+http://tv14s.xyz:8080/qkciptv@gmail.com/DKKyGZa7dS/167742
+#EXTINF:-1,PT: SPORT TV 2 HD
+http://tv14s.xyz:8080/qkciptv@gmail.com/DKKyGZa7dS/167743
+#EXTINF:-1,PT: SPORT TV 3 HD
+http://tv14s.xyz:8080/qkciptv@gmail.com/DKKyGZa7dS/167744
+#EXTINF:-1,PT: SPORT TV 4 FHD
+http://tv14s.xyz:8080/qkciptv@gmail.com/DKKyGZa7dS/167745
+#EXTINF:-1,PT: ELEVEN SPORTS 1 FHD 
+http://tv14s.xyz:8080/qkciptv@gmail.com/DKKyGZa7dS/35264
+#EXTINF:-1,PT: ELEVEN SPORTS 3 HD
+http://tv14s.xyz:8080/qkciptv@gmail.com/DKKyGZa7dS/167748
+#EXTINF:-1,PT: ELEVEN SPORTS 4 HD
+http://tv14s.xyz:8080/qkciptv@gmail.com/DKKyGZa7dS/167749
+#EXTINF:-1,PT: ELEVEN SPORTS 5 HD
+http://tv14s.xyz:8080/qkciptv@gmail.com/DKKyGZa7dS/167750
 
-#EXTINF:-1  tvg-logo="" group-title="Desporto", SPORT TV 1 HD
-http://cord-cutter.net:8080/4wgpZN/006253/167742
-#EXTINF:-1  tvg-logo="" group-title="Desporto", SPORT TV 2 HD
-http://cord-cutter.net:8080/4wgpZN/006253/167743
-#EXTINF:-1  tvg-logo="" group-title="Desporto", SPORT TV 3 HD
-http://cord-cutter.net:8080/4wgpZN/006253/167744
-#EXTINF:-1  tvg-logo="" group-title="Desporto", SPORT TV 4 HD
-http://cord-cutter.net:8080/4wgpZN/006253/167745
-#EXTINF:-1  tvg-logo="" group-title="Desporto", NBA
-http://cord-cutter.net:8080/4wgpZN/006253/20073
-#EXTINF:-1  tvg-logo="" group-title="Desporto", BENFICA TV
-http://cord-cutter.net:8080/4wgpZN/006253/136726
-#EXTINF:-1  tvg-logo="" group-title="Desporto", ELEVEN SPORTS 1 HD
-http://cord-cutter.net:8080/4wgpZN/006253/35264
-#EXTINF:-1  tvg-logo="" group-title="Desporto", ELEVEN SPORTS 3 HD
-http://cord-cutter.net:8080/4wgpZN/006253/167748
-#EXTINF:-1  tvg-logo="" group-title="Desporto", ELEVEN SPORTS 4 HD
-http://cord-cutter.net:8080/4wgpZN/006253/167749
-#EXTINF:-1  tvg-logo="" group-title="Desporto", ELEVEN SPORTS 5 HD
-http://cord-cutter.net:8080/4wgpZN/006253/167750
-
-
-
-
-
-#EXTINF:-1  tvg-logo="" group-title="Filmes", TV CINE ACTION HD
-http://cord-cutter.net:8080/4wgpZN/006253/164809
-#EXTINF:-1  tvg-logo="" group-title="Filmes", NOS STUDIOS
-http://cord-cutter.net:8080/4wgpZN/006253/164811
