@@ -1,53 +1,1372 @@
-http://013tv.com:8080/get.php?username=resplice&password=wdLIS4d9758INyuX&type=m3u  06-10-2024 1500u
- 
 #EXTM3U url-tvg="https://raw.githubusercontent.com/f0nZ/epg-tv-portuguesa/master/guide.xml,https://github.com/iptv-org/epg/blob/master/sites/meo.pt/meo.pt.channels.xml,https://github.com/iptv-org/epg/blob/master/sites/nos.pt/nos.pt.channels.xml,https://raw.githubusercontent.com/LITUATUI/M3UPT/main/epg/epg-vodafone.xml,https://iptv-org.github.io/epg/guides/pt/mi.tv.xml"
-#EXTINF:-1,PT: RTP 1 FHD
-http://fortv.cc:8080/4YYrcEg/Z8bmyZb/164792
-#EXTINF:-1,PT: TVI
-http://fortv.cc:8080/4YYrcEg/Z8bmyZb/78526
-#EXTINF:-1,PT: CNN HD
-http://fortv.cc:8080/4YYrcEg/Z8bmyZb/164802
-#EXTINF:-1,PT: CMTV
-http://fortv.cc:8080/4YYrcEg/Z8bmyZb/78441
-#EXTINF:-1,PT: TV CINE ACTION FHD
-http://fortv.cc:8080/4YYrcEg/Z8bmyZb/164809
-#EXTINF:-1,PT: NOS STUDIOS FHD
-http://fortv.cc:8080/4YYrcEg/Z8bmyZb/164811
-#EXTINF:-1,PT: HOLLYWOOD FHD
-http://fortv.cc:8080/4YYrcEg/Z8bmyZb/164813
-#EXTINF:-1,PT: AXN WHITE FHD
-http://fortv.cc:8080/4YYrcEg/Z8bmyZb/164815
-#EXTINF:-1,PT: AXN MOVIES  HD
-http://fortv.cc:8080/4YYrcEg/Z8bmyZb/164818
-#EXTINF:-1,PT: SYFY FHD
-http://fortv.cc:8080/4YYrcEg/Z8bmyZb/164821
-#EXTINF:-1,PT: TV GLOBO HD
-http://fortv.cc:8080/4YYrcEg/Z8bmyZb/164824
-#EXTINF:-1,PT: CLUBBING TV
-http://fortv.cc:8080/4YYrcEg/Z8bmyZb/164850
-#EXTINF:-1,PT: ZAP VIVA FHD
-http://fortv.cc:8080/4YYrcEg/Z8bmyZb/164853
-#EXTINF:-1,PT: TPA INTERNACIONAL SD
-http://fortv.cc:8080/4YYrcEg/Z8bmyZb/164855
-#EXTINF:-1,PT: TVC CABO VERDE
-http://fortv.cc:8080/4YYrcEg/Z8bmyZb/164858
-#EXTINF:-1,PT: EURONEWS
-http://fortv.cc:8080/4YYrcEg/Z8bmyZb/164859
-#EXTINF:-1,PT: TVI REALITY
-http://fortv.cc:8080/4YYrcEg/Z8bmyZb/164861
-#EXTINF:-1,PT: SPORT TV 1 FHD
-http://fortv.cc:8080/4YYrcEg/Z8bmyZb/167742
-#EXTINF:-1,PT: SPORT TV 2 HD
-http://fortv.cc:8080/4YYrcEg/Z8bmyZb/167743
-#EXTINF:-1,PT: SPORT TV 3 HD
-http://fortv.cc:8080/4YYrcEg/Z8bmyZb/167744
-#EXTINF:-1,PT: SPORT TV 4 FHD
-http://fortv.cc:8080/4YYrcEg/Z8bmyZb/167745
-#EXTINF:-1,PT: ELEVEN SPORTS 1 FHD 
-http://fortv.cc:8080/4YYrcEg/Z8bmyZb/35264
-#EXTINF:-1,PT: ELEVEN SPORTS 3 HD
-http://fortv.cc:8080/4YYrcEg/Z8bmyZb/167748
-#EXTINF:-1,PT: ELEVEN SPORTS 4 HD
-http://fortv.cc:8080/4YYrcEg/Z8bmyZb/167749
-#EXTINF:-1,PT: ELEVEN SPORTS 5 HD
-http://fortv.cc:8080/4YYrcEg/Z8bmyZb/167750
+
+http://cord-cutter.net:8080/get.php?username=4wgpZN&password=006253&type=m3u	14-09-2025--5U
+
+#EXTM3U url-tvg="https://raw.githubusercontent.com/f0nZ/epg-tv-portuguesa/master/guide.xml,https://github.com/iptv-org/epg/blob/master/sites/meo.pt/meo.pt.channels.xml,https://github.com/iptv-org/epg/blob/master/sites/nos.pt/nos.pt.channels.xml,https://raw.githubusercontent.com/LITUATUI/M3UPT/main/epg/epg-vodafone.xml,https://iptv-org.github.io/epg/guides/pt/mi.tv.xml"
+#EXTM3U
+
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", RTP 1
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/122984
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", RTP 1 FHD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/122985
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", RTP 1 HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/122986
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", RTP 2
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/122987
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", RTP 2 HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/122988
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", RTP 2 FHD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/122989
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", RTP 3
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/122990
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", SIC
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/122991
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", SIC HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/122992
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", SIC FHD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/122993
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", TVI
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/122994
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", TVI HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/122995
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", TVI FHD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/122996
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", SIC NOTICIAS
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/122997
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", RTP 3 HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/122998
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", SIC NOTÍCIAS FHD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/122999
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", CNN PORTUGAL
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123000
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", CNN PORTUGAL HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123001
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", CMTV
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123002
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", CMTV HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123003
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", CNN PORTUGAL FHD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123004
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", CMTV FHD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123005
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", CNN
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123006
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", News NOW
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123007
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", TVI V+
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123008
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", TVI V+ HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123009
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", TVI REALITY
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123010
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", TVI REALITY HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123011
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", TVI REALITY FHD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123012
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", TVI REALITY MOSAICO
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123013
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", TVI REALITY CAMARA 1
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123014
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", TVI REALITY CAMARA 2
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123015
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", TVI REALITY CAMARA 3
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123016
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", SIC NOVELAS
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123018
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", SIC OPTO
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123019
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", SIC MULHER
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123020
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", SIC MULHER FHD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123021
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", SIC K
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123022
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", SIC K FHD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123023
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", SIC CARAS
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123024
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", SIC CARAS FHD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123025
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", SIC RADICAL
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123026
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", SIC RADICAL FHD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123027
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", RTP ÁFRICA
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123028
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", RTP ACORES
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123029
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", RTP MADEIRA
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123030
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", RTP MEMORIA
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123031
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", PORTO CANAL
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123032
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", PORTO CANAL FHD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123033
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", CNN PORTUGAL HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/101759
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", TRACE TOCA
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/101789
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", CNN PORTUGAL 4K
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/101799
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", CMTV 4K ᴴᵉᵛᶜ
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/101800
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", RTP 1 4K
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110295
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", RTP 1 4K ᴴᵉᵛᶜ
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110296
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", RTP 2 4K
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110297
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", SIC 4K
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110298
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", SIC 4K ᴴᵉᵛᶜ
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110299
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", TVI 4K
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110300
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", TVI 4K ᴴᵉᵛᶜ
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110301
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", SIC NOTICIAS 4K
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110302
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", CNN PORTUGAL 4K
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110303
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", CMTV 4K ᴴᵉᵛᶜ
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110304
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", ZAP VIVA 4K
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110305
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", SIC MULHER 4K
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110306
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", CANAL PANDA
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/101865
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", CANAL PANDA
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/101687
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", EURONEWS 4K
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110328
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", TVI Reality 4K
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110329
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", RTP 3 4K
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110330
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", National geographic 4K.
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110331
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", SIC NOVELAS 4K
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110333
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", RTP 1
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110334
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", RTP 2
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110335
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", IC
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110336
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", TVI
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110337
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", RTP 3
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110338
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", CMTV
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110339
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", TVI 24
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110340
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", SIC Mulher
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110341
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", SIC NOTICIAS
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110342
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", SIC RADICAL
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110343
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", TVI FICCAO
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110344
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", TVI REALITY
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110345
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", YFY
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110379
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", FOX COMEDY
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110382
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", National geographic
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110374
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", National Geographic wild
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110375
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", Nick Junior
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110376
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", DISNEY JUNIOR
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110377
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", DISNEY CHANNEL
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110378
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", PANDA BIGGS
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110380
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", PORTO CANAL
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110381
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", HISTORIA
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110383
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", TV RECORD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110384
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", GLOBO
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110386
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", CBS REALITY HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110415
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", BLOOMBERG HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110416
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", 24 KITCHEN HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110417
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", SIC CARAS HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110419
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", SIC K HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110420
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", SIC MULHER HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110421
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", SIC RADICAL HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110422
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", TRAVEL CHANNEL HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110423
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", TV GALICIA HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110426
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", CANAL Q HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110427
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", TOROS TV HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110428
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", FTV HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110429
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", TV GLOBO HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110430
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", TVI INTERNATIONAL HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110431
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", TV RECORD NEWS HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110432
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", BOOMERANG HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110433
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", FOOD NETWORK HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110434
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", TVI REALITY HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110435
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", RTP 1 HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110480
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", RTP 2 HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110481
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", RTP 3 HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110482
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", SIC HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110483
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", TVI HD ⊚
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110484
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", CNN HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110485
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", SIC NOTICIAS HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110486
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", CMTV HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110487
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", RTP AFRICA HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110488
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", RTP MADEIRA HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110489
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", RTP ACORES HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110490
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", PORTO CANAL HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110491
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", BBC WORLD NEWS
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110492
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", RTP MEMORIA HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110493
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", TVI FICCAO HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110494
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", TVE 24H
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110495
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", CNN PORTUGAL HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110496
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", ARTV HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110497
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", E! ENTERTAINMENT HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110499
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", DISCOVERY CHANNEL HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110500
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", NAT GEO GEOGRAPHIC HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110501
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", NAT GEO WILD HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110502
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", CRIME INVESTIGATION HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110503
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", ODISSEIA HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110504
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", HISTORIA HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110505
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", NICKELODEON
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110506
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", DISNEY JUNIOR
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110507
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", DISNEY CHANNEL
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110508
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", BABY TV
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110509
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", BIGGS
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110510
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", CANAL PANDA
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110511
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", CARTOON NETWORK
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110512
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", CACA E PESCA
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123084
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", CAÇA E PESCA
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123085
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", CACAVISION
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123086
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", CAMPO PEQUENO
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123087
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", MUNDO TOURO TV
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123088
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", CASA E COZINHA
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123142
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", CASA E COZINHA FHD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123143
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", DISCOVERY CHANNEL FHD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123146
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", ID INVESTIGATION DISCOVERY HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123147
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", ID INVESTIGATION DISCOVERY FHD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123148
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", NATIONAL GEOGRAPHIC
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123149
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", NATIONAL GEOGRAPHIC FHD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123150
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", NATIONAL GEOGRAPHIC WILD FHD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123151
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", ODISSEIA
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123152
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", ODISSEIA HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123153
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", ODISSEIA FHD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123154
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", HISTORIA
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123155
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", HISTÓRIA FHD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123156
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", DISCOVERY CHANNEL
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123157
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", DOG TV
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123158
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", TLC
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123159
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", CANAL 180
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123160
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", Canal Q
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123161
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", CANCAO NOVA
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123162
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", 24 KITCHEN HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123163
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", RECORD NEWS
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123164
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", AFRO MUSIC
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123165
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", BABY TV
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123166
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", CANAL PANDA
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123167
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", PANDA KIDS
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123168
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", BIGGS
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123169
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", DISNEY CHANNEL
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123170
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", DISNEY CHANNEL FHD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123171
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", DISNEY JUNIOR
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123172
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", NICK Jr.
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123173
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", NICKELODEON
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123174
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", CARTOONITO HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123175
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", E!
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123176
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", KURIAKOS TV
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123177
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", E! FHD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123183
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", FOOD NETWORK
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123184
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", TV RECORD FHD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123185
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", GLOBO FHD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123186
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", Globo Now HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123187
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", TRAVEL CHANNEL FHD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123188
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", LOCALVISÃO TV
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123189
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", FIGHT NETWORK
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123190
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", MEZZO LIVE
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123191
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", CANAL 180 FHD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123192
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", MOTORVISION
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123193
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", TCV INTERNACIONAL
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123194
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", ZAP VIVA
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123195
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", TRACE URBAN
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123196
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", FUEL TV
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123197
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", ALMALUSA
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123198
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", WRC HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123199
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", FIGHTBOX
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123200
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", FTV
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123201
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", W-SPORT HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123202
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", TVI AFRICA
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123203
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", DISCOVERY CHANNEL FHD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123207
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", TV Zimbo
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123209
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", ᴴ²⁶⁵: RTP 1 HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123210
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", ᴴ²⁶⁵: RTP 1 FULHD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123211
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", RTP 1 FHD 265
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123212
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", ᴴ²⁶⁵: RTP 2 HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123213
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", RTP 2 FHD 265
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123214
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", ᴴ²⁶⁵: SIC HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123215
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", ᴴ²⁶⁵: SIC FULHD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123216
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", SIC FHD 265
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123217
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", ᴴ²⁶⁵: TVI HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123218
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", ᴴ²⁶⁵: TVI FULHD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123219
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", TVI FHD 265
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123220
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", HD265 RTP 3 HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123221
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", ᴴ²⁶⁵: SIC NOTICIAS HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123222
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", SIC NOTICIAS FHD 265
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123223
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", ᴴ²⁶⁵ CNN PORTUGALᴴᴰ
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123224
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", CNN PORTUGAL HD265  ᶠᴴᴰ
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123225
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", ᴴ²⁶⁵: RTP 3 HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123226
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", RTP 3 FHD 265
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123227
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", ᴴ²⁶⁵: CMTV HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123228
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", CMTV FHD 265
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123229
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", ᴴ²⁶⁵: SIC RADICAL FHD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123230
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", SIC RADICAL FHD 265
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123231
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", ᴴ²⁶⁵: SIC MULHER HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123232
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", SIC MULHER FHD 265
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123233
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", ᴴ²⁶⁵: SIC K HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123234
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", ᴴ²⁶⁵: SIC CARAS HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123235
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", SIC CARAS FHD 265
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123236
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", ᴴ²⁶⁵: TVI FICÇAO HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123237
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", TVI FICCAO FHD 265
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123238
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", ᴴ²⁶⁵: PORTO CANAL HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123239
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", TVI REALITY FHD 265
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123240
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", ᴴ²⁶⁵: TVI REALITY HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123241
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", PORTO CANAL FHD 265
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123242
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", CANAL PANDA
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110369
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", ᴴ²⁶⁵: TV RECORD HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123334
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", ᴴ²⁶⁵: GLOBO HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123335
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", ᴴ²⁶⁵: 24 KITCHEN HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123336
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", 24 KITCHEN FHD 265
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123337
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", ᴴ²⁶⁵: CASA E COZINHA HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123338
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", CASA E COZINHA FHD 265
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123339
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", ᴴ²⁶⁵: DISCOVERY CHANNEL HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123340
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", ᴴ²⁶⁵: NATIONAL GEPGRAPHIC HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123341
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", ᴴ²⁶⁵: NATIONAL GEOGRAPHIC WILD HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123342
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", NATIONAL GEOGRAPHIC WILD FHD 265
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123343
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", ᴴ²⁶⁵INVESTIGATION DISCOVERY HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123344
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", ᴴ²⁶⁵: E! ENTERTAINMENT HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123345
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", ᴴ²⁶⁵: ODISSEIA HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123346
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", AMC BREAK FHD 265
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123347
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", TRAVEL CHENNEL FHD 265
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123348
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", 24 KITCHEN LOW
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123349
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", BABY TV LOW
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123355
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", CACA E PESCA LOW
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123356
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", CANAL PANDA LOW
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123358
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", CM TV LOW
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123360
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", DISCOVERY CHANNEL LOW
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123361
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", DISNEY CHANNEL LOW
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123362
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", DISNEY JUNIOR LOW
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123363
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", GLOBO LOW
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123379
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", HISTORIA LOW
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123380
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", NATIONAL GEOGRAFIC WILD LOW
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123383
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", NATIONAL GEOGRAPHIC LOW
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123384
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", NICK JR LOW
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123385
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", NICKELODEAN LOW
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123386
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", PORTO CANAL LOW
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123388
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", RTP 1 LOW
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123389
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", RTP 2 LOW
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123390
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", RTP 3 LOW
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123391
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", RTP MEMORIA LOW
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123392
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", SIC MULHER LOW
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123393
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", SIC NOTICIAS LOW
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123394
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", SIC RADICAL LOW
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123395
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", TLC LOW
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123406
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", TV RECORD LOW
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123407
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", CNN PORTUGAL LOW
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123412
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", TVI FICCAO LOW
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123413
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", TVI LOW
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123414
+#EXTINF:-1  tvg-logo="" group-title="Generalistas", TVI REALITY LOW
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123415
+
+
+
+
+#EXTINF:-1  tvg-logo="" group-title="Desporto", ELEVEN SPORTS 1 HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123364
+#EXTINF:-1  tvg-logo="" group-title="Desporto", ELEVEN SPORTS 1 LOW
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123365
+#EXTINF:-1  tvg-logo="" group-title="Desporto", ELEVEN SPORTS 2 720P
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123366
+#EXTINF:-1  tvg-logo="" group-title="Desporto", ELEVEN SPORTS 2 LOW
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123367
+#EXTINF:-1  tvg-logo="" group-title="Desporto", ELEVEN SPORTS 3 720P
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123368
+#EXTINF:-1  tvg-logo="" group-title="Desporto", ELEVEN SPORTS 3 LOW
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123369
+#EXTINF:-1  tvg-logo="" group-title="Desporto", ELEVEN SPORTS 4 LOW
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123370
+#EXTINF:-1  tvg-logo="" group-title="Desporto", ELEVEN SPORTS 5 LOW
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123371
+#EXTINF:-1  tvg-logo="" group-title="Desporto", EUROSPORT 1 LOW
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123372
+#EXTINF:-1  tvg-logo="" group-title="Desporto", EUROSPORT 2 LOW
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123373
+#EXTINF:-1  tvg-logo="" group-title="Desporto", SPORT TV 7 HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110294
+#EXTINF:-1  tvg-logo="" group-title="Desporto", SPORTV + 4K
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110307
+#EXTINF:-1  tvg-logo="" group-title="Desporto", SPORT TV 1 4K
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110308
+#EXTINF:-1  tvg-logo="" group-title="Desporto", SPORT TV 1 4K ᴴᵉᵛᶜ
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110309
+#EXTINF:-1  tvg-logo="" group-title="Desporto", SPORT TV 2 4K ᴴᵉᵛᶜ
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110310
+#EXTINF:-1  tvg-logo="" group-title="Desporto", SPORT TV 2 4K
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110311
+#EXTINF:-1  tvg-logo="" group-title="Desporto", SPORT TV 3 4K
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110312
+#EXTINF:-1  tvg-logo="" group-title="Desporto", SPORT TV 4 4K
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110313
+#EXTINF:-1  tvg-logo="" group-title="Desporto", SPORT TV 5 4K
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110314
+#EXTINF:-1  tvg-logo="" group-title="Desporto", BTV 4K ᴴᵉᵛᶜ
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110315
+#EXTINF:-1  tvg-logo="" group-title="Desporto", BTV 4K
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110316
+#EXTINF:-1  tvg-logo="" group-title="Desporto", ELEVEN SPORTS 1 4K
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110317
+#EXTINF:-1  tvg-logo="" group-title="Desporto", ELEVEN SPORTS 1 4K ᴴᵉᵛᶜ
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110318
+#EXTINF:-1  tvg-logo="" group-title="Desporto", ELEVEN SPORTS 2 4K
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110319
+#EXTINF:-1  tvg-logo="" group-title="Desporto", ELEVEN SPORTS 2 4K ᴴᵉᵛᶜ
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110320
+#EXTINF:-1  tvg-logo="" group-title="Desporto", W SPORT 4K
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110321
+#EXTINF:-1  tvg-logo="" group-title="Desporto", FIGHT SPORTS 4K
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110332
+#EXTINF:-1  tvg-logo="" group-title="Desporto", A Bola TV
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110346
+#EXTINF:-1  tvg-logo="" group-title="Desporto", CANAL 11
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110347
+#EXTINF:-1  tvg-logo="" group-title="Desporto", SPORT TV +
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110348
+#EXTINF:-1  tvg-logo="" group-title="Desporto", SPORT TV 1
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110349
+#EXTINF:-1  tvg-logo="" group-title="Desporto", SPORT TV 2
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110350
+#EXTINF:-1  tvg-logo="" group-title="Desporto", SPORT TV 3
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110351
+#EXTINF:-1  tvg-logo="" group-title="Desporto", SPORT TV 4
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110352
+#EXTINF:-1  tvg-logo="" group-title="Desporto", SPORT TV 5
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110353
+#EXTINF:-1  tvg-logo="" group-title="Desporto", BENFICA TV
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110354
+#EXTINF:-1  tvg-logo="" group-title="Desporto", ELEVEN SPORTS 1
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110355
+#EXTINF:-1  tvg-logo="" group-title="Desporto", ELEVEN SPORTS 2
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110356
+#EXTINF:-1  tvg-logo="" group-title="Desporto", ELEVEN SPORTS 3
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110357
+#EXTINF:-1  tvg-logo="" group-title="Desporto", EUROSPORT 1
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110358
+#EXTINF:-1  tvg-logo="" group-title="Desporto", EUROSPORT 2
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110359
+#EXTINF:-1  tvg-logo="" group-title="Desporto", SPORTING TV
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110360
+#EXTINF:-1  tvg-logo="" group-title="Desporto", CANAL 11 FHD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110387
+#EXTINF:-1  tvg-logo="" group-title="Desporto", SPORT TV+
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110388
+#EXTINF:-1  tvg-logo="" group-title="Desporto", SPORT TV 1 FHD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110389
+#EXTINF:-1  tvg-logo="" group-title="Desporto", SPORT TV 1 (4K)
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110390
+#EXTINF:-1  tvg-logo="" group-title="Desporto", SPORT TV 2 FHD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110391
+#EXTINF:-1  tvg-logo="" group-title="Desporto", SPORT TV 3 FHD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110392
+#EXTINF:-1  tvg-logo="" group-title="Desporto", SPORT TV 4 FHD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110393
+#EXTINF:-1  tvg-logo="" group-title="Desporto", SPORT TV 5 FHD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110394
+#EXTINF:-1  tvg-logo="" group-title="Desporto", DAZN 1 FHD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110395
+#EXTINF:-1  tvg-logo="" group-title="Desporto", DAZN 2 FHD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110396
+#EXTINF:-1  tvg-logo="" group-title="Desporto", DAZN 3 FHD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110397
+#EXTINF:-1  tvg-logo="" group-title="Desporto", DAZN 4 FHD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110398
+#EXTINF:-1  tvg-logo="" group-title="Desporto", DAZN 5 FHD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110399
+#EXTINF:-1  tvg-logo="" group-title="Desporto", ELEVEN SPORT 6 FHD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110400
+#EXTINF:-1  tvg-logo="" group-title="Desporto", BENFICA TV FHD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110401
+#EXTINF:-1  tvg-logo="" group-title="Desporto", SPORTING TV FHD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110402
+#EXTINF:-1  tvg-logo="" group-title="Desporto", FIGHT NETWORK FHD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110403
+#EXTINF:-1  tvg-logo="" group-title="Desporto", FUEL TV FHD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110404
+#EXTINF:-1  tvg-logo="" group-title="Desporto", BTV 4K
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110405
+#EXTINF:-1  tvg-logo="" group-title="Desporto", CANAL 11 HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110454
+#EXTINF:-1  tvg-logo="" group-title="Desporto", SPORT TV+ HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110455
+#EXTINF:-1  tvg-logo="" group-title="Desporto", SPORT TV 1 HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110456
+#EXTINF:-1  tvg-logo="" group-title="Desporto", SPORT TV 2 HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110457
+#EXTINF:-1  tvg-logo="" group-title="Desporto", SPORT TV 3 HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110458
+#EXTINF:-1  tvg-logo="" group-title="Desporto", SPORT TV 4 HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110459
+#EXTINF:-1  tvg-logo="" group-title="Desporto", SPORT TV 5 HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110460
+#EXTINF:-1  tvg-logo="" group-title="Desporto", SPORT TV 6 HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110461
+#EXTINF:-1  tvg-logo="" group-title="Desporto", DAZN 1 HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110462
+#EXTINF:-1  tvg-logo="" group-title="Desporto", DAZN 2 HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110463
+#EXTINF:-1  tvg-logo="" group-title="Desporto", DAZN 3 HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110464
+#EXTINF:-1  tvg-logo="" group-title="Desporto", DAZN 4 HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110465
+#EXTINF:-1  tvg-logo="" group-title="Desporto", DAZN 5 HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110466
+#EXTINF:-1  tvg-logo="" group-title="Desporto", DAZN 6 HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110467
+#EXTINF:-1  tvg-logo="" group-title="Desporto", BTV HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110468
+#EXTINF:-1  tvg-logo="" group-title="Desporto", LATIN BENFICA TV
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110469
+#EXTINF:-1  tvg-logo="" group-title="Desporto", SPORTING TV HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110470
+#EXTINF:-1  tvg-logo="" group-title="Desporto", KOMBAT SPORT HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110471
+#EXTINF:-1  tvg-logo="" group-title="Desporto", FUEL TV HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110472
+#EXTINF:-1  tvg-logo="" group-title="Desporto", EUROSPORT 1 HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110473
+#EXTINF:-1  tvg-logo="" group-title="Desporto", EUROSPORT 2 HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110474
+#EXTINF:-1  tvg-logo="" group-title="Desporto", A BOLA TV HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110475
+#EXTINF:-1  tvg-logo="" group-title="Desporto", PFC HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110476
+#EXTINF:-1  tvg-logo="" group-title="Desporto", NBA TV HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110477
+#EXTINF:-1  tvg-logo="" group-title="Desporto", MOTORVISION HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110478
+#EXTINF:-1  tvg-logo="" group-title="Desporto", CANAL 11 FHD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123034
+#EXTINF:-1  tvg-logo="" group-title="Desporto", A BOLA TV
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123035
+#EXTINF:-1  tvg-logo="" group-title="Desporto", A BOLA TV FHD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123036
+#EXTINF:-1  tvg-logo="" group-title="Desporto", SPORT TV + HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123037
+#EXTINF:-1  tvg-logo="" group-title="Desporto", SPORT TV + FHD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123038
+#EXTINF:-1  tvg-logo="" group-title="Desporto", SPORT TV 1 HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123039
+#EXTINF:-1  tvg-logo="" group-title="Desporto", SPORT TV 1 FHD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123040
+#EXTINF:-1  tvg-logo="" group-title="Desporto", SPORT TV 2
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123041
+#EXTINF:-1  tvg-logo="" group-title="Desporto", SPORT TV 2 HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123042
+#EXTINF:-1  tvg-logo="" group-title="Desporto", SPORT TV 2 FHD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123043
+#EXTINF:-1  tvg-logo="" group-title="Desporto", SPORT TV 3
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123044
+#EXTINF:-1  tvg-logo="" group-title="Desporto", SPORT TV 3 HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123045
+#EXTINF:-1  tvg-logo="" group-title="Desporto", SPORT TV 4
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123046
+#EXTINF:-1  tvg-logo="" group-title="Desporto", SPORT TV 3 FHD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123047
+#EXTINF:-1  tvg-logo="" group-title="Desporto", SPORT TV 4 HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123048
+#EXTINF:-1  tvg-logo="" group-title="Desporto", SPORT TV 5 HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123049
+#EXTINF:-1  tvg-logo="" group-title="Desporto", SPORT TV 6 HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123050
+#EXTINF:-1  tvg-logo="" group-title="Desporto", SPORT TV 4 FHD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123051
+#EXTINF:-1  tvg-logo="" group-title="Desporto", SPORT TV 5
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123052
+#EXTINF:-1  tvg-logo="" group-title="Desporto", SPORT TV 5 FHD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123053
+#EXTINF:-1  tvg-logo="" group-title="Desporto", SPORT TV 6
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123054
+#EXTINF:-1  tvg-logo="" group-title="Desporto", SPORT TV 6 FHD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123055
+#EXTINF:-1  tvg-logo="" group-title="Desporto", SPORT TV 7 SD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123208
+#EXTINF:-1  tvg-logo="" group-title="Desporto", SPORT TV NBA HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123056
+#EXTINF:-1  tvg-logo="" group-title="Desporto", ELEVEN SPORTS 1
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123057
+#EXTINF:-1  tvg-logo="" group-title="Desporto", ELEVEN SPORTS 1 HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123058
+#EXTINF:-1  tvg-logo="" group-title="Desporto", ELEVEN SPORTS 1 FHD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123059
+#EXTINF:-1  tvg-logo="" group-title="Desporto", ELEVEN SPORTS 2
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123060
+#EXTINF:-1  tvg-logo="" group-title="Desporto", ELEVEN SPORTS 2 HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123061
+#EXTINF:-1  tvg-logo="" group-title="Desporto", ELEVEN SPORTS 2 FHD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123062
+#EXTINF:-1  tvg-logo="" group-title="Desporto", ELEVEN SPORTS 3
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123063
+#EXTINF:-1  tvg-logo="" group-title="Desporto", ELEVEN SPORTS 3 HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123064
+#EXTINF:-1  tvg-logo="" group-title="Desporto", ELEVEN SPORTS 3 FHD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123065
+#EXTINF:-1  tvg-logo="" group-title="Desporto", ELEVEN SPORTS 4
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123066
+#EXTINF:-1  tvg-logo="" group-title="Desporto", ELEVEN SPORTS 4 HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123067
+#EXTINF:-1  tvg-logo="" group-title="Desporto", ELEVEN SPORTS 4 FHD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123068
+#EXTINF:-1  tvg-logo="" group-title="Desporto", ELEVEN SPORTS 5
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123069
+#EXTINF:-1  tvg-logo="" group-title="Desporto", ELEVEN SPORTS 5 HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123070
+#EXTINF:-1  tvg-logo="" group-title="Desporto", ELEVEN SPORTS 5 FHD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123071
+#EXTINF:-1  tvg-logo="" group-title="Desporto", ELEVEN SPORTS 6
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123072
+#EXTINF:-1  tvg-logo="" group-title="Desporto", ELEVEN SPORTS 6 HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123073
+#EXTINF:-1  tvg-logo="" group-title="Desporto", ELEVEN SPORTS 6 FHD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123074
+#EXTINF:-1  tvg-logo="" group-title="Desporto", BTV
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123075
+#EXTINF:-1  tvg-logo="" group-title="Desporto", BTV 1 HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123076
+#EXTINF:-1  tvg-logo="" group-title="Desporto", BTV FHD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123077
+#EXTINF:-1  tvg-logo="" group-title="Desporto", SPORTING TV
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123078
+#EXTINF:-1  tvg-logo="" group-title="Desporto", SPORTING HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123079
+#EXTINF:-1  tvg-logo="" group-title="Desporto", SPORTING TV FHD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123080
+#EXTINF:-1  tvg-logo="" group-title="Desporto", EUROSPORT 1 FHD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123081
+#EXTINF:-1  tvg-logo="" group-title="Desporto", EUROSPORT 2
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123082
+#EXTINF:-1  tvg-logo="" group-title="Desporto", EUROSPORT 2 FHD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123083
+#EXTINF:-1  tvg-logo="" group-title="Desporto", CANAL 11
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123204
+#EXTINF:-1  tvg-logo="" group-title="Desporto", BTV Multicamaras HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123205
+#EXTINF:-1  tvg-logo="" group-title="Desporto", BTV Multicamaras FHD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123206
+#EXTINF:-1  tvg-logo="" group-title="Desporto", ᴴ²⁶⁵: A BOLA HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123243
+#EXTINF:-1  tvg-logo="" group-title="Desporto", ᴴ²⁶⁵: CANAL 11 HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123244
+#EXTINF:-1  tvg-logo="" group-title="Desporto", CANAL 11 FHD 265
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123245
+#EXTINF:-1  tvg-logo="" group-title="Desporto", ᴴ²⁶⁵: SPORT TV + HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123246
+#EXTINF:-1  tvg-logo="" group-title="Desporto", SPORT TV + FHD 265
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123247
+#EXTINF:-1  tvg-logo="" group-title="Desporto", ᴴ²⁶⁵: SPORT TV 1 HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123248
+#EXTINF:-1  tvg-logo="" group-title="Desporto", ᴴ²⁶⁵: SPORT TV 1 FULHD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123249
+#EXTINF:-1  tvg-logo="" group-title="Desporto", SPORT TV 1 FHD 265
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123250
+#EXTINF:-1  tvg-logo="" group-title="Desporto", ᴴ²⁶⁵: SPORT TV 1 UHD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123251
+#EXTINF:-1  tvg-logo="" group-title="Desporto", ᴴ²⁶⁵: SPORT TV 1 4K UHD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123252
+#EXTINF:-1  tvg-logo="" group-title="Desporto", ᴴ²⁶⁵: SPORT TV 2 HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123253
+#EXTINF:-1  tvg-logo="" group-title="Desporto", ᴴ²⁶⁵: SPORT TV 2 FULHD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123254
+#EXTINF:-1  tvg-logo="" group-title="Desporto", SPORT TV 2 FHD 265
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123255
+#EXTINF:-1  tvg-logo="" group-title="Desporto", ᴴ²⁶⁵: SPORT TV 3 HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123256
+#EXTINF:-1  tvg-logo="" group-title="Desporto", ᴴ²⁶⁵: SPORT TV 3 FHD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123257
+#EXTINF:-1  tvg-logo="" group-title="Desporto", SPORT TV 3 FHD 265
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123258
+#EXTINF:-1  tvg-logo="" group-title="Desporto", ᴴ²⁶⁵: SPORT TV 4 HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123259
+#EXTINF:-1  tvg-logo="" group-title="Desporto", SPORT TV 4 FHD 265
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123260
+#EXTINF:-1  tvg-logo="" group-title="Desporto", ᴴ²⁶⁵: SPORT TV 5 HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123261
+#EXTINF:-1  tvg-logo="" group-title="Desporto", SPORT TV 5 FHD 265
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123262
+#EXTINF:-1  tvg-logo="" group-title="Desporto", SPORT TV 6 FHD 265
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123263
+#EXTINF:-1  tvg-logo="" group-title="Desporto", ᴴ²⁶⁵: SPORT TV NBA HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123264
+#EXTINF:-1  tvg-logo="" group-title="Desporto", ᴴ²⁶⁵: ELEVEN SPORTS 1 HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123265
+#EXTINF:-1  tvg-logo="" group-title="Desporto", ELEVEN 1 FHD 265
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123266
+#EXTINF:-1  tvg-logo="" group-title="Desporto", ᴴ²⁶⁵: ELEVEN SPORTS 1 ᶠᴴᴰ
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123267
+#EXTINF:-1  tvg-logo="" group-title="Desporto", ᴴ²⁶⁵: ELEVEN SPORTS 1 UHD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123268
+#EXTINF:-1  tvg-logo="" group-title="Desporto", ᴴ²⁶⁵: ELEVEN SPORTS 2 HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123269
+#EXTINF:-1  tvg-logo="" group-title="Desporto", ELEVEN 2 FHD 265
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123270
+#EXTINF:-1  tvg-logo="" group-title="Desporto", ᴴ²⁶⁵: ELEVEN SPORTS 2 FULHD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123271
+#EXTINF:-1  tvg-logo="" group-title="Desporto", ᴴ²⁶⁵: ELEVEN SPORTS 3 HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123272
+#EXTINF:-1  tvg-logo="" group-title="Desporto", ELEVEN 3 FHD 265
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123273
+#EXTINF:-1  tvg-logo="" group-title="Desporto", ᴴ²⁶⁵: ELEVEN SPORTS 3 FHD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123274
+#EXTINF:-1  tvg-logo="" group-title="Desporto", ᴴ²⁶⁵: ELEVEN SPORTS 4 HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123275
+#EXTINF:-1  tvg-logo="" group-title="Desporto", ELEVEN 4 FHD 265
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123276
+#EXTINF:-1  tvg-logo="" group-title="Desporto", ᴴ²⁶⁵: ELEVEN SPORTS 5 HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123277
+#EXTINF:-1  tvg-logo="" group-title="Desporto", ELEVEN 5 FHD 265
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123278
+#EXTINF:-1  tvg-logo="" group-title="Desporto", ᴴ²⁶⁵: ELEVEN SPORTS 6 HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123279
+#EXTINF:-1  tvg-logo="" group-title="Desporto", ELEVEN 6 FHD 265
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123280
+#EXTINF:-1  tvg-logo="" group-title="Desporto", ᴴ²⁶⁵: BENFICA TV HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123281
+#EXTINF:-1  tvg-logo="" group-title="Desporto", BENFICA TV FHD 265
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123282
+#EXTINF:-1  tvg-logo="" group-title="Desporto", ᴴ²⁶⁵: BENFICA FULHD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123283
+#EXTINF:-1  tvg-logo="" group-title="Desporto", ᴴ²⁶⁵: BENFICA 4K TV UHD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123284
+#EXTINF:-1  tvg-logo="" group-title="Desporto", ᴴ²⁶⁵: SPORTING TV HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123285
+#EXTINF:-1  tvg-logo="" group-title="Desporto", SPORTING FHD 265
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123286
+#EXTINF:-1  tvg-logo="" group-title="Desporto", ᴴ²⁶⁵: EUROSPORT 1 HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123287
+#EXTINF:-1  tvg-logo="" group-title="Desporto", EUROSPORT 1 FHD 265
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123288
+#EXTINF:-1  tvg-logo="" group-title="Desporto", ᴴ²⁶⁵: EUROSPORT 2 HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123289
+#EXTINF:-1  tvg-logo="" group-title="Desporto", A BOLA TV LOW
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123350
+#EXTINF:-1  tvg-logo="" group-title="Desporto", CANAL 11 LOW
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123357
+#EXTINF:-1  tvg-logo="" group-title="Desporto", SPORT TV + LOW
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123396
+#EXTINF:-1  tvg-logo="" group-title="Desporto", SPORT TV 1 LOW
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123397
+#EXTINF:-1  tvg-logo="" group-title="Desporto", SPORT TV 2 LOW
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123398
+#EXTINF:-1  tvg-logo="" group-title="Desporto", SPORT TV 3 LOW
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123399
+#EXTINF:-1  tvg-logo="" group-title="Desporto", SPORT TV 4 720P LOW
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123400
+#EXTINF:-1  tvg-logo="" group-title="Desporto", SPORT TV 4 LOW
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123401
+#EXTINF:-1  tvg-logo="" group-title="Desporto", SPORT TV 5 HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123402
+#EXTINF:-1  tvg-logo="" group-title="Desporto", SPORT TV 5 LOW
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123403
+#EXTINF:-1  tvg-logo="" group-title="Desporto", SPORTING TV LOW
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123404
+#EXTINF:-1  tvg-logo="" group-title="Desporto", Sport TV 6 LOW
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123416
+#EXTINF:-1  tvg-logo="" group-title="Desporto", Desi Channel
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/40450
+#EXTINF:-1  tvg-logo="" group-title="Desporto", Desi Channel
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/40451
+#EXTINF:-1  tvg-logo="" group-title="Desporto", Desi Channel
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/40452
+#EXTINF:-1  tvg-logo="" group-title="Desporto", Sport TV 1
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/121157
+#EXTINF:-1  tvg-logo="" group-title="Desporto", Sport TV 1 HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/121158
+#EXTINF:-1  tvg-logo="" group-title="Desporto", Sport TV 2
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/121159
+#EXTINF:-1  tvg-logo="" group-title="Desporto", Sport TV 2 HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/121160
+#EXTINF:-1  tvg-logo="" group-title="Desporto", Sport TV 3
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/121161
+#EXTINF:-1  tvg-logo="" group-title="Desporto", Sport TV 3 HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/121162
+#EXTINF:-1  tvg-logo="" group-title="Desporto", Sport TV 4
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/121163
+#EXTINF:-1  tvg-logo="" group-title="Desporto", Sport TV 4 HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/121164
+#EXTINF:-1  tvg-logo="" group-title="Desporto", Sport TV 5
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/121165
+#EXTINF:-1  tvg-logo="" group-title="Desporto", Sport TV 5 HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/121166
+#EXTINF:-1  tvg-logo="" group-title="Desporto", Sport TV + HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/121167
+#EXTINF:-1  tvg-logo="" group-title="Desporto", Sport TV+
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/121168
+#EXTINF:-1  tvg-logo="" group-title="Desporto", Sport TV NBA HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/121169
+#EXTINF:-1  tvg-logo="" group-title="Desporto", Sporting tv
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/121170
+#EXTINF:-1  tvg-logo="" group-title="Desporto", Pfc
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/121171
+#EXTINF:-1  tvg-logo="" group-title="Desporto", Euro Sport 2
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/121175
+#EXTINF:-1  tvg-logo="" group-title="Desporto", Eleven Sport 1 HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/121176
+#EXTINF:-1  tvg-logo="" group-title="Desporto", Eleven Sport 2 HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/121177
+#EXTINF:-1  tvg-logo="" group-title="Desporto", Eleven Sport 3 HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/121178
+#EXTINF:-1  tvg-logo="" group-title="Desporto", Eleven Sport 4 HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/121179
+#EXTINF:-1  tvg-logo="" group-title="Desporto", Eleven Sports 5 HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/121180
+
+
+
+
+#EXTINF:-1  tvg-logo="" group-title="Filmes", TV Cine TOP
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/101857
+#EXTINF:-1  tvg-logo="" group-title="Filmes", TVCINE TOP 4K ᴴᵉᵛᶜ
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110322
+#EXTINF:-1  tvg-logo="" group-title="Filmes", TVCINE EDITION 4K ᴴᵉᵛᶜ
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110323
+#EXTINF:-1  tvg-logo="" group-title="Filmes", TVCINE ACTION 4K ᴴᵉᵛᶜ
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110324
+#EXTINF:-1  tvg-logo="" group-title="Filmes", AXN 4K ᴴᵉᵛᶜ
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110325
+#EXTINF:-1  tvg-logo="" group-title="Filmes", FOX 4K ᴴᵉᵛᶜ
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110326
+#EXTINF:-1  tvg-logo="" group-title="Filmes", TLC 4K
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110327
+#EXTINF:-1  tvg-logo="" group-title="Filmes", TV Cine TOP
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110361
+#EXTINF:-1  tvg-logo="" group-title="Filmes", TV Cine Edition
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110362
+#EXTINF:-1  tvg-logo="" group-title="Filmes", TV Cine Emotion
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110363
+#EXTINF:-1  tvg-logo="" group-title="Filmes", TVCINE ACTION
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110364
+#EXTINF:-1  tvg-logo="" group-title="Filmes", NOS STUDIOS
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110365
+#EXTINF:-1  tvg-logo="" group-title="Filmes", HOLLYWOOD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110366
+#EXTINF:-1  tvg-logo="" group-title="Filmes", CINEMUNDO
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110367
+#EXTINF:-1  tvg-logo="" group-title="Filmes", AXN
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110368
+#EXTINF:-1  tvg-logo="" group-title="Filmes", AXN WHITE
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110370
+#EXTINF:-1  tvg-logo="" group-title="Filmes", AXN MOVIES
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110371
+#EXTINF:-1  tvg-logo="" group-title="Filmes", FOX MOVIES
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110372
+#EXTINF:-1  tvg-logo="" group-title="Filmes", FOX CRIME
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110373
+#EXTINF:-1  tvg-logo="" group-title="Filmes", FOX LIFE
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110385
+#EXTINF:-1  tvg-logo="" group-title="Filmes", TLC HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110424
+#EXTINF:-1  tvg-logo="" group-title="Filmes", SYFY HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110425
+#EXTINF:-1  tvg-logo="" group-title="Filmes", AMC HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110418
+#EXTINF:-1  tvg-logo="" group-title="Filmes", STAR CHANNEL HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110437
+#EXTINF:-1  tvg-logo="" group-title="Filmes", STAR COMEDY HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110438
+#EXTINF:-1  tvg-logo="" group-title="Filmes", STAR CRIME HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110439
+#EXTINF:-1  tvg-logo="" group-title="Filmes", STAR LIFE HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110440
+#EXTINF:-1  tvg-logo="" group-title="Filmes", STAR MOVIES HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110441
+#EXTINF:-1  tvg-logo="" group-title="Filmes", TVCINE TOP HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110442
+#EXTINF:-1  tvg-logo="" group-title="Filmes", TVCINE EDITION HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110443
+#EXTINF:-1  tvg-logo="" group-title="Filmes", TVCINE EMOTION HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110444
+#EXTINF:-1  tvg-logo="" group-title="Filmes", TVCINE ACTION HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110445
+#EXTINF:-1  tvg-logo="" group-title="Filmes", AXN HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110446
+#EXTINF:-1  tvg-logo="" group-title="Filmes", AXN WHITE HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110447
+#EXTINF:-1  tvg-logo="" group-title="Filmes", AXN MOVIES HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110448
+#EXTINF:-1  tvg-logo="" group-title="Filmes", CINEMUNDO HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110449
+#EXTINF:-1  tvg-logo="" group-title="Filmes", NOS STUDIOS HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110450
+#EXTINF:-1  tvg-logo="" group-title="Filmes", HOLLYWOOD HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110451
+#EXTINF:-1  tvg-logo="" group-title="Filmes", NOS STUDIO HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110452
+#EXTINF:-1  tvg-logo="" group-title="Filmes", ᴴ²⁶⁵: TVCINE TOP HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123290
+#EXTINF:-1  tvg-logo="" group-title="Filmes", ᴴ²⁶⁵: TVCINE TOP FULHD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123291
+#EXTINF:-1  tvg-logo="" group-title="Filmes", TV CINE TOP FHD 265
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123292
+#EXTINF:-1  tvg-logo="" group-title="Filmes", ᴴ²⁶⁵: TVCINE EMOTION HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123293
+#EXTINF:-1  tvg-logo="" group-title="Filmes", ᴴ²⁶⁵: TVCINE EMOTION FULHD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123294
+#EXTINF:-1  tvg-logo="" group-title="Filmes", TV CINE EMOTION FHD 265
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123295
+#EXTINF:-1  tvg-logo="" group-title="Filmes", ᴴ²⁶⁵: TVCINE EDITION HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123296
+#EXTINF:-1  tvg-logo="" group-title="Filmes", TV CINE EDITION FHD 265
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123297
+#EXTINF:-1  tvg-logo="" group-title="Filmes", ᴴ²⁶⁵: TVCINE EDITION FULHD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123298
+#EXTINF:-1  tvg-logo="" group-title="Filmes", ᴴ²⁶⁵: TVCINE ACTION HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123299
+#EXTINF:-1  tvg-logo="" group-title="Filmes", ᴴ²⁶⁵: TVCINE ACTION FULHD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123300
+#EXTINF:-1  tvg-logo="" group-title="Filmes", TV CINE ACTION FHD 265
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123301
+#EXTINF:-1  tvg-logo="" group-title="Filmes", ᴴ²⁶⁵: NOS STUDIO HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123302
+#EXTINF:-1  tvg-logo="" group-title="Filmes", NOS STUDIOS FHD 265
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123303
+#EXTINF:-1  tvg-logo="" group-title="Filmes", ᴴ²⁶⁵: HOLLYWOOD HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123304
+#EXTINF:-1  tvg-logo="" group-title="Filmes", ᴴ²⁶⁵: HOLLYWOOD FULHD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123305
+#EXTINF:-1  tvg-logo="" group-title="Filmes", HOLLYWOOD FHD 265
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123306
+#EXTINF:-1  tvg-logo="" group-title="Filmes", ᴴ²⁶⁵: CINEMUNDO HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123307
+#EXTINF:-1  tvg-logo="" group-title="Filmes", CINEMUNDO FHD 265
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123308
+#EXTINF:-1  tvg-logo="" group-title="Filmes", ᴴ²⁶⁵: FOX MOVIES FHD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123309
+#EXTINF:-1  tvg-logo="" group-title="Filmes", FOX MOVIES FHD 265
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123310
+#EXTINF:-1  tvg-logo="" group-title="Filmes", ᴴ²⁶⁵: AMC HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123311
+#EXTINF:-1  tvg-logo="" group-title="Filmes", AMC FHD 265
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123312
+#EXTINF:-1  tvg-logo="" group-title="Filmes", ᴴ²⁶⁵: FOX HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123313
+#EXTINF:-1  tvg-logo="" group-title="Filmes", ᴴ²⁶⁵: FOX FHD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123314
+#EXTINF:-1  tvg-logo="" group-title="Filmes", FOX FHD 265
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123315
+#EXTINF:-1  tvg-logo="" group-title="Filmes", FOX LIFE FHD 265
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123316
+#EXTINF:-1  tvg-logo="" group-title="Filmes", ᴴ²⁶⁵: FOX LIFE HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123317
+#EXTINF:-1  tvg-logo="" group-title="Filmes", ᴴ²⁶⁵: FOX CRIME HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123318
+#EXTINF:-1  tvg-logo="" group-title="Filmes", FOX CRIME FHD 265
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123319
+#EXTINF:-1  tvg-logo="" group-title="Filmes", ᴴ²⁶⁵: FOX CRIME FULHD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123320
+#EXTINF:-1  tvg-logo="" group-title="Filmes", ᴴ²⁶⁵: FOX COMEDY HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123321
+#EXTINF:-1  tvg-logo="" group-title="Filmes", FOX COMEDY FHD 265
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123322
+#EXTINF:-1  tvg-logo="" group-title="Filmes", AXN Movies HD 265
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123323
+#EXTINF:-1  tvg-logo="" group-title="Filmes", ᴴ²⁶⁵: AXN MOVIES HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123324
+#EXTINF:-1  tvg-logo="" group-title="Filmes", ᴴ²⁶⁵: AXN MOVIES FULHD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123325
+#EXTINF:-1  tvg-logo="" group-title="Filmes", ᴴ²⁶⁵: AXN HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123326
+#EXTINF:-1  tvg-logo="" group-title="Filmes", ᴴ²⁶⁵: AXN FULHD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123327
+#EXTINF:-1  tvg-logo="" group-title="Filmes", AXN FHD 265
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123328
+#EXTINF:-1  tvg-logo="" group-title="Filmes", ᴴ²⁶⁵: AXN WHITE HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123329
+#EXTINF:-1  tvg-logo="" group-title="Filmes", AXN WHITE FHD 265
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123330
+#EXTINF:-1  tvg-logo="" group-title="Filmes", ᴴ²⁶⁵: AXN WHITE FULHD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123331
+#EXTINF:-1  tvg-logo="" group-title="Filmes", ᴴ²⁶⁵: SYFY HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123332
+#EXTINF:-1  tvg-logo="" group-title="Filmes", SYFY FHD 265
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123333
+#EXTINF:-1  tvg-logo="" group-title="Filmes", HOLLYWOOD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123089
+#EXTINF:-1  tvg-logo="" group-title="Filmes", HOLLYWOOD HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123090
+#EXTINF:-1  tvg-logo="" group-title="Filmes", HOLLYWOOD FHD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123091
+#EXTINF:-1  tvg-logo="" group-title="Filmes", AMC BREAK HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123092
+#EXTINF:-1  tvg-logo="" group-title="Filmes", STAR Comedy
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123093
+#EXTINF:-1  tvg-logo="" group-title="Filmes", NOS Studios HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123094
+#EXTINF:-1  tvg-logo="" group-title="Filmes", CINEMUNDO
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123095
+#EXTINF:-1  tvg-logo="" group-title="Filmes", CINEMUNDO FHD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123096
+#EXTINF:-1  tvg-logo="" group-title="Filmes", STAR COMEDY
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123097
+#EXTINF:-1  tvg-logo="" group-title="Filmes", AXN MOVIES
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123098
+#EXTINF:-1  tvg-logo="" group-title="Filmes", AXN WHITE
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123099
+#EXTINF:-1  tvg-logo="" group-title="Filmes", AXN
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123100
+#EXTINF:-1  tvg-logo="" group-title="Filmes", AXN HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123101
+#EXTINF:-1  tvg-logo="" group-title="Filmes", AXN FHD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123102
+#EXTINF:-1  tvg-logo="" group-title="Filmes", AXN WHITE HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123103
+#EXTINF:-1  tvg-logo="" group-title="Filmes", AXN MOVIES HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123104
+#EXTINF:-1  tvg-logo="" group-title="Filmes", AXN WHITE FHD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123105
+#EXTINF:-1  tvg-logo="" group-title="Filmes", STAR MOVIES
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123106
+#EXTINF:-1  tvg-logo="" group-title="Filmes", STAR MOVIES FHD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123107
+#EXTINF:-1  tvg-logo="" group-title="Filmes", AXN MOVIES FHD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123108
+#EXTINF:-1  tvg-logo="" group-title="Filmes", STAR COMEDY FHD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123109
+#EXTINF:-1  tvg-logo="" group-title="Filmes", STAR
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123110
+#EXTINF:-1  tvg-logo="" group-title="Filmes", STAR FHD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123111
+#EXTINF:-1  tvg-logo="" group-title="Filmes", STAR CRIME
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123112
+#EXTINF:-1  tvg-logo="" group-title="Filmes", AMC HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123113
+#EXTINF:-1  tvg-logo="" group-title="Filmes", AMC FHD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123114
+#EXTINF:-1  tvg-logo="" group-title="Filmes", AMC CRIME
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123115
+#EXTINF:-1  tvg-logo="" group-title="Filmes", STAR COMEDY HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123116
+#EXTINF:-1  tvg-logo="" group-title="Filmes", STAR CRIME HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123117
+#EXTINF:-1  tvg-logo="" group-title="Filmes", STAR HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123118
+#EXTINF:-1  tvg-logo="" group-title="Filmes", STAR LIFE HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123119
+#EXTINF:-1  tvg-logo="" group-title="Filmes", STAR MOVIES HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123120
+#EXTINF:-1  tvg-logo="" group-title="Filmes", SYFY HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123121
+#EXTINF:-1  tvg-logo="" group-title="Filmes", STAR CRIME FHD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123122
+#EXTINF:-1  tvg-logo="" group-title="Filmes", STAR LIFE
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123123
+#EXTINF:-1  tvg-logo="" group-title="Filmes", STAR LIFE FHD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123124
+#EXTINF:-1  tvg-logo="" group-title="Filmes", CANAL NOS FHD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123125
+#EXTINF:-1  tvg-logo="" group-title="Filmes", AMC
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123126
+#EXTINF:-1  tvg-logo="" group-title="Filmes", SYFY
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123127
+#EXTINF:-1  tvg-logo="" group-title="Filmes", SYFY FHD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123128
+#EXTINF:-1  tvg-logo="" group-title="Filmes", TV CINE ACTION
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123129
+#EXTINF:-1  tvg-logo="" group-title="Filmes", NOS STUDIOS FHD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123130
+#EXTINF:-1  tvg-logo="" group-title="Filmes", TV CINE TOP
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123131
+#EXTINF:-1  tvg-logo="" group-title="Filmes", TV CINE TOP HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123132
+#EXTINF:-1  tvg-logo="" group-title="Filmes", TV CINE TOP FHD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123133
+#EXTINF:-1  tvg-logo="" group-title="Filmes", TV CINE EMOTION
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123134
+#EXTINF:-1  tvg-logo="" group-title="Filmes", TV CINE EMOTION HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123135
+#EXTINF:-1  tvg-logo="" group-title="Filmes", TV CINE EMOTION FHD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123136
+#EXTINF:-1  tvg-logo="" group-title="Filmes", TV CINE EDITION
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123137
+#EXTINF:-1  tvg-logo="" group-title="Filmes", TV CINE EDITION HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123138
+#EXTINF:-1  tvg-logo="" group-title="Filmes", TV CINE EDITION FHD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123139
+#EXTINF:-1  tvg-logo="" group-title="Filmes", TV CINE ACTION HD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123140
+#EXTINF:-1  tvg-logo="" group-title="Filmes", TV CINE ACTION FHD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123141
+#EXTINF:-1  tvg-logo="" group-title="Filmes", PT:AMC BREAK FHD
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123144
+#EXTINF:-1  tvg-logo="" group-title="Filmes", AMC CRIME
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123145
+#EXTINF:-1  tvg-logo="" group-title="Filmes", AMC LOW
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123351
+#EXTINF:-1  tvg-logo="" group-title="Filmes", AXN LOW
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123352
+#EXTINF:-1  tvg-logo="" group-title="Filmes", AXN MOVIES LOW
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123353
+#EXTINF:-1  tvg-logo="" group-title="Filmes", AXN WHITE LOW
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123354
+#EXTINF:-1  tvg-logo="" group-title="Filmes", CINEMUNDO LOW
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123359
+#EXTINF:-1  tvg-logo="" group-title="Filmes", FOX COMEDY LOW
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123374
+#EXTINF:-1  tvg-logo="" group-title="Filmes", FOX CRIME LOW
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123375
+#EXTINF:-1  tvg-logo="" group-title="Filmes", FOX LIFE LOW
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123376
+#EXTINF:-1  tvg-logo="" group-title="Filmes", FOX LOW
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123377
+#EXTINF:-1  tvg-logo="" group-title="Filmes", FOX MOVIES LOW
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123378
+#EXTINF:-1  tvg-logo="" group-title="Filmes", HOLLYWOOD LOW
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123381
+#EXTINF:-1  tvg-logo="" group-title="Filmes", NOS STUDIOS LOW
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123387
+#EXTINF:-1  tvg-logo="" group-title="Filmes", SYFY LOW
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123405
+#EXTINF:-1  tvg-logo="" group-title="Filmes", TVCINE ACTION LOW
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123408
+#EXTINF:-1  tvg-logo="" group-title="Filmes", TVCINE EDITION LOW
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123409
+#EXTINF:-1  tvg-logo="" group-title="Filmes", TVCINE EMOTION LOW
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123410
+#EXTINF:-1  tvg-logo="" group-title="Filmes", TVCINE TOP LOW
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123411
+
+
+
+
+#EXTINF:-1  tvg-logo="" group-title="Musica", MEZZO
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110407
+#EXTINF:-1  tvg-logo="" group-title="Musica", VH1
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110408
+#EXTINF:-1  tvg-logo="" group-title="Musica", MCM POP
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110409
+#EXTINF:-1  tvg-logo="" group-title="Musica", MTV PORTUGAL
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110410
+#EXTINF:-1  tvg-logo="" group-title="Musica", AFRO MUSIC
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110411
+#EXTINF:-1  tvg-logo="" group-title="Musica", TRACE TOCA
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110412
+#EXTINF:-1  tvg-logo="" group-title="Musica", TRACE URBAN
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/110413
+#EXTINF:-1  tvg-logo="" group-title="Musica", MTV PORTUGAL LOW
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123382
+#EXTINF:-1  tvg-logo="" group-title="Musica", MCM TOP
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123178
+#EXTINF:-1  tvg-logo="" group-title="Musica", MTV 00's
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123179
+#EXTINF:-1  tvg-logo="" group-title="Musica", MTV PORTUGAL
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123180
+#EXTINF:-1  tvg-logo="" group-title="Musica", MTV LIVE
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123181
+#EXTINF:-1  tvg-logo="" group-title="Musica", TRACE TOCA
+http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/123182
+
