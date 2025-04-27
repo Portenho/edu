@@ -1,6 +1,8 @@
 http://bktv.xyz/get.php?username=Playm0v3&password=8A5gxQeXZb&type=m3u
-expira em 04-04-2026 com 1500 users
-#EXTM3U
+1500 users - expira em 04-04-2026
+
+#EXTM3U url-tvg="https://raw.githubusercontent.com/f0nZ/epg-tv-portuguesa/master/guide.xml,https://github.com/iptv-org/epg/blob/master/sites/meo.pt/meo.pt.channels.xml,https://github.com/iptv-org/epg/blob/master/sites/nos.pt/nos.pt.channels.xml,https://raw.githubusercontent.com/LITUATUI/M3UPT/main/epg/epg-vodafone.xml,https://iptv-org.github.io/epg/guides/pt/mi.tv.xml"
+
 #EXTINF:-1  tvg-logo="" group-title="Generalistas PT", RTP 1 HD
 http://bktv.xyz:8080/Playm0v3/8A5gxQeXZb/1604
 #EXTINF:-1  tvg-logo="" group-title="Generalistas PT", RTP 1
@@ -21,13 +23,13 @@ http://bktv.xyz:8080/Playm0v3/8A5gxQeXZb/1484
 http://bktv.xyz:8080/Playm0v3/8A5gxQeXZb/1479
 #EXTINF:-1  tvg-logo="" group-title="Generalistas PT", RTP 3
 http://bktv.xyz:8080/Playm0v3/8A5gxQeXZb/899601
-#EXTINF:-1  tvg-logo="" group-title="Generalistas PT", SIC Noticias  HD
+#EXTINF:-1  tvg-logo="" group-title="Generalistas PT", SIC Noticias HD
 http://bktv.xyz:8080/Playm0v3/8A5gxQeXZb/10226
 #EXTINF:-1  tvg-logo="" group-title="Generalistas PT", SIC Noticias
 http://bktv.xyz:8080/Playm0v3/8A5gxQeXZb/1493
-#EXTINF:-1  tvg-logo="" group-title="Generalistas PT", CNN Portugal HD
+#EXTINF:-1  tvg-logo="" group-title="Generalistas PT", CNN HD
 http://bktv.xyz:8080/Playm0v3/8A5gxQeXZb/899603
-#EXTINF:-1  tvg-logo="" group-title="Generalistas PT", CNN Portugal 
+#EXTINF:-1  tvg-logo="" group-title="Generalistas PT", CNN
 http://bktv.xyz:8080/Playm0v3/8A5gxQeXZb/75838
 #EXTINF:-1  tvg-logo="" group-title="Generalistas PT", CMTV HD
 http://bktv.xyz:8080/Playm0v3/8A5gxQeXZb/10230
@@ -50,31 +52,31 @@ http://bktv.xyz:8080/Playm0v3/8A5gxQeXZb/1499
 http://bktv.xyz:8080/Playm0v3/8A5gxQeXZb/51993
 #EXTINF:-1  tvg-logo="" group-title="Desporto PT", Sport TV +
 http://bktv.xyz:8080/Playm0v3/8A5gxQeXZb/10795
-#EXTINF:-1  tvg-logo="" group-title="Desporto PT", Sport TV 1 Full HD
+#EXTINF:-1  tvg-logo="" group-title="Desporto PT", Sport TV 1 HD
 http://bktv.xyz:8080/Playm0v3/8A5gxQeXZb/1514
 #EXTINF:-1  tvg-logo="" group-title="Desporto PT", Sport TV 1 HD
 http://bktv.xyz:8080/Playm0v3/8A5gxQeXZb/1515
 #EXTINF:-1  tvg-logo="" group-title="Desporto PT", Sport TV 1
 http://bktv.xyz:8080/Playm0v3/8A5gxQeXZb/1516
-#EXTINF:-1  tvg-logo="" group-title="Desporto PT", Sport TV 2 Full HD
+#EXTINF:-1  tvg-logo="" group-title="Desporto PT", Sport TV 2 HD
 http://bktv.xyz:8080/Playm0v3/8A5gxQeXZb/1517
 #EXTINF:-1  tvg-logo="" group-title="Desporto PT", Sport TV 2  HD
 http://bktv.xyz:8080/Playm0v3/8A5gxQeXZb/1518
 #EXTINF:-1  tvg-logo="" group-title="Desporto PT", Sport TV 2
 http://bktv.xyz:8080/Playm0v3/8A5gxQeXZb/1519
-#EXTINF:-1  tvg-logo="" group-title="Desporto PT", Sport TV 3 Full HD
+#EXTINF:-1  tvg-logo="" group-title="Desporto PT", Sport TV 3 HD
 http://bktv.xyz:8080/Playm0v3/8A5gxQeXZb/1520
 #EXTINF:-1  tvg-logo="" group-title="Desporto PT", Sport TV 3  HD
 http://bktv.xyz:8080/Playm0v3/8A5gxQeXZb/1521
 #EXTINF:-1  tvg-logo="" group-title="Desporto PT", Sport TV 3
 http://bktv.xyz:8080/Playm0v3/8A5gxQeXZb/1522
-#EXTINF:-1  tvg-logo="" group-title="Desporto PT", Sport TV 4 Full HD
+#EXTINF:-1  tvg-logo="" group-title="Desporto PT", Sport TV 4 HD
 http://bktv.xyz:8080/Playm0v3/8A5gxQeXZb/1523
 #EXTINF:-1  tvg-logo="" group-title="Desporto PT", Sport TV 4 HD
 http://bktv.xyz:8080/Playm0v3/8A5gxQeXZb/1524
 #EXTINF:-1  tvg-logo="" group-title="Desporto PT", Sport TV 4
 http://bktv.xyz:8080/Playm0v3/8A5gxQeXZb/1525
-#EXTINF:-1  tvg-logo="" group-title="Desporto PT", Sport TV 5 Full HD
+#EXTINF:-1  tvg-logo="" group-title="Desporto PT", Sport TV 5 HD
 http://bktv.xyz:8080/Playm0v3/8A5gxQeXZb/1526
 #EXTINF:-1  tvg-logo="" group-title="Desporto PT", Sport TV 5 HD
 http://bktv.xyz:8080/Playm0v3/8A5gxQeXZb/1527
@@ -82,47 +84,47 @@ http://bktv.xyz:8080/Playm0v3/8A5gxQeXZb/1527
 http://bktv.xyz:8080/Playm0v3/8A5gxQeXZb/1528
 #EXTINF:-1  tvg-logo="" group-title="Desporto PT", Sport TV 6 HD 
 http://bktv.xyz:8080/Playm0v3/8A5gxQeXZb/68314
-#EXTINF:-1  tvg-logo="" group-title="Desporto PT", Sport TV NBA 
+#EXTINF:-1  tvg-logo="" group-title="Desporto PT", NBA 
 http://bktv.xyz:8080/Playm0v3/8A5gxQeXZb/45258
-#EXTINF:-1  tvg-logo="" group-title="Desporto PT", BTV FHD
+#EXTINF:-1  tvg-logo="" group-title="Desporto PT", BTV HD
 http://bktv.xyz:8080/Playm0v3/8A5gxQeXZb/1529
-#EXTINF:-1  tvg-logo="" group-title="Desporto PT", BTV TV HD
+#EXTINF:-1  tvg-logo="" group-title="Desporto PT", BTV HD
 http://bktv.xyz:8080/Playm0v3/8A5gxQeXZb/1530
 #EXTINF:-1  tvg-logo="" group-title="Desporto PT", BTV
 http://bktv.xyz:8080/Playm0v3/8A5gxQeXZb/1531
-#EXTINF:-1  tvg-logo="" group-title="Desporto PT", Sporting TV HD
+#EXTINF:-1  tvg-logo="" group-title="Desporto PT", Sporting TV
 http://bktv.xyz:8080/Playm0v3/8A5gxQeXZb/1533
-#EXTINF:-1  tvg-logo="" group-title="Desporto PT", Eleven Sports 1 FHD
+#EXTINF:-1  tvg-logo="" group-title="Desporto PT", Eleven Sports 1 HD
 http://bktv.xyz:8080/Playm0v3/8A5gxQeXZb/2377
 #EXTINF:-1  tvg-logo="" group-title="Desporto PT", Eleven Sports 1 HD
 http://bktv.xyz:8080/Playm0v3/8A5gxQeXZb/2375
 #EXTINF:-1  tvg-logo="" group-title="Desporto PT", Eleven Sports 1
 http://bktv.xyz:8080/Playm0v3/8A5gxQeXZb/2373
-#EXTINF:-1  tvg-logo="" group-title="Desporto PT", Eleven Sports 2 FHD
+#EXTINF:-1  tvg-logo="" group-title="Desporto PT", Eleven Sports 2 HD
 http://bktv.xyz:8080/Playm0v3/8A5gxQeXZb/2385
 #EXTINF:-1  tvg-logo="" group-title="Desporto PT", Eleven Sports 2 HD
 http://bktv.xyz:8080/Playm0v3/8A5gxQeXZb/2382
 #EXTINF:-1  tvg-logo="" group-title="Desporto PT", Eleven Sports 2
 http://bktv.xyz:8080/Playm0v3/8A5gxQeXZb/2381
-#EXTINF:-1  tvg-logo="" group-title="Desporto PT", Eleven Sports 3 FHD
+#EXTINF:-1  tvg-logo="" group-title="Desporto PT", Eleven Sports 3 HD
 http://bktv.xyz:8080/Playm0v3/8A5gxQeXZb/2391
 #EXTINF:-1  tvg-logo="" group-title="Desporto PT", Eleven Sports 3 HD
 http://bktv.xyz:8080/Playm0v3/8A5gxQeXZb/2390
 #EXTINF:-1  tvg-logo="" group-title="Desporto PT", Eleven Sports 3
 http://bktv.xyz:8080/Playm0v3/8A5gxQeXZb/2387
-#EXTINF:-1  tvg-logo="" group-title="Desporto PT", Eleven Sports 4 FHD
+#EXTINF:-1  tvg-logo="" group-title="Desporto PT", Eleven Sports 4 HD
 http://bktv.xyz:8080/Playm0v3/8A5gxQeXZb/2398
 #EXTINF:-1  tvg-logo="" group-title="Desporto PT", Eleven Sports 4 HD
 http://bktv.xyz:8080/Playm0v3/8A5gxQeXZb/2396
 #EXTINF:-1  tvg-logo="" group-title="Desporto PT", Eleven Sports 4
 http://bktv.xyz:8080/Playm0v3/8A5gxQeXZb/2395
-#EXTINF:-1  tvg-logo="" group-title="Desporto PT", Eleven Sports 5 FHD
+#EXTINF:-1  tvg-logo="" group-title="Desporto PT", Eleven Sports 5 HD
 http://bktv.xyz:8080/Playm0v3/8A5gxQeXZb/2405
 #EXTINF:-1  tvg-logo="" group-title="Desporto PT", Eleven Sports 5 HD
 http://bktv.xyz:8080/Playm0v3/8A5gxQeXZb/2402
 #EXTINF:-1  tvg-logo="" group-title="Desporto PT", Eleven Sports 5
 http://bktv.xyz:8080/Playm0v3/8A5gxQeXZb/2401
-#EXTINF:-1  tvg-logo="" group-title="Desporto PT", Eleven Sports 6 FHD
+#EXTINF:-1  tvg-logo="" group-title="Desporto PT", Eleven Sports 6 HD
 http://bktv.xyz:8080/Playm0v3/8A5gxQeXZb/2411
 #EXTINF:-1  tvg-logo="" group-title="Desporto PT", Eleven Sports 6 HD
 http://bktv.xyz:8080/Playm0v3/8A5gxQeXZb/2409
@@ -262,9 +264,9 @@ http://bktv.xyz:8080/Playm0v3/8A5gxQeXZb/1504
 http://bktv.xyz:8080/Playm0v3/8A5gxQeXZb/1505
 #EXTINF:-1  tvg-logo="" group-title="Kids PT", Baby TV
 http://bktv.xyz:8080/Playm0v3/8A5gxQeXZb/1508
-#EXTINF:-1  tvg-logo="" group-title="Kids PT", Disney Channel³
+#EXTINF:-1  tvg-logo="" group-title="Kids PT", Disney Channel
 http://bktv.xyz:8080/Playm0v3/8A5gxQeXZb/1510
-#EXTINF:-1  tvg-logo="" group-title="Kids PT", Disney Junior HD
+#EXTINF:-1  tvg-logo="" group-title="Kids PT", Disney Junior
 http://bktv.xyz:8080/Playm0v3/8A5gxQeXZb/1511
 #EXTINF:-1  tvg-logo="" group-title="Kids PT", SIC K
 http://bktv.xyz:8080/Playm0v3/8A5gxQeXZb/1509
