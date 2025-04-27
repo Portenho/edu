@@ -43,7 +43,7 @@ http://admin.macacoataca.shop:8080/testenunos/testenuno/35085
 http://admin.macacoataca.shop:8080/testenunos/testenuno/35101
 #EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Generalistas", TV GLOBO
 http://admin.macacoataca.shop:8080/testenunos/testenuno/35102
-#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Generalistas", EURONEWS ˢᵈ
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Generalistas", EURONEWS
 http://admin.macacoataca.shop:8080/testenunos/testenuno/35161
 #EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Generalistas", M6
 http://admin.macacoataca.shop:8080/testenunos/testenuno/35157
@@ -52,32 +52,36 @@ http://admin.macacoataca.shop:8080/testenunos/testenuno/35158
 
 ############################################################3
 
-#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Desporto", MOTO GP
-http://admin.macacoataca.shop:8080/testenunos/testenuno/35124
-#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Desporto", EXTRA JOGOS FUTEBOL
-http://admin.macacoataca.shop:8080/testenunos/testenuno/53111
-#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Desporto", TV+
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Desporto", SPORT TV+
 http://admin.macacoataca.shop:8080/testenunos/testenuno/53092
-#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Desporto", TV 1 HD
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Desporto", SPORT TV 1 HD
 http://admin.macacoataca.shop:8080/testenunos/testenuno/53093
-#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Desporto", TV 1 SD
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Desporto", SPORT TV 1
 http://admin.macacoataca.shop:8080/testenunos/testenuno/53094
-#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Desporto", TV 2 HD
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Desporto", SPORT TV 1
+http://admin.macacoataca.shop:8080/testenunos/testenuno/53111
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Desporto", SPORT TV 2 HD
 http://admin.macacoataca.shop:8080/testenunos/testenuno/53095
-#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Desporto", TV 2 SD
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Desporto", SPORT TV 2
 http://admin.macacoataca.shop:8080/testenunos/testenuno/53096
-#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Desporto", TV 3 HD
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Desporto", SPORT TV 3 HD
 http://admin.macacoataca.shop:8080/testenunos/testenuno/53098
-#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Desporto", TV 3 SD
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Desporto", SPORT TV 3
 http://admin.macacoataca.shop:8080/testenunos/testenuno/53097
-#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Desporto", TV 4 HD
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Desporto", SPORT TV 4 HD
 http://admin.macacoataca.shop:8080/testenunos/testenuno/53099
-#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Desporto", TV 5 HD
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Desporto", SPORT TV 5 HD
 http://admin.macacoataca.shop:8080/testenunos/testenuno/53100
-#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Desporto", TV 6 HD
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Desporto", SPORT TV 6 HD
 http://admin.macacoataca.shop:8080/testenunos/testenuno/53101
-#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Desporto", TV 7 HD
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Desporto", SPORT TV 7 HD
 http://admin.macacoataca.shop:8080/testenunos/testenuno/53104
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Desporto", NBA
+http://admin.macacoataca.shop:8080/testenunos/testenuno/35104
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Desporto", BTV HD
+http://admin.macacoataca.shop:8080/testenunos/testenuno/53102
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Desporto", BTV
+http://admin.macacoataca.shop:8080/testenunos/testenuno/53103
 #EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Desporto", DDZ 1
 http://admin.macacoataca.shop:8080/testenunos/testenuno/53105
 #EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Desporto", DDZ 2
@@ -90,18 +94,12 @@ http://admin.macacoataca.shop:8080/testenunos/testenuno/53108
 http://admin.macacoataca.shop:8080/testenunos/testenuno/53109
 #EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Desporto", DDZ 6
 http://admin.macacoataca.shop:8080/testenunos/testenuno/53110
-#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Desporto", BENF HD
-http://admin.macacoataca.shop:8080/testenunos/testenuno/53102
-#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Desporto", BENF SD
-http://admin.macacoataca.shop:8080/testenunos/testenuno/53103
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Desporto", MOTO GP
+http://admin.macacoataca.shop:8080/testenunos/testenuno/35124
 #EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Desporto", FIGHT NETWORK
 http://admin.macacoataca.shop:8080/testenunos/testenuno/35125
 #EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Desporto", SPORTING TV
 http://admin.macacoataca.shop:8080/testenunos/testenuno/35126
-
-
-#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Desporto", NBA
-http://admin.macacoataca.shop:8080/testenunos/testenuno/35104
 #EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Desporto", BOLA TV
 http://admin.macacoataca.shop:8080/testenunos/testenuno/35082
 #EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Desporto", CANAL 11
@@ -127,31 +125,31 @@ http://admin.macacoataca.shop:8080/testenunos/testenuno/35134
 http://admin.macacoataca.shop:8080/testenunos/testenuno/35135
 #EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Filmes", TVCINE ACTION
 http://admin.macacoataca.shop:8080/testenunos/testenuno/35136
-#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Filmes", TVCINE ACTION ᴴᴰ
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Filmes", TVCINE ACTION HD
 http://admin.macacoataca.shop:8080/testenunos/testenuno/35137
-#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Filmes", NOS STUDIOS ᴴᴰ
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Filmes", NOS STUDIOS HD
 http://admin.macacoataca.shop:8080/testenunos/testenuno/35138
-#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Filmes", HOLLYWOOD ᶠᴴᴰ
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Filmes", HOLLYWOOD HD
 http://admin.macacoataca.shop:8080/testenunos/testenuno/35139
 #EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Filmes", CINEMUNDO
 http://admin.macacoataca.shop:8080/testenunos/testenuno/35140
-#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Filmes", AXN WHITE ᴴᴰ
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Filmes", AXN WHITE HD
 http://admin.macacoataca.shop:8080/testenunos/testenuno/35141
 #EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Filmes", AXN HD
 http://admin.macacoataca.shop:8080/testenunos/testenuno/35142
 #EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Filmes", STAR MOVIES
 http://admin.macacoataca.shop:8080/testenunos/testenuno/35144
-#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Filmes", STAR LIFE ᴴᴰ
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Filmes", STAR LIFE HD
 http://admin.macacoataca.shop:8080/testenunos/testenuno/35145
-#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Filmes", STAR ᴴᴰ
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Filmes", STAR HD
 http://admin.macacoataca.shop:8080/testenunos/testenuno/35146
 #EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Filmes", STAR CRIME
 http://admin.macacoataca.shop:8080/testenunos/testenuno/35147
 #EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Filmes", STAR COMEDY
 http://admin.macacoataca.shop:8080/testenunos/testenuno/35148
-#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Filmes", AMC ᴴᴰ
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Filmes", AMC HD
 http://admin.macacoataca.shop:8080/testenunos/testenuno/35149
-#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Filmes", SYFY ᴴᴰ
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Filmes", SYFY HD
 http://admin.macacoataca.shop:8080/testenunos/testenuno/35150
 
 ###############################################################
@@ -184,38 +182,38 @@ http://admin.macacoataca.shop:8080/testenunos/testenuno/35151
 http://admin.macacoataca.shop:8080/testenunos/testenuno/35152
 #EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Entretenimento", ODISSEIA
 http://admin.macacoataca.shop:8080/testenunos/testenuno/35153
-#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Entretenimento", NAT GEO WILD ᴴᴰ
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Entretenimento", NAT GEO WILD
 http://admin.macacoataca.shop:8080/testenunos/testenuno/35154
 #EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Entretenimento", DISCOVERY CHANNEL
 http://admin.macacoataca.shop:8080/testenunos/testenuno/35155
 #EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Entretenimento", NATIONAL GEOGRAPHIC
 http://admin.macacoataca.shop:8080/testenunos/testenuno/35156
-#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Entretenimento", KITCHEN ᴴᴰ
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Entretenimento", KITCHEN
 http://admin.macacoataca.shop:8080/testenunos/testenuno/35159
-#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Entretenimento", HISTORIA ˢᵈ
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Entretenimento", HISTORIA
 http://admin.macacoataca.shop:8080/testenunos/testenuno/35160
-#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Entretenimento", CBS REALITY ˢᵈ
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Entretenimento", CBS REALITY
 http://admin.macacoataca.shop:8080/testenunos/testenuno/35162
-#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Entretenimento", CANAL Q ˢᵈ
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Entretenimento", CANAL Q
 http://admin.macacoataca.shop:8080/testenunos/testenuno/35163
-#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Entretenimento", E! ENTERTAINMENT ˢᵈ
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Entretenimento", E! ENTERTAINMENT
 http://admin.macacoataca.shop:8080/testenunos/testenuno/35164
-#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Entretenimento", CAÇAVISION ˢᵈ
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Entretenimento", CAÇAVISION
 http://admin.macacoataca.shop:8080/testenunos/testenuno/35165
-#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Entretenimento", BLAZE TV ˢᵈ
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Entretenimento", BLAZE TV
 http://admin.macacoataca.shop:8080/testenunos/testenuno/35166
-#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Entretenimento", BIGGS ˢᵈ
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Entretenimento", BIGGS
 http://admin.macacoataca.shop:8080/testenunos/testenuno/35167
 
 #############################################################
 
-#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Musica", VH1 ˢᵈ
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Musica", VH1
 http://admin.macacoataca.shop:8080/testenunos/testenuno/35177
 #EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Musica", MTV BIGGEST POP
 http://admin.macacoataca.shop:8080/testenunos/testenuno/35178
-#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Musica", MTV PORTUGAL ˢᵈ
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Musica", MTV PORTUGAL
 http://admin.macacoataca.shop:8080/testenunos/testenuno/35179
-#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Musica", MCM POP ˢᵈ
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Musica", MCM POP
 http://admin.macacoataca.shop:8080/testenunos/testenuno/35180
 #EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Musica", TPA INTERNACIONAL
 http://admin.macacoataca.shop:8080/testenunos/testenuno/38375
@@ -224,21 +222,21 @@ http://admin.macacoataca.shop:8080/testenunos/testenuno/38375
 
 #EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Kids", SIC K
 http://admin.macacoataca.shop:8080/testenunos/testenuno/35099
-#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Kids", NICKELODEON ˢᵈ
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Kids", NICKELODEON
 http://admin.macacoataca.shop:8080/testenunos/testenuno/35168
-#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Kids", JIM JAM ˢᵈ
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Kids", JIM JAM
 http://admin.macacoataca.shop:8080/testenunos/testenuno/35169
-#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Kids", DISNEY JUNIOR ˢᵈ
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Kids", DISNEY JUNIOR
 http://admin.macacoataca.shop:8080/testenunos/testenuno/35170
-#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Kids", DISNEY CHANNEL ˢᵈ
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Kids", DISNEY CHANNEL
 http://admin.macacoataca.shop:8080/testenunos/testenuno/35171
-#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Kids", CARTOON NETWORK ˢᵈ
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Kids", CARTOON NETWORK
 http://admin.macacoataca.shop:8080/testenunos/testenuno/35172
-#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Kids", CANAL PANDA ˢᵈ
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Kids", CANAL PANDA
 http://admin.macacoataca.shop:8080/testenunos/testenuno/35173
-#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Kids", BABY TV ˢᵈ
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Kids", BABY TV
 http://admin.macacoataca.shop:8080/testenunos/testenuno/35174
-#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Kids", NICK JUNIOR ˢᵈ
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Kids", NICK JUNIOR
 http://admin.macacoataca.shop:8080/testenunos/testenuno/35175
 
 ################################################################
