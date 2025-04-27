@@ -1,4 +1,6 @@
-http://cord-cutter.net:8080/get.php?username=7kjJ21&password=193846&type=m3u	8	13/11/2024
+http://cord-cutter.net:8080/get.php?username=7kjJ21&password=193846&type=m3u
+8 Users - expira 13/11/2024
+
 #EXTM3U
 #EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Generalistas", RTP 1
 http://rafadnsvip.live:8080/Mauro/M12345@2024/1
