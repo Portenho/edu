@@ -106,8 +106,6 @@ http://admin.macacoataca.shop:8080/testenunos/testenuno/35082
 http://admin.macacoataca.shop:8080/testenunos/testenuno/35083
 #EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Desporto", MOTORVISION
 http://admin.macacoataca.shop:8080/testenunos/testenuno/35121
-#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Desporto", PFC
-http://admin.macacoataca.shop:8080/testenunos/testenuno/35120
 
 #############################################################
 
@@ -202,6 +200,8 @@ http://admin.macacoataca.shop:8080/testenunos/testenuno/35164
 http://admin.macacoataca.shop:8080/testenunos/testenuno/35165
 #EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Entretenimento", BLAZE TV
 http://admin.macacoataca.shop:8080/testenunos/testenuno/35166
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Entretenimento", PFC
+http://admin.macacoataca.shop:8080/testenunos/testenuno/35120
 #EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Entretenimento", BIGGS
 http://admin.macacoataca.shop:8080/testenunos/testenuno/35167
 
