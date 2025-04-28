@@ -152,7 +152,7 @@ http://admin.macacoataca.shop:8080/testenunos/testenuno/35150
 
 ###############################################################
 
-#EXTINF:-1,PT:) SIC NOVELAS
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Entretenimento", SIC NOVELAS
 http://admin.macacoataca.shop:8080/testenunos/testenuno/35097
 #EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Entretenimento", RTP MEMORIA
 http://admin.macacoataca.shop:8080/testenunos/testenuno/35086
@@ -580,43 +580,43 @@ http://admin.macacoataca.shop:8080/movie/testenunos/testenuno/41822.mp4
 http://admin.macacoataca.shop:8080/movie/testenunos/testenuno/42415.mp4
 #EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Cinema", Rambo II - A Vingança do Herói (1985)
 http://admin.macacoataca.shop:8080/movie/testenunos/testenuno/42416.mp4
-#EXTINF:-1,John Rambo (2008)
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Cinema", John Rambo (2008)
 http://admin.macacoataca.shop:8080/movie/testenunos/testenuno/42417.mp4
-#EXTINF:-1,Rambo III (1988)
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Cinema", Rambo III (1988)
 http://admin.macacoataca.shop:8080/movie/testenunos/testenuno/42418.mp4
-#EXTINF:-1,40 Years of Rocky: The Birth of a Classic (2020)
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Cinema", 40 Years of Rocky: The Birth of a Classic (2020)
 http://admin.macacoataca.shop:8080/movie/testenunos/testenuno/42419.mp4
-#EXTINF:-1,Plano de Fuga 3 (2019)
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Cinema", Plano de Fuga 3 (2019)
 http://admin.macacoataca.shop:8080/movie/testenunos/testenuno/42420.mp4
-#EXTINF:-1,F.I.S.T. (1978)
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Cinema", F.I.S.T. (1978)
 http://admin.macacoataca.shop:8080/movie/testenunos/testenuno/42421.mp4
-#EXTINF:-1,Prisioneiro (1989)
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Cinema", Prisioneiro (1989)
 http://admin.macacoataca.shop:8080/movie/testenunos/testenuno/42422.mp4
-#EXTINF:-1,Puro Aço (2011)
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Cinema", Puro Aço (2011)
 http://admin.macacoataca.shop:8080/movie/testenunos/testenuno/43002.mp4
-#EXTINF:-1,Mundo Jurássico: Domínio (2022)
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Cinema", Mundo Jurássico: Domínio (2022)
 http://admin.macacoataca.shop:8080/movie/testenunos/testenuno/43003.mp4
-#EXTINF:-1,Top Gun: Maverick (2022)
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Cinema", Top Gun: Maverick (2022)
 http://admin.macacoataca.shop:8080/movie/testenunos/testenuno/43005.mp4
-#EXTINF:-1,Perseguição (2022)
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Cinema", Perseguição (2022)
 http://admin.macacoataca.shop:8080/movie/testenunos/testenuno/43006.mp4
-#EXTINF:-1,Fortress: Sniper's Eye (2022)
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Cinema", Fortress: Sniper's Eye (2022)
 http://admin.macacoataca.shop:8080/movie/testenunos/testenuno/43064.mp4
-#EXTINF:-1,Black Adam (2022)
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Cinema", Black Adam (2022)
 http://admin.macacoataca.shop:8080/movie/testenunos/testenuno/43065.mp4
-#EXTINF:-1,As Cinquenta Sombras de Grey (2015)
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Cinema", As Cinquenta Sombras de Grey (2015)
 http://admin.macacoataca.shop:8080/movie/testenunos/testenuno/44224.mp4
-#EXTINF:-1,As Cinquenta Sombras Mais Negras (2017)
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Cinema", As Cinquenta Sombras Mais Negras (2017)
 http://admin.macacoataca.shop:8080/movie/testenunos/testenuno/44225.mp4
-#EXTINF:-1,As Cinquenta Sombras Livre (2018)
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Cinema", As Cinquenta Sombras Livre (2018)
 http://admin.macacoataca.shop:8080/movie/testenunos/testenuno/44226.mp4
-#EXTINF:-1,That's Amor (2022)
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Cinema", That's Amor (2022)
 http://admin.macacoataca.shop:8080/movie/testenunos/testenuno/44227.mp4
-#EXTINF:-1,The Figo Affair: The Transfer That Changed Football (2022)
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Cinema", The Figo Affair: The Transfer That Changed Football (2022)
 http://admin.macacoataca.shop:8080/movie/testenunos/testenuno/44228.mp4
-#EXTINF:-1,Wild Is the Wind (2022)
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Cinema", Wild Is the Wind (2022)
 http://admin.macacoataca.shop:8080/movie/testenunos/testenuno/44229.mp4
-#EXTINF:-1,Outlaws (2018)
+#EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Cinema", Outlaws (2018)
 http://admin.macacoataca.shop:8080/movie/testenunos/testenuno/44381.mp4
 #EXTINF:-1 tvg-id="$" tvg-name="&" tvg-logo="!" group-title="Cinema", Hells Angels on Wheels (1967)
 http://admin.macacoataca.shop:8080/movie/testenunos/testenuno/44382.mp4
