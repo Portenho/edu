@@ -45,7 +45,7 @@ http://supersonictv.live:8080/738641/830194/7690
 http://supersonictv.live:8080/738641/830194/7726
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Generalistas", TPA
 http://supersonictv.live:8080/738641/830194/7721
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Generalistas", KURIAKOS TV 'PT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Generalistas", KURIAKOS TV
 http://supersonictv.live:8080/738641/830194/7665
 
 ##########################################################################################
@@ -58,7 +58,7 @@ http://supersonictv.live:8080/738641/830194/7703
 http://supersonictv.live:8080/738641/830194/7704
 #EXTINF:-1  tvg-logo="" group-title="Desporto PT", SPORT TV 1 HD
 http://supersonictv.live:8080/738641/830194/7705
-#EXTINF:-1  tvg-logo="" group-title="Desporto PT", SPORT TV 1 4K
+#EXTINF:-1  tvg-logo="" group-title="Desporto PT", SPORT TV 1
 http://supersonictv.live:8080/738641/830194/7712
 #EXTINF:-1  tvg-logo="" group-title="Desporto PT", SPORT TV 2
 http://supersonictv.live:8080/738641/830194/7706
@@ -187,7 +187,7 @@ http://supersonictv.live:8080/738641/830194/7606
 http://supersonictv.live:8080/738641/830194/7716
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes", SYFY HD
 http://supersonictv.live:8080/738641/830194/7717
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes", KURIAKOS CINE HD  'PT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes", KURIAKOS CINE HD
 http://supersonictv.live:8080/738641/830194/7662
 
 ###########################################################################################
