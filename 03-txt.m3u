@@ -1,304 +1,2230 @@
-http://supersonictv.live:8080/get.php?username=738641&password=830194&type=m3u
-5 users - expira em 26-04-2026
+#EXTM3U
 
-#EXTM3U url-tvg="https://raw.githubusercontent.com/f0nZ/epg-tv-portuguesa/master/guide.xml,https://github.com/iptv-org/epg/blob/master/sites/meo.pt/meo.pt.channels.xml,https://github.com/iptv-org/epg/blob/master/sites/nos.pt/nos.pt.channels.xml,https://raw.githubusercontent.com/LITUATUI/M3UPT/main/epg/epg-vodafone.xml,https://iptv-org.github.io/epg/guides/pt/mi.tv.xml"
+#EXTINF:-1,PT: Eleven Sports 1 FHD (D)
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/360513
+#EXTINF:-1,PT: Eleven Sports 2 FHD (D)
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/360514
+#EXTINF:-1,PT: Eleven Sports 3 FHD (D)
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/360515
+#EXTINF:-1,PT: Eleven Sports 4 FHD (D)
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/360516
+#EXTINF:-1,PT: Eleven Sports 5 FHD (D)
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/360517
+#EXTINF:-1,PT: Eleven Sports 6 FHD (D)
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/360518
+PT: 1+1 International SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693493
+#EXTINF:-1,PT: 24 Kitchen FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693494
+#EXTINF:-1,PT: 24 Kitchen HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693495
+#EXTINF:-1,PT: 24 Kitchen HD HEVC
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693496
+#EXTINF:-1,PT: 24 Kitchen SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693497
+#EXTINF:-1,PT: A Bola TV FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693498
+#EXTINF:-1,PT: A Bola TV HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693499
+#EXTINF:-1,PT: A Bola TV HD HEVC
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693500
+#EXTINF:-1,PT: A Bola TV SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693501
+#EXTINF:-1,PT: Advance SIC FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693502
+#EXTINF:-1,PT: Afro Music
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693503
+#EXTINF:-1,PT: Al Jazeera
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693505
+#EXTINF:-1,PT: Al Jazeera English HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693504
+#EXTINF:-1,PT: Alma Lusa FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693506
+#EXTINF:-1,PT: Alma Lusa HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693507
+#EXTINF:-1,PT: Alma Lusa SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693508
+#EXTINF:-1,PT: AMC Break HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693509
+#EXTINF:-1,PT: AMC Crime SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693510
+#EXTINF:-1,PT: AMC FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693511
+#EXTINF:-1,PT: AMC HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693512
+#EXTINF:-1,PT: AMC HD HEVC
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693513
+#EXTINF:-1,PT: AMC SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693514
+#EXTINF:-1,PT: Arte HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693515
+#EXTINF:-1,PT: ARtv SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693516
+#EXTINF:-1,PT: AXN FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693525
+#EXTINF:-1,PT: AXN HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693526
+#EXTINF:-1,PT: AXN HD HEVC
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693527
+#EXTINF:-1,PT: AXN Movies FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693517
+#EXTINF:-1,PT: AXN Movies HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693518
+#EXTINF:-1,PT: AXN Movies HD HEVC
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693519
+#EXTINF:-1,PT: AXN Movies SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693520
+#EXTINF:-1,PT: AXN SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693528
+#EXTINF:-1,PT: AXN White FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693521
+#EXTINF:-1,PT: AXN White HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693522
+#EXTINF:-1,PT: AXN White HD HEVC
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693523
+#EXTINF:-1,PT: AXN White SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693524
+#EXTINF:-1,PT: Baby First
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693529
+#EXTINF:-1,PT: Baby TV HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693530
+#EXTINF:-1,PT: BBC Entertainment SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693531
+#EXTINF:-1,PT: BBC World News
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693532
+#EXTINF:-1,PT: BFM TV FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693533
+#EXTINF:-1,PT: Biggs SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693534
+#EXTINF:-1,PT: Blaze HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693536
+#EXTINF:-1,PT: Blaze HD HEVC
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693537
+#EXTINF:-1,PT: Bloomberg EU
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693539
+#EXTINF:-1,PT: BNT 4 HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693540
+#EXTINF:-1,PT: Boomerang
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693541
+#EXTINF:-1,PT: Break FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693535
+#EXTINF:-1,PT: Break SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693538
+#EXTINF:-1,PT: BTV 4K HEVC
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693542
+#EXTINF:-1,PT: BTV FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693543
+#EXTINF:-1,PT: BTV HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693544
+#EXTINF:-1,PT: BTV HD HEVC
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693545
+#EXTINF:-1,PT: BTV SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693546
+#EXTINF:-1,PT: Campo Pequeno TV HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693969
+#EXTINF:-1,PT: Canal 11 FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693547
+#EXTINF:-1,PT: Canal 11 Full HD HEVC
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693548
+#EXTINF:-1,PT: Canal 11 HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693549
+#EXTINF:-1,PT: Canal 11 SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693550
+#EXTINF:-1,PT: Canal 180
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693551
+#EXTINF:-1,PT: Canal NOS FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693552
+#EXTINF:-1,PT: Canal Panda SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693553
+#EXTINF:-1,PT: Canal Q SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693554
+#EXTINF:-1,PT: Canção Nova SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693555
+#EXTINF:-1,PT: Cartoon Network SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693556
+#EXTINF:-1,PT: Cartoonito EN SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693557
+#EXTINF:-1,PT: Casa e Cozinha FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693558
+#EXTINF:-1,PT: Casa e Cozinha HD HEVC
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693559
+#EXTINF:-1,PT: Caça e Pesca FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693560
+#EXTINF:-1,PT: Caça e Pesca HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693561
+#EXTINF:-1,PT: Caça e Pesca SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693562
+#EXTINF:-1,PT: Caçavision HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693563
+#EXTINF:-1,PT: Caçavision SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693564
+#EXTINF:-1,PT: CBS Reality SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693565
+#EXTINF:-1,PT: CCTV4 SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693566
+#EXTINF:-1,PT: CGTN SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693567
+#EXTINF:-1,PT: Channel One RU SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693568
+#EXTINF:-1,PT: Cinemundo FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693569
+#EXTINF:-1,PT: Cinemundo HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693570
+#EXTINF:-1,PT: Cinemundo HD HEVC
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693571
+#EXTINF:-1,PT: Cinemundo SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693572
+#EXTINF:-1,PT: Clubbing TV
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693573
+#EXTINF:-1,PT: CMTV FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693574
+#EXTINF:-1,PT: CMTV Full HD HEVC
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693575
+#EXTINF:-1,PT: CMTV HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693576
+#EXTINF:-1,PT: CMTV SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693577
+#EXTINF:-1,PT: CNBC SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693578
+#EXTINF:-1,PT: CNN International HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693579
+#EXTINF:-1,PT: CNN Portugal FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693580
+#EXTINF:-1,PT: CNN Portugal HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693581
+#EXTINF:-1,PT: CNN Portugal HD HEVC
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693582
+#EXTINF:-1,PT: CNN Portugal SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693583
+#EXTINF:-1,PT: Combate FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693584
+#EXTINF:-1,PT: Combate HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693585
+#EXTINF:-1,PT: Combate HD HEVC
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693586
+#EXTINF:-1,PT: Combate SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693587
+#EXTINF:-1,PT: Crime + Investigation FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693588
+#EXTINF:-1,PT: Crime + Investigation HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693589
+#EXTINF:-1,PT: Crime + Investigation SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693590
+#EXTINF:-1,PT: CTC RU HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693591
+#EXTINF:-1,PT: Cubavision Internacional SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693592
+#EXTINF:-1,PT: DAZN 1 FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693607
+#EXTINF:-1,PT: DAZN 1 HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693608
+#EXTINF:-1,PT: DAZN 1 HD HEVC
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693609
+#EXTINF:-1,PT: DAZN 1 SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693610
+#EXTINF:-1,PT: DAZN 1 UHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693611
+#EXTINF:-1,PT: DAZN 2 FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693612
+#EXTINF:-1,PT: DAZN 2 HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693613
+#EXTINF:-1,PT: DAZN 2 HD HEVC
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693614
+#EXTINF:-1,PT: DAZN 2 SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693615
+#EXTINF:-1,PT: DAZN 3  Full HD HEVC
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693617
+#EXTINF:-1,PT: DAZN 3  HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693618
+#EXTINF:-1,PT: DAZN 3 FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693616
+#EXTINF:-1,PT: DAZN 3 SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693619
+#EXTINF:-1,PT: DAZN 4 FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693620
+#EXTINF:-1,PT: DAZN 4 HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693621
+#EXTINF:-1,PT: DAZN 4 HD HEVC
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693622
+#EXTINF:-1,PT: DAZN 4 SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693623
+#EXTINF:-1,PT: DAZN 5 FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693624
+#EXTINF:-1,PT: DAZN 5 HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693625
+#EXTINF:-1,PT: DAZN 5 SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693626
+#EXTINF:-1,PT: DAZN 6 FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693627
+#EXTINF:-1,PT: DAZN 6 Full HD HEVC
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693970
+#EXTINF:-1,PT: DAZN 6 HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693628
+#EXTINF:-1,PT: DAZN 6 SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693629
+#EXTINF:-1,PT: Deutsche Welle EN
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693593
+#EXTINF:-1,PT: Discovery Channel FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693594
+#EXTINF:-1,PT: Discovery Channel HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693595
+#EXTINF:-1,PT: Discovery Channel HD HEVC
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693596
+#EXTINF:-1,PT: Discovery Channel SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693597
+#EXTINF:-1,PT: Disney Channel 4K
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693598
+#EXTINF:-1,PT: Disney Junior FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693599
+#EXTINF:-1,PT: DiZi CHANNEL FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693987
+#EXTINF:-1,PT: DiZi CHANNEL HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693988
+#EXTINF:-1,PT: DiZi CHANNEL SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693989
+#EXTINF:-1,PT: DocuBox FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693600
+#EXTINF:-1,PT: Dog TV FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693601
+#EXTINF:-1,PT: Dog TV HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693602
+#EXTINF:-1,PT: E! Entertainment FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693603
+#EXTINF:-1,PT: E! Entertainment HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693604
+#EXTINF:-1,PT: E! Entertainment HD HEVC
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693605
+#EXTINF:-1,PT: E! Entertainment SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693606
+#EXTINF:-1,PT: Eleven Sports 1 HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693976
+#EXTINF:-1,PT: Eleven Sports 2 HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693977
+#EXTINF:-1,PT: Eleven Sports 3 HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693978
+#EXTINF:-1,PT: Eleven Sports 4 HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693979
+#EXTINF:-1,PT: Eleven Sports 5 HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693980
+#EXTINF:-1,PT: Eleven Sports 6 HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693981
+#EXTINF:-1,PT: Eurochannel SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693630
+#EXTINF:-1,PT: Euronews
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693631
+#EXTINF:-1,PT: Eurosport 1 FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693632
+#EXTINF:-1,PT: Eurosport 1 Full HD HEVC
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693633
+#EXTINF:-1,PT: Eurosport 1 HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693634
+#EXTINF:-1,PT: Eurosport 1 SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693635
+#EXTINF:-1,PT: Eurosport 2 FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693636
+#EXTINF:-1,PT: Eurosport 2 HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693637
+#EXTINF:-1,PT: Eurosport 2 HD HEVC
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693638
+#EXTINF:-1,PT: Eurosport 2 SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693639
+#EXTINF:-1,PT: Fashion TV FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693641
+#EXTINF:-1,PT: Fashion TV HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693642
+#EXTINF:-1,PT: Fashion TV SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693643
+#EXTINF:-1,PT: Fatima TV FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693644
+#EXTINF:-1,PT: Fight Network FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693645
+#EXTINF:-1,PT: Fight Network Full HD HEVC
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693646
+#EXTINF:-1,PT: Fight Network HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693647
+#EXTINF:-1,PT: FightBox FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693648
+#EXTINF:-1,PT: Food Network FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693649
+#EXTINF:-1,PT: Food Network HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693650
+#EXTINF:-1,PT: Food Network SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693651
+#EXTINF:-1,PT: FOX Comedy FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693652
+#EXTINF:-1,PT: FOX Comedy FHD HEVC
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693653
+#EXTINF:-1,PT: FOX Comedy HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693654
+#EXTINF:-1,PT: FOX Comedy HD HEVC
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693655
+#EXTINF:-1,PT: FOX Comedy SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693656
+#EXTINF:-1,PT: FOX Crime FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693657
+#EXTINF:-1,PT: FOX Crime HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693658
+#EXTINF:-1,PT: FOX Crime HD HEVC
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693659
+#EXTINF:-1,PT: FOX Crime SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693660
+#EXTINF:-1,PT: FOX FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693670
+#EXTINF:-1,PT: FOX HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693671
+#EXTINF:-1,PT: FOX HD HEVC
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693672
+#EXTINF:-1,PT: FOX Life FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693661
+#EXTINF:-1,PT: FOX Life HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693662
+#EXTINF:-1,PT: FOX Life HD HEVC
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693663
+#EXTINF:-1,PT: FOX Life SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693664
+#EXTINF:-1,PT: FOX Movies FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693665
+#EXTINF:-1,PT: FOX Movies HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693666
+#EXTINF:-1,PT: FOX Movies HD HEVC
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693667
+#EXTINF:-1,PT: FOX Movies SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693668
+#EXTINF:-1,PT: FOX News EN HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693669
+#EXTINF:-1,PT: FOX SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693673
+#EXTINF:-1,PT: France 24 (EN) HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693674
+#EXTINF:-1,PT: France 24 (F) HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693675
+#EXTINF:-1,PT: Fuel TV FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693676
+#EXTINF:-1,PT: Fuel TV HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693677
+#EXTINF:-1,PT: Fuel TV HD HEVC
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693678
+#EXTINF:-1,PT: Fuel TV SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693679
+#EXTINF:-1,PT: Gametoon SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693680
+#EXTINF:-1,PT: Ginx eSports SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693681
+#EXTINF:-1,PT: Globo FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693684
+#EXTINF:-1,PT: Globo HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693685
+#EXTINF:-1,PT: Globo HD HEVC
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693686
+#EXTINF:-1,PT: Globo Now FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693682
+#EXTINF:-1,PT: Globo Now SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693683
+#EXTINF:-1,PT: Globo SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693687
+#EXTINF:-1,PT: História FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693688
+#EXTINF:-1,PT: História HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693689
+#EXTINF:-1,PT: História HD HEVC
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693690
+#EXTINF:-1,PT: História SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693691
+#EXTINF:-1,PT: Hollywood FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693692
+#EXTINF:-1,PT: Hollywood HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693693
+#EXTINF:-1,PT: Hollywood HD HEVC
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693694
+#EXTINF:-1,PT: Hollywood SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693695
+#EXTINF:-1,PT: Hot SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693697
+#EXTINF:-1,PT: HotHD FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693696
+#EXTINF:-1,PT: Investigation Discovery FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693698
+#EXTINF:-1,PT: Investigation Discovery HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693699
+#EXTINF:-1,PT: Investigation Discovery HD HEVC
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693700
+#EXTINF:-1,PT: Investigation Discovery SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693701
+#EXTINF:-1,PT: Jim Jam SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693702
+#EXTINF:-1,PT: Kombat Sport FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693703
+#EXTINF:-1,PT: Kuriakos Cine FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693704
+#EXTINF:-1,PT: Kuriakos Kids FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693705
+#EXTINF:-1,PT: Kuriakos Music FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693706
+#EXTINF:-1,PT: Kuriakos TV FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693707
+#EXTINF:-1,PT: Kuriakos TV Full HD HEVC
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693708
+#EXTINF:-1,PT: Kuriakos TV HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693709
+#EXTINF:-1,PT: Kuriakos TV SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693710
+#EXTINF:-1,PT: LocalVisão TV FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693711
+#EXTINF:-1,PT: LocalVisão TV HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693712
+#EXTINF:-1,PT: LocalVisão TV SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693713
+#EXTINF:-1,PT: M24 HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693716
+#EXTINF:-1,PT: M6 FR FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693717
+#EXTINF:-1,PT: MCM Pop
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693718
+#EXTINF:-1,PT: MCM Top
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693719
+#EXTINF:-1,PT: Mezzo Live HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693720
+#EXTINF:-1,PT: Mezzo SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693721
+#EXTINF:-1,PT: Motorvision FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693722
+#EXTINF:-1,PT: Motorvision HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693723
+#EXTINF:-1,PT: Motorvision SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693724
+#EXTINF:-1,PT: MTV 00s
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693725
+#EXTINF:-1,PT: MTV 80s
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693726
+#EXTINF:-1,PT: MTV 90s
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693727
+#EXTINF:-1,PT: MTV Base
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693728
+#EXTINF:-1,PT: MTV Club
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693729
+#EXTINF:-1,PT: MTV FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693732
+#EXTINF:-1,PT: MTV Live
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693730
+#EXTINF:-1,PT: MTV Music
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693731
+#EXTINF:-1,PT: MTV SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693733
+#EXTINF:-1,PT: Multi Show Ao Vivo FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693734
+#EXTINF:-1,PT: Music Top
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693735
+#EXTINF:-1,PT: MyZen TV FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693736
+#EXTINF:-1,PT: Más Chic SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693737
+#EXTINF:-1,PT: Nat Geo Wild FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693738
+#EXTINF:-1,PT: Nat Geo Wild HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693739
+#EXTINF:-1,PT: Nat Geo Wild HD HEVC
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693740
+#EXTINF:-1,PT: Nat Geo Wild SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693741
+#EXTINF:-1,PT: National Geographic FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693742
+#EXTINF:-1,PT: National Geographic HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693743
+#EXTINF:-1,PT: National Geographic HD HEVC
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693744
+#EXTINF:-1,PT: National Geographic SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693745
+#EXTINF:-1,PT: Nautical Channel HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693974
+#EXTINF:-1,PT: News Now FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693802
+#EXTINF:-1,PT: NHK World HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693746
+#EXTINF:-1,PT: Nick + HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693747
+#EXTINF:-1,PT: Nick Jr HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693748
+#EXTINF:-1,PT: Nickelodeon HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693749
+#EXTINF:-1,PT: NOS Studios FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693750
+#EXTINF:-1,PT: NOS Studios HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693751
+#EXTINF:-1,PT: NOS Studios HD HEVC
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693752
+#EXTINF:-1,PT: NOS Studios SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693753
+#EXTINF:-1,PT: Odisseia FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693754
+#EXTINF:-1,PT: Odisseia HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693755
+#EXTINF:-1,PT: Odisseia HD HEVC
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693756
+#EXTINF:-1,PT: Odisseia SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693757
+#EXTINF:-1,PT: Penthouse Gold FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693758
+#EXTINF:-1,PT: PFC HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693759
+#EXTINF:-1,PT: Phoenix CN SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693760
+#EXTINF:-1,PT: Phoenix Info News SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693761
+#EXTINF:-1,PT: Playboy TV
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693762
+#EXTINF:-1,PT: Porto Canal FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693763
+#EXTINF:-1,PT: Porto Canal HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693764
+#EXTINF:-1,PT: Porto Canal HD HEVC
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693765
+#EXTINF:-1,PT: Porto Canal SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693766
+#EXTINF:-1,PT: Radio Cidade Hip-Hop
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693769
+#EXTINF:-1,PT: Radio Cidade Latina
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693770
+#EXTINF:-1,PT: Radio Comercial
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693778
+#EXTINF:-1,PT: Radio Comercial Brasil
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693771
+#EXTINF:-1,PT: Radio Comercial by Night
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693772
+#EXTINF:-1,PT: Radio Comercial Dance
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693773
+#EXTINF:-1,PT: Radio Comercial Kids
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693774
+#EXTINF:-1,PT: Radio Comercial One Hit Wonders
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693775
+#EXTINF:-1,PT: Radio Comercial Portugal
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693776
+#EXTINF:-1,PT: Radio Comercial Rock
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693777
+#EXTINF:-1,PT: Radio Lusitania
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693779
+#EXTINF:-1,PT: Radio M80
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693790
+#EXTINF:-1,PT: Radio M80 70s
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693780
+#EXTINF:-1,PT: Radio M80 80s
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693781
+#EXTINF:-1,PT: Radio M80 90s
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693782
+#EXTINF:-1,PT: Radio M80 Ballads
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693783
+#EXTINF:-1,PT: Radio M80 Dance
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693784
+#EXTINF:-1,PT: Radio M80 Disco
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693785
+#EXTINF:-1,PT: Radio M80 Indie
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693786
+#EXTINF:-1,PT: Radio M80 Pop
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693787
+#EXTINF:-1,PT: Radio M80 Portugal
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693788
+#EXTINF:-1,PT: Radio M80 Rock
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693789
+#EXTINF:-1,PT: Radio Smooth Blues
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693791
+#EXTINF:-1,PT: Radio Smooth Bossa Nova
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693792
+#EXTINF:-1,PT: Radio Smooth FM
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693793
+#EXTINF:-1,PT: Radio Smooth Soul
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693794
+#EXTINF:-1,PT: Rai News 24 HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693795
+#EXTINF:-1,PT: Real Madrid TV ES FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693796
+#EXTINF:-1,PT: Record News HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693797
+#EXTINF:-1,PT: Record News SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693798
+#EXTINF:-1,PT: RedBull TV FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693799
+#EXTINF:-1,PT: RedBull TV HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693800
+#EXTINF:-1,PT: RedBull TV SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693801
+#EXTINF:-1,PT: RTL DE HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693803
+#EXTINF:-1,PT: RTP 1 FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693804
+#EXTINF:-1,PT: RTP 1 Full HD HEVC
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693805
+#EXTINF:-1,PT: RTP 1 HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693806
+#EXTINF:-1,PT: RTP 1 HD HEVC
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693807
+#EXTINF:-1,PT: RTP 1 SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693808
+#EXTINF:-1,PT: RTP 2 FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693809
+#EXTINF:-1,PT: RTP 2 HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693810
+#EXTINF:-1,PT: RTP 2 HD HEVC
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693811
+#EXTINF:-1,PT: RTP 2 SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693812
+#EXTINF:-1,PT: RTP 3 FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693813
+#EXTINF:-1,PT: RTP 3 HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693814
+#EXTINF:-1,PT: RTP 3 HD HEVC
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693815
+#EXTINF:-1,PT: RTP 3 SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693816
+#EXTINF:-1,PT: RTP Arena FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693817
+#EXTINF:-1,PT: RTP Açores SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693818
+#EXTINF:-1,PT: RTP Internacional SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693819
+#EXTINF:-1,PT: RTP Madeira SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693820
+#EXTINF:-1,PT: RTP Memória SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693821
+#EXTINF:-1,PT: RTP África SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693822
+#EXTINF:-1,PT: RTR Planeta RU SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693823
+#EXTINF:-1,PT: S+TV FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693824
+#EXTINF:-1,PT: S+TV HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693825
+#EXTINF:-1,PT: S+TV SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693826
+#EXTINF:-1,PT: Sextreme
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693827
+#EXTINF:-1,PT: SIC Caras FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693828
+#EXTINF:-1,PT: SIC Caras HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693829
+#EXTINF:-1,PT: SIC Caras HD HEVC
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693830
+#EXTINF:-1,PT: SIC Caras SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693831
+#EXTINF:-1,PT: SIC FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693850
+#EXTINF:-1,PT: SIC Full HD HEVC
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693851
+#EXTINF:-1,PT: SIC HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693852
+#EXTINF:-1,PT: SIC HD HEVC
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693853
+#EXTINF:-1,PT: SIC Internacional SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693832
+#EXTINF:-1,PT: SIC K FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693833
+#EXTINF:-1,PT: SIC K HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693834
+#EXTINF:-1,PT: SIC K HD HEVC
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693835
+#EXTINF:-1,PT: SIC K SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693836
+#EXTINF:-1,PT: SIC Mulher FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693837
+#EXTINF:-1,PT: SIC Mulher HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693838
+#EXTINF:-1,PT: SIC Mulher HD HEVC
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693839
+#EXTINF:-1,PT: SIC Mulher SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693840
+#EXTINF:-1,PT: SIC Notícias FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693841
+#EXTINF:-1,PT: SIC Notícias HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693842
+#EXTINF:-1,PT: SIC Notícias HD HEVC
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693843
+#EXTINF:-1,PT: SIC Notícias SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693844
+#EXTINF:-1,PT: SIC Novelas 4K
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693985
+#EXTINF:-1,PT: SIC Novelas FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693982
+#EXTINF:-1,PT: SIC Novelas FHD HEVC
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693986
+#EXTINF:-1,PT: SIC Novelas HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693983
+#EXTINF:-1,PT: SIC Novelas SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693984
+#EXTINF:-1,PT: SIC Radical FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693845
+#EXTINF:-1,PT: SIC Radical Full HD HEVC
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693846
+#EXTINF:-1,PT: SIC Radical HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693847
+#EXTINF:-1,PT: SIC Radical HD HEVC
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693848
+#EXTINF:-1,PT: SIC Radical SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693849
+#EXTINF:-1,PT: SIC SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693854
+#EXTINF:-1,PT: Sky News SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693855
+#EXTINF:-1,PT: SPORT TV 1 4K HEVC
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693856
+#EXTINF:-1,PT: SPORT TV 1 FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693857
+#EXTINF:-1,PT: SPORT TV 1 HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693858
+#EXTINF:-1,PT: SPORT TV 1 HD HEVC
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693859
+#EXTINF:-1,PT: SPORT TV 1 SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693860
+#EXTINF:-1,PT: SPORT TV 1 UHD HEVC
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693861
+#EXTINF:-1,PT: SPORT TV 2 FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693862
+#EXTINF:-1,PT: SPORT TV 2 FHD HEVC
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693863
+#EXTINF:-1,PT: SPORT TV 2 HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693864
+#EXTINF:-1,PT: SPORT TV 2 HD HEVC
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693865
+#EXTINF:-1,PT: SPORT TV 2 SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693866
+#EXTINF:-1,PT: SPORT TV 3 FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693867
+#EXTINF:-1,PT: SPORT TV 3 FHD HEVC
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693868
+#EXTINF:-1,PT: SPORT TV 3 HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693869
+#EXTINF:-1,PT: SPORT TV 3 HD HEVC
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693870
+#EXTINF:-1,PT: SPORT TV 3 SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693871
+#EXTINF:-1,PT: SPORT TV 4 FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693872
+#EXTINF:-1,PT: SPORT TV 4 HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693873
+#EXTINF:-1,PT: SPORT TV 4 HD HEVC
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693874
+#EXTINF:-1,PT: SPORT TV 4 SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693875
+#EXTINF:-1,PT: SPORT TV 5 FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693876
+#EXTINF:-1,PT: SPORT TV 5 Full HD HEVC
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693877
+#EXTINF:-1,PT: SPORT TV 5 HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693878
+#EXTINF:-1,PT: SPORT TV 5 HD HEVC
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693879
+#EXTINF:-1,PT: SPORT TV 5 SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693880
+#EXTINF:-1,PT: SPORT TV 6 FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693881
+#EXTINF:-1,PT: SPORT TV 6 HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693971
+#EXTINF:-1,PT: SPORT TV 6 SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693972
+#EXTINF:-1,PT: Sport TV 7 FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693975
+#EXTINF:-1,PT: SPORT TV NBA FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693882
+#EXTINF:-1,PT: SPORT TV NBA HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693883
+#EXTINF:-1,PT: SPORT TV NBA HD HEVC
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693884
+#EXTINF:-1,PT: SPORT TV NBA SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693885
+#EXTINF:-1,PT: SPORT TV+ FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693886
+#EXTINF:-1,PT: SPORT TV+ HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693887
+#EXTINF:-1,PT: SPORT TV+ HD HEVC
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693888
+#EXTINF:-1,PT: SPORT TV+ SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693889
+#EXTINF:-1,PT: Sporting TV FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693890
+#EXTINF:-1,PT: Sporting TV HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693891
+#EXTINF:-1,PT: Sporting TV HD HEVC
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693892
+#EXTINF:-1,PT: Sporting TV SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693893
+#EXTINF:-1,PT: Stingray Classica
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693894
+#EXTINF:-1,PT: Stingray iConcerts
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693895
+#EXTINF:-1,PT: Super RTL DE HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693896
+#EXTINF:-1,PT: SyFy FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693897
+#EXTINF:-1,PT: SyFy HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693898
+#EXTINF:-1,PT: SyFy HD HEVC
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693899
+#EXTINF:-1,PT: SyFy SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693900
+#EXTINF:-1,PT: TCV Internacional SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693901
+#EXTINF:-1,PT: Tiji FR HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693902
+#EXTINF:-1,PT: TLC SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693903
+#EXTINF:-1,PT: Tom and Jerry
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693904
+#EXTINF:-1,PT: TPA Internacional SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693908
+#EXTINF:-1,PT: Trace Africa
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693909
+#EXTINF:-1,PT: Trace Brazuca
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693910
+#EXTINF:-1,PT: Trace Latina
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693911
+#EXTINF:-1,PT: Trace Mziki
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693912
+#EXTINF:-1,PT: Trace Toca
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693913
+#EXTINF:-1,PT: Trace Urban
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693914
+#EXTINF:-1,PT: Travel Channel FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693915
+#EXTINF:-1,PT: Travel Channel HD HEVC
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693916
+#EXTINF:-1,PT: Travel Channel SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693917
+#EXTINF:-1,PT: TRT World HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693918
+#EXTINF:-1,PT: TV Galicia HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693919
+#EXTINF:-1,PT: TV Maná 2 HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693920
+#EXTINF:-1,PT: TV Maná HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693921
+#EXTINF:-1,PT: TV Record FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693923
+#EXTINF:-1,PT: TV Record HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693924
+#EXTINF:-1,PT: TV Record SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693925
+#EXTINF:-1,PT: TV Zimbo HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693926
+#EXTINF:-1,PT: TV5 Monde HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693927
+#EXTINF:-1,PT: TVA HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693922
+#EXTINF:-1,PT: TVC News SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693928
+#EXTINF:-1,PT: TVCine Action FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693929
+#EXTINF:-1,PT: TVCine Action HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693930
+#EXTINF:-1,PT: TVCine Action HD HEVC
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693931
+#EXTINF:-1,PT: TVCine Action SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693932
+#EXTINF:-1,PT: TVCine Edition FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693933
+#EXTINF:-1,PT: TVCine Edition HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693934
+#EXTINF:-1,PT: TVCine Edition HD HEVC
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693935
+#EXTINF:-1,PT: TVCine Edition SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693936
+#EXTINF:-1,PT: TVCine Emotion FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693937
+#EXTINF:-1,PT: TVCine Emotion HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693938
+#EXTINF:-1,PT: TVCine Emotion HD HEVC
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693939
+#EXTINF:-1,PT: TVCine Emotion SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693940
+#EXTINF:-1,PT: TVCine Top FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693941
+#EXTINF:-1,PT: TVCine Top HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693942
+#EXTINF:-1,PT: TVCine Top HD HEVC
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693943
+#EXTINF:-1,PT: TVCine Top SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693944
+#EXTINF:-1,PT: TVE Internacional SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693946
+#EXTINF:-1,PT: TVI FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693959
+#EXTINF:-1,PT: TVI Ficção FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693947
+#EXTINF:-1,PT: TVI Ficção HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693948
+#EXTINF:-1,PT: TVI Ficção HD HEVC
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693949
+#EXTINF:-1,PT: TVI Ficção SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693950
+#EXTINF:-1,PT: TVI Full HD HEVC
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693960
+#EXTINF:-1,PT: TVI HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693961
+#EXTINF:-1,PT: TVI Reality Câmera 1 SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693951
+#EXTINF:-1,PT: TVI Reality Câmera 2 SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693952
+#EXTINF:-1,PT: TVI Reality Câmera 3 SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693953
+#EXTINF:-1,PT: TVI Reality FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693955
+#EXTINF:-1,PT: TVI Reality HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693956
+#EXTINF:-1,PT: TVI Reality HD HEVC
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693957
+#EXTINF:-1,PT: TVI Reality Mosaico SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693954
+#EXTINF:-1,PT: TVI Reality SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693958
+#EXTINF:-1,PT: TVI SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693962
+#EXTINF:-1,PT: TVR International SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693963
+#EXTINF:-1,PT: VITEC Azores TV
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693768
+#EXTINF:-1,PT: ZAP Viva FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693964
+#EXTINF:-1,PT: ZAP Viva HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693965
+#EXTINF:-1,PT: ZAP Viva HD HEVC
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693966
+#EXTINF:-1,PT: ZAP Viva SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693967
+#EXTINF:-1,PT: Zee TV HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/693968
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Generalistas", RTP 1
-http://supersonictv.live:8080/738641/830194/7683
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Generalistas", RTP 1 HD
-http://supersonictv.live:8080/738641/830194/7684
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Generalistas", RTP 2
-http://supersonictv.live:8080/738641/830194/7685
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Generalistas", RTP 2 HD
-http://supersonictv.live:8080/738641/830194/7686
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Generalistas", SIC
-http://supersonictv.live:8080/738641/830194/7694
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Generalistas", SIC HD
-http://supersonictv.live:8080/738641/830194/7696
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Generalistas", TVI
-http://supersonictv.live:8080/738641/830194/7737
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Generalistas", TVI HD
-http://supersonictv.live:8080/738641/830194/7745
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Generalistas", RTP 3 HD
-http://supersonictv.live:8080/738641/830194/768
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Generalistas", SIC NOTICIAS
-http://supersonictv.live:8080/738641/830194/7699
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Generalistas", SIC NOTICIAS HD
-http://supersonictv.live:8080/738641/830194/7700
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Generalistas", TVI 24
-http://supersonictv.live:8080/738641/830194/7738
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Generalistas", CMTV
-http://supersonictv.live:8080/738641/830194/7617
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Generalistas", CMTV HD
-http://supersonictv.live:8080/738641/830194/7618
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Generalistas", PORTO CANAL HD
-http://supersonictv.live:8080/738641/830194/7681
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Generalistas", RECORD NEWS
-http://supersonictv.live:8080/738641/830194/7682
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Generalistas", RTP AFRICA
-http://supersonictv.live:8080/738641/830194/7688
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Generalistas", RTP AÇORES
-http://supersonictv.live:8080/738641/830194/7689
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Generalistas", RTP MADEIRA
-http://supersonictv.live:8080/738641/830194/7690
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Generalistas", TV RECORD HD
-http://supersonictv.live:8080/738641/830194/7726
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Generalistas", TPA
-http://supersonictv.live:8080/738641/830194/7721
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Generalistas", KURIAKOS TV 'PT
-http://supersonictv.live:8080/738641/830194/7665
 
-##########################################################################################
-
-#EXTINF:-1  tvg-logo="" group-title="Desporto PT", SPORT TV+
-http://supersonictv.live:8080/738641/830194/7702
-#EXTINF:-1  tvg-logo="" group-title="Desporto PT", SPORT TV+ HD
-http://supersonictv.live:8080/738641/830194/7703
-#EXTINF:-1  tvg-logo="" group-title="Desporto PT", SPORT TV 1
-http://supersonictv.live:8080/738641/830194/7704
-#EXTINF:-1  tvg-logo="" group-title="Desporto PT", SPORT TV 1 HD
-http://supersonictv.live:8080/738641/830194/7705
-#EXTINF:-1  tvg-logo="" group-title="Desporto PT", SPORT TV 1
-http://supersonictv.live:8080/738641/830194/7712
-#EXTINF:-1  tvg-logo="" group-title="Desporto PT", SPORT TV 2
-http://supersonictv.live:8080/738641/830194/7706
-#EXTINF:-1  tvg-logo="" group-title="Desporto PT", SPORT TV 2 HD
-http://supersonictv.live:8080/738641/830194/7707
-#EXTINF:-1  tvg-logo="" group-title="Desporto PT", SPORT TV 3
-http://supersonictv.live:8080/738641/830194/7708
-#EXTINF:-1  tvg-logo="" group-title="Desporto PT", SPORT TV 3 HD
-http://supersonictv.live:8080/738641/830194/7709
-#EXTINF:-1  tvg-logo="" group-title="Desporto PT", SPORT TV 4
-http://supersonictv.live:8080/738641/830194/7710
-#EXTINF:-1  tvg-logo="" group-title="Desporto PT", SPORT TV 4 HD
-http://supersonictv.live:8080/738641/830194/7711
-#EXTINF:-1  tvg-logo="" group-title="Desporto PT", SPORT TV 5
-http://supersonictv.live:8080/738641/830194/7713
-#EXTINF:-1  tvg-logo="" group-title="Desporto PT", SPORT TV 5 HD
-http://supersonictv.live:8080/738641/830194/7714
-#EXTINF:-1  tvg-logo="" group-title="Desporto PT", NBA TV HD
-http://supersonictv.live:8080/738641/830194/7675
-#EXTINF:-1  tvg-logo="" group-title="Desporto PT", BENFICA TV
-http://supersonictv.live:8080/738641/830194/7599
-#EXTINF:-1  tvg-logo="" group-title="Desporto PT", BENFICA TV HD
-http://supersonictv.live:8080/738641/830194/7600
-#EXTINF:-1  tvg-logo="" group-title="Desporto PT", ELEVEN SPORTS 1
-http://supersonictv.live:8080/738641/830194/7626
-#EXTINF:-1  tvg-logo="" group-title="Desporto PT", ELEVEN SPORTS 1 HD
-http://supersonictv.live:8080/738641/830194/7627
-#EXTINF:-1  tvg-logo="" group-title="Desporto PT", ELEVEN SPORTS 2
-http://supersonictv.live:8080/738641/830194/7628
-#EXTINF:-1  tvg-logo="" group-title="Desporto PT", ELEVEN SPORTS 2 HD
-http://supersonictv.live:8080/738641/830194/7629
-#EXTINF:-1  tvg-logo="" group-title="Desporto PT", ELEVEN SPORTS 3
-http://supersonictv.live:8080/738641/830194/7630
-#EXTINF:-1  tvg-logo="" group-title="Desporto PT", ELEVEN SPORTS 3 HD
-http://supersonictv.live:8080/738641/830194/7631
-#EXTINF:-1  tvg-logo="" group-title="Desporto PT", ELEVEN SPORTS 4
-http://supersonictv.live:8080/738641/830194/7632
-#EXTINF:-1  tvg-logo="" group-title="Desporto PT", ELEVEN SPORTS 4 HD
-http://supersonictv.live:8080/738641/830194/7633
-#EXTINF:-1  tvg-logo="" group-title="Desporto PT", ELEVEN SPORTS 5
-http://supersonictv.live:8080/738641/830194/7634
-#EXTINF:-1  tvg-logo="" group-title="Desporto PT", ELEVEN SPORTS 5 HD
-http://supersonictv.live:8080/738641/830194/7635
-#EXTINF:-1  tvg-logo="" group-title="Desporto PT", ELEVEN SPORTS 6
-http://supersonictv.live:8080/738641/830194/7636
-#EXTINF:-1  tvg-logo="" group-title="Desporto PT", ELEVEN SPORTS 6 HD
-http://supersonictv.live:8080/738641/830194/7637
-#EXTINF:-1  tvg-logo="" group-title="Desporto PT", CANAL 11
-http://supersonictv.live:8080/738641/830194/7603
-#EXTINF:-1  tvg-logo="" group-title="Desporto PT", CANAL 11 HD
-http://supersonictv.live:8080/738641/830194/7604
-#EXTINF:-1  tvg-logo="" group-title="Desporto PT", A BOLA TV
-http://supersonictv.live:8080/738641/830194/7587
-#EXTINF:-1  tvg-logo="" group-title="Desporto PT", SPORTING TV HD
-http://supersonictv.live:8080/738641/830194/7715
-#EXTINF:-1  tvg-logo="" group-title="Desporto PT", COMBATE HD
-http://supersonictv.live:8080/738641/830194/7619
-#EXTINF:-1  tvg-logo="" group-title="Desporto PT", EUROSPORT 1 HD
-http://supersonictv.live:8080/738641/830194/7642
-#EXTINF:-1  tvg-logo="" group-title="Desporto PT", EUROSPORT 2
-http://supersonictv.live:8080/738641/830194/7643
-#EXTINF:-1  tvg-logo="" group-title="Desporto PT", KOMBAT SPORT
-http://supersonictv.live:8080/738641/830194/7661
-
-#######################################################################################
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes", TVCINE TOP
-http://supersonictv.live:8080/738641/830194/7729
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes", TVCINE TOP HD
-http://supersonictv.live:8080/738641/830194/7730
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes", TVCINE EDITION
-http://supersonictv.live:8080/738641/830194/7731
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes", TVCINE EDITION HD
-http://supersonictv.live:8080/738641/830194/7732
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes", TVCINE EMOTION
-http://supersonictv.live:8080/738641/830194/7733
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes", TVCINE EMOTION HD
-http://supersonictv.live:8080/738641/830194/7734
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes", TVCINE ACTION
-http://supersonictv.live:8080/738641/830194/7735
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes", TVCINE ACTION HD
-http://supersonictv.live:8080/738641/830194/7736
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes", NOS STUDIOS HD
-http://supersonictv.live:8080/738641/830194/7677
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes", CANAL HOLLYWOOD
-http://supersonictv.live:8080/738641/830194/7659
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes", CANAL HOLLYWOOD HD
-http://supersonictv.live:8080/738641/830194/7607
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes", CINEMUNDO
-http://supersonictv.live:8080/738641/830194/7615
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes", CINEMUNDO HD
-http://supersonictv.live:8080/738641/830194/7616
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes", AXN
-http://supersonictv.live:8080/738641/830194/7592
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes", AXN BLACK
-http://supersonictv.live:8080/738641/830194/7593
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes", AXN HD
-http://supersonictv.live:8080/738641/830194/7595
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes", AXN WHITE
-http://supersonictv.live:8080/738641/830194/7596
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes", AXN WHITE HD
-http://supersonictv.live:8080/738641/830194/7597
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes", FOX
-http://supersonictv.live:8080/738641/830194/7646
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes", FOX HD
-http://supersonictv.live:8080/738641/830194/7651
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes", FOX MOVIES
-http://supersonictv.live:8080/738641/830194/7653
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes", FOX MOVIES HD
-http://supersonictv.live:8080/738641/830194/7654
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes", FOX COMEDY
-http://supersonictv.live:8080/738641/830194/7647
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes", FOX COMEDY HD
-http://supersonictv.live:8080/738641/830194/7648
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes", FOX CRIME
-http://supersonictv.live:8080/738641/830194/7649
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes", FOX CRIME HD
-http://supersonictv.live:8080/738641/830194/7650
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes", AMC
-http://supersonictv.live:8080/738641/830194/7589
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes", AMC HD
-http://supersonictv.live:8080/738641/830194/7590
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes", CANAL BIGGS
-http://supersonictv.live:8080/738641/830194/7606
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes", SYFY
-http://supersonictv.live:8080/738641/830194/7716
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes", SYFY HD
-http://supersonictv.live:8080/738641/830194/7717
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes", KURIAKOS CINE HD  'PT
-http://supersonictv.live:8080/738641/830194/7662
-
-###########################################################################################
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimento", TVI REALITY
-http://supersonictv.live:8080/738641/830194/7746
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimento", TVI FICÇAO
-http://supersonictv.live:8080/738641/830194/7744
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimento", SIC CARAS
-http://supersonictv.live:8080/738641/830194/7695
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimento", SIC MULHER
-http://supersonictv.live:8080/738641/830194/7698
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimento", SIC RADICAL
-http://supersonictv.live:8080/738641/830194/7701
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimento", 24 KITCHEN
-http://supersonictv.live:8080/738641/830194/7586
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimento", FOOD NETWORK
-http://supersonictv.live:8080/738641/830194/7645
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimento", MY CUISINE
-http://supersonictv.live:8080/738641/830194/7672
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimento", DISCOVERY CHANNEL
-http://supersonictv.live:8080/738641/830194/7621
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimento", DISCOVERY CHANNEL
-http://supersonictv.live:8080/738641/830194/7622
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimento", ODISSEIA
-http://supersonictv.live:8080/738641/830194/7678
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimento", HISTORIA
-http://supersonictv.live:8080/738641/830194/7658
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimento", CAÇA E PESCA
-http://supersonictv.live:8080/738641/830194/7612
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimento", CAÇAVISION
-http://supersonictv.live:8080/738641/830194/7613
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimento", FASHION TV
-http://supersonictv.live:8080/738641/830194/7644
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimento", MOTORVISION
-http://supersonictv.live:8080/738641/830194/7669
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimento", FUEL TV
-http://supersonictv.live:8080/738641/830194/7655
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimento", AR TV
-http://supersonictv.live:8080/738641/830194/7591
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimento", BLAZE
-http://supersonictv.live:8080/738641/830194/7601
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimento", BOOMERANG
-http://supersonictv.live:8080/738641/830194/7602
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimento", CANAL Q
-http://supersonictv.live:8080/738641/830194/7609
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimento", CANÇÃO NOVA
-http://supersonictv.live:8080/738641/830194/7610
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimento", CRIME INVESTIGATION
-http://supersonictv.live:8080/738641/830194/7620
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimento", E! ENTERTAINMENT
-http://supersonictv.live:8080/738641/830194/7625
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimento", NAT GEO WILD
-http://supersonictv.live:8080/738641/830194/7673
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimento", NATIONAL GEOGRAPHIC
-http://supersonictv.live:8080/738641/830194/7674
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimento", RTP MEMORIA
-http://supersonictv.live:8080/738641/830194/7691
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimento", S SAUDE
-http://supersonictv.live:8080/738641/830194/7692
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimento", SANTUARIO DE FATIMA
-http://supersonictv.live:8080/738641/830194/7693
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimento", TLC
-http://supersonictv.live:8080/738641/830194/7719
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimento", TOROS TV
-http://supersonictv.live:8080/738641/830194/7720
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimento", TRAVEL CHANNEL
-http://supersonictv.live:8080/738641/830194/7723
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimento", TV GLOBO
-http://supersonictv.live:8080/738641/830194/7725
-
-#####################################################################################
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Musica", AFRO MUSIC
-http://supersonictv.live:8080/738641/830194/7588
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Musica", MTV
-http://supersonictv.live:8080/738641/830194/7670
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Musica", MTV 00's
-http://supersonictv.live:8080/738641/830194/7614
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Musica", MCM POP
-http://supersonictv.live:8080/738641/830194/7667
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Musica", MCM TOP
-http://supersonictv.live:8080/738641/830194/7668
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Musica", TRACE TOCA
-http://supersonictv.live:8080/738641/830194/7722
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Musica", VH1
-http://supersonictv.live:8080/738641/830194/7747
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Musica", ZAP VIVA
-http://supersonictv.live:8080/738641/830194/7748
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Musica", KURIAKOS MUSIC
-http://supersonictv.live:8080/738641/830194/7664
-
-##################################################################################
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Kids", CANAL PANDA
-http://supersonictv.live:8080/738641/830194/7608
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Kids", DISNEY CHANNEL
-http://supersonictv.live:8080/738641/830194/7623
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Kids", DISNEY JUNIOR
-http://supersonictv.live:8080/738641/830194/7624
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Kids", CARTOON NETWORK
-http://supersonictv.live:8080/738641/830194/7611
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Kids", JIM JAM
-http://supersonictv.live:8080/738641/830194/7660
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Kids", KURIAKOS KIDS
-http://supersonictv.live:8080/738641/830194/7663
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Kids", NICKELODEON
-http://supersonictv.live:8080/738641/830194/7676
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Kids", SIC KIDS
-http://supersonictv.live:8080/738641/830194/7697
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Kids", BABY TV
-http://supersonictv.live:8080/738641/830194/7598
-
-#######################################################################################
+#EXTINF:-1,DE: 1-2-3 TV HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687167
+#EXTINF:-1,DE: 13th Street FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687168
+#EXTINF:-1,DE: 13th Street HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687169
+#EXTINF:-1,DE: 13th Street SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687170
+#EXTINF:-1,DE: 3sat FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687171
+#EXTINF:-1,DE: 3sat HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687172
+#EXTINF:-1,DE: Alex Berlin HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687173
+#EXTINF:-1,DE: Allgäu TV FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687174
+#EXTINF:-1,DE: Animal Planet FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687175
+#EXTINF:-1,DE: Animal Planet HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687176
+#EXTINF:-1,DE: Anixe Serie FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687177
+#EXTINF:-1,DE: Anixe Serie SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687178
+#EXTINF:-1,DE: Anixe HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687179
+#EXTINF:-1,DE: Anixe SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687180
+#EXTINF:-1,DE: ARD alpha HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687181
+#EXTINF:-1,DE: Arte FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687182
+#EXTINF:-1,DE: Arte HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687183
+#EXTINF:-1,DE: Arte SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687184
+#EXTINF:-1,DE: Auto Motor Sport HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687185
+#EXTINF:-1,DE: Baby TV SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687186
+#EXTINF:-1,DE: Baden TV HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687187
+#EXTINF:-1,DE: Beauty TV HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687188
+#EXTINF:-1,DE: Bibel TV Impuls HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687189
+#EXTINF:-1,DE: Bibel TV Musik HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687190
+#EXTINF:-1,DE: Bibel TV HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687191
+#EXTINF:-1,DE: Bild HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687192
+#EXTINF:-1,DE: BLK Regional TV FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687193
+#EXTINF:-1,DE: Bon Gusto HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687194
+#EXTINF:-1,DE: Bon Gusto SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687195
+#EXTINF:-1,DE: Boomerang HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687196
+#EXTINF:-1,DE: Boomerang SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687197
+#EXTINF:-1,DE: BR HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687198
+#EXTINF:-1,DE: Bundestag TV1
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687199
+#EXTINF:-1,DE: Bundestag TV2
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687200
+#EXTINF:-1,DE: BW Family TV FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687201
+#EXTINF:-1,DE: BW Family TV SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687202
+#EXTINF:-1,DE: Campus TV Magdeburg FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687203
+#EXTINF:-1,DE: Cartoon Network FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687204
+#EXTINF:-1,DE: Cartoon Network HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687205
+#EXTINF:-1,DE: Cartoon Network SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687206
+#EXTINF:-1,DE: Channel 21 HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687207
+#EXTINF:-1,DE: Chemnitz TV FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687208
+#EXTINF:-1,DE: Classica FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687219
+#EXTINF:-1,DE: CNBC Europe SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687220
+#EXTINF:-1,DE: Comedy Central +1 SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687221
+#EXTINF:-1,DE: Comedy Central FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687222
+#EXTINF:-1,DE: Comedy Central HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687223
+#EXTINF:-1,DE: Crime+Investigation FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687224
+#EXTINF:-1,DE: Crime+Investigation HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687225
+#EXTINF:-1,DE: Crime+Investigation SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687226
+#EXTINF:-1,DE: Das Erste (ARD) FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687227
+#EXTINF:-1,DE: Das Erste (ARD) HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687228
+#EXTINF:-1,DE: Das Erste (ARD) HEVC
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687229
+#EXTINF:-1,DE: DAZN 1 Bar FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687230
+#EXTINF:-1,DE: DAZN 1 Bar HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687231
+#EXTINF:-1,DE: DAZN 1 Bar HEVC
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687232
+#EXTINF:-1,DE: DAZN 2 Bar FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687233
+#EXTINF:-1,DE: DAZN 2 Bar HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687234
+#EXTINF:-1,DE: DAZN 2 Bar HEVC
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687235
+#EXTINF:-1,DE: Deluxe Lounge HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687236
+#EXTINF:-1,DE: Deluxe Music HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687237
+#EXTINF:-1,DE: Deutsche Welle TV FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687239
+#EXTINF:-1,DE: Deutsches Musik Fernsehen HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687240
+#EXTINF:-1,DE: Die Neue Zeit TV SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687241
+#EXTINF:-1,DE: Discovery FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687242
+#EXTINF:-1,DE: Discovery HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687243
+#EXTINF:-1,DE: Discovery HEVC
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687244
+#EXTINF:-1,DE: Disney Channel FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687245
+#EXTINF:-1,DE: Disney Channel HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687246
+#EXTINF:-1,DE: Disney Channel HEVC
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687247
+#EXTINF:-1,DE: Disney Channel SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687248
+#EXTINF:-1,DE: Disney Junior FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687249
+#EXTINF:-1,DE: DMAX FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687250
+#EXTINF:-1,DE: DMAX HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687251
+#EXTINF:-1,DE: DMAX HEVC
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687252
+#EXTINF:-1,DE: DMAX SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687253
+#EXTINF:-1,DE: Doxx HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687254
+#EXTINF:-1,DE: E! Entertainment FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687255
+#EXTINF:-1,DE: E! Entertainment HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687256
+#EXTINF:-1,DE: E! Entertainment HEVC
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687257
+#EXTINF:-1,DE: Eagle Cinema Abenteuer FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687259
+#EXTINF:-1,DE: Eagle Cinema Aktion FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687260
+#EXTINF:-1,DE: Eagle Cinema Biografie FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687262
+#EXTINF:-1,DE: Eagle Cinema Drama FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687263
+#EXTINF:-1,DE: Eagle Cinema Geschichte FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687265
+#EXTINF:-1,DE: Eagle Cinema Premiere FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687269
+#EXTINF:-1,DE: Eagle Peppa Wutz HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687272
+#EXTINF:-1,DE: Eat Club TV HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687273
+#EXTINF:-1,DE: Elbekanal TV SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687274
+#EXTINF:-1,DE: eSports1 FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687275
+#EXTINF:-1,DE: eSports1 HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687276
+#EXTINF:-1,DE: Euronews HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687277
+#EXTINF:-1,DE: Euronews SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687278
+#EXTINF:-1,DE: European League of Football TV HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687279
+#EXTINF:-1,DE: Eurosport 1 FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687280
+#EXTINF:-1,DE: Eurosport 1 HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687281
+#EXTINF:-1,DE: Eurosport 2 Xtra FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687282
+#EXTINF:-1,DE: Eurosport 2 Xtra HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687283
+#EXTINF:-1,DE: Eurosport 2 Xtra HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687284
+#EXTINF:-1,DE: Eurosport 2 FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687285
+#EXTINF:-1,DE: Eurosport 2 HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687286
+#EXTINF:-1,DE: Eurosport 2 HEVC
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687287
+#EXTINF:-1,DE: Eurosport 2 SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687288
+#EXTINF:-1,DE: EWTN SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687289
+#EXTINF:-1,DE: FC Bayern TV HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687290
+#EXTINF:-1,DE: Filstalwelle HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687291
+#EXTINF:-1,DE: Fix & Foxi SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687292
+#EXTINF:-1,DE: Fix & Foxi HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687293
+#EXTINF:-1,DE: FOLX HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687294
+#EXTINF:-1,DE: Fox FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687295
+#EXTINF:-1,DE: Fox HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687296
+#EXTINF:-1,DE: Fox HEVC
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687297
+#EXTINF:-1,DE: Franken Fernsehen FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687298
+#EXTINF:-1,DE: GoldStar TV HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687299
+#EXTINF:-1,DE: Health TV HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687300
+#EXTINF:-1,DE: Heimatkanal SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687301
+#EXTINF:-1,DE: HGTV SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687302
+#EXTINF:-1,DE: Hip Trips HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687303
+#EXTINF:-1,DE: History FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687304
+#EXTINF:-1,DE: History HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687305
+#EXTINF:-1,DE: History SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687306
+#EXTINF:-1,DE: HR FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687307
+#EXTINF:-1,DE: HSE Trend HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687308
+#EXTINF:-1,DE: HSE24 Extra HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687309
+#EXTINF:-1,DE: HSE24 HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687310
+#EXTINF:-1,DE: HyperCinema 10 FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687311
+#EXTINF:-1,DE: HyperCinema 1 FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687312
+#EXTINF:-1,DE: HyperCinema 2 FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687313
+#EXTINF:-1,DE: HyperCInema 3 FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687314
+#EXTINF:-1,DE: HyperCinema 4 FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687315
+#EXTINF:-1,DE: HyperCinema 5 FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687316
+#EXTINF:-1,DE: HyperCinema 6 FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687317
+#EXTINF:-1,DE: HyperCinema 7 FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687318
+#EXTINF:-1,DE: HyperCinema 8 FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687319
+#EXTINF:-1,DE: HyperCinema 9 FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687320
+#EXTINF:-1,DE: HyperCinema Boxset FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687321
+#EXTINF:-1,DE: HyperCinema INFO FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687323
+#EXTINF:-1,DE: Isar TV Landshut HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687324
+#EXTINF:-1,DE: J. S. Bach-Stiftung HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687325
+#EXTINF:-1,DE: Jukebox HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687326
+#EXTINF:-1,DE: Junior SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687327
+#EXTINF:-1,DE: Kabel 1 SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687328
+#EXTINF:-1,DE: Kabel Eins Classics HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687329
+#EXTINF:-1,DE: Kabel Eins Classics SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687330
+#EXTINF:-1,DE: Kabel.1 Doku FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687331
+#EXTINF:-1,DE: Kabel.1 Doku HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687332
+#EXTINF:-1,DE: Kabel.1 FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687333
+#EXTINF:-1,DE: Kabel.1 HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687334
+#EXTINF:-1,DE: Kabel.1 HEVC
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687335
+#EXTINF:-1,DE: KaufBei TV SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687336
+#EXTINF:-1,DE: KiKA FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687337
+#EXTINF:-1,DE: KiKa HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687338
+#EXTINF:-1,DE: KiKA HEVC
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687339
+#EXTINF:-1,DE: KiKA SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687340
+#EXTINF:-1,DE: KiNOBOX 10 HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687341
+#EXTINF:-1,DE: KiNOBOX 1 HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687342
+#EXTINF:-1,DE: KiNOBOX 2 HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687343
+#EXTINF:-1,DE: KiNOBOX BEN 10 HD***
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687344
+#EXTINF:-1,DE: Kinowelt TV FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687345
+#EXTINF:-1,DE: Kinowelt TV HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687346
+#EXTINF:-1,DE: Kronehit TV FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687347
+#EXTINF:-1,DE: Kultur MD FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687348
+#EXTINF:-1,DE: Light Channel TV HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687349
+#EXTINF:-1,DE: MAGENTA SPORT INFO
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687350
+#EXTINF:-1,DE: Magenta Sport 01 (Event Only)
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687351
+#EXTINF:-1,DE: Magenta Sport 02 (Event Only)
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687352
+#EXTINF:-1,DE: Magenta Sport 03 (Event Only)
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687353
+#EXTINF:-1,DE: Magenta Sport 04 (Event Only)
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687354
+#EXTINF:-1,DE: Magenta Sport 05 (Event Only)
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687355
+#EXTINF:-1,DE: Magenta Sport 06 (Event Only)
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687356
+#EXTINF:-1,DE: Magenta Sport 07 (Event Only)
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687357
+#EXTINF:-1,DE: Magenta Sport 08 (Event Only)
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687358
+#EXTINF:-1,DE: Magenta Sport 09 (Event Only)
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687359
+#EXTINF:-1,DE: Magenta Sport 10 (Event Only)
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687360
+#EXTINF:-1,DE: Magenta Sport 11 (Event Only)
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687361
+#EXTINF:-1,DE: Magenta Sport 12 (Event Only)
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687362
+#EXTINF:-1,DE: Magenta Sport 13 (Event Only)
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687363
+#EXTINF:-1,DE: Magenta Sport 14 (Event Only)
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687364
+#EXTINF:-1,DE: Magenta Sport 15 (Event Only)
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687365
+#EXTINF:-1,DE: Magenta Sport 16 (Event Only)
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687366
+#EXTINF:-1,DE: Magenta Sport 17 (Event Only)
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687367
+#EXTINF:-1,DE: Magenta Sport 18 (Event Only)
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687368
+#EXTINF:-1,DE: Magenta Sport 19 (Event Only)
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687369
+#EXTINF:-1,DE: Magenta Sport 20 (Event Only)
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687370
+#EXTINF:-1,DE: MainFranken FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687371
+#EXTINF:-1,DE: Mascha und der Bär
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687372
+#EXTINF:-1,DE: Max Select HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687373
+#EXTINF:-1,DE: MDF.1 FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687374
+#EXTINF:-1,DE: MDR Sachsen HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687375
+#EXTINF:-1,DE: MDR Thüringen HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687376
+#EXTINF:-1,DE: MDR HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687377
+#EXTINF:-1,DE: MediaShop TV SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687378
+#EXTINF:-1,DE: More Than Sports FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687379
+#EXTINF:-1,DE: Motor Racing HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687380
+#EXTINF:-1,DE: Motorvision TV HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687381
+#EXTINF:-1,DE: Motorvision TV HEVC
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687382
+#EXTINF:-1,DE: MTV 80s HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687383
+#EXTINF:-1,DE: MTV 80s SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687384
+#EXTINF:-1,DE: MTV 90s SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687385
+#EXTINF:-1,DE: MTV Base SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687386
+#EXTINF:-1,DE: MTV Club SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687387
+#EXTINF:-1,DE: MTV Hits SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687388
+#EXTINF:-1,DE: MTV Live HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687389
+#EXTINF:-1,DE: MTV FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687390
+#EXTINF:-1,DE: MTV HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687391
+#EXTINF:-1,DE: MTV HEVC
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687392
+#EXTINF:-1,DE: MusicTop HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687393
+#EXTINF:-1,DE: München TV FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687394
+#EXTINF:-1,DE: N-tv FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687395
+#EXTINF:-1,DE: N-tv HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687396
+#EXTINF:-1,DE: N-tv HEVC
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687397
+#EXTINF:-1,DE: N-tv SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687398
+#EXTINF:-1,DE: N24 Doku HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687399
+#EXTINF:-1,DE: N24 Doku HEVC
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687400
+#EXTINF:-1,DE: N24 Doku SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687401
+#EXTINF:-1,DE: Nat Geo Wild FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687402
+#EXTINF:-1,DE: Nat Geo Wild HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687403
+#EXTINF:-1,DE: Nat Geo Wild HEVC
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687404
+#EXTINF:-1,DE: National Geographic FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687405
+#EXTINF:-1,DE: National Geographic HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687407
+#EXTINF:-1,DE: National Geographic HEVC
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687408
+#EXTINF:-1,DE: DF1
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687409
+#EXTINF:-1,DE: NDR Niedersachsen HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687410
+#EXTINF:-1,DE: NDR Schleswig-Holstein HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687411
+#EXTINF:-1,DE: NDR FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687412
+#EXTINF:-1,DE: NDR HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687413
+#EXTINF:-1,DE: Nick Jr SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687414
+#EXTINF:-1,DE: Nick Music SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687415
+#EXTINF:-1,DE: Nickelodeon AT
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687416
+#EXTINF:-1,DE: Nickelodeon HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687417
+#EXTINF:-1,DE: Nickelodeon SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687418
+#EXTINF:-1,DE: Nicktoons SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687419
+#EXTINF:-1,DE: Niederbayern TV Deggendorf FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687420
+#EXTINF:-1,DE: Niederbayern TV Landshut FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687421
+#EXTINF:-1,DE: Niederbayern TV Passau FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687422
+#EXTINF:-1,DE: Nitro FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687423
+#EXTINF:-1,DE: Nitro HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687424
+#EXTINF:-1,DE: Nitro HEVC
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687425
+#EXTINF:-1,DE: Nitro SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687426
+#EXTINF:-1,DE: NOA 4 FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687427
+#EXTINF:-1,DE: Oberlausitz TV
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687428
+#EXTINF:-1,DE: Oberpfalz TV FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687429
+#EXTINF:-1,DE: OK Dessau HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687430
+#EXTINF:-1,DE: OK Kaiserslautern HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687431
+#EXTINF:-1,DE: OK Magdeburg FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687432
+#EXTINF:-1,DE: OK Merseburg FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687433
+#EXTINF:-1,DE: OK Salzwedel FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687434
+#EXTINF:-1,DE: OK Stendal FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687435
+#EXTINF:-1,DE: OK Weinstrasse SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687436
+#EXTINF:-1,DE: OK Wernigerode FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687437
+#EXTINF:-1,DE: One Music HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687438
+#EXTINF:-1,DE: One HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687439
+#EXTINF:-1,DE: One SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687440
+#EXTINF:-1,DE: PDC-TV 1 FHD (Event only)
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687441
+#EXTINF:-1,DE: PDC-TV 2 FHD (Event only)
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687442
+#EXTINF:-1,DE: PDC-TV 3 FHD (Event only)
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687443
+#EXTINF:-1,DE: pearl.tv Shop FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687444
+#EXTINF:-1,DE: Phoenix HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687445
+#EXTINF:-1,DE: Phoenix SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687446
+#EXTINF:-1,DE: Pro7 Fun FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687447
+#EXTINF:-1,DE: Pro7 Fun HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687448
+#EXTINF:-1,DE: Pro7 Maxx FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687449
+#EXTINF:-1,DE: Pro7 Maxx HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687450
+#EXTINF:-1,DE: Pro7 Maxx HEVC
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687451
+#EXTINF:-1,DE: Pro7 Maxx SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687452
+#EXTINF:-1,DE: Pro7 FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687453
+#EXTINF:-1,DE: Pro7 HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687454
+#EXTINF:-1,DE: Pro7 HEVC
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687455
+#EXTINF:-1,DE: Pro7 SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687456
+#EXTINF:-1,DE: QVC Style SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687457
+#EXTINF:-1,DE: QVC Zwei FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687458
+#EXTINF:-1,DE: QVC SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687459
+#EXTINF:-1,DE: Qwest TV Classical HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687460
+#EXTINF:-1,DE: Radio Weser TV Bremen SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687461
+#EXTINF:-1,DE: RAN 1 FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687462
+#EXTINF:-1,DE: RBB Berlin HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687463
+#EXTINF:-1,DE: RBB Brandenburg HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687464
+#EXTINF:-1,DE: RBW FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687465
+#EXTINF:-1,DE: Regio TV Bodensee FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687466
+#EXTINF:-1,DE: Regio TV Schwaben FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687467
+#EXTINF:-1,DE: Regio TV Stuttgart FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687468
+#EXTINF:-1,DE: RFH FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687469
+#EXTINF:-1,DE: RFO FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687470
+#EXTINF:-1,DE: Rhein Neckar Fernsehen FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687471
+#EXTINF:-1,DE: RiC TV FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687472
+#EXTINF:-1,DE: Rocket Beans TV HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687473
+#EXTINF:-1,DE: Romance TV SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687474
+#EXTINF:-1,DE: RTL Crime FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687475
+#EXTINF:-1,DE: RTL Crime HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687476
+#EXTINF:-1,DE: RTL Crime SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687477
+#EXTINF:-1,DE: RTL Living FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687478
+#EXTINF:-1,DE: RTL Living HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687479
+#EXTINF:-1,DE: RTL Passion FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687480
+#EXTINF:-1,DE: RTL Passion HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687481
+#EXTINF:-1,DE: RTL Zwei FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687483
+#EXTINF:-1,DE: RTL Zwei HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687484
+#EXTINF:-1,DE: RTL Zwei HEVC
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687485
+#EXTINF:-1,DE: RTL Zwei SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687486
+#EXTINF:-1,DE: RTL+ Sport Event 1 (Event Only)
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687488
+#EXTINF:-1,DE: RTL+ Sport Event 2 (Event Only)
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687489
+#EXTINF:-1,DE: RTL+ Sport Event 3 (Event Only)
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687490
+#EXTINF:-1,DE: RTL+ Sport Event 4 (Event Only)
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687491
+#EXTINF:-1,DE: RTL+ Sport Event 5 (Event Only)
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687492
+#EXTINF:-1,DE: RTL+ Sport Event 6 (Event Only)
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687493
+#EXTINF:-1,DE: RTL+ Sport Event 7 (Event Only)
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687494
+#EXTINF:-1,DE: RTL+ Sport Event 8 (Event Only)
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687495
+#EXTINF:-1,DE: RTL+ Sport Event 9 (Event Only)
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687496
+#EXTINF:-1,DE: RTL+ Sport Event 10 (Event Only)
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687497
+#EXTINF:-1,DE: RTLplus SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687498
+#EXTINF:-1,DE: RTL FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687499
+#EXTINF:-1,DE: RTL HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687500
+#EXTINF:-1,DE: RTL HEVC
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687501
+#EXTINF:-1,DE: RTL SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687502
+#EXTINF:-1,DE: Sat.1 emotions HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687503
+#EXTINF:-1,DE: Sat.1 emotions SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687504
+#EXTINF:-1,DE: Sat.1 Gold FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687505
+#EXTINF:-1,DE: Sat.1 Gold HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687506
+#EXTINF:-1,DE: SAT.1 Gold HEVC
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687507
+#EXTINF:-1,DE: Sat.1 Gold SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687508
+#EXTINF:-1,DE: Sat.1 FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687509
+#EXTINF:-1,DE: Sat.1 HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687510
+#EXTINF:-1,DE: Sat.1 HEVC
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687511
+#EXTINF:-1,DE: Sat.1 SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687512
+#EXTINF:-1,DE: Seen Luft 24 FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687513
+#EXTINF:-1,DE: ServusTv Deutschland FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687514
+#EXTINF:-1,DE: ServusTv Deutschland HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687515
+#EXTINF:-1,DE: Silverline Movie Channel SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687516
+#EXTINF:-1,DE: Sixx FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687517
+#EXTINF:-1,DE: Sixx HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687518
+#EXTINF:-1,DE: Sixx HEVC
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687519
+#EXTINF:-1,DE: Sixx SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687520
+#EXTINF:-1,DE: Sky 1 FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687521
+#EXTINF:-1,DE: Sky 1 HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687522
+#EXTINF:-1,DE: Sky 1 HEVC
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687523
+#EXTINF:-1,DE: Sky 1 SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687524
+#EXTINF:-1,DE: Sky Atlantic FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687525
+#EXTINF:-1,DE: Sky Atlantic HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687526
+#EXTINF:-1,DE: Sky Atlantic SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687527
+#EXTINF:-1,DE: Sky Bundesliga 10 FHD (Match time only)
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687528
+#EXTINF:-1,DE: Sky Bundesliga 10 HD (Match time only)
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687529
+#EXTINF:-1,DE: Sky Bundesliga 1 FHD (Match time only)
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687530
+#EXTINF:-1,DE: Sky Bundesliga 1 HD (Match time only)
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687531
+#EXTINF:-1,DE: Sky Bundesliga 2 FHD (Match time only)
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687532
+#EXTINF:-1,DE: Sky Bundesliga 2 HD (Match time only)
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687533
+#EXTINF:-1,DE: Sky Bundesliga 3 FHD (Match time only)
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687534
+#EXTINF:-1,DE: Sky Bundesliga 3 HD (Match time only)
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687535
+#EXTINF:-1,DE: Sky Bundesliga 4 FHD (Match time only)
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687536
+#EXTINF:-1,DE: Sky Bundesliga 4 HD (Match time only)
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687537
+#EXTINF:-1,DE: Sky Bundesliga 5 FHD (Match time only)
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687538
+#EXTINF:-1,DE: Sky Bundesliga 5 HD (Match time only)
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687539
+#EXTINF:-1,DE: Sky Bundesliga 6 FHD (Match time only)
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687540
+#EXTINF:-1,DE: Sky Bundesliga 6 HD (Match time only)
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687541
+#EXTINF:-1,DE: Sky Bundesliga 7 FHD (Match time only)
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687542
+#EXTINF:-1,DE: Sky Bundesliga 7 HD (Match time only)
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687543
+#EXTINF:-1,DE: Sky Bundesliga 8 FHD (Match time only)
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687544
+#EXTINF:-1,DE: Sky Bundesliga 8 HD (Match time only)
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687545
+#EXTINF:-1,DE: Sky Bundesliga 9 FHD (Match time only)
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687546
+#EXTINF:-1,DE: Sky Bundesliga 9 HD (Match time only)
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687547
+#EXTINF:-1,DE: Sky Bundesliga FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687548
+#EXTINF:-1,DE: Sky Bundesliga HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687549
+#EXTINF:-1,DE: Sky Cinema +1 HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687550
+#EXTINF:-1,DE: Sky Cinema +24 HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687551
+#EXTINF:-1,DE: Sky One HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687552
+#EXTINF:-1,DE: Sky Cinema Action FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687553
+#EXTINF:-1,DE: Sky Cinema Action HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687554
+#EXTINF:-1,DE: Sky Cinema Action HEVC
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687555
+#EXTINF:-1,DE: Sky Cinema Action SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687556
+#EXTINF:-1,DE: Sky Cinema Best of FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687557
+#EXTINF:-1,DE: Sky Cinema Best of HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687558
+#EXTINF:-1,DE: Sky Cinema Best of HEVC
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687559
+#EXTINF:-1,DE: Sky Cinema Classics HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687560
+#EXTINF:-1,DE: Sky Cinema Classics SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687561
+#EXTINF:-1,DE: Sky Cinema Emotion FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687562
+#EXTINF:-1,DE: Sky Cinema Emotion HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687563
+#EXTINF:-1,DE: Sky Cinema Family FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687564
+#EXTINF:-1,DE: Sky Cinema Family HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687565
+#EXTINF:-1,DE: Sky Cinema Family SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687566
+#EXTINF:-1,DE: Sky Cinema Fun HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687567
+#EXTINF:-1,DE: Sky Cinema Fun HEVC
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687568
+#EXTINF:-1,DE: Sky Cinema Fun SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687570
+#EXTINF:-1,DE: Sky Cinema Nostalgie HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687571
+#EXTINF:-1,DE: Sky Cinema Premieren +24 FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687572
+#EXTINF:-1,DE: Sky Cinema Premieren +24 HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687573
+#EXTINF:-1,DE: Sky Cinema Premieren +24 HEVC
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687574
+#EXTINF:-1,DE: Sky Cinema Premieren FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687575
+#EXTINF:-1,DE: Sky Cinema Premieren HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687576
+#EXTINF:-1,DE: Sky Cinema Premieren SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687577
+#EXTINF:-1,DE: Sky Cinema Special FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687578
+#EXTINF:-1,DE: Sky Cinema Special HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687579
+#EXTINF:-1,DE: Sky Cinema Special HEVC
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687580
+#EXTINF:-1,DE: Sky Cinema Thriller FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687581
+#EXTINF:-1,DE: Sky Cinema Thriller HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687582
+#EXTINF:-1,DE: Sky Cinema Thriller HEVC
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687583
+#EXTINF:-1,DE: Sky Comedy FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687584
+#EXTINF:-1,DE: Sky Crime FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687585
+#EXTINF:-1,DE: Sky Documentaries FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687586
+#EXTINF:-1,DE: Sky Krimi FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687587
+#EXTINF:-1,DE: Sky Krimi HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687588
+#EXTINF:-1,DE: Sky Krimi SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687589
+#EXTINF:-1,DE: Sky Nature FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687590
+#EXTINF:-1,DE: Sky Popcorn Select 2
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687592
+#EXTINF:-1,DE: Sky Popcorn Select 3
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687593
+#EXTINF:-1,DE: Sky Popcorn Select 4
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687594
+#EXTINF:-1,DE: Sky Popcorn Select 5
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687595
+#EXTINF:-1,DE: Sky Select 1 4K
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687596
+#EXTINF:-1,DE: Sky Select 1 FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687597
+#EXTINF:-1,DE: Sky Select 1 HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687598
+#EXTINF:-1,DE: Sky Select 2 4K
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687599
+#EXTINF:-1,DE: Sky Select 2 FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687600
+#EXTINF:-1,DE: Sky Select 2 HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687601
+#EXTINF:-1,DE: Sky Select 3 4K
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687602
+#EXTINF:-1,DE: Sky Select 3 FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687603
+#EXTINF:-1,DE: Sky Select 4 4K
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687604
+#EXTINF:-1,DE: Sky Select 4 FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687605
+#EXTINF:-1,DE: Sky Select 5 4K
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687606
+#EXTINF:-1,DE: Sky Select 5 FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687607
+#EXTINF:-1,DE: Sky Select 5 HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687608
+#EXTINF:-1,DE: Sky Select 6 4K
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687609
+#EXTINF:-1,DE: Sky Select 6 FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687610
+#EXTINF:-1,DE: Sky Select 7 4K
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687611
+#EXTINF:-1,DE: Sky Select 7 FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687612
+#EXTINF:-1,DE: Sky Select 8 4K
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687613
+#EXTINF:-1,DE: Sky Select 8 FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687614
+#EXTINF:-1,DE: Sky Select 9 FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687615
+#EXTINF:-1,DE: Sky Select Programmübersicht
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687616
+#EXTINF:-1,DE: Sky Serien & Shows FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687617
+#EXTINF:-1,DE: Sky Serien & Shows HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687618
+#EXTINF:-1,DE: Sky Sport 10 FHD (Event Only)
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687619
+#EXTINF:-1,DE: Sky Sport 10 HD (Event Only)
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687620
+#EXTINF:-1,DE: Sky Sport 1 FHD (Event Only)
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687621
+#EXTINF:-1,DE: Sky Sport 1 HD (Event Only)
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687622
+#EXTINF:-1,DE: Sky Sport 2 FHD (Event Only)
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687623
+#EXTINF:-1,DE: Sky Sport 2 HD (Event Only)
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687624
+#EXTINF:-1,DE: Sky Sport 3 FHD (Event Only)
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687625
+#EXTINF:-1,DE: Sky Sport 3 HD (Event Only)
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687626
+#EXTINF:-1,DE: Sky Sport 4 FHD (Event Only)
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687627
+#EXTINF:-1,DE: Sky Sport 4 HD (Event Only)
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687628
+#EXTINF:-1,DE: Sky Sport 5 FHD (Event Only)
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687629
+#EXTINF:-1,DE: Sky Sport 5 HD (Event  Only)
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687630
+#EXTINF:-1,DE: Sky Sport 6 FHD (Event Only)
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687631
+#EXTINF:-1,DE: Sky Sport 6 HD (Event Only)
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687632
+#EXTINF:-1,DE: Sky Sport 7 FHD (Event Only)
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687633
+#EXTINF:-1,DE: Sky Sport 7 HD (Match Only)
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687634
+#EXTINF:-1,DE: Sky Sport 8 FHD (Event Only)
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687635
+#EXTINF:-1,DE: Sky Sport 8 HD (Event Only)
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687636
+#EXTINF:-1,DE: Sky Sport 9 FHD (Event Only)
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687637
+#EXTINF:-1,DE: Sky Sport 9 HD (Event Only)
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687638
+#EXTINF:-1,DE: Sky Sport F1 FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687639
+#EXTINF:-1,DE: Sky Sport F1 HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687640
+#EXTINF:-1,DE: Sky Sport Golf FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687641
+#EXTINF:-1,DE: Sky Sport Golf HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687642
+#EXTINF:-1,DE: Sky Sport Mix FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687643
+#EXTINF:-1,DE: Sky Sport Mix HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687644
+#EXTINF:-1,DE: Sky Sport News FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687645
+#EXTINF:-1,DE: Sky Sport News HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687646
+#EXTINF:-1,DE: Sky Sport Premier League FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687647
+#EXTINF:-1,DE: Sky Sport Premier League HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687648
+#EXTINF:-1,DE: Sky Sport Tennis FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687649
+#EXTINF:-1,DE: Sky Sport Tennis HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687650
+#EXTINF:-1,DE: Sky Sport Top Event FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687652
+#EXTINF:-1,DE: Sky Sport Top Event HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687653
+#EXTINF:-1,DE: sonnenklar.TV FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687655
+#EXTINF:-1,DE: SONY AXN FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687656
+#EXTINF:-1,DE: SONY AXN HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687657
+#EXTINF:-1,DE: SONY AXN SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687658
+#EXTINF:-1,DE: SONY Channel FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687659
+#EXTINF:-1,DE: Spiegel Geschichte FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687660
+#EXTINF:-1,DE: Spiegel Geschichte HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687661
+#EXTINF:-1,DE: Spiegel Geschichte HEVC
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687662
+#EXTINF:-1,DE: Spiegel TV Wissen FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687663
+#EXTINF:-1,DE: Spiegel TV Wissen HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687664
+#EXTINF:-1,DE: SpongeBob HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687665
+#EXTINF:-1,DE: Sport 1+ FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687666
+#EXTINF:-1,DE: Sport 1+ HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687667
+#EXTINF:-1,DE: Sport1 FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687668
+#EXTINF:-1,DE: Sport1 HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687669
+#EXTINF:-1,DE: Sport1 HEVC
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687670
+#EXTINF:-1,DE: Sport1 SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687671
+#EXTINF:-1,DE: SportDigital Fussball FHD 50FPS
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687672
+#EXTINF:-1,DE: Sportdigital HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687673
+#EXTINF:-1,DE: SR HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687674
+#EXTINF:-1,DE: Super RTL FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687675
+#EXTINF:-1,DE: Super RTL HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687676
+#EXTINF:-1,DE: Super RTL SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687677
+#EXTINF:-1,DE: SWR HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687678
+#EXTINF:-1,DE: SWR SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687679
+#EXTINF:-1,DE: SYFY FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687680
+#EXTINF:-1,DE: SYFY HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687681
+#EXTINF:-1,DE: SYFY HEVC
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687682
+#EXTINF:-1,DE: SYFY SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687683
+#EXTINF:-1,DE: Tagesschau24 HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687684
+#EXTINF:-1,DE: Tagesschau24 SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687685
+#EXTINF:-1,DE: Tele 5 FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687686
+#EXTINF:-1,DE: Tele 5 HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687687
+#EXTINF:-1,DE: TLC FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687688
+#EXTINF:-1,DE: TLC HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687689
+#EXTINF:-1,DE: TLC HEVC
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687690
+#EXTINF:-1,DE: TLC SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687691
+#EXTINF:-1,DE: TOGGO plus HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687692
+#EXTINF:-1,DE: Tom & Jerry SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687693
+#EXTINF:-1,DE: TV Halle HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687694
+#EXTINF:-1,DE: TV Ingolstadt FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687695
+#EXTINF:-1,DE: TV Kiel
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687696
+#EXTINF:-1,DE: TVA FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687697
+#EXTINF:-1,DE: Universal TV FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687699
+#EXTINF:-1,DE: Universal TV HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687700
+#EXTINF:-1,DE: Universal TV SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687701
+#EXTINF:-1,DE: Vevo Pop HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687702
+#EXTINF:-1,DE: VOXup SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687703
+#EXTINF:-1,DE: VOX FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687704
+#EXTINF:-1,DE: VOX HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687705
+#EXTINF:-1,DE: VOX HEVC
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687706
+#EXTINF:-1,DE: VOX SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687707
+#EXTINF:-1,DE: Waidwerk FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687708
+#EXTINF:-1,DE: WarnerTV Comedy FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687709
+#EXTINF:-1,DE: WarnerTV Comedy HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687710
+#EXTINF:-1,DE: WarnerTV Comedy SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687711
+#EXTINF:-1,DE: WarnerTV Film HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687712
+#EXTINF:-1,DE: WarnerTV Film SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687713
+#EXTINF:-1,DE: WarnerTV Film FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687714
+#EXTINF:-1,DE: WarnerTV Serie FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687715
+#EXTINF:-1,DE: WarnerTV Serie HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687716
+#EXTINF:-1,DE: WarnerTV Serie SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687717
+#EXTINF:-1,DE: WDR HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687718
+#EXTINF:-1,DE: Welt der Wunder SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687719
+#EXTINF:-1,DE: Welt FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687720
+#EXTINF:-1,DE: Welt HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687721
+#EXTINF:-1,DE: Welt SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687722
+#EXTINF:-1,DE: World of Freesports
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687723
+#EXTINF:-1,DE: XITE HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687724
+#EXTINF:-1,DE: Yogamour HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687725
+#EXTINF:-1,DE: ZDF Info FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687726
+#EXTINF:-1,DE: ZDF info HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687727
+#EXTINF:-1,DE: ZDF Neo FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687728
+#EXTINF:-1,DE: ZDF Neo HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687729
+#EXTINF:-1,DE: ZDF Neo SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687730
+#EXTINF:-1,DE: ZDF FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687731
+#EXTINF:-1,DE: ZDF HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687732
+#EXTINF:-1,DE: ZDF HEVC
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687733
+#EXTINF:-1,DE: ZDF SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687734
+#EXTINF:-1,DE: DYN Sport 1
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687735
+#EXTINF:-1,DE: DYN Sport 2
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687736
+#EXTINF:-1,DE: DYN Sport 3
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687737
+#EXTINF:-1,DE: DYN Sport 12
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687738
+#EXTINF:-1,DE: DYN Sport 13
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687739
+#EXTINF:-1,DE: DYN Sport 14
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687740
+#EXTINF:-1,DE: MAGENTA SPORT
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687742
+#EXTINF:-1,DE: YU GI HO HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687743
+#EXTINF:-1,DE: Sky Sport 1 SD (Event Only)
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687745
+#EXTINF:-1,DE: Sky Sport 2 SD (Event Only)
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687746
+#EXTINF:-1,DE: Sky Sport 3 SD(Event Only)
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687747
+#EXTINF:-1,DE: Sky Sport 4 SD(Event Only)
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687748
+#EXTINF:-1,DE: Eurosport Extra 1 | Event Only
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687749
+#EXTINF:-1,DE: Eurosport Extra 10 | Event Only
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687750
+#EXTINF:-1,DE: Eurosport Extra 11 | Event Only
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687751
+#EXTINF:-1,DE: Eurosport Extra 12 | Event Only
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687752
+#EXTINF:-1,DE: Eurosport Extra 13 | Event Only
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687753
+#EXTINF:-1,DE: Eurosport Extra 2 | Event Only
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687754
+#EXTINF:-1,DE: Eurosport Extra 3 | Event Only
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687755
+#EXTINF:-1,DE: Eurosport Extra 4 | Event Only
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687756
+#EXTINF:-1,DE: Eurosport Extra 5 | Event Only
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687757
+#EXTINF:-1,DE: Eurosport Extra 6 | Event Only
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687758
+#EXTINF:-1,DE: Eurosport Extra 7 | Event Only
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687759
+#EXTINF:-1,DE: Eurosport Extra 8 | Event Only
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687760
+#EXTINF:-1,DE: Eurosport Extra 15 | Event Only
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687761
+#EXTINF:-1,DE: Eurosport Extra 9 | Event Only
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687762
+#EXTINF:-1,DE: Eurosport Extra 14 | Event Only
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687763
+#EXTINF:-1,DE: Eurosport Extra 16 | Event Only
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687764
+#EXTINF:-1,DE: Eurosport Extra 17 | Event Only
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687765
+#EXTINF:-1,DE: Eurosport Extra 18 | Event Only
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687766
+#EXTINF:-1,DE: Eurosport Extra 19 | Event Only
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687767
+#EXTINF:-1,DE: Eurosport Extra 20 | Event Only
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687768
+#EXTINF:-1,DE: Eurosport Extra 21 | Event Only
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687769
+#EXTINF:-1,DE: Eurosport Extra 22 | Event Only
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687770
+#EXTINF:-1,DE: Eurosport Extra 23 | Event Only
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687771
+#EXTINF:-1,DE: Eurosport Extra 24 | Event Only
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687772
+#EXTINF:-1,DE: Eurosport Extra 25 | Event Only
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687773
+#EXTINF:-1,DE: Eurosport Extra 26 | Event Only
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687774
+#EXTINF:-1,DE: Eurosport Extra 27 | Event Only
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687775
+#EXTINF:-1,DE: Eurosport Extra 28 | Event Only
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687776
+#EXTINF:-1,DE: Eurosport Extra 29| Event Only
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687777
+#EXTINF:-1,DE: Eurosport Extra 30 | Event Only
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687778
+#EXTINF:-1,DE: Eurosport Extra 31 | Event Only
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687779
+#EXTINF:-1,DE: Eurosport Extra 32 | Event Only
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687780
+#EXTINF:-1,DE: Sky Sport 5 SD (Event Only)
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687781
+#EXTINF:-1,DE: Sky Sport 6 SD(Event Only)
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687782
+#EXTINF:-1,DE: Sky Sport 7 SD (Event Only)
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687783
+#EXTINF:-1,DE: Sky Sport 8 SD (Event Only)
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687784
+#EXTINF:-1,DE: Sky Sport 9 SD(Event Only)
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687785
+#EXTINF:-1,DE: Sky Sport 10 SD(Event Only)
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687786
+#EXTINF:-1,DE: Sky Sport Golf SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687787
+#EXTINF:-1,DE: Sky Sport Mix SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687788
+#EXTINF:-1,DE: Sky Sport Tennis SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687789
+#EXTINF:-1,DE: Sky Sport Premier League SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687790
+#EXTINF:-1,DE: Sky Sport F1 SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687791
+#EXTINF:-1,DE: Sky Sport Bundesliga FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687792
+#EXTINF:-1,DE: Sky Sport Bundesliga HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687793
+#EXTINF:-1,DE: Sky Sport Bundesliga SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687794
+#EXTINF:-1,DE: Sky Sport Top Event SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687795
+#EXTINF:-1,DE: Sky Cinema Highlights FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687796
+#EXTINF:-1,DE: Sky Cinema Highlights HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687797
+#EXTINF:-1,DE: Sky Cinema Highlights SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687798
+#EXTINF:-1,DE: Sky Cinema Classics FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687799
+#EXTINF:-1,DE: Sky Sport News SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687800
+#EXTINF:-1,DE: Sky Nature HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687801
+#EXTINF:-1,DE: Sky Nature SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687802
+#EXTINF:-1,DE: Sky Documentaries SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687804
+#EXTINF:-1,DE: Sky Documentaries HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687805
+#EXTINF:-1,DE: Sky Crime HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687806
+#EXTINF:-1,DE: Sky Crime SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687807
+#EXTINF:-1,DE: Sky Replay SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687808
+#EXTINF:-1,DE: Sky Replay FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687809
+#EXTINF:-1,DE: Sky Replay HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687810
+#EXTINF:-1,DE: Sky One FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687811
+#EXTINF:-1,DE: Sky One SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687812
+#EXTINF:-1,DE: Sky Showcase FHD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687813
+#EXTINF:-1,DE: Sky Showcase HD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687814
+#EXTINF:-1,DE: Sky Showcase SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687815
+#EXTINF:-1,DE: Cartoonito SD
+http://defaultgen.com:3050/johnnygaeta@gmail.com/UFPabPPPUn/687816
