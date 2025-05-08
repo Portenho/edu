@@ -275,6 +275,8 @@ http://bktv.xyz:8080/Playm0v3/8A5gxQeXZb/1506
 
 ###########################################################################
 
+#EXTINF:-1  tvg-logo="" group-title="Musica PT", Nasci Para Cantar
+https://stmv5.samcast.com.br/nasciparacantartv/nasciparacantartv/chunklist_w151309571.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Musica PT", MTV Portugal
 http://bktv.xyz:8080/Playm0v3/8A5gxQeXZb/1591
 #EXTINF:-1  tvg-logo="" group-title="Musica PT", MCM Pop
