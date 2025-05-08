@@ -261,6 +261,8 @@ http://supersonictv.live:8080/738641/830194/7725
 
 #####################################################################################
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Musica", Nasci Para Cantar
+https://stmv5.samcast.com.br/nasciparacantartv/nasciparacantartv/chunklist_w151309571.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Musica", AFRO MUSIC
 http://supersonictv.live:8080/738641/830194/7588
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Musica", MTV
