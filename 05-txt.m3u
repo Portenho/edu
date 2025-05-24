@@ -1,7 +1,8 @@
 http://viprteaapi.top:8080/get.php?username=VIP011301745767216412&password=9b5f0d2e0c0a&type=m3u
 1 user 27-04-2026
 
-#EXTM3U
+#EXTM3U url-tvg="https://raw.githubusercontent.com/f0nZ/epg-tv-portuguesa/master/guide.xml,https://github.com/iptv-org/epg/blob/master/sites/meo.pt/meo.pt.channels.xml,https://github.com/iptv-org/epg/blob/master/sites/nos.pt/nos.pt.channels.xml,https://raw.githubusercontent.com/LITUATUI/M3UPT/main/epg/epg-vodafone.xml,https://iptv-org.github.io/epg/guides/pt/mi.tv.xml"
+
 #EXTINF:-1,PT: TVI 24
 http://viprteaapi.top:8080/VIP011301745767216412/9b5f0d2e0c0a/101
 #EXTINF:-1,PT: TVI FICCAO
