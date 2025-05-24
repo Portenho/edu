@@ -1,306 +1,364 @@
-http://supersonictv.live:8080/get.php?username=738641&password=830194&type=m3u
-5 users - expira em 26-04-2026
+http://viprteaapi.top:8080/get.php?username=VIP0161174264994153&password=51742649941115&type=m3u
+1 user 22-03-2027
 
-#EXTM3U url-tvg="https://raw.githubusercontent.com/f0nZ/epg-tv-portuguesa/master/guide.xml,https://github.com/iptv-org/epg/blob/master/sites/meo.pt/meo.pt.channels.xml,https://github.com/iptv-org/epg/blob/master/sites/nos.pt/nos.pt.channels.xml,https://raw.githubusercontent.com/LITUATUI/M3UPT/main/epg/epg-vodafone.xml,https://iptv-org.github.io/epg/guides/pt/mi.tv.xml"
+#EXTM3U
+#EXTINF:-1,PT: TVI 24
+http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/101
+#EXTINF:-1,PT: TVI FICCAO
+http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/102
+#EXTINF:-1,PT: TVI REALITY CAMARA 1
+http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/108
+#EXTINF:-1,PT: TVI REALITY CAMARA 2
+http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/109
+#EXTINF:-1,PT: TVI REALITY CAMARA 3
+http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/110
+#EXTINF:-1,PT: TRAVEL CHANNEL
+http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99
+#EXTINF:-1,PT: VH1
+http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/104
+#EXTINF:-1,PT: ZAP VIVA
+http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/105
+#EXTINF:-1,PT: ELEVEN 1
+http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99475
+#EXTINF:-1,PT: ELEVEN 2
+http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99476
+#EXTINF:-1,PT: ELEVEN 3
+http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99477
+#EXTINF:-1,PT: ELEVEN 4
+http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99478
+#EXTINF:-1,PT: ELEVEN 5
+http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99479
+#EXTINF:-1,PT: ELEVEN 6
+http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99480
+#EXTINF:-1,PT: EUROSPORT 1
+http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99481
+#EXTINF:-1,PT: EUROSPORT 2
+http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99482
+#EXTINF:-1,PT: SPORT TV +
+http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99483
+#EXTINF:-1,PT: SPORT TV 1
+http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99484
+#EXTINF:-1,PT: SPORT TV 2
+http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99485
+#EXTINF:-1,PT: SPORT TV 3
+http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99486
+#EXTINF:-1,PT: SPORT TV 4
+http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99487
+#EXTINF:-1,PT: SPORT TV 5
+http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99488
+#EXTINF:-1,PT: SPORT TV 6
+http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99489
+#EXTINF:-1,PT: SPORTING TV
+http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99490
+#EXTINF:-1,PT: A BOLA TV
+http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99491
+#EXTINF:-1,PT: BTV
+http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99492
+#EXTINF:-1,PT: FUEL TV
+http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99493
+#EXTINF:-1,PT: NBA TV
+http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99494
+#EXTINF:-1,PT: ARTV
+http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99495
+#EXTINF:-1,PT: CMTV
+http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99496
+#EXTINF:-1,PT: TV RECORD
+http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99497
+#EXTINF:-1,PT: RTP AĿORES
+http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99498
+#EXTINF:-1,PT: RTP MADEIRA
+http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99499
+#EXTINF:-1,PT: RTP1
+http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99500
+#EXTINF:-1,PT: RTP2
+http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99501
+#EXTINF:-1,PT: RTP3
+http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99502
+#EXTINF:-1,PT: TVI
+http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99503
+#EXTINF:-1,PT: TVI REALITY
+http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99505
+#EXTINF:-1,PT: BBC ENTERTAINMENT
+http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99506
+#EXTINF:-1,PT: CNBC EUROPE
+http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99507
+#EXTINF:-1,PT: GLOBO
+http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99508
+#EXTINF:-1,PT: SKY NEWS
+http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99509
+#EXTINF:-1,PT: AXN
+http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99510
+#EXTINF:-1,PT: AXN MOVIES
+http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99511
+#EXTINF:-1,PT: AXN WHITE
+http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99512
+#EXTINF:-1,PT: TV CINE ACTION
+http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99513
+#EXTINF:-1,PT: TV CINE EDITION
+http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99514
+#EXTINF:-1,PT: TV CINE EMOTION
+http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99515
+#EXTINF:-1,PT: TV CINE TOP
+http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99516
+#EXTINF:-1,PT: FOX
+http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99517
+#EXTINF:-1,PT: FOX CRIME
+http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99518
+#EXTINF:-1,PT: FOX LIFE
+http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99519
+#EXTINF:-1,PT: FOX MOVIES
+http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99520
+#EXTINF:-1,PT: FOX COMEDY
+http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99521
+#EXTINF:-1,PT: HOLLYWOOD
+http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99522
+#EXTINF:-1,PT: 24 KITCHEN
+http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99523
+#EXTINF:-1,PT: CANAL Q
+http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99524
+#EXTINF:-1,PT: E! ENTERTAINMENT
+http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99525
+#EXTINF:-1,PT: KURIAKOS TV
+http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99526
+#EXTINF:-1,PT: SIC CARAS
+http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99527
+#EXTINF:-1,PT: SIC K
+http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99528
+#EXTINF:-1,PT: SIC MULHER
+http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99529
+#EXTINF:-1,PT: SIC NOTŦCIAS
+http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99530
+#EXTINF:-1,PT: SIC RADICAL
+http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99531
+#EXTINF:-1,PT: SYFY
+http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99532
+#EXTINF:-1,PT: TLC
+http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99533
+#EXTINF:-1,PT: AMC
+http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99534
+#EXTINF:-1,PT: AMC BREAK
+http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99535
+#EXTINF:-1,PT: AMC CRIME
+http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99536
+#EXTINF:-1,PT: ID INVESTIGATION DISCOVERY
+http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99537
+#EXTINF:-1,PT: DISCOVERY CHANNEL
+http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99538
+#EXTINF:-1,PT: HISTÐRIA
+http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99539
+#EXTINF:-1,PT: NAT GEO WILD
+http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99540
+#EXTINF:-1,PT: NAT GEO
+http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99541
+#EXTINF:-1,PT: ODISSEIA
+http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99542
+#EXTINF:-1,PT: CANAL 11
+http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99543
+#EXTINF:-1,PT: CARTOON NETWORK
+http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99544
+#EXTINF:-1,PT: CARTOONITO
+http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99545
+#EXTINF:-1,PT: BABY TV
+http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99546
+#EXTINF:-1,PT: BIGGS
+http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99547
+#EXTINF:-1,PT: DISNEY CHANNEL
+http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99548
+#EXTINF:-1,PT: DISNEY JŒNIOR
+http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99549
+#EXTINF:-1,PT: NICKELODEON
+http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99550
+#EXTINF:-1,PT: PANDA KIDS
+http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99551
+#EXTINF:-1,PT: LOLLY KIDS
+http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99552
+#EXTINF:-1,PT: CANAL PANDA
+http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99553
+#EXTINF:-1,PT: MCM POP
+http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99554
+#EXTINF:-1,PT: MCM TOP
+http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99555
+#EXTINF:-1,PT: MTV 00S
+http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99556
+#EXTINF:-1,PT: MTV PORTUGAL
+http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99557
+#EXTINF:-1,PT: TRACE TOCA
+http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99558
+#EXTINF:-1,PT: TRACE URBAN
+http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99559
+#EXTINF:-1,PT: AFRO MUSIC
+http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99560
+#EXTINF:-1,PT: CINE MUNDO
+http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99561
+#EXTINF:-1,PT: FRANCE 24
+http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99562
+#EXTINF:-1,PT: CNN
+http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99563
+#EXTINF:-1,PT: CNN PORTUGAL
+http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99564
+#EXTINF:-1,PT: TVE 24H
+http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99565
+#EXTINF:-1,PT: TVEI
+http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99566
+#EXTINF:-1,PT: NHK WORLD JAPAN
+http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99567
+#EXTINF:-1,PT: BLOOMBERG
+http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99569
+#EXTINF:-1,PT: TV GALICIA
+http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99570
+#EXTINF:-1,PT: CANĿªO NOVA
+http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99571
+#EXTINF:-1,PT: CASA E COZINHA
+http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99572
+#EXTINF:-1,PT: SIC
+http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99573
+#EXTINF:-1,PT: MEZZO
+http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99574
+#EXTINF:-1,PT: CAĿAVISION
+http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99575
+#EXTINF:-1,PT: TV5 MONDE
+http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99576
+#EXTINF:-1,PT: S+
+http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99577
+#EXTINF:-1,PT: SPORT TV 7
+http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/129327
+#EXTINF:-1,PT: GLOBO NOW
+http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/129328
+#EXTINF:-1,PT: FASHION TV
+http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/129329
+#EXTINF:-1,PT: NICK JR.
+http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/129330
+#EXTINF:-1,PT: MUNDOTORO TV
+http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/129331
+#EXTINF:-1,PT: TCV INTERNACIONAL
+http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/129332
+#EXTINF:-1,PT: STAR CHANNEL
+http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/129335
+#EXTINF:-1,PT: EURONEWS
+http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/129342
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Generalistas", RTP 1
-http://supersonictv.live:8080/738641/830194/7683
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Generalistas", RTP 1 HD
-http://supersonictv.live:8080/738641/830194/7684
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Generalistas", RTP 2
-http://supersonictv.live:8080/738641/830194/7685
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Generalistas", RTP 2 HD
-http://supersonictv.live:8080/738641/830194/7686
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Generalistas", SIC
-http://supersonictv.live:8080/738641/830194/7694
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Generalistas", SIC HD
-http://supersonictv.live:8080/738641/830194/7696
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Generalistas", TVI
-http://supersonictv.live:8080/738641/830194/7737
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Generalistas", TVI HD
-http://supersonictv.live:8080/738641/830194/7745
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Generalistas", RTP 3 HD
-http://supersonictv.live:8080/738641/830194/768
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Generalistas", SIC NOTICIAS
-http://supersonictv.live:8080/738641/830194/7699
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Generalistas", SIC NOTICIAS HD
-http://supersonictv.live:8080/738641/830194/7700
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Generalistas", TVI 24
-http://supersonictv.live:8080/738641/830194/7738
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Generalistas", CMTV
-http://supersonictv.live:8080/738641/830194/7617
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Generalistas", CMTV HD
-http://supersonictv.live:8080/738641/830194/7618
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Generalistas", PORTO CANAL HD
-http://supersonictv.live:8080/738641/830194/7681
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Generalistas", RECORD NEWS
-http://supersonictv.live:8080/738641/830194/7682
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Generalistas", RTP AFRICA
-http://supersonictv.live:8080/738641/830194/7688
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Generalistas", RTP AÇORES
-http://supersonictv.live:8080/738641/830194/7689
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Generalistas", RTP MADEIRA
-http://supersonictv.live:8080/738641/830194/7690
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Generalistas", TV RECORD HD
-http://supersonictv.live:8080/738641/830194/7726
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Generalistas", TPA
-http://supersonictv.live:8080/738641/830194/7721
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Generalistas", KURIAKOS TV
-http://supersonictv.live:8080/738641/830194/7665
 
-##########################################################################################
-
-#EXTINF:-1  tvg-logo="" group-title="Desporto PT", SPORT TV+
-http://supersonictv.live:8080/738641/830194/7702
-#EXTINF:-1  tvg-logo="" group-title="Desporto PT", SPORT TV+ HD
-http://supersonictv.live:8080/738641/830194/7703
-#EXTINF:-1  tvg-logo="" group-title="Desporto PT", SPORT TV 1
-http://supersonictv.live:8080/738641/830194/7704
-#EXTINF:-1  tvg-logo="" group-title="Desporto PT", SPORT TV 1 HD
-http://supersonictv.live:8080/738641/830194/7705
-#EXTINF:-1  tvg-logo="" group-title="Desporto PT", SPORT TV 1
-http://supersonictv.live:8080/738641/830194/7712
-#EXTINF:-1  tvg-logo="" group-title="Desporto PT", SPORT TV 2
-http://supersonictv.live:8080/738641/830194/7706
-#EXTINF:-1  tvg-logo="" group-title="Desporto PT", SPORT TV 2 HD
-http://supersonictv.live:8080/738641/830194/7707
-#EXTINF:-1  tvg-logo="" group-title="Desporto PT", SPORT TV 3
-http://supersonictv.live:8080/738641/830194/7708
-#EXTINF:-1  tvg-logo="" group-title="Desporto PT", SPORT TV 3 HD
-http://supersonictv.live:8080/738641/830194/7709
-#EXTINF:-1  tvg-logo="" group-title="Desporto PT", SPORT TV 4
-http://supersonictv.live:8080/738641/830194/7710
-#EXTINF:-1  tvg-logo="" group-title="Desporto PT", SPORT TV 4 HD
-http://supersonictv.live:8080/738641/830194/7711
-#EXTINF:-1  tvg-logo="" group-title="Desporto PT", SPORT TV 5
-http://supersonictv.live:8080/738641/830194/7713
-#EXTINF:-1  tvg-logo="" group-title="Desporto PT", SPORT TV 5 HD
-http://supersonictv.live:8080/738641/830194/7714
-#EXTINF:-1  tvg-logo="" group-title="Desporto PT", NBA TV HD
-http://supersonictv.live:8080/738641/830194/7675
-#EXTINF:-1  tvg-logo="" group-title="Desporto PT", BENFICA TV
-http://supersonictv.live:8080/738641/830194/7599
-#EXTINF:-1  tvg-logo="" group-title="Desporto PT", BENFICA TV HD
-http://supersonictv.live:8080/738641/830194/7600
-#EXTINF:-1  tvg-logo="" group-title="Desporto PT", ELEVEN SPORTS 1
-http://supersonictv.live:8080/738641/830194/7626
-#EXTINF:-1  tvg-logo="" group-title="Desporto PT", ELEVEN SPORTS 1 HD
-http://supersonictv.live:8080/738641/830194/7627
-#EXTINF:-1  tvg-logo="" group-title="Desporto PT", ELEVEN SPORTS 2
-http://supersonictv.live:8080/738641/830194/7628
-#EXTINF:-1  tvg-logo="" group-title="Desporto PT", ELEVEN SPORTS 2 HD
-http://supersonictv.live:8080/738641/830194/7629
-#EXTINF:-1  tvg-logo="" group-title="Desporto PT", ELEVEN SPORTS 3
-http://supersonictv.live:8080/738641/830194/7630
-#EXTINF:-1  tvg-logo="" group-title="Desporto PT", ELEVEN SPORTS 3 HD
-http://supersonictv.live:8080/738641/830194/7631
-#EXTINF:-1  tvg-logo="" group-title="Desporto PT", ELEVEN SPORTS 4
-http://supersonictv.live:8080/738641/830194/7632
-#EXTINF:-1  tvg-logo="" group-title="Desporto PT", ELEVEN SPORTS 4 HD
-http://supersonictv.live:8080/738641/830194/7633
-#EXTINF:-1  tvg-logo="" group-title="Desporto PT", ELEVEN SPORTS 5
-http://supersonictv.live:8080/738641/830194/7634
-#EXTINF:-1  tvg-logo="" group-title="Desporto PT", ELEVEN SPORTS 5 HD
-http://supersonictv.live:8080/738641/830194/7635
-#EXTINF:-1  tvg-logo="" group-title="Desporto PT", ELEVEN SPORTS 6
-http://supersonictv.live:8080/738641/830194/7636
-#EXTINF:-1  tvg-logo="" group-title="Desporto PT", ELEVEN SPORTS 6 HD
-http://supersonictv.live:8080/738641/830194/7637
-#EXTINF:-1  tvg-logo="" group-title="Desporto PT", CANAL 11
-http://supersonictv.live:8080/738641/830194/7603
-#EXTINF:-1  tvg-logo="" group-title="Desporto PT", CANAL 11 HD
-http://supersonictv.live:8080/738641/830194/7604
-#EXTINF:-1  tvg-logo="" group-title="Desporto PT", A BOLA TV
-http://supersonictv.live:8080/738641/830194/7587
-#EXTINF:-1  tvg-logo="" group-title="Desporto PT", SPORTING TV HD
-http://supersonictv.live:8080/738641/830194/7715
-#EXTINF:-1  tvg-logo="" group-title="Desporto PT", COMBATE HD
-http://supersonictv.live:8080/738641/830194/7619
-#EXTINF:-1  tvg-logo="" group-title="Desporto PT", EUROSPORT 1 HD
-http://supersonictv.live:8080/738641/830194/7642
-#EXTINF:-1  tvg-logo="" group-title="Desporto PT", EUROSPORT 2
-http://supersonictv.live:8080/738641/830194/7643
-#EXTINF:-1  tvg-logo="" group-title="Desporto PT", KOMBAT SPORT
-http://supersonictv.live:8080/738641/830194/7661
-
-#######################################################################################
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes", TVCINE TOP
-http://supersonictv.live:8080/738641/830194/7729
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes", TVCINE TOP HD
-http://supersonictv.live:8080/738641/830194/7730
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes", TVCINE EDITION
-http://supersonictv.live:8080/738641/830194/7731
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes", TVCINE EDITION HD
-http://supersonictv.live:8080/738641/830194/7732
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes", TVCINE EMOTION
-http://supersonictv.live:8080/738641/830194/7733
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes", TVCINE EMOTION HD
-http://supersonictv.live:8080/738641/830194/7734
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes", TVCINE ACTION
-http://supersonictv.live:8080/738641/830194/7735
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes", TVCINE ACTION HD
-http://supersonictv.live:8080/738641/830194/7736
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes", NOS STUDIOS HD
-http://supersonictv.live:8080/738641/830194/7677
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes", CANAL HOLLYWOOD
-http://supersonictv.live:8080/738641/830194/7659
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes", CANAL HOLLYWOOD HD
-http://supersonictv.live:8080/738641/830194/7607
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes", CINEMUNDO
-http://supersonictv.live:8080/738641/830194/7615
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes", CINEMUNDO HD
-http://supersonictv.live:8080/738641/830194/7616
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes", AXN
-http://supersonictv.live:8080/738641/830194/7592
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes", AXN BLACK
-http://supersonictv.live:8080/738641/830194/7593
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes", AXN HD
-http://supersonictv.live:8080/738641/830194/7595
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes", AXN WHITE
-http://supersonictv.live:8080/738641/830194/7596
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes", AXN WHITE HD
-http://supersonictv.live:8080/738641/830194/7597
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes", FOX
-http://supersonictv.live:8080/738641/830194/7646
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes", FOX HD
-http://supersonictv.live:8080/738641/830194/7651
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes", FOX MOVIES
-http://supersonictv.live:8080/738641/830194/7653
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes", FOX MOVIES HD
-http://supersonictv.live:8080/738641/830194/7654
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes", FOX COMEDY
-http://supersonictv.live:8080/738641/830194/7647
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes", FOX COMEDY HD
-http://supersonictv.live:8080/738641/830194/7648
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes", FOX CRIME
-http://supersonictv.live:8080/738641/830194/7649
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes", FOX CRIME HD
-http://supersonictv.live:8080/738641/830194/7650
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes", AMC
-http://supersonictv.live:8080/738641/830194/7589
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes", AMC HD
-http://supersonictv.live:8080/738641/830194/7590
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes", CANAL BIGGS
-http://supersonictv.live:8080/738641/830194/7606
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes", SYFY
-http://supersonictv.live:8080/738641/830194/7716
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes", SYFY HD
-http://supersonictv.live:8080/738641/830194/7717
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes", KURIAKOS CINE HD
-http://supersonictv.live:8080/738641/830194/7662
-
-###########################################################################################
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimento", TVI REALITY
-http://supersonictv.live:8080/738641/830194/7746
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimento", TVI FICÇAO
-http://supersonictv.live:8080/738641/830194/7744
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimento", SIC CARAS
-http://supersonictv.live:8080/738641/830194/7695
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimento", SIC MULHER
-http://supersonictv.live:8080/738641/830194/7698
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimento", SIC RADICAL
-http://supersonictv.live:8080/738641/830194/7701
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimento", 24 KITCHEN
-http://supersonictv.live:8080/738641/830194/7586
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimento", FOOD NETWORK
-http://supersonictv.live:8080/738641/830194/7645
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimento", MY CUISINE
-http://supersonictv.live:8080/738641/830194/7672
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimento", DISCOVERY CHANNEL
-http://supersonictv.live:8080/738641/830194/7621
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimento", DISCOVERY CHANNEL
-http://supersonictv.live:8080/738641/830194/7622
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimento", ODISSEIA
-http://supersonictv.live:8080/738641/830194/7678
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimento", HISTORIA
-http://supersonictv.live:8080/738641/830194/7658
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimento", CAÇA E PESCA
-http://supersonictv.live:8080/738641/830194/7612
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimento", CAÇAVISION
-http://supersonictv.live:8080/738641/830194/7613
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimento", FASHION TV
-http://supersonictv.live:8080/738641/830194/7644
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimento", MOTORVISION
-http://supersonictv.live:8080/738641/830194/7669
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimento", FUEL TV
-http://supersonictv.live:8080/738641/830194/7655
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimento", AR TV
-http://supersonictv.live:8080/738641/830194/7591
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimento", BLAZE
-http://supersonictv.live:8080/738641/830194/7601
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimento", BOOMERANG
-http://supersonictv.live:8080/738641/830194/7602
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimento", CANAL Q
-http://supersonictv.live:8080/738641/830194/7609
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimento", CANÇÃO NOVA
-http://supersonictv.live:8080/738641/830194/7610
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimento", CRIME INVESTIGATION
-http://supersonictv.live:8080/738641/830194/7620
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimento", E! ENTERTAINMENT
-http://supersonictv.live:8080/738641/830194/7625
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimento", NAT GEO WILD
-http://supersonictv.live:8080/738641/830194/7673
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimento", NATIONAL GEOGRAPHIC
-http://supersonictv.live:8080/738641/830194/7674
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimento", RTP MEMORIA
-http://supersonictv.live:8080/738641/830194/7691
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimento", S SAUDE
-http://supersonictv.live:8080/738641/830194/7692
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimento", SANTUARIO DE FATIMA
-http://supersonictv.live:8080/738641/830194/7693
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimento", TLC
-http://supersonictv.live:8080/738641/830194/7719
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimento", TOROS TV
-http://supersonictv.live:8080/738641/830194/7720
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimento", TRAVEL CHANNEL
-http://supersonictv.live:8080/738641/830194/7723
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimento", TV GLOBO
-http://supersonictv.live:8080/738641/830194/7725
-
-#####################################################################################
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Musica", Nasci Para Cantar
-https://stmv5.samcast.com.br/nasciparacantartv/nasciparacantartv/chunklist_w151309571.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Musica", AFRO MUSIC
-http://supersonictv.live:8080/738641/830194/7588
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Musica", MTV
-http://supersonictv.live:8080/738641/830194/7670
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Musica", MTV 00's
-http://supersonictv.live:8080/738641/830194/7614
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Musica", MCM POP
-http://supersonictv.live:8080/738641/830194/7667
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Musica", MCM TOP
-http://supersonictv.live:8080/738641/830194/7668
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Musica", TRACE TOCA
-http://supersonictv.live:8080/738641/830194/7722
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Musica", VH1
-http://supersonictv.live:8080/738641/830194/7747
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Musica", ZAP VIVA
-http://supersonictv.live:8080/738641/830194/7748
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Musica", KURIAKOS MUSIC
-http://supersonictv.live:8080/738641/830194/7664
-
-##################################################################################
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Kids", CANAL PANDA
-http://supersonictv.live:8080/738641/830194/7608
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Kids", DISNEY CHANNEL
-http://supersonictv.live:8080/738641/830194/7623
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Kids", DISNEY JUNIOR
-http://supersonictv.live:8080/738641/830194/7624
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Kids", CARTOON NETWORK
-http://supersonictv.live:8080/738641/830194/7611
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Kids", JIM JAM
-http://supersonictv.live:8080/738641/830194/7660
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Kids", KURIAKOS KIDS
-http://supersonictv.live:8080/738641/830194/7663
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Kids", NICKELODEON
-http://supersonictv.live:8080/738641/830194/7676
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Kids", SIC KIDS
-http://supersonictv.live:8080/738641/830194/7697
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Kids", BABY TV
-http://supersonictv.live:8080/738641/830194/7598
-
-#######################################################################################
+#EXTINF:-1,ENG 24/7: Adele in Concert**
+http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/37092
+#EXTINF:-1,ENG 24/7: Aerosmith in Concert**
+http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/37093
+#EXTINF:-1,ENG 24/7: Al Stewart in Concert**
+http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/37094
+#EXTINF:-1,ENG 24/7: Alice Cooper in Concert**
+http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/37095
+#EXTINF:-1,ENG 24/7: Beyonce in Concert**
+http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/37096
+#EXTINF:-1,ENG 24/7: Billy Joel in Concert**
+http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/37097
+#EXTINF:-1,ENG 24/7: Bill Withers in Concert**
+http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/37098
+#EXTINF:-1,ENG 24/7: Britney Spears in Concert**
+http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/37099
+#EXTINF:-1,ENG 24/7: Bruce Springsteen in Concert**
+http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/37100
+#EXTINF:-1,ENG 24/7: Bruno Mars in Concert**
+http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/37101
+#EXTINF:-1,ENG 24/7: Cher in Concert**
+http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/37102
+#EXTINF:-1,ENG 24/7: Chris Farlowe in Concert**
+http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/37103
+#EXTINF:-1,ENG 24/7: Coldplay in Concert**
+http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/37104
+#EXTINF:-1,ENG 24/7: Cream in Concert**
+http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/37105
+#EXTINF:-1,ENG 24/7: David Bowie in Concert**
+http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/37106
+#EXTINF:-1,ENG 24/7: Deep Purple in Concert**
+http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/37107
+#EXTINF:-1,ENG 24/7: Depeche Mode in Concert**
+http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/37108
+#EXTINF:-1,ENG 24/7: Dire Straits in Concert**
+http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/37109
+#EXTINF:-1,ENG 24/7: Dua Lipa in Concert**
+http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/37110
+#EXTINF:-1,ENG 24/7: Earth Wind and Fire in Concert**
+http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/37111
+#EXTINF:-1,ENG 24/7: Ed Sheeran in Concert**
+http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/37112
+#EXTINF:-1,ENG 24/7: Elton John and Guests**
+http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/37113
+#EXTINF:-1,ENG 24/7: Elvis in Concert**
+http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/37114
+#EXTINF:-1,ENG 24/7: Europe in Concert**
+http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/37115
+#EXTINF:-1,ENG 24/7: Erasure in Concert**
+http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/37116
+#EXTINF:-1,ENG 24/7: Eagles in Concert**
+http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/37117
+#EXTINF:-1,ENG 24/7: Electric Light Orchestra in Concert**
+http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/37118
+#EXTINF:-1,ENG 24/7: Eric Clapton in Concert**
+http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/37119
+#EXTINF:-1,ENG 24/7: Foreigner in Concert**
+http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/37120
+#EXTINF:-1,ENG 24/7: Glastonbury 2021**
+http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/37121
+#EXTINF:-1,ENG 24/7: Groove Armada in Concert**
+http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/37122
+#EXTINF:-1,ENG 24/7: Iron Maiden in Concert**
+http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/37123
+#EXTINF:-1,ENG 24/7: Jimi Hendrix in Concert**
+http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/37124
+#EXTINF:-1,ENG 24/7: Journey in Concert**
+http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/37125
+#EXTINF:-1,ENG 24/7: Janis Joplin in Concert**
+http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/37126
+#EXTINF:-1,ENG 24/7: Jean Michel Jarre in Concert**
+http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/37127
+#EXTINF:-1,ENG 24/7: Kylie Minogue in Concert**
+http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/37128
+#EXTINF:-1,ENG 24/7: Lionel Richie in Concert**
+http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/37129
+#EXTINF:-1,ENG 24/7: Madonna in Concert**
+http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/37130
+#EXTINF:-1,ENG 24/7: Manfred Manns Earth Band in Concert**
+http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/37131
+#EXTINF:-1,ENG 24/7: Metallica in Concert**
+http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/37132
+#EXTINF:-1,ENG 24/7: Michael Jackson in Concert**
+http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/37133
+#EXTINF:-1,ENG 24/7: Mariah Carey in Concert**
+http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/37134
+#EXTINF:-1,ENG 24/7: Neil Young in Concert**
+http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/37135
+#EXTINF:-1,ENG 24/7: Oasis in Concert**
+http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/37136
+#EXTINF:-1,ENG 24/7: U2 in Concert**
+http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/37137
+#EXTINF:-1,ENG 24/7: R.E.M in Concert**
+http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/37138
+#EXTINF:-1,ENG 24/7: Red Hot Chili Peppers in Concert**
+http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/37139
+#EXTINF:-1,ENG 24/7: Paul McCartney in Concert**
+http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/37140
+#EXTINF:-1,ENG 24/7: Pink Floyd in Concert**
+http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/37141
+#EXTINF:-1,ENG 24/7: Queen in Concert**
+http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/37142
+#EXTINF:-1,ENG 24/7: Sheryl Crow in Concert**
+http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/37143
+#EXTINF:-1,ENG 24/7: Simon and Garfunkel in Concert**
+http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/37144
+#EXTINF:-1,ENG 24/7: Spandau Ballet in Concert**
+http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/37145
+#EXTINF:-1,ENG 24/7: Scorpions in Concert**
+http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/37146
+#EXTINF:-1,ENG 24/7: Take That in Concert**
+http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/37147
+#EXTINF:-1,ENG 24/7: The Pretenders in Concert**
+http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/37148
+#EXTINF:-1,ENG 24/7: Tom Petty and The Heartbreakers in Concert**
+http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/37149
+#EXTINF:-1,ENG 24/7: The Who in Concert**
+http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/37150
+#EXTINF:-1,ENG 24/7: Taylor Swift in Concert**
+http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/37151
+#EXTINF:-1,ENG 24/7: The Rolling Stones in Concert**
+http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/37152
+#EXTINF:-1,ENG 24/7: Woodstock 1969**
+http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/37153
