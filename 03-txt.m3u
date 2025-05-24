@@ -3,67 +3,67 @@ http://viprteaapi.top:8080/get.php?username=VIP0161174264994153&password=5174264
 
 #EXTM3U url-tvg="https://raw.githubusercontent.com/f0nZ/epg-tv-portuguesa/master/guide.xml,https://github.com/iptv-org/epg/blob/master/sites/meo.pt/meo.pt.channels.xml,https://github.com/iptv-org/epg/blob/master/sites/nos.pt/nos.pt.channels.xml,https://raw.githubusercontent.com/LITUATUI/M3UPT/main/epg/epg-vodafone.xml,https://iptv-org.github.io/epg/guides/pt/mi.tv.xml"
 
-#EXTINF:-1  tvg-logo="" group-title="Generalistas PT", RTP 1
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/nLWGHRvJ/RTP-1.jpg" group-title="Generalistas PT", RTP 1
 http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99500
-#EXTINF:-1  tvg-logo="" group-title="Generalistas PT", RTP 2
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/Kc0TDggk/RTP-2.jpg" group-title="Generalistas PT", RTP 2
 http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99501
-#EXTINF:-1  tvg-logo="" group-title="Generalistas PT", SIC
+#EXTINF:-1  tvg-logo="https://postimg.cc/8JdYxggW" group-title="Generalistas PT", SIC
 http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99573
-#EXTINF:-1  tvg-logo="" group-title="Generalistas PT", TVI
+#EXTINF:-1  tvg-logo="https://postimg.cc/CzRNqprN" group-title="Generalistas PT", TVI
 http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99503
-#EXTINF:-1  tvg-logo="" group-title="Generalistas PT", RTP 3
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/28mZY7RK/RTP-3.jpg" group-title="Generalistas PT", RTP 3
 http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99502
-#EXTINF:-1  tvg-logo="" group-title="Generalistas PT", SIC Noticias 
+#EXTINF:-1  tvg-logo="https://postimg.cc/tn39rM2m" group-title="Generalistas PT", SIC Noticias 
 http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99530
-#EXTINF:-1  tvg-logo="" group-title="Generalistas PT", CNN Portugal
+#EXTINF:-1  tvg-logo="https://postimg.cc/9rSjdVmF" group-title="Generalistas PT", CNN Portugal
 http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/101
-#EXTINF:-1  tvg-logo="" group-title="Generalistas PT", CNN Portugal 
+#EXTINF:-1  tvg-logo="https://postimg.cc/9rSjdVmF" group-title="Generalistas PT", CNN Portugal 
 http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99563
-#EXTINF:-1  tvg-logo="" group-title="Generalistas PT", CNN Portugal 
+#EXTINF:-1  tvg-logo="https://postimg.cc/9rSjdVmF" group-title="Generalistas PT", CNN Portugal 
 http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99564
-#EXTINF:-1  tvg-logo="" group-title="Generalistas PT", CMTV
+#EXTINF:-1  tvg-logo="https://postimg.cc/PNYZsf70" group-title="Generalistas PT", CMTV
 http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99496
-#EXTINF:-1  tvg-logo="" group-title="Generalistas PT", Porto Canal
+#EXTINF:-1  tvg-logo="https://postimg.cc/tnk4qcWn" group-title="Generalistas PT", Porto Canal
 
-#EXTINF:-1  tvg-logo="" group-title="Generalistas PT", RTP Açores
+#EXTINF:-1  tvg-logo="https://postimg.cc/RNbnw3J6" group-title="Generalistas PT", RTP Açores
 http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99498
-#EXTINF:-1  tvg-logo="" group-title="Generalistas PT", RTP Africa
+#EXTINF:-1  tvg-logo="https://postimg.cc/vgz4TDdm" group-title="Generalistas PT", RTP Africa
 
-#EXTINF:-1  tvg-logo="" group-title="Generalistas PT", RTP Madeira
+#EXTINF:-1  tvg-logo="https://postimg.cc/WhKhhQx0" group-title="Generalistas PT", RTP Madeira
 http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99499
-#EXTINF:-1  tvg-logo="" group-title="Generalistas PT", Euronews
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/VLZLmcwV/euronews.png" group-title="Generalistas PT", Euronews
 http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/129342
-#EXTINF:-1  tvg-logo="" group-title="Generalistas PT", TCV Internacional
+#EXTINF:-1  tvg-logo="https://postimg.cc/3WmLSTFx" group-title="Generalistas PT", TCV Internacional
 http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/129332
-#EXTINF:-1  tvg-logo="" group-title="Generalistas PT", TVE 24H
+#EXTINF:-1  tvg-logo="https://postimg.cc/0MmCBYmB" group-title="Generalistas PT", TVE 24H
 http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99565
-#EXTINF:-1  tvg-logo="" group-title="Generalistas PT", TVE Int
+#EXTINF:-1  tvg-logo="https://postimg.cc/wR2LC0B0" group-title="Generalistas PT", TVE Int
 http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99566
-#EXTINF:-1  tvg-logo="" group-title="Generalistas PT", TV Galicia
+#EXTINF:-1  tvg-logo="https://postimg.cc/grgKB26d" group-title="Generalistas PT", TV Galicia
 http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99570
-#EXTINF:-1  tvg-logo="" group-title="Generalistas PT", BBC Entertainment
+#EXTINF:-1  tvg-logo="https://postimg.cc/VS5wn6M6" group-title="Generalistas PT", BBC Entertainment
 http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99506
-#EXTINF:-1  tvg-logo="" group-title="Generalistas PT", CNBC Europe
+#EXTINF:-1  tvg-logo="https://postimg.cc/34MqNJFz" group-title="Generalistas PT", CNBC Europe
 http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99507
-#EXTINF:-1  tvg-logo="" group-title="Generalistas PT", Sky News
+#EXTINF:-1  tvg-logo="https://postimg.cc/F7JDdQ74" group-title="Generalistas PT", Sky News
 http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99509
-#EXTINF:-1  tvg-logo="" group-title="Generalistas PT", Globo
+#EXTINF:-1  tvg-logo="https://postimg.cc/FYrktytB" group-title="Generalistas PT", Globo
 http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99508
-#EXTINF:-1  tvg-logo="" group-title="Generalistas PT", Globo Now
+#EXTINF:-1  tvg-logo="https://postimg.cc/30hJXhYc" group-title="Generalistas PT", Globo Now
 http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/129328
-#EXTINF:-1  tvg-logo="" group-title="Generalistas PT", Tv Record
+#EXTINF:-1  tvg-logo="https://postimg.cc/phRdwj6d" group-title="Generalistas PT", Tv Record
 http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99497
-#EXTINF:-1  tvg-logo="" group-title="Generalistas PT", France 24
+#EXTINF:-1  tvg-logo="https://postimg.cc/WqtsVw6s" group-title="Generalistas PT", France 24
 http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99562
-#EXTINF:-1  tvg-logo="" group-title="Generalistas PT", Bloomberg
+#EXTINF:-1  tvg-logo="https://postimg.cc/TpzT8myX" group-title="Generalistas PT", Bloomberg
 http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99569
-#EXTINF:-1  tvg-logo="" group-title="Generalistas PT", NHK World Japan
+#EXTINF:-1  tvg-logo="https://postimg.cc/sQgrP4L5" group-title="Generalistas PT", NHK World Japan
 http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99567
-#EXTINF:-1  tvg-logo="" group-title="Generalistas PT", TV5 Monde
+#EXTINF:-1  tvg-logo="https://postimg.cc/WdccYvKN" group-title="Generalistas PT", TV5 Monde
 http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99576
-#EXTINF:-1  tvg-logo="" group-title="Generalistas PT", AR Tv
+#EXTINF:-1  tvg-logo="https://postimg.cc/47dDHNK5" group-title="Generalistas PT", AR Tv
 http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99495
-#EXTINF:-1  tvg-logo="" group-title="Generalistas PT", Kuriakos Tv
+#EXTINF:-1  tvg-logo="https://postimg.cc/0KSH769p" group-title="Generalistas PT", Kuriakos Tv
 http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99526
 
 #####################################################################
