@@ -3,16 +3,19 @@ http://bananadoce.online:8080/get.php?username=Playm0v3&password=8A5gxQeXZb&type
 
 #EXTM3U url-tvg="https://raw.githubusercontent.com/f0nZ/epg-tv-portuguesa/master/guide.xml,https://github.com/iptv-org/epg/blob/master/sites/meo.pt/meo.pt.channels.xml,https://github.com/iptv-org/epg/blob/master/sites/nos.pt/nos.pt.channels.xml,https://raw.githubusercontent.com/LITUATUI/M3UPT/main/epg/epg-vodafone.xml,https://iptv-org.github.io/epg/guides/pt/mi.tv.xml"
 
-#EXTINF:-1 tvg-id="sic.pt" tvg-name="SIC" tvg-logo="logo" group-title="TV", SIC
+#EXTM3U
+#EXTINF:-1 tvg-id="sic.pt" tvg-name="SIC" tvg-logo="https://scotteadams.github.io/m3yoyo/tvlogos/sic.png" group-title="Generalistas",SIC
 http://bananadoce.online:8080/Playm0v3/8A5gxQeXZb/1480
-#EXTINF:-1 tvg-id="SicCaras.pt" tvg-name="SIC Caras" tvg-logo="logo" group-title="TV", SIC Caras
+#EXTINF:-1 tvg-id="SicCaras.pt" tvg-name="SIC Caras" tvg-logo="https://scotteadams.github.io/m3yoyo/tvlogos/siccaras.png" group-title="Generalistas",SIC Caras
 http://bananadoce.online:8080/Playm0v3/8A5gxQeXZb/1491
-#EXTINF:-1 tvg-id="sicmulher.pt" tvg-name="SIC Mulher" tvg-logo="logo" group-title="TV", SIC Mulher
+#EXTINF:-1 tvg-id="sicmulher.pt" tvg-name="SIC Mulher" tvg-logo="https://scotteadams.github.io/m3yoyo/tvlogos/sicmulher.png" group-title="Entertenimento",SIC Mulher
 http://bananadoce.online:8080/Playm0v3/8A5gxQeXZb/10227
-#EXTINF:-1 tvg-id="sicradical.pt" tvg-name="SIC Radical" tvg-logo="logo" group-title="TV", SIC Radical
+#EXTINF:-1 tvg-id="sicradical.pt" tvg-name="SIC Radical" tvg-logo="https://scotteadams.github.io/m3yoyo/tvlogos/sicradical.png" group-title="Entertenimento",SIC Radical
 http://bananadoce.online:8080/Playm0v3/8A5gxQeXZb/10225
-#EXTINF:-1 tvg-id="sicnoticias.pt" tvg-name="SIC Notícias" tvg-logo="logo" group-title="TV", SIC Notícias
+#EXTINF:-1 tvg-id="sicnoticias.pt" tvg-name="SIC Notícias" tvg-logo="https://scotteadams.github.io/m3yoyo/tvlogos/sicnoticias.png" group-title="Generalistas",SIC Notícias
 http://bananadoce.online:8080/Playm0v3/8A5gxQeXZb/10226
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/WbnTdy5h/NPC.png" group-title="Musica PT",Nasci Para Cantar
+https://stmv5.samcast.com.br/nasciparacantartv/nasciparacantartv/chunklist_w151309571.m3u8
 
 #EXTINF:-1  tvg-logo="" group-title="Generalistas PT", RTP 1 HD
 http://bananadoce.online:8080/Playm0v3/8A5gxQeXZb/1604
