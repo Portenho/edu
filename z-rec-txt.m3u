@@ -1,3 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="" group-title="Recordações", Luzia e Eduardo
 https://raw.githubusercontent.com/Portenho/Arquivos-Video/main/Eduardo%20e%20Luzia%20.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/x1XNn0fZ/abc-portugal.png" group-title="Radio", ABC Portugal - Ourém
+http://centova.radios.pt:8547/stream/https://i.postimg.cc/x1XNn0fZ/abc-portugal.png/
