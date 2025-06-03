@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/x1XNn0fZ/abc-portugal.png" group-title="Radio", ABC Portugal - Ourém
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/x1XNn0fZ/abc-portugal.png" group-title="Radio", #ABC Portugal - Ourém
 http://centova.radios.pt:8547/stream/https://i.postimg.cc/x1XNn0fZ/abc-portugal.png
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/1z6gVJNc/alternativa-radio.jpg" group-title="Radio", Alternativa Rádio - Barreiro
