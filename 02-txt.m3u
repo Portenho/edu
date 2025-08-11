@@ -1,4 +1,6 @@
-#EXTM3U
+expira: ilimitado
+10 users
+#EXTM3U url-tvg="https://raw.githubusercontent.com/f0nZ/epg-tv-portuguesa/master/guide.xml"EXTM3U
 #EXTINF:-1,PT: RTP 1 FHD
 http://1tv41.icu:8080/4YYrcEg/Z8bmyZb/164792
 #EXTINF:-1,PT Eleven Sports 1 FHD 
