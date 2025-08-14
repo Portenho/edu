@@ -1,53 +1,79 @@
 expira: ilimitado
 10 users
 #EXTM3U url-tvg="https://raw.githubusercontent.com/f0nZ/epg-tv-portuguesa/master/guide.xml"EXTM3U
-#EXTINF:-1,PT: RTP 1 FHD
-http://1tv41.icu:8080/4YYrcEg/Z8bmyZb/164792
-#EXTINF:-1,PT: CNN HD
-http://1tv41.icu:8080/4YYrcEg/Z8bmyZb/164802
-#EXTINF:-1,PT: TV CINE ACTION FHD
-http://1tv41.icu:8080/4YYrcEg/Z8bmyZb/164809
-#EXTINF:-1,PT: NOS STUDIOS FHD
-http://1tv41.icu:8080/4YYrcEg/Z8bmyZb/164811
-#EXTINF:-1,PT: HOLLYWOOD FHD
-http://1tv41.icu:8080/4YYrcEg/Z8bmyZb/164813
-#EXTINF:-1,PT: AXN WHITE FHD
-http://1tv41.icu:8080/4YYrcEg/Z8bmyZb/164815
-#EXTINF:-1,PT: AXN MOVIES  HD
-http://1tv41.icu:8080/4YYrcEg/Z8bmyZb/164818
-#EXTINF:-1,PT: SYFY FHD
-http://1tv41.icu:8080/4YYrcEg/Z8bmyZb/164821
-#EXTINF:-1,PT: TV GLOBO HD
-http://1tv41.icu:8080/4YYrcEg/Z8bmyZb/164824
-#EXTINF:-1,PT: CLUBBING TV
-http://1tv41.icu:8080/4YYrcEg/Z8bmyZb/164850
-#EXTINF:-1,PT: ZAP VIVA FHD
-http://1tv41.icu:8080/4YYrcEg/Z8bmyZb/164853
-#EXTINF:-1,PT: TPA INTERNACIONAL SD
-http://1tv41.icu:8080/4YYrcEg/Z8bmyZb/164855
-#EXTINF:-1,PT: TVC CABO VERDE
-http://1tv41.icu:8080/4YYrcEg/Z8bmyZb/164858
-#EXTINF:-1,PT: EURONEWS
-http://1tv41.icu:8080/4YYrcEg/Z8bmyZb/164859
-#EXTINF:-1,PT: TVI REALITY
-http://1tv41.icu:8080/4YYrcEg/Z8bmyZb/164861
-#EXTINF:-1,PT: SPORT TV 1 FHD
-http://1tv41.icu:8080/4YYrcEg/Z8bmyZb/167742
-#EXTINF:-1,PT: SPORT TV 2 HD
-http://1tv41.icu:8080/4YYrcEg/Z8bmyZb/167743
-#EXTINF:-1,PT: SPORT TV 3 HD
-http://1tv41.icu:8080/4YYrcEg/Z8bmyZb/167744
-#EXTINF:-1,PT: SPORT TV 4 FHD
-http://1tv41.icu:8080/4YYrcEg/Z8bmyZb/167745
-#EXTINF:-1,PT BENFICA TV HD  (P)
-http://1tv41.icu:8080/4YYrcEg/Z8bmyZb/136726
-#EXTINF:-1,PT Eleven Sports 1 FHD 
-http://1tv41.icu:8080/4YYrcEg/Z8bmyZb/35264
-#EXTINF:-1,PT: ELEVEN SPORTS 3 HD
-http://1tv41.icu:8080/4YYrcEg/Z8bmyZb/167748
-#EXTINF:-1,PT: ELEVEN SPORTS 4 HD
-http://1tv41.icu:8080/4YYrcEg/Z8bmyZb/167749
-#EXTINF:-1,PT: ELEVEN SPORTS 5 HD
-http://1tv41.icu:8080/4YYrcEg/Z8bmyZb/167750
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/WbnTdy5h/NPC.png" group-title="", Nasci Para Cantar
+#EXTINF:-1  tvg-logo="" group-title="Brasil", Globo SP HD
+http://xxip25.top:8080/7qFcps/643075/21020
+#EXTINF:-1  tvg-logo="" group-title="Brasil", SBT HD
+http://xxip25.top:8080/7qFcps/643075/20978
+#EXTINF:-1  tvg-logo="" group-title="Brasil", AMC HD
+http://xxip25.top:8080/7qFcps/643075/164938
+#EXTINF:-1  tvg-logo="" group-title="Brasil", GLOBO HD
+http://xxip25.top:8080/7qFcps/643075/164943
+#EXTINF:-1  tvg-logo="" group-title="Brasil", GLOBO MINAS HD
+http://xxip25.top:8080/7qFcps/643075/164944
+#EXTINF:-1  tvg-logo="" group-title="Brasil", GLOBO NEWS HD
+http://xxip25.top:8080/7qFcps/643075/164945
+#EXTINF:-1  tvg-logo="" group-title="Brasil", ESPN
+http://xxip25.top:8080/7qFcps/643075/164948
+#EXTINF:-1  tvg-logo="" group-title="Brasil", HBO HD
+http://xxip25.top:8080/7qFcps/643075/164950
+#EXTINF:-1  tvg-logo="" group-title="Brasil", TNT SERIES HD
+http://xxip25.top:8080/7qFcps/643075/164958
+
+
+#EXTINF:-1  tvg-logo="" group-title="Portugal", RTP 1 FHD
+http://xxip25.top:8080/7qFcps/643075/164792
+#EXTINF:-1  tvg-logo="" group-title="Portugal", TVI
+http://xxip25.top:8080/7qFcps/643075/78526
+#EXTINF:-1  tvg-logo="" group-title="Portugal", CNN HD
+http://xxip25.top:8080/7qFcps/643075/164802
+#EXTINF:-1  tvg-logo="" group-title="Portugal", CMTV
+http://xxip25.top:8080/7qFcps/643075/7844
+#EXTINF:-1  tvg-logo="" group-title="Portugal", SPORT TV 1 FHD
+http://xxip25.top:8080/7qFcps/643075/167742
+#EXTINF:-1  tvg-logo="" group-title="Portugal", SPORT TV 2 HD
+http://xxip25.top:8080/7qFcps/643075/167743
+#EXTINF:-1  tvg-logo="" group-title="Portugal", SPORT TV 3 HD
+http://xxip25.top:8080/7qFcps/643075/167744
+#EXTINF:-1  tvg-logo="" group-title="Portugal", SPORT TV 4 FHD
+http://xxip25.top:8080/7qFcps/643075/167745
+#EXTINF:-1  tvg-logo="" group-title="Portugal", ELEVEN SPORTS 1 HD 
+http://xxip25.top:8080/7qFcps/643075/35264
+#EXTINF:-1  tvg-logo="" group-title="Portugal", test 2
+http://xxip25.top:8080/7qFcps/643075/167746
+#EXTINF:-1  tvg-logo="" group-title="Portugal", test 1
+http://xxip25.top:8080/7qFcps/643075/167747
+#EXTINF:-1  tvg-logo="" group-title="Portugal", ELEVEN SPORTS 3 HD
+http://xxip25.top:8080/7qFcps/643075/167748
+#EXTINF:-1  tvg-logo="" group-title="Portugal", ELEVEN SPORTS 4 HD
+http://xxip25.top:8080/7qFcps/643075/167749
+#EXTINF:-1  tvg-logo="" group-title="Portugal", ELEVEN SPORTS 5 HD
+http://xxip25.top:8080/7qFcps/643075/167750
+#EXTINF:-1  tvg-logo="" group-title="Portugal", TV CINE ACTION HD
+http://xxip25.top:8080/7qFcps/643075/164809
+#EXTINF:-1  tvg-logo="" group-title="Portugal", NOS STUDIOS HD
+http://xxip25.top:8080/7qFcps/643075/164811
+#EXTINF:-1  tvg-logo="" group-title="Portugal", HOLLYWOOD HD
+http://xxip25.top:8080/7qFcps/643075/164813
+#EXTINF:-1  tvg-logo="" group-title="Portugal", AXN WHITE HD
+http://xxip25.top:8080/7qFcps/643075/164815
+#EXTINF:-1  tvg-logo="" group-title="Portugal", AXN MOVIES  HD
+http://xxip25.top:8080/7qFcps/643075/164818
+#EXTINF:-1  tvg-logo="" group-title="Portugal", SYFY HD
+http://xxip25.top:8080/7qFcps/643075/164821
+#EXTINF:-1  tvg-logo="" group-title="Portugal", TV GLOBO HD
+http://xxip25.top:8080/7qFcps/643075/164824
+#EXTINF:-1  tvg-logo="" group-title="Portugal", CLUBBING TV
+http://xxip25.top:8080/7qFcps/643075/164850
+#EXTINF:-1  tvg-logo="" group-title="Portugal", ZAP VIVA HD
+http://xxip25.top:8080/7qFcps/643075/164853
+#EXTINF:-1  tvg-logo="" group-title="Portugal", TPA INTERNACIONAL
+http://xxip25.top:8080/7qFcps/643075/164855
+#EXTINF:-1  tvg-logo="" group-title="Portugal", TVC CABO VERDE
+http://xxip25.top:8080/7qFcps/643075/164858
+#EXTINF:-1  tvg-logo="" group-title="Portugal", EURONEWS
+http://xxip25.top:8080/7qFcps/643075/164859
+#EXTINF:-1  tvg-logo="" group-title="Portugal", TVI REALITY
+http://xxip25.top:8080/7qFcps/643075/164861
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/WbnTdy5h/NPC.png" group-title="Portugal", Nasci Para Cantar
 https://stmv5.samcast.com.br/nasciparacantartv/nasciparacantartv/chunklist_w151309571.m3u8
