@@ -1,87 +1,88 @@
+EXPIRA EM 28-06-2028 - 10 Users
 #EXTM3U url-tvg="https://raw.githubusercontent.com/f0nZ/epg-tv-portuguesa/master/guide.xml"
 #EXTINF:-1  tvg-logo="" group-title="Brasil", Globo SP
-http://fortv.cc:8080/4YYrcEg/Z8bmyZb/21020
+http://nocable.cc:8080/918105/236264/21020
 #EXTINF:-1  tvg-logo="" group-title="Brasil", SBT
-http://fortv.cc:8080/4YYrcEg/Z8bmyZb/20978
+http://nocable.cc:8080/918105/236264/20978
 #EXTINF:-1  tvg-logo="" group-title="Brasil", AMC
-http://fortv.cc:8080/4YYrcEg/Z8bmyZb/164938
+http://nocable.cc:8080/918105/236264/164938
 #EXTINF:-1  tvg-logo="" group-title="Brasil", GLOBO
-http://fortv.cc:8080/4YYrcEg/Z8bmyZb/164943
+http://nocable.cc:8080/918105/236264/164943
 #EXTINF:-1  tvg-logo="" group-title="Brasil", GLOBO MINAS
-http://fortv.cc:8080/4YYrcEg/Z8bmyZb/164944
+http://nocable.cc:8080/918105/236264/164944
 #EXTINF:-1  tvg-logo="" group-title="Brasil", GLOBO NEWS
-http://fortv.cc:8080/4YYrcEg/Z8bmyZb/164945
+http://nocable.cc:8080/918105/236264/164945
 #EXTINF:-1  tvg-logo="" group-title="Brasil", ESPN
-http://fortv.cc:8080/4YYrcEg/Z8bmyZb/164948
+http://nocable.cc:8080/918105/236264/164948
 #EXTINF:-1  tvg-logo="" group-title="Brasil", HBO
-http://fortv.cc:8080/4YYrcEg/Z8bmyZb/164950
+http://nocable.cc:8080/918105/236264/164950
 #EXTINF:-1  tvg-logo="" group-title="Brasil", TNT SERIES
-http://fortv.cc:8080/4YYrcEg/Z8bmyZb/164958
+http://nocable.cc:8080/918105/236264/164958
 
 
 #EXTINF:-1  tvg-logo="" group-title="Portugal", RTP 1
-http://fortv.cc:8080/4YYrcEg/Z8bmyZb/164792
+http://nocable.cc:8080/918105/236264/164792
 #EXTINF:-1  tvg-logo="" group-title="Portugal", TVI
-http://fortv.cc:8080/4YYrcEg/Z8bmyZb/78526
+http://nocable.cc:8080/918105/236264/78526
 #EXTINF:-1  tvg-logo="" group-title="Portugal", CNN
-http://fortv.cc:8080/4YYrcEg/Z8bmyZb/164802
+http://nocable.cc:8080/918105/236264/164802
 #EXTINF:-1  tvg-logo="" group-title="Portugal", SPORT TV+
 http://ugeen.live:8080/exskypeleoshare-jordansat4u/50/2165
 #EXTINF:-1  tvg-logo="" group-title="Portugal", SPORT TV 1
-http://fortv.cc:8080/4YYrcEg/Z8bmyZb/167742
+http://nocable.cc:8080/918105/236264/167742
 #EXTINF:-1  tvg-logo="" group-title="Portugal", SPORT TV 1
 http://ugeen.live:8080/exskypeleoshare-jordansat4u/50/2166
 #EXTINF:-1  tvg-logo="" group-title="Portugal", SPORT TV 2
-http://fortv.cc:8080/4YYrcEg/Z8bmyZb/167743
+http://nocable.cc:8080/918105/236264/167743
 #EXTINF:-1  tvg-logo="" group-title="Portugal", SPORT TV 2
 http://ugeen.live:8080/exskypeleoshare-jordansat4u/50/2167
 #EXTINF:-1  tvg-logo="" group-title="Portugal", SPORT TV 3
-http://fortv.cc:8080/4YYrcEg/Z8bmyZb/167744
+http://nocable.cc:8080/918105/236264/167744
 #EXTINF:-1  tvg-logo="" group-title="Portugal", SPORT TV 3
 http://ugeen.live:8080/exskypeleoshare-jordansat4u/50/2168
 #EXTINF:-1  tvg-logo="" group-title="Portugal", SPORT TV 4
-http://fortv.cc:8080/4YYrcEg/Z8bmyZb/167745
+http://nocable.cc:8080/918105/236264/167745
 #EXTINF:-1  tvg-logo="" group-title="Portugal", SPORT TV 4
 http://ugeen.live:8080/exskypeleoshare-jordansat4u/50/2169
 #EXTINF:-1  tvg-logo="" group-title="Portugal", SPORT TV 5
 http://ugeen.live:8080/exskypeleoshare-jordansat4u/50/2170
 #EXTINF:-1  tvg-logo="" group-title="Portugal", ELEVEN SPORTS 1
-http://fortv.cc:8080/4YYrcEg/Z8bmyZb/35264
+http://nocable.cc:8080/918105/236264/35264
 #EXTINF:-1  tvg-logo="" group-title="Portugal", ELEVEN SPORTS 1
 http://ugeen.live:8080/exskypeleoshare-jordansat4u/50/3279
 #EXTINF:-1  tvg-logo="" group-title="Portugal", ELEVEN SPORTS 2
 http://ugeen.live:8080/exskypeleoshare-jordansat4u/50/3280
 #EXTINF:-1  tvg-logo="" group-title="Portugal", ELEVEN SPORTS 3
-http://fortv.cc:8080/4YYrcEg/Z8bmyZb/167748
+http://nocable.cc:8080/918105/236264/167748
 #EXTINF:-1  tvg-logo="" group-title="Portugal", ELEVEN SPORTS 3
 http://ugeen.live:8080/exskypeleoshare-jordansat4u/50/3281
 #EXTINF:-1  tvg-logo="" group-title="Portugal", ELEVEN SPORTS 4
-http://fortv.cc:8080/4YYrcEg/Z8bmyZb/167749
+http://nocable.cc:8080/918105/236264/167749
 #EXTINF:-1  tvg-logo="" group-title="Portugal", ELEVEN SPORTS 4
 http://ugeen.live:8080/exskypeleoshare-jordansat4u/50/3282
 #EXTINF:-1  tvg-logo="" group-title="Portugal", ELEVEN SPORTS 5
-http://fortv.cc:8080/4YYrcEg/Z8bmyZb/167750
+http://nocable.cc:8080/918105/236264/167750
 #EXTINF:-1  tvg-logo="" group-title="Portugal", TV CINE ACTION
-http://fortv.cc:8080/4YYrcEg/Z8bmyZb/164809
+http://nocable.cc:8080/918105/236264/164809
 #EXTINF:-1  tvg-logo="" group-title="Portugal", NOS STUDIOS
-http://fortv.cc:8080/4YYrcEg/Z8bmyZb/164811
+http://nocable.cc:8080/918105/236264/164811
 #EXTINF:-1  tvg-logo="" group-title="Portugal", HOLLYWOOD
-http://fortv.cc:8080/4YYrcEg/Z8bmyZb/164813
+http://nocable.cc:8080/918105/236264/164813
 #EXTINF:-1  tvg-logo="" group-title="Portugal", AXN WHITE
-http://fortv.cc:8080/4YYrcEg/Z8bmyZb/164815
+http://nocable.cc:8080/918105/236264/164815
 #EXTINF:-1  tvg-logo="" group-title="Portugal", AXN MOVIES
-http://fortv.cc:8080/4YYrcEg/Z8bmyZb/164818
+http://nocable.cc:8080/918105/236264/164818
 #EXTINF:-1  tvg-logo="" group-title="Portugal", SYFY
-http://fortv.cc:8080/4YYrcEg/Z8bmyZb/164821
+http://nocable.cc:8080/918105/236264/164821
 #EXTINF:-1  tvg-logo="" group-title="Portugal", TV GLOBO
-http://fortv.cc:8080/4YYrcEg/Z8bmyZb/164824
+http://nocable.cc:8080/918105/236264/164824
 #EXTINF:-1  tvg-logo="" group-title="Portugal", ZAP VIVA
-http://fortv.cc:8080/4YYrcEg/Z8bmyZb/164853
+http://nocable.cc:8080/918105/236264/164853
 #EXTINF:-1  tvg-logo="" group-title="Portugal", TPA INTERNACIONAL
-http://fortv.cc:8080/4YYrcEg/Z8bmyZb/164855
+http://nocable.cc:8080/918105/236264/164855
 #EXTINF:-1  tvg-logo="" group-title="Portugal", TVC CABO VERDE
-http://fortv.cc:8080/4YYrcEg/Z8bmyZb/164858
+http://nocable.cc:8080/918105/236264/164858
 #EXTINF:-1  tvg-logo="" group-title="Portugal", TVI REALITY
-http://fortv.cc:8080/4YYrcEg/Z8bmyZb/164861
+http://nocable.cc:8080/918105/236264/164861
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/WbnTdy5h/NPC.png" group-title="Portugal", Nasci Para Cantar
 https://stmv5.samcast.com.br/nasciparacantartv/nasciparacantartv/chunklist_w151309571.m3u8
