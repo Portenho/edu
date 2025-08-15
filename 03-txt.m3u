@@ -1,296 +1,87 @@
-http://viprteaapi.top:8080/get.php?username=VIP0161174264994153&password=51742649941115&type=m3u
-1 user 22-03-2027
-
-#EXTM3U url-tvg="https://raw.githubusercontent.com/f0nZ/epg-tv-portuguesa/master/guide.xml,https://github.com/iptv-org/epg/blob/master/sites/meo.pt/meo.pt.channels.xml,https://github.com/iptv-org/epg/blob/master/sites/nos.pt/nos.pt.channels.xml,https://raw.githubusercontent.com/LITUATUI/M3UPT/main/epg/epg-vodafone.xml,https://iptv-org.github.io/epg/guides/pt/mi.tv.xml"
-
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/nLWGHRvJ/RTP-1.jpg" group-title="Generalistas PT", RTP 1
-http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99500
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/Kc0TDggk/RTP-2.jpg" group-title="Generalistas PT", RTP 2
-http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99501
-#EXTINF:-1  tvg-logo="https://postimg.cc/8JdYxggW" group-title="Generalistas PT", SIC
-http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99573
-#EXTINF:-1  tvg-logo="https://postimg.cc/CzRNqprN" group-title="Generalistas PT", TVI
-http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99503
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/28mZY7RK/RTP-3.jpg" group-title="Generalistas PT", RTP 3
-http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99502
-#EXTINF:-1  tvg-logo="https://postimg.cc/tn39rM2m" group-title="Generalistas PT", SIC Noticias 
-http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99530
-#EXTINF:-1  tvg-logo="https://postimg.cc/9rSjdVmF" group-title="Generalistas PT", CNN Portugal
-http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/101
-#EXTINF:-1  tvg-logo="https://postimg.cc/9rSjdVmF" group-title="Generalistas PT", CNN Portugal 
-http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99563
-#EXTINF:-1  tvg-logo="https://postimg.cc/9rSjdVmF" group-title="Generalistas PT", CNN Portugal 
-http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99564
-#EXTINF:-1  tvg-logo="https://postimg.cc/PNYZsf70" group-title="Generalistas PT", CMTV
-http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99496
-#EXTINF:-1  tvg-logo="https://postimg.cc/tnk4qcWn" group-title="Generalistas PT", Porto Canal
-
-#EXTINF:-1  tvg-logo="https://postimg.cc/RNbnw3J6" group-title="Generalistas PT", RTP Açores
-http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99498
-#EXTINF:-1  tvg-logo="https://postimg.cc/vgz4TDdm" group-title="Generalistas PT", RTP Africa
-
-#EXTINF:-1  tvg-logo="https://postimg.cc/WhKhhQx0" group-title="Generalistas PT", RTP Madeira
-http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99499
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/VLZLmcwV/euronews.png" group-title="Generalistas PT", Euronews
-http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/129342
-#EXTINF:-1  tvg-logo="https://postimg.cc/3WmLSTFx" group-title="Generalistas PT", TCV Internacional
-http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/129332
-#EXTINF:-1  tvg-logo="https://postimg.cc/0MmCBYmB" group-title="Generalistas PT", TVE 24H
-http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99565
-#EXTINF:-1  tvg-logo="https://postimg.cc/wR2LC0B0" group-title="Generalistas PT", TVE Int
-http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99566
-#EXTINF:-1  tvg-logo="https://postimg.cc/grgKB26d" group-title="Generalistas PT", TV Galicia
-http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99570
-#EXTINF:-1  tvg-logo="https://postimg.cc/VS5wn6M6" group-title="Generalistas PT", BBC Entertainment
-http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99506
-#EXTINF:-1  tvg-logo="https://postimg.cc/34MqNJFz" group-title="Generalistas PT", CNBC Europe
-http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99507
-#EXTINF:-1  tvg-logo="https://postimg.cc/F7JDdQ74" group-title="Generalistas PT", Sky News
-http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99509
-#EXTINF:-1  tvg-logo="https://postimg.cc/FYrktytB" group-title="Generalistas PT", Globo
-http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99508
-#EXTINF:-1  tvg-logo="https://postimg.cc/30hJXhYc" group-title="Generalistas PT", Globo Now
-http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/129328
-#EXTINF:-1  tvg-logo="https://postimg.cc/phRdwj6d" group-title="Generalistas PT", Tv Record
-http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99497
-#EXTINF:-1  tvg-logo="https://postimg.cc/WqtsVw6s" group-title="Generalistas PT", France 24
-http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99562
-#EXTINF:-1  tvg-logo="https://postimg.cc/TpzT8myX" group-title="Generalistas PT", Bloomberg
-http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99569
-#EXTINF:-1  tvg-logo="https://postimg.cc/sQgrP4L5" group-title="Generalistas PT", NHK World Japan
-http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99567
-#EXTINF:-1  tvg-logo="https://postimg.cc/WdccYvKN" group-title="Generalistas PT", TV5 Monde
-http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99576
-#EXTINF:-1  tvg-logo="https://postimg.cc/47dDHNK5" group-title="Generalistas PT", AR Tv
-http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99495
-#EXTINF:-1  tvg-logo="https://postimg.cc/0KSH769p" group-title="Generalistas PT", Kuriakos Tv
-http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99526
-
-#####################################################################
-
-#EXTINF:-1  tvg-logo="https://postimg.cc/CZH8nwyz" group-title="Desporto PT", Sport TV +
-http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99483
-#EXTINF:-1  tvg-logo="" group-title="Desporto PT", Sport TV 1
-http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99484
-#EXTINF:-1  tvg-logo="" group-title="Desporto PT", Sport TV 2
-http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99485
-#EXTINF:-1  tvg-logo="" group-title="Desporto PT", Sport TV 3
-http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99486
-#EXTINF:-1  tvg-logo="" group-title="Desporto PT", Sport TV 4
-http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99487
-#EXTINF:-1  tvg-logo="" group-title="Desporto PT", Sport TV 5
-http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99488
-#EXTINF:-1  tvg-logo="" group-title="Desporto PT", Sport TV 6
-http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99489
-#EXTINF:-1  tvg-logo="" group-title="Desporto PT", Sport TV NBA 
-http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99494
-#EXTINF:-1  tvg-logo="" group-title="Desporto PT", BTV
-http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99492
-#EXTINF:-1  tvg-logo="" group-title="Desporto PT", Sporting TV
-http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99490
-#EXTINF:-1  tvg-logo="" group-title="Desporto PT", Eleven Sports 1
-http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99475
-#EXTINF:-1  tvg-logo="" group-title="Desporto PT", Eleven Sports 2
-http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99476
-#EXTINF:-1  tvg-logo="" group-title="Desporto PT", Eleven Sports 3
-http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99477
-#EXTINF:-1  tvg-logo="" group-title="Desporto PT", Eleven Sports 4
-http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99478
-#EXTINF:-1  tvg-logo="" group-title="Desporto PT", Eleven Sports 5
-http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99479
-#EXTINF:-1  tvg-logo="" group-title="Desporto PT", Eleven Sports 6
-http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99480
-#EXTINF:-1  tvg-logo="" group-title="Desporto PT", Eleven Sports 7
-http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/129327
-#EXTINF:-1  tvg-logo="" group-title="Desporto PT", Canal 11
-http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99543
-#EXTINF:-1  tvg-logo="" group-title="Desporto PT", A Bola TV
-http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99491
-#EXTINF:-1  tvg-logo="" group-title="Desporto PT", Eurosport 1
-http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99481
-#EXTINF:-1  tvg-logo="" group-title="Desporto PT", Eurosport 2
-http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99482
-#EXTINF:-1  tvg-logo="" group-title="Desporto PT", Fight Sports
-
-#EXTINF:-1  tvg-logo="" group-title="Desporto PT", Gametoon
-
-#EXTINF:-1  tvg-logo="" group-title="Desporto PT", GINX Esports
+#EXTM3U url-tvg="https://raw.githubusercontent.com/f0nZ/epg-tv-portuguesa/master/guide.xml"
+#EXTINF:-1  tvg-logo="" group-title="Brasil", Globo SP
+http://tv14s.xyz:8080/77709038/96038622/21020
+#EXTINF:-1  tvg-logo="" group-title="Brasil", SBT
+http://tv14s.xyz:8080/77709038/96038622/20978
+#EXTINF:-1  tvg-logo="" group-title="Brasil", AMC
+http://tv14s.xyz:8080/77709038/96038622/164938
+#EXTINF:-1  tvg-logo="" group-title="Brasil", GLOBO
+http://tv14s.xyz:8080/77709038/96038622/164943
+#EXTINF:-1  tvg-logo="" group-title="Brasil", GLOBO MINAS
+http://tv14s.xyz:8080/77709038/96038622/164944
+#EXTINF:-1  tvg-logo="" group-title="Brasil", GLOBO NEWS
+http://tv14s.xyz:8080/77709038/96038622/164945
+#EXTINF:-1  tvg-logo="" group-title="Brasil", ESPN
+http://tv14s.xyz:8080/77709038/96038622/164948
+#EXTINF:-1  tvg-logo="" group-title="Brasil", HBO
+http://tv14s.xyz:8080/77709038/96038622/164950
+#EXTINF:-1  tvg-logo="" group-title="Brasil", TNT SERIES
+http://tv14s.xyz:8080/77709038/96038622/164958
 
 
-#########################################################################
-
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/yNbsjSR9/TVCine-TOP-b.png" group-title="Filmes PT", TVCine Top 
-http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99516
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/QtKsyxgz/TVCine-EDITION-b.png" group-title="Filmes PT", TVCine Edition
-http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99514
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/yNd70TDs/TVCine-EMOTION-b.png" group-title="Filmes PT", TVCine Emotion 
-http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99515
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/rwg8dHFf/TVCine-ACTION-b.png" group-title="Filmes PT", TVCine Action
-http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99513
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/Jz8gfMjJ/NOS-Studios.jpg" group-title="Filmes PT", Nos Studios 
-
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/Fzx6m987/Cinemundo.jpg" group-title="Filmes PT", Cinemundo
-http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99561
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/zvVrgDv7/Canal-Hollywood-b.png" group-title="Filmes PT", Hollywood
-http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99522
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/c1MY9sDC/axn-b.png" group-title="Filmes PT", AXN
-http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99510
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/KzLr0rdr/AXN-Movies.jpg" group-title="Filmes PT", AXN Movies
-http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99511
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/SNT8Wgsx/AXN-White.png" group-title="Filmes PT", AXN White
-http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99512
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/SsRcQtcG/STAR-CHANNEL.png" group-title="Filmes PT", Star Channel
-http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/129335
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/659LV7fY/star-movies.png" group-title="Filmes PT", Star Movies
-http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99520
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/vZF2d8rn/star-life.png" group-title="Filmes PT", Star Life
-http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99519
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/76ddG32s/Star-Comedy.png" group-title="Filmes PT", Star Comedy
-http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99521
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/5y87XZ1y/Star-Crime.png" group-title="Filmes PT", Star Crime
-http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99518
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/4dzKfdGv/AMC.png" group-title="Filmes PT", AMC
-http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99534
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/4dzKfdGv/AMC.png" group-title="Filmes PT", AMC Break
-http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99535
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/90H1HJTh/amc-crime.png" group-title="Filmes PT", AMC Crime
-http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99536
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/q7xw88CB/SYFY.png" group-title="Filmes PT", Syfy
-http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99532
-
-########################################################################
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/vTL7Fn52/TNT-b.png" group-title="Filmes Legendados", TNT LEG
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/jqpfSDLM/HBO-Signature-b.png" group-title="Filmes Legendados", HBO Signature LEG
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/T3ZFkqwr/HBO-Xtreme-b.png" group-title="Filmes Legendados", HBO Xtreme LEG
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/V6B6RWq6/Megapix-b.png" group-title="Filmes Legendados", Megapix LEG
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SKLdWHvz/Sony-Channel.png" group-title="Filmes Legendados", Sony Channel LEG
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/dVjnCzXZ/Telecine-Action-b.png" group-title="Filmes Legendados", Telecine Action LEG
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L4kqm2ZP/Telecine-Fun-b.png" group-title="Filmes Legendados", Telecine Fun LEG
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/XYbQpV20/Telecine-Pipoca-b.png" group-title="Filmes Legendados", Telecine Pipoca LEG
-
-
-
-####################################################################
-
-#EXTINF:-1  tvg-logo="" group-title="Entretenimento PT", TVI Reality
-http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99505
-#EXTINF:-1  tvg-logo="" group-title="Entretenimento PT", TVI Reality Cam 1
-http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/108
-#EXTINF:-1  tvg-logo="" group-title="Entretenimento PT", TVI Reality Cam 2
-http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/109
-#EXTINF:-1  tvg-logo="" group-title="Entretenimento PT", TVI Reality Cam 3
-http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/110
-#EXTINF:-1  tvg-logo="" group-title="Entretenimento PT", TVI Ficção 
-http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/102
-#EXTINF:-1  tvg-logo="" group-title="Entretenimento PT", SIC Caras 
-http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99527
-#EXTINF:-1  tvg-logo="" group-title="Entretenimento PT", SIC Mulher
-http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99529
-#EXTINF:-1  tvg-logo="" group-title="Entretenimento PT", SIC Radical
-http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99531
-#EXTINF:-1  tvg-logo="" group-title="Entretenimento PT", S+
-http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99577
-#EXTINF:-1  tvg-logo="" group-title="Entretenimento PT", ZAP Viva
-http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/105
-#EXTINF:-1  tvg-logo="" group-title="Entretenimento PT", 24 Kitchen
-http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99523
-#EXTINF:-1  tvg-logo="" group-title="Entretenimento PT", Casa e Cozinha
-http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99572
-#EXTINF:-1  tvg-logo="" group-title="Entretenimento PT", Discovery Channel
-http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99538
-#EXTINF:-1  tvg-logo="" group-title="Entretenimento PT", ID Investigation Discovery
-http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99537
-#EXTINF:-1  tvg-logo="" group-title="Entretenimento PT", Odisseia
-http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99542
-#EXTINF:-1  tvg-logo="" group-title="Entretenimento PT", National Geographic Wild
-http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99540
-#EXTINF:-1  tvg-logo="" group-title="Entretenimento PT", National Geographic
-http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99541
-#EXTINF:-1  tvg-logo="" group-title="Entretenimento PT", Historia
-http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99539
-#EXTINF:-1  tvg-logo="" group-title="Entretenimento PT", Caça e Pesca
-
-#EXTINF:-1  tvg-logo="" group-title="Entretenimento PT", Caçavision
-http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99575
-#EXTINF:-1  tvg-logo="" group-title="Entretenimento PT", MotorVision TV
-
-#EXTINF:-1  tvg-logo="" group-title="Entretenimento PT", Fashion Tv
-http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/129329
-#EXTINF:-1  tvg-logo="" group-title="Entretenimento PT", Fuel TV
-http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99493
-#EXTINF:-1  tvg-logo="" group-title="Entretenimento PT", E! Entertainment
-http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99525
-#EXTINF:-1  tvg-logo="" group-title="Entretenimento PT", Canal Q
-http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99524
-#EXTINF:-1  tvg-logo="" group-title="Entretenimento PT", Travel Channel
-http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99
-#EXTINF:-1  tvg-logo="" group-title="Entretenimento PT", TLC
-http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99533
-#EXTINF:-1  tvg-logo="" group-title="Entretenimento PT", Mundo Toro
-http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/129331
-
-#EXTINF:-1  tvg-logo="" group-title="Entretenimento PT", RTP Memória
-
-#EXTINF:-1  tvg-logo="" group-title="Entretenimento PT", Canção Nova
-http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99571
-
-##########################################################################
-
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/WbnTdy5h/NPC.png" group-title="Musica PT", Nasci Para Cantar
+#EXTINF:-1  tvg-logo="" group-title="Portugal", RTP 1
+http://tv14s.xyz:8080/77709038/96038622/164792
+#EXTINF:-1  tvg-logo="" group-title="Portugal", TVI
+http://tv14s.xyz:8080/77709038/96038622/78526
+#EXTINF:-1  tvg-logo="" group-title="Portugal", CNN
+http://tv14s.xyz:8080/77709038/96038622/164802
+#EXTINF:-1  tvg-logo="" group-title="Portugal", SPORT TV+
+http://ugeen.live:8080/exskypeleoshare-jordansat4u/50/2165
+#EXTINF:-1  tvg-logo="" group-title="Portugal", SPORT TV 1
+http://tv14s.xyz:8080/77709038/96038622/167742
+#EXTINF:-1  tvg-logo="" group-title="Portugal", SPORT TV 1
+http://ugeen.live:8080/exskypeleoshare-jordansat4u/50/2166
+#EXTINF:-1  tvg-logo="" group-title="Portugal", SPORT TV 2
+http://tv14s.xyz:8080/77709038/96038622/167743
+#EXTINF:-1  tvg-logo="" group-title="Portugal", SPORT TV 2
+http://ugeen.live:8080/exskypeleoshare-jordansat4u/50/2167
+#EXTINF:-1  tvg-logo="" group-title="Portugal", SPORT TV 3
+http://tv14s.xyz:8080/77709038/96038622/167744
+#EXTINF:-1  tvg-logo="" group-title="Portugal", SPORT TV 3
+http://ugeen.live:8080/exskypeleoshare-jordansat4u/50/2168
+#EXTINF:-1  tvg-logo="" group-title="Portugal", SPORT TV 4
+http://tv14s.xyz:8080/77709038/96038622/167745
+#EXTINF:-1  tvg-logo="" group-title="Portugal", SPORT TV 4
+http://ugeen.live:8080/exskypeleoshare-jordansat4u/50/2169
+#EXTINF:-1  tvg-logo="" group-title="Portugal", SPORT TV 5
+http://ugeen.live:8080/exskypeleoshare-jordansat4u/50/2170
+#EXTINF:-1  tvg-logo="" group-title="Portugal", ELEVEN SPORTS 1
+http://tv14s.xyz:8080/77709038/96038622/35264
+#EXTINF:-1  tvg-logo="" group-title="Portugal", ELEVEN SPORTS 1
+http://ugeen.live:8080/exskypeleoshare-jordansat4u/50/3279
+#EXTINF:-1  tvg-logo="" group-title="Portugal", ELEVEN SPORTS 2
+http://ugeen.live:8080/exskypeleoshare-jordansat4u/50/3280
+#EXTINF:-1  tvg-logo="" group-title="Portugal", ELEVEN SPORTS 3
+http://tv14s.xyz:8080/77709038/96038622/167748
+#EXTINF:-1  tvg-logo="" group-title="Portugal", ELEVEN SPORTS 3
+http://ugeen.live:8080/exskypeleoshare-jordansat4u/50/3281
+#EXTINF:-1  tvg-logo="" group-title="Portugal", ELEVEN SPORTS 4
+http://tv14s.xyz:8080/77709038/96038622/167749
+#EXTINF:-1  tvg-logo="" group-title="Portugal", ELEVEN SPORTS 4
+http://ugeen.live:8080/exskypeleoshare-jordansat4u/50/3282
+#EXTINF:-1  tvg-logo="" group-title="Portugal", ELEVEN SPORTS 5
+http://tv14s.xyz:8080/77709038/96038622/167750
+#EXTINF:-1  tvg-logo="" group-title="Portugal", TV CINE ACTION
+http://tv14s.xyz:8080/77709038/96038622/164809
+#EXTINF:-1  tvg-logo="" group-title="Portugal", NOS STUDIOS
+http://tv14s.xyz:8080/77709038/96038622/164811
+#EXTINF:-1  tvg-logo="" group-title="Portugal", HOLLYWOOD
+http://tv14s.xyz:8080/77709038/96038622/164813
+#EXTINF:-1  tvg-logo="" group-title="Portugal", AXN WHITE
+http://tv14s.xyz:8080/77709038/96038622/164815
+#EXTINF:-1  tvg-logo="" group-title="Portugal", AXN MOVIES
+http://tv14s.xyz:8080/77709038/96038622/164818
+#EXTINF:-1  tvg-logo="" group-title="Portugal", SYFY
+http://tv14s.xyz:8080/77709038/96038622/164821
+#EXTINF:-1  tvg-logo="" group-title="Portugal", TV GLOBO
+http://tv14s.xyz:8080/77709038/96038622/164824
+#EXTINF:-1  tvg-logo="" group-title="Portugal", ZAP VIVA
+http://tv14s.xyz:8080/77709038/96038622/164853
+#EXTINF:-1  tvg-logo="" group-title="Portugal", TPA INTERNACIONAL
+http://tv14s.xyz:8080/77709038/96038622/164855
+#EXTINF:-1  tvg-logo="" group-title="Portugal", TVC CABO VERDE
+http://tv14s.xyz:8080/77709038/96038622/164858
+#EXTINF:-1  tvg-logo="" group-title="Portugal", TVI REALITY
+http://tv14s.xyz:8080/77709038/96038622/164861
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/WbnTdy5h/NPC.png" group-title="Portugal", Nasci Para Cantar
 https://stmv5.samcast.com.br/nasciparacantartv/nasciparacantartv/chunklist_w151309571.m3u8
-#EXTINF:-1  tvg-logo="" group-title="Musica PT", Afro Music
-http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99560
-#EXTINF:-1  tvg-logo="" group-title="Musica PT", MTV Portugal
-http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99557
-#EXTINF:-1  tvg-logo="" group-title="Musica PT", MTV 00s
-http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99556
-#EXTINF:-1  tvg-logo="" group-title="Musica PT", MCM Pop
-http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99554
-#EXTINF:-1  tvg-logo="" group-title="Musica PT", MCM Top
-http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99555
-#EXTINF:-1  tvg-logo="" group-title="Musica PT", VH1
-http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/104
-#EXTINF:-1  tvg-logo="" group-title="Musica PT", Trace Urban 
-http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99559
-#EXTINF:-1  tvg-logo="" group-title="Musica PT", Trace Toca
-http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99558
-#EXTINF:-1  tvg-logo="" group-title="Musica PT", Mezzo
-http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99574
-#EXTINF:-1  tvg-logo="" group-title="Musica PT", NPC
-
-##############################################################################
-
-#EXTINF:-1  tvg-logo="" group-title="Kids PT", Canal Panda
-http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99553
-#EXTINF:-1  tvg-logo="" group-title="Kids PT", Panda Kids
-http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99551
-#EXTINF:-1  tvg-logo="" group-title="Kids PT", Cartoon Network
-http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99544
-#EXTINF:-1  tvg-logo="" group-title="Kids PT", Cartoonito
-http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99545
-#EXTINF:-1  tvg-logo="" group-title="Kids PT", Disney Junior
-http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99549
-#EXTINF:-1  tvg-logo="" group-title="Kids PT", Disney Channel
-http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99548
-#EXTINF:-1  tvg-logo="" group-title="Kids PT", Biggs
-http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99547
-#EXTINF:-1  tvg-logo="" group-title="Kids PT", SIC K
-http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99528
-#EXTINF:-1  tvg-logo="" group-title="Kids PT", Nickelodeon
-http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99550
-#EXTINF:-1  tvg-logo="" group-title="Kids PT", Nick Jr.
-http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/129330
-#EXTINF:-1  tvg-logo="" group-title="Kids PT", Lolly Kids
-http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99552
-#EXTINF:-1  tvg-logo="" group-title="Kids PT", Baby TV
-http://viprteaapi.top:8080/VIP0161174264994153/51742649941115/99546
-
-######################################################################
