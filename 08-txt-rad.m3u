@@ -67,7 +67,7 @@ https://solid67.streamupsolutions.com/proxy/repadnom?mp=/streamtype=mp3
 https://eu10.fastcast4u.com/famaradio
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/nch6s4ZW/golo-fm.jpg" group-title="Radio", Golo FM - Gandra
-http://95.217.75.38:7988/stream
+https://sp0.redeaudio.com/8154/stream
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/Hxz5zvvb/hunter-sertanejo.png" group-title="Radio", Hunter Sertanejo - Brasil
 https://live.hunter.fm/sertanejo_normal
@@ -90,8 +90,8 @@ http://centova.radios.pt:9524/stream
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/Gt9BQLy1/portugal-radio.png" group-title="Radio", Portugal Star - Lisboa
 http://185.118.112.12:8028/live
 
-	#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/7hYQ24vz/radio-cinco.png" group-title="Radio", Rádio 5 - Maia
-https://radios.justweb.pt/8042/stream
+	EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/7hYQ24vz/radio-cinco.png" group-title="Radio", Rádio 5 - Maia
+://radios.justweb.pt/8042/stream
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/g0RHVDPK/afifense.png" group-title="Radio", Rádio Afifense - Afife
 http://centova.radios.pt:8471/stream
@@ -99,8 +99,8 @@ http://centova.radios.pt:8471/stream
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qvzVF85K/amalia.png" group-title="Radio", Rádio Amália - Lisboa
 http://centova.radios.pt:9496/stream
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/CK8yhwYL/amizade-viva.png" group-title="Radio", Rádio Amizade Viva - Maia
-http://176.9.43.216:8184/;
+	EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/CK8yhwYL/amizade-viva.png" group-title="Radio", Rádio Amizade Viva - Maia
+://176.9.43.216:8184/;
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/9QK5Hr6n/amor-eterno.png" group-title="Radio", Rádio Amor Eterno - Madeira
 https://ssl.stmxp.net:7134/stream/1/
@@ -112,7 +112,7 @@ http://centova.radios.pt:9456/stream
 http://centova.radios.pt:8571/stream
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/3r9CFNzz/caria.jpg" group-title="Radio", Rádio Caria - Belmonte
-http://195.23.85.126:8521/stream
+https://sp0.redeaudio.com/8250/stream
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvSN1xmf/cidade-azul.png" group-title="Radio", Rádio Cidade Azul - Maia
 https://ssls.stmxp.net:8014/stream
@@ -416,6 +416,7 @@ https://is.ntradio.pt/ntr
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/Rh7L8b4r/cordial.png" group-title="Radio", Rádio Cordial - Funchal
 https://listen.openstream.co/6149/audio
+
 
 
 
