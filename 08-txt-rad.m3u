@@ -18,12 +18,6 @@ http://radiocast.rtp.pt/antena180a.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/kXnx33tr/antena1-fado.png" group-title="Radio", Antena 1 Fado - Lisboa
 http://radiocast.rtp.pt/antena1fado80a.mp3
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/wT0D9fh1/antena1-memoria.png" group-title="Radio", Antena 1 Memória - Lisboa
-http://radiocast.rtp.pt/antena1memoria80a.mp3
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/13d6q87P/antena1-vida.png" group-title="Radio", Antena 1 Vida - Lisboa
-http://radiocast.rtp.pt/antena1vida80a.mp3
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/85Q6ZqV0/antena2.png" group-title="Radio", Antena 2 - Lisboa
 http://radiocast.rtp.pt/antena280a.mp3
 
@@ -49,10 +43,10 @@ https://nl.digitalrm.pt:8022/stream
 https://stream-159.zeno.fm/6kumndewqbruv?zs=-9ODiJawRFOL0Pq_3U0gZA
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/Vv40Lv0x/cascais-fm.png" group-title="Radio", Cascais FM - Cascais
-https://sp0.redeaudio.com/9956/;;/stream.mp3
+https://play.radioregional.pt:8220/stream/2/;/stream.mp3
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/gkk6tVfm/central-fm.jpg" group-title="Radio", Central FM - Lisboa
-http://stm4.xcast.com.br:8630/stream
+https://s29.myradiostream.com:4922/listen.mp3?nocache=1755290405
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sxfPRCGn/cidade-fm.png" group-title="Radio", Cidade FM - Lisboa
 https://stream-icy.bauermedia.pt/cidade.aac
@@ -81,14 +75,14 @@ https://live.hunter.fm/sertanejo_normal
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/Gpkv8mk7/m80.png" group-title="Radio", M80 - Lisboa
 http://stream-icy.bauermedia.pt/m80.mp3
 
-	#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/SxX3dmn7/mega-fm.png" group-title="Radio", Mega FM - Maia
-http://centova.hostingfull.eu:5878/stream
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/SxX3dmn7/mega-fm.png" group-title="Radio", Mega FM - Maia
+https://ssls.stmxp.net:5878/1
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/RCPKn8HB/mega-hits.png" group-title="Radio", Mega Hits - Lisboa
-https://25703.live.streamtheworld.com/MEGA_HITSAAC_SC
+https://28993.live.streamtheworld.com/MEGA_HITS_SC
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/R0K8rGQW/nova-onda-total.png" group-title="Radio", Nova Onda Total - Maia
-http://s2.stmxp.net:7184/;
+https://stm2.serviceradios.com:8218/;
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/B63zJDMM/onda-viva.png" group-title="Radio", Onda Viva - Póvoa de Varzim
 http://centova.radios.pt:9524/stream
@@ -422,6 +416,7 @@ https://is.ntradio.pt/ntr
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/Rh7L8b4r/cordial.png" group-title="Radio", Rádio Cordial - Funchal
 https://listen.openstream.co/6149/audio
+
 
 
 
