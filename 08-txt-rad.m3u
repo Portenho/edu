@@ -90,8 +90,8 @@ http://centova.radios.pt:9524/stream
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/Gt9BQLy1/portugal-radio.png" group-title="Radio", Portugal Star - Lisboa
 http://185.118.112.12:8028/live
 
-	EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/7hYQ24vz/radio-cinco.png" group-title="Radio", Rádio 5 - Maia
-://radios.justweb.pt/8042/stream
+	:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/7hYQ24vz/radio-cinco.png" group-title="Radio", Rádio 5 - Maia
+radios.justweb.pt/8042/stream
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/g0RHVDPK/afifense.png" group-title="Radio", Rádio Afifense - Afife
 http://centova.radios.pt:8471/stream
@@ -99,8 +99,8 @@ http://centova.radios.pt:8471/stream
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qvzVF85K/amalia.png" group-title="Radio", Rádio Amália - Lisboa
 http://centova.radios.pt:9496/stream
 
-	EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/CK8yhwYL/amizade-viva.png" group-title="Radio", Rádio Amizade Viva - Maia
-://176.9.43.216:8184/;
+	:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/CK8yhwYL/amizade-viva.png" group-title="Radio", Rádio Amizade Viva - Maia
+176.9.43.216:8184/;
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/9QK5Hr6n/amor-eterno.png" group-title="Radio", Rádio Amor Eterno - Madeira
 https://ssl.stmxp.net:7134/stream/1/
@@ -416,6 +416,7 @@ https://is.ntradio.pt/ntr
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/Rh7L8b4r/cordial.png" group-title="Radio", Rádio Cordial - Funchal
 https://listen.openstream.co/6149/audio
+
 
 
 
