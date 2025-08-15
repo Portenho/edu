@@ -1,6 +1,6 @@
 expira: 11-06-2026
 10 users
-#EXTM3U url-tvg="https://raw.githubusercontent.com/f0nZ/epg-tv-portuguesa/master/guide.xml"EXTM3U
+#EXTM3U url-tvg="https://raw.githubusercontent.com/f0nZ/epg-tv-portuguesa/master/guide.xml"
 #EXTINF:-1  tvg-logo="" group-title="Brasil", Globo SP
 http://xxip25.top:8080/7qFcps/643075/21020
 #EXTINF:-1  tvg-logo="" group-title="Brasil", SBT
