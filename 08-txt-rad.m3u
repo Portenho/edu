@@ -417,21 +417,6 @@ https://is.ntradio.pt/ntr
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/Rh7L8b4r/cordial.png" group-title="Radio", Rádio Cordial - Funchal
 https://listen.openstream.co/6149/audio
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1  tvg-logo="" group-title="Vazio", ...
+http://tv14s.xyz:8080/77709038/96038622/xxx164944
 
