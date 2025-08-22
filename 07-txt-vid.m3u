@@ -1,7 +1,7 @@
 3000u  iimitada
 #EXTM3U
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/W4rFC0zJ/ajuste-de-contas-final.jpg" group-title="Movies",Missão Impossivel - O Ajuste de Contas Final
-chrome-extension://eakdijdofmnclopcffkkgmndadhbjgka/player.html#https://hs1.up4stream.com/hls2/01/00011/y8j7mi6ti6fa_,l,n,h,.urlset/master.m3u8?t=7PeRcWa28sTmvp14NavwGEPfvtHvVFkfiW_gfSE5Dw0&s=1755818018&e=43200&v=76910656&srv=storage1&i=0.3&sp=0&fr=y8j7mi6ti6fa
+https://hs1.up4stream.com/hls2/01/00011/y8j7mi6ti6fa_,l,n,h,.urlset/master.m3u8?t=7PeRcWa28sTmvp14NavwGEPfvtHvVFkfiW_gfSE5Dw0&s=1755818018&e=43200&v=76910656&srv=storage1&i=0.3&sp=0&fr=y8j7mi6ti6fa
 #EXTINF:-1  tvg-logo="" group-title="Videoclube",Síndrome da Apatia (2025)
 http://dnssp.site:8080/movie/ZdEtSNbXb37d/xbb2ns98aprW/643509.mp4
 #EXTINF:-1  tvg-logo="" group-title="Videoclube",Rust (2025)
@@ -3209,6 +3209,7 @@ http://dnssp.site:8080/movie/ZdEtSNbXb37d/xbb2ns98aprW/444599.mp4
 
 #EXTINF:-1  tvg-logo="" group-title="Sem Lista", ...
 http://tv14s.xyz:8080/77709038/96038622/xxx164944
+
 
 
 
