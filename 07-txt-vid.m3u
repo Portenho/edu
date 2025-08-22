@@ -4,8 +4,8 @@
 https://be7713.rcr82.waw05.i8yz83pn.com/hls2/01/09711/,we9iev104a2w_x,lang/por/ruli756ss91b_por,.urlset/master.m3u8?t=B34jvvL-jvNcEKxGSx8LmZQAEE5Ti3vH5_PUHFpyNtg&s=1755888860&e=10800&f=48586421&srv=1060&asn=12353&sp=5500&p=&fr=we9iev104a2w
 #EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w342/9PXZIUsSDh4alB80jheWX4fhZmy.jpg" group-title="Novidades",F1
 https://hs1.up4stream.com/hls2/01/00011/ucmidt3rhv6s_,l,n,h,.urlset/master.m3u8?t=j-KB5BYpKWKXegCpnrKrFnNmEVMSgbYSIDBFy5HVS6Y&s=1755895631&e=43200&v=77644451&srv=storage1&i=0.3&sp=0&fr=ucmidt3rhv6s
-#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w342/ombsmhYUqR4qqOLOxAyr5V8hbyv.jpg" group-title="Novidades",Superman
-https://hs1.up4stream.com/hls2/01/00011/i8m2mlnm9y03_,l,n,h,x,.urlset/master.m3u8?t=PuzAAgeoRVL8udYgpDaxnqMlaAnVRTGcGsfblaKQAFI&s=1755895766&e=43200&v=77704670&srv=storage1&i=0.3&sp=0&fr=i8m2mlnm9y03
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w342/ombsmhYUqR4qqOLOxAyr5V8hbyv.jpg" group-title="Novidades",Superman"
+https://be6721.rcr72.waw04.i8yz83pn.com/hls2/01/09678/lang/por/vkbsol56o616_por/index.m3u8?t=xoQPpUiMsDHhgEwUcBzcUGk8CuDg4V0vBWT8L_P4kls&s=1755896976&e=10800&f=48394526&srv=1055&asn=12353&sp=4000&p=&fr=dwvvq3il4col
 #EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w342/khohu1IKmgGNvETjEaxZaWBw4fr.jpg" group-title="Novidades",Jurassic World Rebirth
 https://hs1.up4stream.com/hls2/01/00010/qyh4y9tqkd7s_,l,n,h,.urlset/master.m3u8?t=9v0UkeN8nThdmjQkXlU91HfgpyMpuysz3InKwFJ0iYo&s=1755895864&e=43200&v=77710739&srv=storage1&i=0.3&sp=0&fr=qyh4y9tqkd7s
 #EXTINF:-1  tvg-logo="" group-title="Novidades",Karate Kid: Legends
@@ -3214,6 +3214,7 @@ http://dnssp.site:8080/movie/ZdEtSNbXb37d/xbb2ns98aprW/444597.mp4
 http://dnssp.site:8080/movie/ZdEtSNbXb37d/xbb2ns98aprW/444598.mp4
 #EXTINF:-1  tvg-logo="" group-title="Videoclube",O Feitiço
 http://dnssp.site:8080/movie/ZdEtSNbXb37d/xbb2ns98aprW/444599.mp4
+
 
 
 
