@@ -2,6 +2,16 @@
 #EXTM3U
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/W4rFC0zJ/ajuste-de-contas-final.jpg" group-title="Movies",Missão Impossivel - O Ajuste de Contas Final 
 https://be7713.rcr82.waw05.i8yz83pn.com/hls2/01/09711/,we9iev104a2w_x,lang/por/ruli756ss91b_por,.urlset/master.m3u8?t=B34jvvL-jvNcEKxGSx8LmZQAEE5Ti3vH5_PUHFpyNtg&s=1755888860&e=10800&f=48586421&srv=1060&asn=12353&sp=5500&p=&fr=we9iev104a2w
+#EXTINF:-1  tvg-logo="" group-title="Movies",F1
+https://hs1.up4stream.com/hls2/01/00011/ucmidt3rhv6s_n/index-v1-a1.m3u8?t=WaDIe_j9SscusfQ9g103K9l5lSVtW8YIcbZADZfOYzM&s=1755892928&e=43200&v=77644451&srv=storage1&i=0.3&sp=0&fr=ucmidt3rhv6s
+#EXTINF:-1  tvg-logo="" group-title="Movies",Superman
+https://hs1.up4stream.com/hls2/01/00011/i8m2mlnm9y03_n/index-v1-a1.m3u8?t=iY_aRRSXnHptQ6CadH6ZlSd0tLK5Om8krOQopWPTI8E&s=1755892705&e=43200&v=77704670&srv=storage1&i=0.3&sp=0&fr=i8m2mlnm9y03
+#EXTINF:-1  tvg-logo="" group-title="Movies",Jurassic World Rebirth
+https://hs1.up4stream.com/hls2/01/00010/qyh4y9tqkd7s_n/index-v1-a1.m3u8?t=ZiW0e8Mo5SeNsfc9U54zA-6PrMnIdeTQtFDVYLP9ayw&s=1755893027&e=43200&v=77710739&srv=storage1&i=0.3&sp=0&fr=qyh4y9tqkd7s
+#EXTINF:-1  tvg-logo="" group-title="Movies",Karate Kid: Legends
+https://hs1.up4stream.com/hls2/01/00007/r2wkiju3jysq_n/index-v1-a1.m3u8?t=pXZaejyn0NtalOPYyQyfnprnv3wQEIR8pqDl-q6VoDc&s=1755893865&e=43200&v=77717271&srv=storage1&i=0.3&sp=0&fr=r2wkiju3jysq
+#EXTINF:-1  tvg-logo="" group-title="Movies",Karate Kid: Legends
+https://hs1.up4stream.com/hls2/01/00007/r2wkiju3jysq_,l,n,h,x,.urlset/master.m3u8?t=FmYr_1FyjdcRoYTT35Iyj9833J2yF-hiH-km8xbECp4&s=1755894292&e=43200&v=77717271&srv=storage1&i=0.3&sp=0&fr=r2wkiju3jysq
 #EXTINF:-1  tvg-logo="" group-title="Videoclube",Síndrome da Apatia (2025)
 http://dnssp.site:8080/movie/ZdEtSNbXb37d/xbb2ns98aprW/643509.mp4
 #EXTINF:-1  tvg-logo="" group-title="Videoclube",Rust (2025)
@@ -3206,6 +3216,7 @@ http://dnssp.site:8080/movie/ZdEtSNbXb37d/xbb2ns98aprW/444597.mp4
 http://dnssp.site:8080/movie/ZdEtSNbXb37d/xbb2ns98aprW/444598.mp4
 #EXTINF:-1  tvg-logo="" group-title="Videoclube",O Feitiço
 http://dnssp.site:8080/movie/ZdEtSNbXb37d/xbb2ns98aprW/444599.mp4
+
 
 
 
