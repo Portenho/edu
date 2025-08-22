@@ -2,16 +2,14 @@
 #EXTM3U
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/W4rFC0zJ/ajuste-de-contas-final.jpg" group-title="Novidades",Missão Impossivel - O Ajuste de Contas Final 
 https://be7713.rcr82.waw05.i8yz83pn.com/hls2/01/09711/,we9iev104a2w_x,lang/por/ruli756ss91b_por,.urlset/master.m3u8?t=B34jvvL-jvNcEKxGSx8LmZQAEE5Ti3vH5_PUHFpyNtg&s=1755888860&e=10800&f=48586421&srv=1060&asn=12353&sp=5500&p=&fr=we9iev104a2w
-#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w342/9PXZIUsSDh4alB80jheWX4fhZmy.jpg" group-title="Novidades",F1
-https://hs1.up4stream.com/hls2/01/00011/ucmidt3rhv6s_,l,n,h,.urlset/master.m3u8?t=j-KB5BYpKWKXegCpnrKrFnNmEVMSgbYSIDBFy5HVS6Y&s=1755895631&e=43200&v=77644451&srv=storage1&i=0.3&sp=0&fr=ucmidt3rhv6s
-#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w342/ombsmhYUqR4qqOLOxAyr5V8hbyv.jpg" group-title="Novidades",Superman"
-https://be6721.rcr72.waw04.i8yz83pn.com/hls2/01/09678/lang/por/vkbsol56o616_por/index.m3u8?t=xoQPpUiMsDHhgEwUcBzcUGk8CuDg4V0vBWT8L_P4kls&s=1755896976&e=10800&f=48394526&srv=1055&asn=12353&sp=4000&p=&fr=dwvvq3il4col
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w342/9PXZIUsSDh4alB80jheWX4fhZmy.jpg" group-title="Novidades",F1 The Movie
+https://be7713.rcr82.waw05.i8yz83pn.com/hls2/09/09728/,dtapwsf8w12w_h,lang/por/xtkub4s4j052_por,.urlset/master.m3u8?t=jp2Afx4XmcClzrlWcKPWRe0rPRFIXMehpzeLrwKGSDQ&s=1755897388&e=10800&f=48657565&srv=1065&asn=12353&sp=4000&p=&fr=dtapwsf8w12w
 #EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w342/ombsmhYUqR4qqOLOxAyr5V8hbyv.jpg" group-title="Novidades",Superman"
 https://be6721.rcr72.waw04.i8yz83pn.com/hls2/01/09678/,dwvvq3il4col_h,lang/por/vkbsol56o616_por,.urlset/master.m3u8?t=YGqY8TOGN3dSTToCab07J38pmsbf2lxTJB3rnj5nVGE&s=1755897112&e=10800&f=48394526&srv=1055&asn=12353&sp=4000&p=&fr=dwvvq3il4col
 #EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w342/khohu1IKmgGNvETjEaxZaWBw4fr.jpg" group-title="Novidades",Jurassic World Rebirth
-https://hs1.up4stream.com/hls2/01/00010/qyh4y9tqkd7s_,l,n,h,.urlset/master.m3u8?t=9v0UkeN8nThdmjQkXlU91HfgpyMpuysz3InKwFJ0iYo&s=1755895864&e=43200&v=77710739&srv=storage1&i=0.3&sp=0&fr=qyh4y9tqkd7s
-#EXTINF:-1  tvg-logo="" group-title="Novidades",Karate Kid: Legends
-https://hs1.up4stream.com/hls2/01/00007/r2wkiju3jysq_,l,n,h,x,.urlset/master.m3u8?t=9x55AJeVrjKpvZjnrASD7PMuUPkP0vGWztWJmjHetYQ&s=1755895930&e=43200&v=77717271&srv=storage1&i=0.3&sp=0&fr=r2wkiju3jysq
+https://be6721.rcr72.waw04.i8yz83pn.com/hls2/01/09624/,ge03db6fj624_x,lang/por/p273tr9eb9m5_por,.urlset/master.m3u8?t=X7_-PrM4Oysr8IlfBluHnqudhRR98gQnCoZYMWQ7EMs&s=1755897443&e=10800&f=48157400&srv=1075&asn=12353&sp=5500&p=&fr=ge03db6fj624
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w342/AEgggzRr1vZCLY86MAp93li43z.jpg" group-title="Novidades",Karate Kid: Legends
+https://zkiaa1g08m.guardstorage.net/hls_3/E-k-oUyJ1gtJjFEtplMFZo6wkCRlHPaXPUJ7pSPig07Hk62dxq098heEsSz3ZvlehLNuTD4PeW9HspHsZSmDMB8TbgOG2HdopjodbSaGf__clpdEQ6ZpOEIm837NcojIn4XXDnw0yeu5epqBxtrFT_NUZRqYu5g1NfE-EoUIYpRW2lK9XMRpcjyqsu0BauJI-3RoYSvbP_zrM6voUD97jg/master.m3u8?sig=GGSap0znUWPYIELlLDzsNg&expires=1755906499
 #EXTINF:-1  tvg-logo="" group-title="Videoclube",Síndrome da Apatia (2025)
 http://dnssp.site:8080/movie/ZdEtSNbXb37d/xbb2ns98aprW/643509.mp4
 #EXTINF:-1  tvg-logo="" group-title="Videoclube",Rust (2025)
@@ -3216,6 +3214,7 @@ http://dnssp.site:8080/movie/ZdEtSNbXb37d/xbb2ns98aprW/444597.mp4
 http://dnssp.site:8080/movie/ZdEtSNbXb37d/xbb2ns98aprW/444598.mp4
 #EXTINF:-1  tvg-logo="" group-title="Videoclube",O Feitiço
 http://dnssp.site:8080/movie/ZdEtSNbXb37d/xbb2ns98aprW/444599.mp4
+
 
 
 
