@@ -24,8 +24,12 @@ https://sayonara.wideiptv.top/SPT3/index.fmp4.m3u8?token=bdf2e3dc0935f5bd426e2a1
 https://sayonara.wideiptv.top/SPT3/index.fmp4.m3u8?token=fd5b518ed2dbfc40fcdde0dd0130292cb645a85d-2e30ba60d79a7963ee765d46f2f5eccf-1755821736-1755810936
 #EXTINF:-1  tvg-logo="" group-title="Portugal", SPORT TV 4
 https://sayonara.wideiptv.top/SPT4/index.fmp4.m3u8?token=8f9a7d2b0f2b2dcbadb1c697e3b2fed4a29e5464-d46eb744bff83d5419e96224b589239b-1755736031-1755725231
-#EXTINF:-1  tvg-logo="" group-title="Portugal", SPORT TV 5
-https://sayonara.wideiptv.top/SPT5/index.fmp4.m3u8?token=dfefd867d5e13f1a55cab1a19e8c5d9e266e6b79-dfaf2413153d5f8cf245c7a9396d4cf1-1755727587-1755716787
+#EXTINF:-1  tvg-logo="" group-title="Portugal", SPORT TV 5.1 pir
+https://sayonara.wideiptv.top/SPT5/index.fmp4.m3u8?token=de1c0537e8477ee362f514b398d814bca4223332-0ee908d76809df173b45dae5bc9a9828-1756032558-1756021758
+#EXTINF:-1  tvg-logo="" group-title="Portugal", SPORT TV 5.2 pir
+https://sayonara.wideiptv.top/SPT5/tracks-v1/index.fmp4.m3u8?token=de1c0537e8477ee362f514b398d814bca4223332-0ee908d76809df173b45dae5bc9a9828-1756032558-1756021758
+#EXTINF:-1  tvg-logo="" group-title="Portugal", SPORT TV 5.3 pir
+https://sayonara.wideiptv.top/SPT5/tracks-a1/index.fmp4.m3u8?token=de1c0537e8477ee362f514b398d814bca4223332-0ee908d76809df173b45dae5bc9a9828-1756032558-1756021758
 #EXTINF:-1  tvg-logo="" group-title="Portugal", SPORT TV 6
 https://beautifulpeople.lovecdn.ru/SPT6/index.fmp4.m3u8?token=b6ce18edb4aca66a096f2cb800bda7a2db92c822-525cac2738e3d8243bf06a1d59afd8ed-1755736249-1755725449
 #EXTINF:-1  tvg-logo="" group-title="Portugal", SPORT TV 7
