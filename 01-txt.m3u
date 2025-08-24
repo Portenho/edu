@@ -21,10 +21,18 @@ http://tv14s.xyz:8080/77709038/96038622/164958
 
 #EXTINF:-1  tvg-logo="" group-title="Portugal", RTP 1
 http://tv14s.xyz:8080/77709038/96038622/164792
+#EXTINF:-1  tvg-logo="" group-title="Portugal", *RTP 1
+http://user.scalecdn.co:8080/live/26725074/92867131/869.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Portugal", *SIC
+https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_3.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Portugal", TVI
 http://tv14s.xyz:8080/77709038/96038622/78526
 #EXTINF:-1  tvg-logo="" group-title="Portugal", CNN
 http://tv14s.xyz:8080/77709038/96038622/164802
+#EXTINF:-1  tvg-logo="" group-title="Portugal", *RTP 3
+http://user.scalecdn.co:8080/live/26725074/92867131/866.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Portugal", *PORTO CANAL
+http://user.scalecdn.co:8080/live/26725074/92867131/872.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Portugal", SPORT TV+
 http://ugeen.live:8080/exskypeleoshare-jordansat4u/50/2165
 #EXTINF:-1  tvg-logo="" group-title="Portugal", SPORT TV 1
@@ -45,8 +53,10 @@ http://tv14s.xyz:8080/77709038/96038622/167745
 http://ugeen.live:8080/exskypeleoshare-jordansat4u/50/2169
 #EXTINF:-1  tvg-logo="" group-title="Portugal", SPORT TV 5
 http://ugeen.live:8080/exskypeleoshare-jordansat4u/50/2170
-#EXTINF:-1  tvg-logo="" group-title="Portugal", SPORT TV 5
-https://sayonara.wideiptv.top/SPT5/index.fmp4.m3u8?token=dfefd867d5e13f1a55cab1a19e8c5d9e266e6b79-dfaf2413153d5f8cf245c7a9396d4cf1-1755727587-1755716787
+#EXTINF:-1  tvg-logo="" group-title="Portugal", *BENFICA TV
+http://user.scalecdn.co:8080/live/26725074/92867131/640766.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Portugal", *BENFICA TV
+https://nl1.rocketdns.info:25463/live/26725074/92867131/953.m3u8?token=HkNcWEBYFAkUVVBXAwRQAwFVBw9SXQBQVldXBFdXU1JcVFBdAgYOUg8SH0ZAFRFRUwtoXlQaXgpXUh8TRhZXQToIUBsJEgUAAwUDUxFNQUBbC1IVCghIERIIVxMJRwMLVFgNGx8SU0tCVUEKUg08UFcQXlRVGl5dFw1fHREKXGwBBFlYXVQUCRQAEUgRCBBEEFxZQlxUSBEACEdDUhFXEV9DBQoKBBQfFFNcEV0VEU0QXBVnZBpIEQcZR1RdFltcC0MOG14DQwsUHBENQD4RUUESRVJRVQFBQFsRARFJEF4EGWtaXF5YVlVEWgtdEkEOEFIVGxJVC10LFVxDbBVbV0dbFggHAA4CFE0=
 #EXTINF:-1  tvg-logo="" group-title="Portugal", ELEVEN SPORTS 1
 http://tv14s.xyz:8080/77709038/96038622/35264
 #EXTINF:-1  tvg-logo="" group-title="Portugal", ELEVEN SPORTS 1
@@ -63,6 +73,8 @@ http://tv14s.xyz:8080/77709038/96038622/167749
 http://ugeen.live:8080/exskypeleoshare-jordansat4u/50/3282
 #EXTINF:-1  tvg-logo="" group-title="Portugal", ELEVEN SPORTS 5
 http://tv14s.xyz:8080/77709038/96038622/167750
+#EXTINF:-1  tvg-logo="" group-title="Portugal", *AXN
+https://nl1.rocketdns.info:25463/live/26725074/92867131/960.m3u8?token=HkNcWEBYFAkUVFZcUlJTVlQEUlEFDAAHWwVXVAMDVlJcAlIIAgYGBVQSH0ZAFRFRUwtoXlQaXgpUUR8TRhZXQToIUBsJEgUAAwUDUxFNQUBbC1IVCghIERIIVxMJRwEEXVcWFRFVTkdTQl0FXz4HUUQPVFISAgpGDg0fE1wLbVcADFVXVxIMEQYSH0ZaEhMWCAhCW1wURlELFUFQRwAQCUdQBw8EEhoRVV9GCkcTGhYIRGdjEhRGVhoVVl9ADF1dR1sWVABFDhEaEloXbBMGR0YUUlZdXRYRWEMDEx9HX1IdPldWXV5TUEJZXApAQ1kWBkQbFV1XCloWDkFuQwxWEV9DBQ0BBg4RSw==
 #EXTINF:-1  tvg-logo="" group-title="Portugal", TV CINE ACTION
 http://tv14s.xyz:8080/77709038/96038622/164809
 #EXTINF:-1  tvg-logo="" group-title="Portugal", NOS STUDIOS
@@ -87,3 +99,5 @@ http://tv14s.xyz:8080/77709038/96038622/164858
 http://tv14s.xyz:8080/77709038/96038622/164861
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/WbnTdy5h/NPC.png" group-title="Portugal", Nasci Para Cantar
 https://stmv5.samcast.com.br/nasciparacantartv/nasciparacantartv/chunklist_w151309571.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Portugal", *PANDA BIGGS
+https://nl1.rocketdns.info:25463/live/26725074/92867131/944.m3u8?token=HkNcWEBYFAkUUQEFBwRSDAJSUwcIC1ZWVQcGBQZcUAIEUANfUAMGUVQSH0ZAFRFRUwtoXlQaXgpWVR8TRhZXQToIUBsJEgUAAwUDUxFNQUBbC1IVCghIERIIVxMJRwEEUlQCGx8SU0tCVUEKUg08UFcQXlRVGl5dFw1fHREKXGwBBFlYXVQUCRQAEUgRCBBEEFxZQlxUSBEACEdDUhFXEV9DBwoFABQfFFNcEV0VEU0QXBVnZBpIEQcZR1RdFltcC0MOG14DQwsUHBENQD4RUUESRVJRVQFBQFsRARFJEF4EGWtaXF5YVlVEWgtdEkEOEFIVGxJVC10LFVxDbBVbV0dbFggACQUEFE0=
