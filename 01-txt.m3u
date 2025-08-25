@@ -23,10 +23,14 @@ http://tv14s.xyz:8080/77709038/96038622/164958
 http://tv14s.xyz:8080/77709038/96038622/164792
 #EXTINF:-1  tvg-logo="" group-title="Portugal", *RTP 1
 http://user.scalecdn.co:8080/live/26725074/92867131/869.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Portugal", *RTP 1
+https://clouding.wideiptv.top/RTP1/tracks-v1/index.fmp4.m3u8?token=826562830aa7b906b88e533a6f91971bfc7d1ed2-58a8df1104d6d0899ab693f802febd4d-1756164438-1756153638
 #EXTINF:-1  tvg-logo="" group-title="Portugal", *SIC
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_3.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Portugal", TVI
 http://tv14s.xyz:8080/77709038/96038622/78526
+#EXTINF:-1  tvg-logo="" group-title="Portugal", *TVI
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/tvi.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Portugal", CNN
 http://tv14s.xyz:8080/77709038/96038622/164802
 #EXTINF:-1  tvg-logo="" group-title="Portugal", *RTP 3
