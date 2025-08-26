@@ -1,6 +1,6 @@
 3000u  iimitada
 #EXTM3U
-#EXTINF:-1  tvg-logo="" group-title="Vazio", 
+#EXTINF:-1  tvg-logo="" group-title="Vazio",vazio
 https://videos.pexels.com/video-files/854925/854925-hd_1280_720_30fps.mp4
 
 #EXTINF:-1  tvg-logo="" group-title="Videoclube",The Severed Sun (2025)
@@ -4131,6 +4131,7 @@ http://dnssp.site:8080/movie/ZdEtSNbXb37d/xbb2ns98aprW/444597.mp4
 http://dnssp.site:8080/movie/ZdEtSNbXb37d/xbb2ns98aprW/444598.mp4
 #EXTINF:-1  tvg-logo="" group-title="Videoclube",O Feitiço
 http://dnssp.site:8080/movie/ZdEtSNbXb37d/xbb2ns98aprW/444599.mp4
+
 
 
 
