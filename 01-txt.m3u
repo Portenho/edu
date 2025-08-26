@@ -24,29 +24,46 @@ http://tv14s.xyz:8080/77709038/96038622/164792
 #EXTINF:-1  tvg-logo="" group-title="Portugal", *RTP 1
 http://user.scalecdn.co:8080/live/26725074/92867131/869.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Portugal", *RTP 1
-https://clouding.wideiptv.top/RTP1/tracks-v1/index.fmp4.m3u8?token=826562830aa7b906b88e533a6f91971bfc7d1ed2-58a8df1104d6d0899ab693f802febd4d-1756164438-1756153638
+https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Portugal", *RTP 2
+https://streaming-live.rtp.pt/liverepeater/rtp2HD.smil/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Portugal", *SIC
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_3.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Portugal", *SIC
+https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_5.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Portugal", TVI
 http://tv14s.xyz:8080/77709038/96038622/78526
 #EXTINF:-1  tvg-logo="" group-title="Portugal", *TVI
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/tvi.m3u8
-#EXTINF:-1  tvg-logo="" group-title="Portugal", CNN
-http://tv14s.xyz:8080/77709038/96038622/164802
 #EXTINF:-1  tvg-logo="" group-title="Portugal", *RTP 3
 http://user.scalecdn.co:8080/live/26725074/92867131/866.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Portugal", *RTP 3
+https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Portugal", *SIC NOTICIIAS
+https://d277k9d1h9dro4.cloudfront.net/out/v1/293e7c3464824cbd8818ab8e49dc5fe9/index_4.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Portugal", CNN
+http://tv14s.xyz:8080/77709038/96038622/164802
 #EXTINF:-1  tvg-logo="" group-title="Portugal", *PORTO CANAL
 http://user.scalecdn.co:8080/live/26725074/92867131/872.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Portugal", *RTP MEMÓRIA
+http://user.scalecdn.co:8080/live/26725074/92867131/862.m3u8
+
+
+
 #EXTINF:-1  tvg-logo="" group-title="Portugal", SPORT TV+
 http://ugeen.live:8080/exskypeleoshare-jordansat4u/50/2165
 #EXTINF:-1  tvg-logo="" group-title="Portugal", SPORT TV 1
 http://tv14s.xyz:8080/77709038/96038622/167742
 #EXTINF:-1  tvg-logo="" group-title="Portugal", SPORT TV 1
 http://ugeen.live:8080/exskypeleoshare-jordansat4u/50/2166
+#EXTINF:-1  tvg-logo="" group-title="Portugal", *SPORT TV 1
+http://user.scalecdn.co:8080/live/26725074/92867131/849.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Portugal", SPORT TV 2
 http://tv14s.xyz:8080/77709038/96038622/167743
 #EXTINF:-1  tvg-logo="" group-title="Portugal", SPORT TV 2
 http://ugeen.live:8080/exskypeleoshare-jordansat4u/50/2167
+#EXTINF:-1 tvg-id="1" tvg-logo="2" group-title="Generalistas",*SPORT TV 2
+http://user.scalecdn.co:8080/live/26725074/92867131/847.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Portugal", SPORT TV 3
 http://tv14s.xyz:8080/77709038/96038622/167744
 #EXTINF:-1  tvg-logo="" group-title="Portugal", SPORT TV 3
