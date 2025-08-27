@@ -64,7 +64,7 @@ http://user.scalecdn.co:8080/live/26725074/92867131/849.m3u8
 http://tv14s.xyz:8080/77709038/96038622/167743
 #EXTINF:-1  tvg-logo="" group-title="Portugal", SPORT TV 2
 http://ugeen.live:8080/exskypeleoshare-jordansat4u/50/2167
-#EXTINF:-1 tvg-id="1" tvg-logo="2" group-title="Generalistas",*SPORT TV 2
+#EXTINF:-1 tvg-id="1" tvg-logo="2" group-title="Portugal",*SPORT TV 2
 http://user.scalecdn.co:8080/live/26725074/92867131/847.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Portugal", SPORT TV 3
 http://tv14s.xyz:8080/77709038/96038622/167744
