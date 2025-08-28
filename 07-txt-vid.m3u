@@ -3,8 +3,8 @@
 #EXTINF:-1  tvg-logo="" group-title="Vazio",vazio
 https://videos.pexels.com/video-files/854925/854925-hd_1280_720_30fps.mp4
 
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Karate_Kid_Legends_Poster.jpg/250px-Karate_Kid_Legends_Poster.jpg" group-title="Videoclube",Karate Kid Legend (2025)
-https://www.dailymotion.com/cdn/manifest/video/x9pk4u2.m3u8?sec=ASxJjkyqA6wWC1i0_fdwi0yMv4IBKS57v1wEP4R3ggsNDNLYe8Sd7NdRXQa8C9agcvGdK3Bccc3T0Lm9PPMm0zNpYoo2qGre3U2rdPaG8EwY28rv3FPDWtVDoQ0AVocf&dmTs=588144&dmV1st=22cf44e8-9338-4ec2-9650-519705d032d7
+tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Karate_Kid_Legends_Poster.jpg/250px-Karate_Kid_Legends_Poster.jpg" group-title="Videoclube",Karate Kid Legend (2025)
+dailymotion.com/cdn/manifest/video/x9pk4u2.m3u8?sec=ASxJjkyqA6wWC1i0_fdwi0yMv4IBKS57v1wEP4R3ggsNDNLYe8Sd7NdRXQa8C9agcvGdK3Bccc3T0Lm9PPMm0zNpYoo2qGre3U2rdPaG8EwY28rv3FPDWtVDoQ0AVocf&dmTs=588144&dmV1st=22cf44e8-9338-4ec2-9650-519705d032d7
 #EXTINF:-1  tvg-logo="https://m.media-amazon.com/images/M/MV5BODZkNDRjZGYtY2I3ZS00YmI4LWE3NTYtZmZhMjJiMTViZTMyXkEyXkFqcGc@._V1_.jpg" group-title="Videoclube",The Severed Sun (2025)
 http://dnssp.site:8080/movie/ZdEtSNbXb37d/xbb2ns98aprW/655280.mp4
 #EXTINF:-1  tvg-logo="https://m.media-amazon.com/images/M/MV5BNzE4MDU5NGYtNWUwNy00NDY2LWE5ZDQtOGEwYzMwYjUzYjUzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Videoclube",Marcello Mio (2025)
@@ -4133,6 +4133,7 @@ http://dnssp.site:8080/movie/ZdEtSNbXb37d/xbb2ns98aprW/444597.mp4
 http://dnssp.site:8080/movie/ZdEtSNbXb37d/xbb2ns98aprW/444598.mp4
 #EXTINF:-1  tvg-logo="" group-title="Videoclube",O Feitiço
 http://dnssp.site:8080/movie/ZdEtSNbXb37d/xbb2ns98aprW/444599.mp4
+
 
 
 
