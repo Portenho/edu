@@ -1,10 +1,20 @@
 3000u  iimitada
 #EXTM3U
-#EXTINF:-1  tvg-logo="" group-title="Vazio",vazio
-https://videos.pexels.com/video-files/854925/854925-hd_1280_720_30fps.mp4
 
-tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Karate_Kid_Legends_Poster.jpg/250px-Karate_Kid_Legends_Poster.jpg" group-title="Videoclube",Karate Kid Legend (2025)
-dailymotion.com/cdn/manifest/video/x9pk4u2.m3u8?sec=ASxJjkyqA6wWC1i0_fdwi0yMv4IBKS57v1wEP4R3ggsNDNLYe8Sd7NdRXQa8C9agcvGdK3Bccc3T0Lm9PPMm0zNpYoo2qGre3U2rdPaG8EwY28rv3FPDWtVDoQ0AVocf&dmTs=588144&dmV1st=22cf44e8-9338-4ec2-9650-519705d032d7
+#EXTINF:-1  tvg-logo="https://m.media-amazon.com/images/M/MV5BMzVhZjkzYzQtODgyNS00NGY2LThiNDktN2E4ODJiZGYyZjZhXkEyXkFqcGc@._V1_.jpg" group-title="Videoclube",Jurassic World: Recomeço (2025)http://dnssp.site:8080/movie/ZdEtSNbXb37d/xbb2ns98aprW/643381.mp4
+#EXTINF:-1  tvg-logo="https://m.media-amazon.com/images/M/MV5BOWM0ZjUxYmQtZmI5Mi00MGQyLThiODUtZDhhMzFmOGRiMDU0XkEyXkFqcGc@._V1_FMjpg_UY506_.jpg" group-title="Videoclube",Os Caras Malvados 2 (2025)
+http://dnssp.site:8080/movie/ZdEtSNbXb37d/xbb2ns98aprW/655262.mp4
+#EXTINF:-1  tvg-logo="https://m.media-amazon.com/images/M/MV5BODVlNTAzYjktMWEwYy00ZThmLThiNmItMDBiZGUxODllZWU3XkEyXkFqcGc@._V1_.jpg" group-title="Videoclube",F1 - O Filme (2025)
+http://dnssp.site:8080/movie/ZdEtSNbXb37d/xbb2ns98aprW/655260.mp4
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_bestv2//oCW2C7lIFZTognIIT4YZISVz5rd.jpg" group-title="Videoclube",Gold Rush Gang (2025)
+https://908472017.tapecontent.net/radosgw/ZrQByad4VxSqLmV/6B-HMzNqEtAOwb_HZPW-H06qvdmQSLr5TAd3DKM-dlX-BbyzahR8ZRXRWSJ4o74Yplhvl2PCFRZ5CVWtLi7HXxWe4S0D15vTIht3rahBCUm_NlguBmJGgdY7b9GYCErBCGe70feMjU8_e9zqcHJRCVhPIqvZLeJiETkMLjFs5fUgxMPI3-z1nk6T6F0Navdbxy88MCnqLMoxzbbIdCSoojSssoWgY9vVLlA3rxgK6KqjMFNB37jQ1m15caSHwVNpoEkyerXFP87nG7GWHcjAd0a2ldzuq7tO2ghtuBdksxISBHBFkEi5u6cHiSs4zBI73SKLKrZYIYXVk2vx/Gold.Rush.Gang.2025.1080p.WEBRip.x264.AAC5.1-YTS.MX.mp4?stream=1
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_bestv2//w2ARwtc1zoh0pyfwmyhpZHwuXgK.jpg" group-title="Videoclube",Elio [PT] (2025)
+https://mixdrop.sn/e/03r8p3embkx1wkr
+#EXTINF:-1  tvg-logo="https://cdn.bcdn.zip/wp-content/uploads/2025/05/lkUN8wa.png" group-title="Videoclube",Thunderbolts* (2025)
+http://dnssp.site:8080/movie/ZdEtSNbXb37d/xbb2ns98aprW/439210.mp4
+
+
+
 #EXTINF:-1  tvg-logo="https://m.media-amazon.com/images/M/MV5BODZkNDRjZGYtY2I3ZS00YmI4LWE3NTYtZmZhMjJiMTViZTMyXkEyXkFqcGc@._V1_.jpg" group-title="Videoclube",The Severed Sun (2025)
 http://dnssp.site:8080/movie/ZdEtSNbXb37d/xbb2ns98aprW/655280.mp4
 #EXTINF:-1  tvg-logo="https://m.media-amazon.com/images/M/MV5BNzE4MDU5NGYtNWUwNy00NDY2LWE5ZDQtOGEwYzMwYjUzYjUzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Videoclube",Marcello Mio (2025)
@@ -17,10 +27,8 @@ http://dnssp.site:8080/movie/ZdEtSNbXb37d/xbb2ns98aprW/655269.mp4
 http://dnssp.site:8080/movie/ZdEtSNbXb37d/xbb2ns98aprW/655268.mp4
 #EXTINF:-1  tvg-logo="https://m.media-amazon.com/images/M/MV5BM2I5NWIxMjAtOTliZC00NTAxLWJhZjktZWUwMzMwZDgxZTZmXkEyXkFqcGc@._V1_.jpg" group-title="Videoclube",40 Acres (2025)
 http://dnssp.site:8080/movie/ZdEtSNbXb37d/xbb2ns98aprW/655267.mp4
-#EXTINF:-1  tvg-logo="https://m.media-amazon.com/images/M/MV5BOWM0ZjUxYmQtZmI5Mi00MGQyLThiODUtZDhhMzFmOGRiMDU0XkEyXkFqcGc@._V1_FMjpg_UY506_.jpg" group-title="Videoclube",Os Caras Malvados 2 (2025)
-http://dnssp.site:8080/movie/ZdEtSNbXb37d/xbb2ns98aprW/655262.mp4
-#EXTINF:-1  tvg-logo="https://m.media-amazon.com/images/M/MV5BODVlNTAzYjktMWEwYy00ZThmLThiNmItMDBiZGUxODllZWU3XkEyXkFqcGc@._V1_.jpg" group-title="Videoclube",F1 - O Filme (2025)
-http://dnssp.site:8080/movie/ZdEtSNbXb37d/xbb2ns98aprW/655260.mp4
+#EXTINF:-1  tvg-logo="https://m.media-amazon.com/images/M/MV5BMzMyMTI1NjgtNDhiZS00MDI3LTliOWUtY2UwODhjYjdmZmJlXkEyXkFqcGc@._V1_.jpg" group-title="Videoclube",Heroína (2025)
+http://dnssp.site:8080/movie/ZdEtSNbXb37d/xbb2ns98aprW/643505.mp4
 #EXTINF:-1  tvg-logo="https://m.media-amazon.com/images/M/MV5BODMzY2U1YjQtNzFiOC00NzA2LWI3MDMtNjdlNDMwMzc3MTI3XkEyXkFqcGc@._V1_.jpg" group-title="Videoclube",Elio (2025)
 http://dnssp.site:8080/movie/ZdEtSNbXb37d/xbb2ns98aprW/655259.mp4
 #EXTINF:-1  tvg-logo="https://m.media-amazon.com/images/M/MV5BNmM0Yzc1ZjAtZTg4My00NDI3LWEwMzAtY2ZkNzMxMWMwOTFlXkEyXkFqcGc@._V1_.jpg" group-title="Videoclube",Eddington (2025)
@@ -39,12 +47,8 @@ http://dnssp.site:8080/movie/ZdEtSNbXb37d/xbb2ns98aprW/643509.mp4
 http://dnssp.site:8080/movie/ZdEtSNbXb37d/xbb2ns98aprW/643508.mp4
 #EXTINF:-1  tvg-logo="https://m.media-amazon.com/images/M/MV5BY2ZiNTI5N2QtZDAzYS00MTYyLWI3ZTAtMjQwMDVjZTg3NzNlXkEyXkFqcGc@._V1_.jpg" group-title="Videoclube",Regras do Amor na Cidade Grande (2024)
 http://dnssp.site:8080/movie/ZdEtSNbXb37d/xbb2ns98aprW/643507.mp4
-#EXTINF:-1  tvg-logo="https://m.media-amazon.com/images/M/MV5BMzMyMTI1NjgtNDhiZS00MDI3LTliOWUtY2UwODhjYjdmZmJlXkEyXkFqcGc@._V1_.jpg" group-title="Videoclube",Heroína (2025)
-http://dnssp.site:8080/movie/ZdEtSNbXb37d/xbb2ns98aprW/643505.mp4
 #EXTINF:-1  tvg-logo="https://m.media-amazon.com/images/M/MV5BOWM4NDY4MTUtNGVmMS00MGJkLWFkN2YtZmQwNzNmYmFjYzJkXkEyXkFqcGc@._V1_.jpg" group-title="Videoclube",A Colheita (2025)
 http://dnssp.site:8080/movie/ZdEtSNbXb37d/xbb2ns98aprW/643503.mp4
-#EXTINF:-1  tvg-logo="https://m.media-amazon.com/images/M/MV5BMzVhZjkzYzQtODgyNS00NGY2LThiNDktN2E4ODJiZGYyZjZhXkEyXkFqcGc@._V1_.jpg" group-title="Videoclube",Jurassic World: Recomeço (2025)
-http://dnssp.site:8080/movie/ZdEtSNbXb37d/xbb2ns98aprW/643381.mp4
 #EXTINF:-1  tvg-logo="https://m.media-amazon.com/images/M/MV5BNmQ0NWRlN2UtODkzYy00Y2ViLTgzNDMtNmU1Yzc0ZTRlZGUxXkEyXkFqcGc@._V1_.jpg" group-title="Videoclube",The Salt Path (2025)
 http://dnssp.site:8080/movie/ZdEtSNbXb37d/xbb2ns98aprW/643343.mp4
 #EXTINF:-1  tvg-logo="https://m.media-amazon.com/images/M/MV5BNjYwNzkyODAtZTRlNi00MmE2LTlmODktZmJmYWVmMzQ5NTk0XkEyXkFqcGc@._V1_.jpg" group-title="Videoclube",Daniela Forever (2024)
@@ -908,8 +912,7 @@ http://dnssp.site:8080/movie/ZdEtSNbXb37d/xbb2ns98aprW/439199.mp4
 http://dnssp.site:8080/movie/ZdEtSNbXb37d/xbb2ns98aprW/439200.mp4
 #EXTINF:-1  tvg-logo="" group-title="Videoclube",Rainha do Ring (2025)
 http://dnssp.site:8080/movie/ZdEtSNbXb37d/xbb2ns98aprW/439201.mp4
-#EXTINF:-1  tvg-logo="" group-title="Videoclube",Thunderbolts* (2025)
-http://dnssp.site:8080/movie/ZdEtSNbXb37d/xbb2ns98aprW/439210.mp4
+
 #EXTINF:-1  tvg-logo="" group-title="Videoclube",Faça Ela Voltar (2025)
 http://dnssp.site:8080/movie/ZdEtSNbXb37d/xbb2ns98aprW/439595.mp4
 #EXTINF:-1  tvg-logo="" group-title="Videoclube",Tornado (2025)
@@ -4133,3 +4136,6 @@ http://dnssp.site:8080/movie/ZdEtSNbXb37d/xbb2ns98aprW/444597.mp4
 http://dnssp.site:8080/movie/ZdEtSNbXb37d/xbb2ns98aprW/444598.mp4
 #EXTINF:-1  tvg-logo="" group-title="Videoclube",O Feitiço
 http://dnssp.site:8080/movie/ZdEtSNbXb37d/xbb2ns98aprW/444599.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="Vazio",vazio
+https://videos.pexels.com/video-files/854925/854925-hd_1280_720_30fps.mp4
