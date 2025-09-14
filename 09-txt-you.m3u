@@ -1,6 +1,6 @@
 #EXTM3U
 
-########### LIVE MUSIC ############
+################################################### [Playlist]#######################################################
 
 #EXTINF:0 type="video" description="" tvg-logo="https://postimg.cc/62BrfL5M" group-title="Playlist",Top Hits Summer Playlist 2025
 https://youtu.be/embed/fTKqtvXjkvo?si=favIMbRVZAiRTVAk
@@ -28,6 +28,9 @@ https://youtu.be/embed/jeel8be1l7Y?si=AVeuKa6Wlp7-b8JJ
 
 #EXTINF:0 type="video" description="" tvg-logo="https://postimg.cc/62BrfL5M" group-title="Playlist",Calm Chillout Music
 https://youtu.be/embed/sgAwqkyXQZU?si=h1cdNmtVwjjUsZXo
+
+#EXTINF:0 type="video" description="" tvg-logo="https://postimg.cc/62BrfL5M" group-title="Playlist", Tomorrowland - One World Radio
+https://youtu.be/embed/h2PtKeomBEE?si=k5oRnKQRVgr7PQxl
 
 #EXTINF:0 type="video" description="" tvg-logo="https://postimg.cc/62BrfL5M" group-title="Playlist",Chill Tropical para Energizar o Dia
 https://youtu.be/embed/7HlzAqd0Buw?si=ehouJbgws_DNnkbh
@@ -99,9 +102,13 @@ https://youtu.be/embed/RemT17nT5tY?si=Yv1mF5OhNPGvkKl5
 #EXTINF:0 type="video" description="" tvg-logo="https://postimg.cc/PC4r8m9X" group-title="Live Playlist", Musica Para Dormir II
 https://youtu.be/embed/SjkGdCuT8zg?si=1b5y3UjtkLiCt_Kj
 
+################################################### [Music Playlists]#######################################################
 
+#EXTINF:0 type="video" description="" tvg-logo="https://postimg.cc/PC4r8m9X" group-title="Music Playlist", 
+https://youtu.be/embed/woLfAvD5iXI&list=PLUemwAVGSh5Y2pukyAltSukqLoY2ZZVvY&index=1
 
-
+#EXTINF:0 type="video" description="" tvg-logo="https://postimg.cc/PC4r8m9X" group-title="Music Playlist",
+https://youtu.be/embed/PLUemwAVGSh5Y2pukyAltSukqLoY2ZZVvY
 
 
 
