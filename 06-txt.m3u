@@ -1,90 +1,35 @@
-EXPIRA EM 26-06-2028 - 10 Users
-#EXTM3U url-tvg="https://raw.githubusercontent.com/f0nZ/epg-tv-portuguesa/master/guide.xml"
-#EXTINF:-1  tvg-logo="" group-title="Brasil", Globo SP
-http://1tv41.icu:8080/A4qWjw/912259/21020
-#EXTINF:-1  tvg-logo="" group-title="Brasil", SBT
-http://1tv41.icu:8080/A4qWjw/912259/20978
-#EXTINF:-1  tvg-logo="" group-title="Brasil", AMC
-http://1tv41.icu:8080/A4qWjw/912259/164938
-#EXTINF:-1  tvg-logo="" group-title="Brasil", GLOBO
-http://1tv41.icu:8080/A4qWjw/912259/164943
-#EXTINF:-1  tvg-logo="" group-title="Brasil", GLOBO MINAS
-http://1tv41.icu:8080/A4qWjw/912259/164944
-#EXTINF:-1  tvg-logo="" group-title="Brasil", GLOBO NEWS
-http://1tv41.icu:8080/A4qWjw/912259/164945
-#EXTINF:-1  tvg-logo="" group-title="Brasil", ESPN
-http://1tv41.icu:8080/A4qWjw/912259/164948
-#EXTINF:-1  tvg-logo="" group-title="Brasil", HBO
-http://1tv41.icu:8080/A4qWjw/912259/164950
-#EXTINF:-1  tvg-logo="" group-title="Brasil", TNT SERIES
-http://1tv41.icu:8080/A4qWjw/912259/164958
-
-
-#EXTINF:-1  tvg-logo="" group-title="Portugal", RTP 1
-http://1tv41.icu:8080/A4qWjw/912259/164792
-#EXTINF:-1  tvg-logo="" group-title="Portugal", TVI
-http://1tv41.icu:8080/A4qWjw/912259/78526
-#EXTINF:-1  tvg-logo="" group-title="Portugal", CNN
-http://1tv41.icu:8080/A4qWjw/912259/164802
-#EXTINF:-1  tvg-logo="" group-title="Portugal", SPORT TV+
-http://ugeen.live:8080/exskypeleoshare-jordansat4u/50/2165
-#EXTINF:-1  tvg-logo="" group-title="Portugal", SPORT TV 1
-http://1tv41.icu:8080/A4qWjw/912259/167742
-#EXTINF:-1  tvg-logo="" group-title="Portugal", SPORT TV 1
-http://ugeen.live:8080/exskypeleoshare-jordansat4u/50/2166
-#EXTINF:-1  tvg-logo="" group-title="Portugal", SPORT TV 2
-http://1tv41.icu:8080/A4qWjw/912259/167743
-#EXTINF:-1  tvg-logo="" group-title="Portugal", SPORT TV 2
-http://ugeen.live:8080/exskypeleoshare-jordansat4u/50/2167
-#EXTINF:-1  tvg-logo="" group-title="Portugal", SPORT TV 3
-http://1tv41.icu:8080/A4qWjw/912259/167744
-#EXTINF:-1  tvg-logo="" group-title="Portugal", SPORT TV 3
-http://ugeen.live:8080/exskypeleoshare-jordansat4u/50/2168
-#EXTINF:-1  tvg-logo="" group-title="Portugal", SPORT TV 4
-http://1tv41.icu:8080/A4qWjw/912259/167745
-#EXTINF:-1  tvg-logo="" group-title="Portugal", SPORT TV 4
-http://ugeen.live:8080/exskypeleoshare-jordansat4u/50/2169
-#EXTINF:-1  tvg-logo="" group-title="Portugal", SPORT TV 5
-http://ugeen.live:8080/exskypeleoshare-jordansat4u/50/2170
-#EXTINF:-1  tvg-logo="" group-title="Portugal", *BENFICA TV
-http://user.scalecdn.co:8080/live/26725074/92867131/640766.m3u8
-#EXTINF:-1  tvg-logo="" group-title="Portugal", ELEVEN SPORTS 1
-http://1tv41.icu:8080/A4qWjw/912259/35264
-#EXTINF:-1  tvg-logo="" group-title="Portugal", ELEVEN SPORTS 1
-http://ugeen.live:8080/exskypeleoshare-jordansat4u/50/3279
-#EXTINF:-1  tvg-logo="" group-title="Portugal", ELEVEN SPORTS 2
-http://ugeen.live:8080/exskypeleoshare-jordansat4u/50/3280
-#EXTINF:-1  tvg-logo="" group-title="Portugal", ELEVEN SPORTS 3
-http://1tv41.icu:8080/A4qWjw/912259/167748
-#EXTINF:-1  tvg-logo="" group-title="Portugal", ELEVEN SPORTS 3
-http://ugeen.live:8080/exskypeleoshare-jordansat4u/50/3281
-#EXTINF:-1  tvg-logo="" group-title="Portugal", ELEVEN SPORTS 4
-http://1tv41.icu:8080/A4qWjw/912259/167749
-#EXTINF:-1  tvg-logo="" group-title="Portugal", ELEVEN SPORTS 4
-http://ugeen.live:8080/exskypeleoshare-jordansat4u/50/3282
-#EXTINF:-1  tvg-logo="" group-title="Portugal", ELEVEN SPORTS 5
-http://1tv41.icu:8080/A4qWjw/912259/167750
-#EXTINF:-1  tvg-logo="" group-title="Portugal", TV CINE ACTION
-http://1tv41.icu:8080/A4qWjw/912259/164809
-#EXTINF:-1  tvg-logo="" group-title="Portugal", NOS STUDIOS
-http://1tv41.icu:8080/A4qWjw/912259/164811
-#EXTINF:-1  tvg-logo="" group-title="Portugal", HOLLYWOOD
-http://1tv41.icu:8080/A4qWjw/912259/164813
-#EXTINF:-1  tvg-logo="" group-title="Portugal", AXN WHITE
-http://1tv41.icu:8080/A4qWjw/912259/164815
-#EXTINF:-1  tvg-logo="" group-title="Portugal", AXN MOVIES
-http://1tv41.icu:8080/A4qWjw/912259/164818
-#EXTINF:-1  tvg-logo="" group-title="Portugal", SYFY
-http://1tv41.icu:8080/A4qWjw/912259/164821
-#EXTINF:-1  tvg-logo="" group-title="Portugal", TV GLOBO
-http://1tv41.icu:8080/A4qWjw/912259/164824
-#EXTINF:-1  tvg-logo="" group-title="Portugal", ZAP VIVA
-http://1tv41.icu:8080/A4qWjw/912259/164853
-#EXTINF:-1  tvg-logo="" group-title="Portugal", TPA INTERNACIONAL
-http://1tv41.icu:8080/A4qWjw/912259/164855
-#EXTINF:-1  tvg-logo="" group-title="Portugal", TVC CABO VERDE
-http://1tv41.icu:8080/A4qWjw/912259/164858
-#EXTINF:-1  tvg-logo="" group-title="Portugal", TVI REALITY
-http://1tv41.icu:8080/A4qWjw/912259/164861
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/WbnTdy5h/NPC.png" group-title="Portugal", Nasci Para Cantar
-https://stmv5.samcast.com.br/nasciparacantartv/nasciparacantartv/chunklist_w151309571.m3u8
+#EXTM3U
+#EXTINF:-1,PT - DISNEY CHANNEL HD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/763964
+#EXTINF:-1,PT - DISNEY JUNIOR HD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/763966
+#EXTINF:-1,PT - CANAL PANDA HD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/763946
+#EXTINF:-1,PT - PANDA KIDS HD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/764029
+#EXTINF:-1,PT - CARTOON NETWORK HD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/763950
+#EXTINF:-1,PT - CARTOONITO HD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/763953
+#EXTINF:-1,PT - NICKELODEON HD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/764024
+#EXTINF:-1,PT - SIC K HD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/68409
+#EXTINF:-1,PT - KANUCA TV
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/983270
+#EXTINF:-1,PT - JIM JAM SD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1030867
+#EXTINF:-1,PT - BABY TV HD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/763936
+#EXTINF:-1,PT - LOLLY KIDS FHD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/764111
+#EXTINF:-1,PT - LOLLY KIDS HD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/764113
+#EXTINF:-1,PT - BIGGS HD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/763938
+#EXTINF:-1,PT - BIGGS SD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/68408
+#EXTINF:-1,PT - BOOMERANG HD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/174208
+#EXTINF:-1,PT - BOOMERANG SD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/174218
