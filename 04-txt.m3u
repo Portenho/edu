@@ -1,90 +1,106 @@
-EXPIRA EM 01-07-2028 - 10 Users
-#EXTM3U url-tvg="https://raw.githubusercontent.com/f0nZ/epg-tv-portuguesa/master/guide.xml"
-#EXTINF:-1  tvg-logo="" group-title="Brasil", Globo SP
-http://cord-cutter.net:8080/a6Uqx5/738579/21020
-#EXTINF:-1  tvg-logo="" group-title="Brasil", SBT
-http://cord-cutter.net:8080/a6Uqx5/738579/20978
-#EXTINF:-1  tvg-logo="" group-title="Brasil", AMC
-http://cord-cutter.net:8080/a6Uqx5/738579/164938
-#EXTINF:-1  tvg-logo="" group-title="Brasil", GLOBO
-http://cord-cutter.net:8080/a6Uqx5/738579/164943
-#EXTINF:-1  tvg-logo="" group-title="Brasil", GLOBO MINAS
-http://cord-cutter.net:8080/a6Uqx5/738579/164944
-#EXTINF:-1  tvg-logo="" group-title="Brasil", GLOBO NEWS
-http://cord-cutter.net:8080/a6Uqx5/738579/164945
-#EXTINF:-1  tvg-logo="" group-title="Brasil", ESPN
-http://cord-cutter.net:8080/a6Uqx5/738579/164948
-#EXTINF:-1  tvg-logo="" group-title="Brasil", HBO
-http://cord-cutter.net:8080/a6Uqx5/738579/164950
-#EXTINF:-1  tvg-logo="" group-title="Brasil", TNT SERIES
-http://cord-cutter.net:8080/a6Uqx5/738579/164958
+#EXTM3U
+#EXTINF:-1,PT - TVCINE ACTION UHD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1030832
+#EXTINF:-1,PT - TV CINE ACTION FHD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/68400
+#EXTINF:-1,PT - TVCINE EDITION UHD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1030830
+#EXTINF:-1,PT - TV CINE EDITION FHD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/764094
+#EXTINF:-1,PT - TV CINE EDITION FHD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/68402
+#EXTINF:-1,PT - TVCINE EMOTION UHD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1030831
+#EXTINF:-1,PT - TV CINE EMOTION FHD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/764096
+#EXTINF:-1,PT - TV CINE EMOTION FHD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/68401
+#EXTINF:-1,PT - TVCINE TOP UHD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1030829
+#EXTINF:-1,PT - TV CINE TOP  FHD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/68403
+#EXTINF:-1,PT - TV CINE TOP FHD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/764098
+#EXTINF:-1,PT - TV SERIES SD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/68390
+#EXTINF:-1,PT - NOS STUDIOS UHD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1030833
+#EXTINF:-1,PT - NOS STUDIOS HD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/155392
+#EXTINF:-1,PT - HOLLYWOOD FHD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1030834
+#EXTINF:-1,PT - HOLLYWOOD HD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/68399
+#EXTINF:-1,PT - CINEMUNDO HD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/763955
+#EXTINF:-1,PT - AXN UHD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1030841
+#EXTINF:-1,PT - AXN FHD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/763929
+#EXTINF:-1,PT - AXN HD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/68389
+#EXTINF:-1,PT - AXN MOVIES FHD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/763931
+#EXTINF:-1,PT - AXN MOVIES HD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1030844
+#EXTINF:-1,PT - AXN WHITE FHD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/763933
+#EXTINF:-1,PT - AXN WHITE HD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/68387
+#EXTINF:-1,PT - AXN BLACK HD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/68388
+#EXTINF:-1,PT - FOX UHD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1030838
+#EXTINF:-1,PT - FOX HD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/68394
+#EXTINF:-1,PT - FOX CRIME UHD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1030839
+#EXTINF:-1,PT - FOX CRIME HD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/68392
+#EXTINF:-1,PT - FOX LIFE HD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/68393
+#EXTINF:-1,PT - FOX MOVIES HD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/68298
+#EXTINF:-1,PT - FOX COMEDY HD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/68301
+#EXTINF:-1,PT - STAR CHANNEL FHD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/764070
+#EXTINF:-1,PT - STAR CHANNEL HD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/764072
+#EXTINF:-1,PT - STAR MOVIES HD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/764084
+#EXTINF:-1,PT - STAR MOVIES SD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/764082
+#EXTINF:-1,PT - STAR CRIME FHD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/764076
+#EXTINF:-1,PT - STAR CRIME HD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/764078
+#EXTINF:-1,PT - STAR LIFE FHD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/764079
+#EXTINF:-1,PT - STAR LIFE HD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1030847
+#EXTINF:-1,PT - STAR COMEDY HD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/764075
+#EXTINF:-1,PT - DIZI CHANNEL HD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1075482
+#EXTINF:-1,PT - AMC UHD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1030836
+#EXTINF:-1,PT - AMC HD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/68332
+#EXTINF:-1,PT - AMC BREAK HD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/763922
+#EXTINF:-1,PT - AMC CRIME HD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/763925
 
 
-#EXTINF:-1  tvg-logo="" group-title="Portugal", RTP 1
-http://cord-cutter.net:8080/a6Uqx5/738579/164792
-#EXTINF:-1  tvg-logo="" group-title="Portugal", TVI
-http://cord-cutter.net:8080/a6Uqx5/738579/78526
-#EXTINF:-1  tvg-logo="" group-title="Portugal", CNN
-http://cord-cutter.net:8080/a6Uqx5/738579/164802
-#EXTINF:-1  tvg-logo="" group-title="Portugal", SPORT TV+
-http://ugeen.live:8080/exskypeleoshare-jordansat4u/50/2165
-#EXTINF:-1  tvg-logo="" group-title="Portugal", SPORT TV 1
-http://cord-cutter.net:8080/a6Uqx5/738579/167742
-#EXTINF:-1  tvg-logo="" group-title="Portugal", SPORT TV 1
-http://ugeen.live:8080/exskypeleoshare-jordansat4u/50/2166
-#EXTINF:-1  tvg-logo="" group-title="Portugal", SPORT TV 2
-http://cord-cutter.net:8080/a6Uqx5/738579/167743
-#EXTINF:-1  tvg-logo="" group-title="Portugal", SPORT TV 2
-http://ugeen.live:8080/exskypeleoshare-jordansat4u/50/2167
-#EXTINF:-1  tvg-logo="" group-title="Portugal", SPORT TV 3
-http://cord-cutter.net:8080/a6Uqx5/738579/167744
-#EXTINF:-1  tvg-logo="" group-title="Portugal", SPORT TV 3
-http://ugeen.live:8080/exskypeleoshare-jordansat4u/50/2168
-#EXTINF:-1  tvg-logo="" group-title="Portugal", SPORT TV 4
-http://cord-cutter.net:8080/a6Uqx5/738579/167745
-#EXTINF:-1  tvg-logo="" group-title="Portugal", SPORT TV 4
-http://ugeen.live:8080/exskypeleoshare-jordansat4u/50/2169
-#EXTINF:-1  tvg-logo="" group-title="Portugal", SPORT TV 5
-http://ugeen.live:8080/exskypeleoshare-jordansat4u/50/2170
-#EXTINF:-1  tvg-logo="" group-title="Portugal", *BENFICA TV
-http://user.scalecdn.co:8080/live/26725074/92867131/640766.m3u8
-#EXTINF:-1  tvg-logo="" group-title="Portugal", ELEVEN SPORTS 1
-http://cord-cutter.net:8080/a6Uqx5/738579/35264
-#EXTINF:-1  tvg-logo="" group-title="Portugal", ELEVEN SPORTS 1
-http://ugeen.live:8080/exskypeleoshare-jordansat4u/50/3279
-#EXTINF:-1  tvg-logo="" group-title="Portugal", ELEVEN SPORTS 2
-http://ugeen.live:8080/exskypeleoshare-jordansat4u/50/3280
-#EXTINF:-1  tvg-logo="" group-title="Portugal", ELEVEN SPORTS 3
-http://cord-cutter.net:8080/a6Uqx5/738579/167748
-#EXTINF:-1  tvg-logo="" group-title="Portugal", ELEVEN SPORTS 3
-http://ugeen.live:8080/exskypeleoshare-jordansat4u/50/3281
-#EXTINF:-1  tvg-logo="" group-title="Portugal", ELEVEN SPORTS 4
-http://cord-cutter.net:8080/a6Uqx5/738579/167749
-#EXTINF:-1  tvg-logo="" group-title="Portugal", ELEVEN SPORTS 4
-http://ugeen.live:8080/exskypeleoshare-jordansat4u/50/3282
-#EXTINF:-1  tvg-logo="" group-title="Portugal", ELEVEN SPORTS 5
-http://cord-cutter.net:8080/a6Uqx5/738579/167750
-#EXTINF:-1  tvg-logo="" group-title="Portugal", TV CINE ACTION
-http://cord-cutter.net:8080/a6Uqx5/738579/164809
-#EXTINF:-1  tvg-logo="" group-title="Portugal", NOS STUDIOS
-http://cord-cutter.net:8080/a6Uqx5/738579/164811
-#EXTINF:-1  tvg-logo="" group-title="Portugal", HOLLYWOOD
-http://cord-cutter.net:8080/a6Uqx5/738579/164813
-#EXTINF:-1  tvg-logo="" group-title="Portugal", AXN WHITE
-http://cord-cutter.net:8080/a6Uqx5/738579/164815
-#EXTINF:-1  tvg-logo="" group-title="Portugal", AXN MOVIES
-http://cord-cutter.net:8080/a6Uqx5/738579/164818
-#EXTINF:-1  tvg-logo="" group-title="Portugal", SYFY
-http://cord-cutter.net:8080/a6Uqx5/738579/164821
-#EXTINF:-1  tvg-logo="" group-title="Portugal", TV GLOBO
-http://cord-cutter.net:8080/a6Uqx5/738579/164824
-#EXTINF:-1  tvg-logo="" group-title="Portugal", ZAP VIVA
-http://cord-cutter.net:8080/a6Uqx5/738579/164853
-#EXTINF:-1  tvg-logo="" group-title="Portugal", TPA INTERNACIONAL
-http://cord-cutter.net:8080/a6Uqx5/738579/164855
-#EXTINF:-1  tvg-logo="" group-title="Portugal", TVC CABO VERDE
-http://cord-cutter.net:8080/a6Uqx5/738579/164858
-#EXTINF:-1  tvg-logo="" group-title="Portugal", TVI REALITY
-http://cord-cutter.net:8080/a6Uqx5/738579/164861
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/WbnTdy5h/NPC.png" group-title="Portugal", Nasci Para Cantar
-https://stmv5.samcast.com.br/nasciparacantartv/nasciparacantartv/chunklist_w151309571.m3u8
+
+
+
+
+
+
+
+
+
+
+
