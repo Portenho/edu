@@ -1,90 +1,64 @@
-EXPIRA EM 05-08-2028 - 10 Users
-#EXTM3U url-tvg="https://raw.githubusercontent.com/f0nZ/epg-tv-portuguesa/master/guide.xml"
-#EXTINF:-1  tvg-logo="" group-title="Brasil", Globo SP
-http://xxip25.top:8080/08220585/94235439/21020
-#EXTINF:-1  tvg-logo="" group-title="Brasil", SBT
-http://xxip25.top:8080/08220585/94235439/20978
-#EXTINF:-1  tvg-logo="" group-title="Brasil", AMC
-http://xxip25.top:8080/08220585/94235439/164938
-#EXTINF:-1  tvg-logo="" group-title="Brasil", GLOBO
-http://xxip25.top:8080/08220585/94235439/164943
-#EXTINF:-1  tvg-logo="" group-title="Brasil", GLOBO MINAS
-http://xxip25.top:8080/08220585/94235439/164944
-#EXTINF:-1  tvg-logo="" group-title="Brasil", GLOBO NEWS
-http://xxip25.top:8080/08220585/94235439/164945
-#EXTINF:-1  tvg-logo="" group-title="Brasil", ESPN
-http://xxip25.top:8080/08220585/94235439/164948
-#EXTINF:-1  tvg-logo="" group-title="Brasil", HBO
-http://xxip25.top:8080/08220585/94235439/164950
-#EXTINF:-1  tvg-logo="" group-title="Brasil", TNT SERIES
-http://xxip25.top:8080/08220585/94235439/164958
+#EXTM3U
+#EXTINF:-1,PT - TVI REALITY HD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/806246
+#EXTINF:-1,PT - TVI REALITY CAMERA 1 SD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/287508
+#EXTINF:-1,PT - TVI REALITY CAMERA 2 SD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/287509
+#EXTINF:-1,PT - TVI REALITY CAMERA 3 SD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/287510
+#EXTINF:-1,PT - TVI REALITY CAMERA 4 SD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/287511
+#EXTINF:-1,PT - TVI FICCAO
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/68430
+#EXTINF:-1,PT - SIC NOVELAS FHD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1022297
+#EXTINF:-1,PT - SIC RADICAL HD 
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/68274
+#EXTINF:-1,PT - SIC CARAS HD 
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/68382
+#EXTINF:-1,PT - SIC MULHER SD 
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/68276
+#EXTINF:-1,PT - CANAL Q HD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/763948
+#EXTINF:-1,PT - 24 KITCHEN HEVC
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/763914
+#EXTINF:-1,PT - 24 KITCHEN HD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/68374
+#EXTINF:-1,PT - FOOD NETWORK HD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/280850
+#EXTINF:-1,PT - TOROS TV FHD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/68362
+#EXTINF:-1,PT - E! ENTERTAINMENT HD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/68309
+#EXTINF:-1,PT - TRAVEL CHANNEL UHD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1030859
+#EXTINF:-1,PT - TRAVEL CHANNEL HD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/68375
+#EXTINF:-1,PT - CAPELA DE FATIMA HD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/116284
+#EXTINF:-1,PT - SANTUARIO DE FATIMA
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1234162
+#EXTINF:-1,PT - KURIAKOS TV HD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/764000
+#EXTINF:-1,PT - CANCAO NOVA HD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/763943
+#EXTINF:-1,PT - CANCAO NOVA SD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1030756
+#EXTINF:-1,PT - S+ FHD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/764114
+#EXTINF:-1,PT - S+ HD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/764116
+#EXTINF:-1,PT - LOCALVISAO HD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1030749
+#EXTINF:-1,PT - FPTV (NA) SD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1030764
+#EXTINF:-1,PT - FPTV SD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/722115
+#EXTINF:-1,PT - ARTV HD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/331033
+#EXTINF:-1,PT - ARTV HD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/763927
+#EXTINF:-1,PT - ARTV HD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1030747
 
-
-#EXTINF:-1  tvg-logo="" group-title="Portugal", RTP 1
-http://xxip25.top:8080/08220585/94235439/164792
-#EXTINF:-1  tvg-logo="" group-title="Portugal", TVI
-http://xxip25.top:8080/08220585/94235439/78526
-#EXTINF:-1  tvg-logo="" group-title="Portugal", CNN
-http://xxip25.top:8080/08220585/94235439/164802
-#EXTINF:-1  tvg-logo="" group-title="Portugal", SPORT TV+
-http://ugeen.live:8080/exskypeleoshare-jordansat4u/50/2165
-#EXTINF:-1  tvg-logo="" group-title="Portugal", SPORT TV 1
-http://xxip25.top:8080/08220585/94235439/167742
-#EXTINF:-1  tvg-logo="" group-title="Portugal", SPORT TV 1
-http://ugeen.live:8080/exskypeleoshare-jordansat4u/50/2166
-#EXTINF:-1  tvg-logo="" group-title="Portugal", SPORT TV 2
-http://xxip25.top:8080/08220585/94235439/167743
-#EXTINF:-1  tvg-logo="" group-title="Portugal", SPORT TV 2
-http://ugeen.live:8080/exskypeleoshare-jordansat4u/50/2167
-#EXTINF:-1  tvg-logo="" group-title="Portugal", SPORT TV 3
-http://xxip25.top:8080/08220585/94235439/167744
-#EXTINF:-1  tvg-logo="" group-title="Portugal", SPORT TV 3
-http://ugeen.live:8080/exskypeleoshare-jordansat4u/50/2168
-#EXTINF:-1  tvg-logo="" group-title="Portugal", SPORT TV 4
-http://xxip25.top:8080/08220585/94235439/167745
-#EXTINF:-1  tvg-logo="" group-title="Portugal", SPORT TV 4
-http://ugeen.live:8080/exskypeleoshare-jordansat4u/50/2169
-#EXTINF:-1  tvg-logo="" group-title="Portugal", SPORT TV 5
-http://ugeen.live:8080/exskypeleoshare-jordansat4u/50/2170
-#EXTINF:-1  tvg-logo="" group-title="Portugal", *BENFICA TV
-http://user.scalecdn.co:8080/live/26725074/92867131/640766.m3u8
-#EXTINF:-1  tvg-logo="" group-title="Portugal", ELEVEN SPORTS 1
-http://xxip25.top:8080/08220585/94235439/35264
-#EXTINF:-1  tvg-logo="" group-title="Portugal", ELEVEN SPORTS 1
-http://ugeen.live:8080/exskypeleoshare-jordansat4u/50/3279
-#EXTINF:-1  tvg-logo="" group-title="Portugal", ELEVEN SPORTS 2
-http://ugeen.live:8080/exskypeleoshare-jordansat4u/50/3280
-#EXTINF:-1  tvg-logo="" group-title="Portugal", ELEVEN SPORTS 3
-http://xxip25.top:8080/08220585/94235439/167748
-#EXTINF:-1  tvg-logo="" group-title="Portugal", ELEVEN SPORTS 3
-http://ugeen.live:8080/exskypeleoshare-jordansat4u/50/3281
-#EXTINF:-1  tvg-logo="" group-title="Portugal", ELEVEN SPORTS 4
-http://xxip25.top:8080/08220585/94235439/167749
-#EXTINF:-1  tvg-logo="" group-title="Portugal", ELEVEN SPORTS 4
-http://ugeen.live:8080/exskypeleoshare-jordansat4u/50/3282
-#EXTINF:-1  tvg-logo="" group-title="Portugal", ELEVEN SPORTS 5
-http://xxip25.top:8080/08220585/94235439/167750
-#EXTINF:-1  tvg-logo="" group-title="Portugal", TV CINE ACTION
-http://xxip25.top:8080/08220585/94235439/164809
-#EXTINF:-1  tvg-logo="" group-title="Portugal", NOS STUDIOS
-http://xxip25.top:8080/08220585/94235439/164811
-#EXTINF:-1  tvg-logo="" group-title="Portugal", HOLLYWOOD
-http://xxip25.top:8080/08220585/94235439/164813
-#EXTINF:-1  tvg-logo="" group-title="Portugal", AXN WHITE
-http://xxip25.top:8080/08220585/94235439/164815
-#EXTINF:-1  tvg-logo="" group-title="Portugal", AXN MOVIES
-http://xxip25.top:8080/08220585/94235439/164818
-#EXTINF:-1  tvg-logo="" group-title="Portugal", SYFY
-http://xxip25.top:8080/08220585/94235439/164821
-#EXTINF:-1  tvg-logo="" group-title="Portugal", TV GLOBO
-http://xxip25.top:8080/08220585/94235439/164824
-#EXTINF:-1  tvg-logo="" group-title="Portugal", ZAP VIVA
-http://xxip25.top:8080/08220585/94235439/164853
-#EXTINF:-1  tvg-logo="" group-title="Portugal", TPA INTERNACIONAL
-http://xxip25.top:8080/08220585/94235439/164855
-#EXTINF:-1  tvg-logo="" group-title="Portugal", TVC CABO VERDE
-http://xxip25.top:8080/08220585/94235439/164858
-#EXTINF:-1  tvg-logo="" group-title="Portugal", TVI REALITY
-http://xxip25.top:8080/08220585/94235439/164861
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/WbnTdy5h/NPC.png" group-title="Portugal", Nasci Para Cantar
-https://stmv5.samcast.com.br/nasciparacantartv/nasciparacantartv/chunklist_w151309571.m3u8
