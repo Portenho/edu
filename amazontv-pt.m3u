@@ -1,504 +1,847 @@
-#EXTINF:-1,XXX - VIP 21 SEXTURY FHD
+#EXTM3U
+#EXTINF:-1 group-title="Generalistas" tvg-logo="", RTP 1 UHD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1030723
+#EXTINF:-1 group-title="Generalistas" tvg-logo="", RTP 1 HD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/68440
+#EXTINF:-1 group-title="Generalistas" tvg-logo="", RTP 2 UHD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1030724
+#EXTINF:-1 group-title="Generalistas" tvg-logo="", RTP 2 HD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/68281
+#EXTINF:-1 group-title="Generalistas" tvg-logo="", SIC UHD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1030731
+#EXTINF:-1 group-title="Generalistas" tvg-logo="", SIC HD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/68438
+#EXTINF:-1 group-title="Generalistas" tvg-logo="", TVI UHD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1030737
+#EXTINF:-1 group-title="Generalistas" tvg-logo="", TVI  FHD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/68437
+#EXTINF:-1 group-title="Generalistas" tvg-logo="", TVI FHD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/764117
+#EXTINF:-1 group-title="Generalistas" tvg-logo="", RTP 3 FHD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/68435
+#EXTINF:-1 group-title="Generalistas" tvg-logo="", SIC NOTICIAS HEVC
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/764052
+#EXTINF:-1 group-title="Generalistas" tvg-logo="", SIC NOTICIAS HD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/764053
+#EXTINF:-1 group-title="Generalistas" tvg-logo="", CNN PORTUGAL FHD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/763958
+#EXTINF:-1 group-title="Generalistas" tvg-logo="", CNN HD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/68319
+#EXTINF:-1 group-title="Generalistas" tvg-logo="", CMTV HD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/763957
+#EXTINF:-1 group-title="Generalistas" tvg-logo="", TVI V+ HD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/764121
+#EXTINF:-1 group-title="Generalistas" tvg-logo="", NEWS NOW FHD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/947886
+#EXTINF:-1 group-title="Generalistas" tvg-logo="", RTP ACORES HD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/764035
+#EXTINF:-1 group-title="Generalistas" tvg-logo="", RTP AFRICA HD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/764033
+#EXTINF:-1 group-title="Generalistas" tvg-logo="", RTP AFRICA SD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/68343
+#EXTINF:-1 group-title="Generalistas" tvg-logo="", RTP MADEIRA HD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/764037
+#EXTINF:-1 group-title="Generalistas" tvg-logo="", RTP MEMORIA HD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/764039
+#EXTINF:-1 group-title="Generalistas" tvg-logo="", RTP ACORES HD ◉
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/68354
+#EXTINF:-1 group-title="Generalistas" tvg-logo="", RTP INTERNATIONAL
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/258170
+#EXTINF:-1 group-title="Generalistas" tvg-logo="", RTP INT SD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1030726
+#EXTINF:-1 group-title="Generalistas" tvg-logo="", GLOBO NOW HD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1030875
+#EXTINF:-1 group-title="Generalistas" tvg-logo="", BBC WORLD NEWS FHD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/68326
+#EXTINF:-1 group-title="Generalistas" tvg-logo="", TCV INTERNACIONAL HD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/928143
+#EXTINF:-1 group-title="Generalistas" tvg-logo="", TV RECORD HD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/764101
+#EXTINF:-1 group-title="Generalistas" tvg-logo="", TV RECORD NEWS HD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/174205
+#EXTINF:-1 group-title="Generalistas" tvg-logo="", EURONEWS PORTUGAL HD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/763982
+#EXTINF:-1 group-title="Generalistas" tvg-logo="", EURONEWS SD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/68352
+#EXTINF:-1 group-title="Generalistas" tvg-logo="", EURONEWS (A) SD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/68302
+#EXTINF:-1 group-title="Generalistas" tvg-logo="", GLOBO NEWS HD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/763993
+#EXTINF:-1 group-title="Generalistas" tvg-logo="", GLOBO MEO FHD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1030874
+#EXTINF:-1 group-title="Generalistas" tvg-logo="", GLOBO HD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/68294
+#EXTINF:-1 group-title="Generalistas" tvg-logo="", GLOBO SD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/174219
+#EXTINF:-1 group-title="Generalistas" tvg-logo="", BLOOMBERG SD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/68322
+#EXTINF:-1 group-title="Generalistas" tvg-logo="", SKY NEWS SD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NH/EXTI
+
+#EXTINF:-1 group-title="Desporto" tvg-logo="", SPORT TV+ FHD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1028206
+#EXTINF:-1 group-title="Desporto" tvg-logo="", SPORT TV+ HD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1030788
+#EXTINF:-1 group-title="Desporto" tvg-logo="", SPORT TV 1 FHD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1030794
+#EXTINF:-1 group-title="Desporto" tvg-logo="", SPORT TV 1 HD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/68419
+#EXTINF:-1 group-title="Desporto" tvg-logo="", SPORT TV 2 FHD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/764059
+#EXTINF:-1 group-title="Desporto" tvg-logo="", SPORT TV 2 FHD²
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/68423
+#EXTINF:-1 group-title="Desporto" tvg-logo="", SPORT TV 3 FHD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/68422
+#EXTINF:-1 group-title="Desporto" tvg-logo="", SPORT TV 3 HD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1030799
+#EXTINF:-1 group-title="Desporto" tvg-logo="", SPORT TV 4 FHD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/68421
+#EXTINF:-1 group-title="Desporto" tvg-logo="", SPORT TV 4 FHD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/764062
+#EXTINF:-1 group-title="Desporto" tvg-logo="", SPORT TV 5 FHD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/764064
+#EXTINF:-1 group-title="Desporto" tvg-logo="", SPORT TV 5 FHD²
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/68420
+#EXTINF:-1 group-title="Desporto" tvg-logo="", SPORT TV 6 FHD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/764066
+#EXTINF:-1 group-title="Desporto" tvg-logo="", SPORT TV 6 SD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/254527
+#EXTINF:-1 group-title="Desporto" tvg-logo="", NBA TV FHD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/68415
+#EXTINF:-1 group-title="Desporto" tvg-logo="", SPORT TV NBA HD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1030805
+#EXTINF:-1 group-title="Desporto" tvg-logo="", BTV FHD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1030818
+#EXTINF:-1 group-title="Desporto" tvg-logo="", BTV FHD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/763939
+#EXTINF:-1 group-title="Desporto" tvg-logo="", DAZN 1 FHD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/763969
+#EXTINF:-1 group-title="Desporto" tvg-logo="", DAZN 1 HEVC
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/942694
+#EXTINF:-1 group-title="Desporto" tvg-logo="", DAZN 2 FHD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/763971
+#EXTINF:-1 group-title="Desporto" tvg-logo="", DAZN 2 HEVC
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/942695
+#EXTINF:-1 group-title="Desporto" tvg-logo="", DAZN 3 FHD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/763973
+#EXTINF:-1 group-title="Desporto" tvg-logo="", DAZN 3 HEVC
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/942696
+#EXTINF:-1 group-title="Desporto" tvg-logo="", DAZN 4 FHD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/763975
+#EXTINF:-1 group-title="Desporto" tvg-logo="", DAZN 4 HEVC
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/942697
+#EXTINF:-1 group-title="Desporto" tvg-logo="", DAZN 5 FHD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/763977
+#EXTINF:-1 group-title="Desporto" tvg-logo="", DAZN 6 FHD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/763979
+#EXTINF:-1 group-title="Desporto" tvg-logo="", EUROSPORT 1 UHD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1030825
+#EXTINF:-1 group-title="Desporto" tvg-logo="", EUROSPORT 2 HD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/763986
+#EXTINF:-1 group-title="Desporto" tvg-logo="", CANAL 11 FHD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/763944
+#EXTINF:-1 group-title="Desporto" tvg-logo="", PFC HD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/763988
+#EXTINF:-1 group-title="Desporto" tvg-logo="", SPORTING TV HD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/764069
+#EXTINF:-1 group-title="Desporto" tvg-logo="", PORTO CANAL HD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/68427
+#EXTINF:-1 group-title="Desporto" tvg-logo="", A BOLA TV HD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1265943
+#EXTINF:-1 group-title="Desporto" tvg-logo="", FUEL TV HD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/68297
+#EXTINF:-1 group-title="Desporto" tvg-logo="", MOTORVISION FHD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1030827
+#EXTINF:-1 group-title="Desporto" tvg-logo="", KOMBAT SPORT FHD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/68364
+
+#EXTINF:-1 group-title="Filmes TV" tvg-logo="", TVCINE ACTION UHD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1030832
+#EXTINF:-1 group-title="Filmes TV" tvg-logo="", TV CINE ACTION FHD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/68400
+#EXTINF:-1 group-title="Filmes TV" tvg-logo="", TVCINE EDITION UHD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1030830
+#EXTINF:-1 group-title="Filmes TV" tvg-logo="", TV CINE EDITION FHD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/764094
+#EXTINF:-1 group-title="Filmes TV" tvg-logo="", TV CINE EDITION FHD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/68402
+#EXTINF:-1 group-title="Filmes TV" tvg-logo="", TVCINE EMOTION UHD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1030831
+#EXTINF:-1 group-title="Filmes TV" tvg-logo="", TV CINE EMOTION FHD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/764096
+#EXTINF:-1 group-title="Filmes TV" tvg-logo="", TV CINE EMOTION FHD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/68401
+#EXTINF:-1 group-title="Filmes TV" tvg-logo="", TVCINE TOP UHD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1030829
+#EXTINF:-1 group-title="Filmes TV" tvg-logo="", TV CINE TOP  FHD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/68403
+#EXTINF:-1 group-title="Filmes TV" tvg-logo="", TV CINE TOP FHD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/764098
+#EXTINF:-1 group-title="Filmes TV" tvg-logo="", TV SERIES SD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/68390
+#EXTINF:-1 group-title="Filmes TV" tvg-logo="", NOS STUDIOS UHD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1030833
+#EXTINF:-1 group-title="Filmes TV" tvg-logo="", NOS STUDIOS HD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/155392
+#EXTINF:-1 group-title="Filmes TV" tvg-logo="", HOLLYWOOD FHD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1030834
+#EXTINF:-1 group-title="Filmes TV" tvg-logo="", HOLLYWOOD HD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/68399
+#EXTINF:-1 group-title="Filmes TV" tvg-logo="", CINEMUNDO HD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/763955
+#EXTINF:-1 group-title="Filmes TV" tvg-logo="", AXN UHD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1030841
+#EXTINF:-1 group-title="Filmes TV" tvg-logo="", AXN FHD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/763929
+#EXTINF:-1 group-title="Filmes TV" tvg-logo="", AXN HD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/68389
+#EXTINF:-1 group-title="Filmes TV" tvg-logo="", AXN MOVIES FHD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/763931
+#EXTINF:-1 group-title="Filmes TV" tvg-logo="", AXN MOVIES HD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1030844
+#EXTINF:-1 group-title="Filmes TV" tvg-logo="", AXN WHITE FHD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/763933
+#EXTINF:-1 group-title="Filmes TV" tvg-logo="", AXN WHITE HD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/68387
+#EXTINF:-1 group-title="Filmes TV" tvg-logo="", AXN BLACK HD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/68388
+#EXTINF:-1 group-title="Filmes TV" tvg-logo="", FOX UHD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1030838
+#EXTINF:-1 group-title="Filmes TV" tvg-logo="", FOX HD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/68394
+#EXTINF:-1 group-title="Filmes TV" tvg-logo="", FOX CRIME UHD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1030839
+#EXTINF:-1 group-title="Filmes TV" tvg-logo="", FOX CRIME HD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/68392
+#EXTINF:-1 group-title="Filmes TV" tvg-logo="", FOX LIFE HD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/68393
+#EXTINF:-1 group-title="Filmes TV" tvg-logo="", FOX MOVIES HD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/68298
+#EXTINF:-1 group-title="Filmes TV" tvg-logo="", FOX COMEDY HD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/68301
+#EXTINF:-1 group-title="Filmes TV" tvg-logo="", STAR CHANNEL FHD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/764070
+#EXTINF:-1 group-title="Filmes TV" tvg-logo="", STAR CHANNEL HD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/764072
+#EXTINF:-1 group-title="Filmes TV" tvg-logo="", STAR MOVIES HD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/764084
+#EXTINF:-1 group-title="Filmes TV" tvg-logo="", STAR MOVIES SD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/764082
+#EXTINF:-1 group-title="Filmes TV" tvg-logo="", STAR CRIME FHD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/764076
+#EXTINF:-1 group-title="Filmes TV" tvg-logo="", STAR CRIME HD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/764078
+#EXTINF:-1 group-title="Filmes TV" tvg-logo="", STAR LIFE FHD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/764079
+#EXTINF:-1 group-title="Filmes TV" tvg-logo="", STAR LIFE HD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1030847
+#EXTINF:-1 group-title="Filmes TV" tvg-logo="", STAR COMEDY HD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/764075
+#EXTINF:-1 group-title="Filmes TV" tvg-logo="", DIZI CHANNEL HD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1075482
+#EXTINF:-1 group-title="Filmes TV" tvg-logo="", AMC UHD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1030836
+#EXTINF:-1 group-title="Filmes TV" tvg-logo="", AMC HD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/68332
+#EXTINF:-1 group-title="Filmes TV" tvg-logo="", AMC BREAK HD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/763922
+#EXTINF:-1 group-title="Filmes TV" tvg-logo="", AMC CRIME HD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/763925
+
+#EXTINF:-1 group-title="Entretenimento" tvg-logo="", TVI REALITY HD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/806246
+#EXTINF:-1 group-title="Entretenimento" tvg-logo="", TVI REALITY CAMERA 1 SD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/287508
+#EXTINF:-1 group-title="Entretenimento" tvg-logo="", TVI REALITY CAMERA 2 SD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/287509
+#EXTINF:-1 group-title="Entretenimento" tvg-logo="", TVI REALITY CAMERA 3 SD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/287510
+#EXTINF:-1 group-title="Entretenimento" tvg-logo="", TVI REALITY CAMERA 4 SD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/287511
+#EXTINF:-1 group-title="Entretenimento" tvg-logo="", TVI FICCAO
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/68430
+#EXTINF:-1 group-title="Entretenimento" tvg-logo="", SIC NOVELAS FHD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1022297
+#EXTINF:-1 group-title="Entretenimento" tvg-logo="", SIC RADICAL HD 
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/68274
+#EXTINF:-1 group-title="Entretenimento" tvg-logo="", SIC CARAS HD 
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/68382
+#EXTINF:-1 group-title="Entretenimento" tvg-logo="", SIC MULHER SD 
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/68276
+#EXTINF:-1 group-title="Entretenimento" tvg-logo="", CANAL Q HD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/763948
+#EXTINF:-1 group-title="Entretenimento" tvg-logo="", 24 KITCHEN HEVC
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/763914
+#EXTINF:-1 group-title="Entretenimento" tvg-logo="", 24 KITCHEN HD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/68374
+#EXTINF:-1 group-title="Entretenimento" tvg-logo="", FOOD NETWORK HD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/280850
+#EXTINF:-1 group-title="Entretenimento" tvg-logo="", TOROS TV FHD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/68362
+#EXTINF:-1 group-title="Entretenimento" tvg-logo="", E! ENTERTAINMENT HD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/68309
+#EXTINF:-1 group-title="Entretenimento" tvg-logo="", TRAVEL CHANNEL UHD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1030859
+#EXTINF:-1 group-title="Entretenimento" tvg-logo="", TRAVEL CHANNEL HD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/68375
+#EXTINF:-1 group-title="Entretenimento" tvg-logo="", CAPELA DE FATIMA HD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/116284
+#EXTINF:-1 group-title="Entretenimento" tvg-logo="", SANTUARIO DE FATIMA
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1234162
+#EXTINF:-1 group-title="Entretenimento" tvg-logo="", KURIAKOS TV HD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/764000
+#EXTINF:-1 group-title="Entretenimento" tvg-logo="", CANCAO NOVA HD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/763943
+#EXTINF:-1 group-title="Entretenimento" tvg-logo="", CANCAO NOVA SD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1030756
+#EXTINF:-1 group-title="Entretenimento" tvg-logo="", S+ FHD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/764114
+#EXTINF:-1 group-title="Entretenimento" tvg-logo="", S+ HD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/764116
+#EXTINF:-1 group-title="Entretenimento" tvg-logo="", LOCALVISAO HD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1030749
+#EXTINF:-1 group-title="Entretenimento" tvg-logo="", FPTV (NA) SD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1030764
+#EXTINF:-1 group-title="Entretenimento" tvg-logo="", FPTV SD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/722115
+#EXTINF:-1 group-title="Entretenimento" tvg-logo="", ARTV HD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/331033
+#EXTINF:-1 group-title="Entretenimento" tvg-logo="", ARTV HD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/763927
+#EXTINF:-1 group-title="Entretenimento" tvg-logo="", ARTV HD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1030747
+
+
+#EXTINF:-1 group-title="Musica" tvg-logo="", ALMA LUSA FHD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1030748
+#EXTINF:-1 group-title="Musica" tvg-logo="", ALMA LUSA
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1286558
+#EXTINF:-1 group-title="Musica" tvg-logo="", AFRO MUSIC HD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/763919
+#EXTINF:-1 group-title="Musica" tvg-logo="", VH1 FHD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/68369
+#EXTINF:-1 group-title="Musica" tvg-logo="", MEZZO LIVE FHD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/764009
+#EXTINF:-1 group-title="Musica" tvg-logo="", MEZZO LIVE HD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/764011
+#EXTINF:-1 group-title="Musica" tvg-logo="", TRACE TOCA HD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/764090
+#EXTINF:-1 group-title="Musica" tvg-logo="", TRACE URBAN HD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/764092
+#EXTINF:-1 group-title="Musica" tvg-logo="", TRACE URBAN SD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/68368
+#EXTINF:-1 group-title="Musica" tvg-logo="", MTV HD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/68289
+#EXTINF:-1 group-title="Musica" tvg-logo="", MTV PORTUGAL SD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/68384
+#EXTINF:-1 group-title="Musica" tvg-logo="", MCM POP SD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1030757
+#EXTINF:-1 group-title="Musica" tvg-logo="", MCM POP SD
+http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/68367
+
+
+
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", VIP 21 SEXTURY FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393394
-#EXTINF:-1,XXX - VIP LIVE CAMS ADULT TV FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", VIP LIVE CAMS ADULT TV FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393395
-#EXTINF:-1,XXX - VIP BLUE HUSTLER FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", VIP BLUE HUSTLER FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393396
-#EXTINF:-1,XXX - VIP BALKAN EROTIC FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", VIP BALKAN EROTIC FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393397
-#EXTINF:-1,XXX - VIP FILMAX ADULT 2 FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", VIP FILMAX ADULT 2 FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393398
-#EXTINF:-1,XXX - VIP FAMILY STROKES FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", VIP FAMILY STROKES FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393399
-#EXTINF:-1,XXX - VIP HARD X FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", VIP HARD X FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393400
-#EXTINF:-1,XXX - VIP NEO GAY 1 FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", VIP NEO GAY 1 FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393401
-#EXTINF:-1,XXX - VIP POV FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", VIP POV FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393402
-#EXTINF:-1,XXX - VIP REDBOX-ADULTS 35 FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", VIP REDBOX-ADULTS 35 FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393403
-#EXTINF:-1,XXX - PORNHUB BLACKED+ FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", PORNHUB BLACKED+ FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393404
-#EXTINF:-1,XXX - PORNHUB CUM4K FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", PORNHUB CUM4K FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393405
-#EXTINF:-1,XXX - PORNHUB FAMILY STROKES FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", PORNHUB FAMILY STROKES FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393406
-#EXTINF:-1,XXX - PORNHUB MOMS TEACH FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", PORNHUB MOMS TEACH FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393407
-#EXTINF:-1,XXX - PORNHUB MY PERVY FAMILY FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", PORNHUB MY PERVY FAMILY FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393408
-#EXTINF:-1,XXX - PORNHUB REALITY KINGS FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", PORNHUB REALITY KINGS FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393409
-#EXTINF:-1,XXX - PORNHUB BLACKED FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", PORNHUB BLACKED FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393410
-#EXTINF:-1,XXX - PORNHUB BRATTY-SIS FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", PORNHUB BRATTY-SIS FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393411
-#EXTINF:-1,XXX - PORNHUB CUCKOLD FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", PORNHUB CUCKOLD FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393412
-#EXTINF:-1,XXX - ADULT TINY4K 1 HD FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", ADULT TINY4K 1 HD FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393413
-#EXTINF:-1,XXX - ANAL FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", ANAL FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393414
-#EXTINF:-1,XXX - JASMINE FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", JASMINE FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393415
-#EXTINF:-1,XXX - BANGBROS FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", BANGBROS FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393416
-#EXTINF:-1,XXX - BIG AND NATURAL TITS 2021 FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", BIG AND NATURAL TITS 2021 FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393417
-#EXTINF:-1,XXX - BIG TITS HD FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", BIG TITS HD FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393418
-#EXTINF:-1,XXX - BLACKED RAW HD FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", BLACKED RAW HD FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393419
-#EXTINF:-1,XXX - BLOWJOB 2 FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", BLOWJOB 2 FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393420
-#EXTINF:-1,XXX - BLUE HUSTLE FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", BLUE HUSTLE FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393421
-#EXTINF:-1,XXX - BRAZZERS FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", BRAZZERS FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393422
-#EXTINF:-1,XXX - BUNNY COLBY FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", BUNNY COLBY FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393423
-#EXTINF:-1,XXX - CHERIE DEVILLE FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", CHERIE DEVILLE FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393424
-#EXTINF:-1,XXX - CHERRY PIMP FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", CHERRY PIMP FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393425
-#EXTINF:-1,XXX - CHERRY KISS 2 FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", CHERRY KISS 2 FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393426
-#EXTINF:-1,XXX - CINE PORN 3 FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", CINE PORN 3 FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393427
-#EXTINF:-1,XXX - CINE PORN 8 HD FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", CINE PORN 8 HD FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393428
-#EXTINF:-1,XXX - COMPILATION FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", COMPILATION FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393429
-#EXTINF:-1,XXX - CORY CHASE FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", CORY CHASE FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393430
-#EXTINF:-1,XXX - CUM 4K FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", CUM 4K FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393431
-#EXTINF:-1,XXX - CZECH STREETS FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", CZECH STREETS FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393432
-#EXTINF:-1,XXX - DDF NETWORK FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", DDF NETWORK FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393433
-#EXTINF:-1,XXX - DUSK FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", DUSK FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393434
-#EXTINF:-1,XXX - DAUGHTER SWAP FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", DAUGHTER SWAP FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393435
-#EXTINF:-1,XXX - DAY WITH A PORNSTAR FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", DAY WITH A PORNSTAR FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393436
-#EXTINF:-1,XXX - DAY WITH A PORNSTAR FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", DAY WITH A PORNSTAR FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393437
-#EXTINF:-1,XXX - CHEATING SLUT DICKED DOWN BY HORNY NEIGHBOR FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", CHEATING SLUT DICKED DOWN BY HORNY NEIGHBOR FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393438
-#EXTINF:-1,XXX - ELLA KNOX 2 FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", ELLA KNOX 2 FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393439
-#EXTINF:-1,XXX - ENO 1 FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", ENO 1 FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393440
-#EXTINF:-1,XXX - ENO 2 FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", ENO 2 FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393441
-#EXTINF:-1,XXX - ENO 4 FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", ENO 4 FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393442
-#EXTINF:-1,XXX - EVIL ANGEL FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", EVIL ANGEL FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393443
-#EXTINF:-1,XXX - FRENCH LOVER EUROPE FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", FRENCH LOVER EUROPE FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393444
-#EXTINF:-1,XXX - FAKE TAXI FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", FAKE TAXI FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393445
-#EXTINF:-1,XXX - FAMILY HOOKUPS FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", FAMILY HOOKUPS FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393446
-#EXTINF:-1,XXX - GAY HD FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", GAY HD FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393447
-#EXTINF:-1,XXX - GAY MAX HD FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", GAY MAX HD FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393448
-#EXTINF:-1,XXX - GANGBANG FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", GANGBANG FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393449
-#EXTINF:-1,XXX - GAY ADULT TV FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", GAY ADULT TV FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393450
-#EXTINF:-1,XXX - GIRLS STUDENT FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", GIRLS STUDENT FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393451
-#EXTINF:-1,XXX - HUSTLER HD FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", HUSTLER HD FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393452
-#EXTINF:-1,XXX - HAPPY NEW YEAR FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", HAPPY NEW YEAR FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393453
-#EXTINF:-1,XXX - I SFSV 2023 FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", I SFSV 2023 FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393454
-#EXTINF:-1,XXX - JASMIN.TV HD FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", JASMIN.TV HD FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393455
-#EXTINF:-1,XXX - KINKY INLAWS HD FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", KINKY INLAWS HD FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393456
-#EXTINF:-1,XXX - LAUREN PHILLIPS FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", LAUREN PHILLIPS FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393457
-#EXTINF:-1,XXX - MILF FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", MILF FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393458
-#EXTINF:-1,XXX - MILF TV FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", MILF TV FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393459
-#EXTINF:-1,XXX - MASSAGE FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", MASSAGE FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393460
-#EXTINF:-1,XXX - MY PERVY FAMILY FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", MY PERVY FAMILY FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393461
-#EXTINF:-1,XXX - N1 PLAY ADULT AFRICAN CASTING FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", N1 PLAY ADULT AFRICAN CASTING FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393462
-#EXTINF:-1,XXX - N1 PLAY ADULT CASUAL TEEN SEX 1 FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", N1 PLAY ADULT CASUAL TEEN SEX 1 FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393463
-#EXTINF:-1,XXX - N1 PLAY ADULT CLUB SEVENTEEN 1 HD FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", N1 PLAY ADULT CLUB SEVENTEEN 1 HD FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393464
-#EXTINF:-1,XXX - N1 PLAY ADULT CZECH BITCH FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", N1 PLAY ADULT CZECH BITCH FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393465
-#EXTINF:-1,XXX - N1 PLAY ADULT DANCING BEAR FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", N1 PLAY ADULT DANCING BEAR FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393466
-#EXTINF:-1,XXX - N1 PLAY ADULT DORCEL CLUB 2021 FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", N1 PLAY ADULT DORCEL CLUB 2021 FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393467
-#EXTINF:-1,XXX - N1 PLAY ADULT EROTIC MUSCLEVIDEOS 2 FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", N1 PLAY ADULT EROTIC MUSCLEVIDEOS 2 FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393468
-#EXTINF:-1,XXX - N1 PLAY ADULT FAKE AGENT FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", N1 PLAY ADULT FAKE AGENT FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393469
-#EXTINF:-1,XXX - N1 PLAY ADULT FIT18 FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", N1 PLAY ADULT FIT18 FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393470
-#EXTINF:-1,XXX - N1 PLAY ADULT HANDJOB BY KLIXEN FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", N1 PLAY ADULT HANDJOB BY KLIXEN FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393471
-#EXTINF:-1,XXX - N1 PLAY ADULT PIERRE WOODMAN X CASTINGS 2 FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", N1 PLAY ADULT PIERRE WOODMAN X CASTINGS 2 FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393472
-#EXTINF:-1,XXX - N1 PLAY ADULT SCORE GROUP 1 FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", N1 PLAY ADULT SCORE GROUP 1 FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393473
-#EXTINF:-1,XXX - N1 PLAY ADULT SEX AND SUBMISSION FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", N1 PLAY ADULT SEX AND SUBMISSION FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393474
-#EXTINF:-1,XXX - NET VIDEO GIRLS FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", NET VIDEO GIRLS FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393475
-#EXTINF:-1,XXX - OH AH FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", OH AH FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393476
-#EXTINF:-1,XXX - ONLYFANS LUNABENNA FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", ONLYFANS LUNABENNA FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393477
-#EXTINF:-1,XXX - PENTHOUSE GOLD HD FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", PENTHOUSE GOLD HD FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393478
-#EXTINF:-1,XXX - PRIVATE TV HD FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", PRIVATE TV HD FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393479
-#EXTINF:-1,XXX - PASSIEXXX FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", PASSIEXXX FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393480
-#EXTINF:-1,XXX - PENTHOUSE REALITY FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", PENTHOUSE REALITY FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393481
-#EXTINF:-1,XXX - PENTHOUSE GOLD FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", PENTHOUSE GOLD FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393482
-#EXTINF:-1,XXX - PERV MOM FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", PERV MOM FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393483
-#EXTINF:-1,XXX - PORN STAR FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", PORN STAR FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393484
-#EXTINF:-1,XXX - REDBOX ADULTS 21 FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", REDBOX ADULTS 21 FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393485
-#EXTINF:-1,XXX - PUBLIC AGENT FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", PUBLIC AGENT FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393486
-#EXTINF:-1,XXX - PUBLICK AGENT FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", PUBLICK AGENT FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393487
-#EXTINF:-1,XXX - PURE BABES HD FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", PURE BABES HD FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393488
-#EXTINF:-1,XXX - REDLIGHT FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", REDLIGHT FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393489
-#EXTINF:-1,XXX - REDLIGHT HD FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", REDLIGHT HD FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393490
-#EXTINF:-1,XXX - REALITY KINGS TV FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", REALITY KINGS TV FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393491
-#EXTINF:-1,XXX - REDTRAFFIC BIG ASS FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", REDTRAFFIC BIG ASS FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393492
-#EXTINF:-1,XXX - REDTRAFFIC BIG DICK FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", REDTRAFFIC BIG DICK FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393493
-#EXTINF:-1,XXX - REDTRAFFIC BIG TITS FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", REDTRAFFIC BIG TITS FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393494
-#EXTINF:-1,XXX - REDTRAFFIC FETISH FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", REDTRAFFIC FETISH FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393495
-#EXTINF:-1,XXX - REDTRAFFIC HARDCORE FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", REDTRAFFIC HARDCORE FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393496
-#EXTINF:-1,XXX - REDTRAFFIC INTERRACIAL FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", REDTRAFFIC INTERRACIAL FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393497
-#EXTINF:-1,XXX - REDTRAFFIC MILF FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", REDTRAFFIC MILF FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393498
-#EXTINF:-1,XXX - REDTRAFFIC POV FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", REDTRAFFIC POV FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393499
-#EXTINF:-1,XXX - ROUGH FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", ROUGH FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393500
-#EXTINF:-1,XXX - RUSSIAN FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", RUSSIAN FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393501
-#EXTINF:-1,XXX - SEX WITH ARABS 2 FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", SEX WITH ARABS 2 FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393502
-#EXTINF:-1,XXX - SHALUN FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", SHALUN FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393503
-#EXTINF:-1,XXX - CZECH STREET FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", CZECH STREET FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393504
-#EXTINF:-1,XXX - TRANS FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", TRANS FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393505
-#EXTINF:-1,XXX - TRU KAIT FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", TRU KAIT FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393506
-#EXTINF:-1,XXX - VALENTINA NAPPI FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", VALENTINA NAPPI FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393507
-#EXTINF:-1,XXX - GOTMYLF FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", GOTMYLF FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393508
-#EXTINF:-1,XXX - #ANAL HD FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", #ANAL HD FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393509
-#EXTINF:-1,XXX - 2 B!G A$$3$ FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", 2 B!G A$$3$ FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393510
-#EXTINF:-1,XXX - ANGELINA JOHNS PARTOUZE FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", ANGELINA JOHNS PARTOUZE FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393511
-#EXTINF:-1,XXX - BOGCOCK FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", BOGCOCK FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393512
-#EXTINF:-1,XXX - BIGTITS FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", BIGTITS FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393513
-#EXTINF:-1,XXX - BLACK FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", BLACK FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393514
-#EXTINF:-1,XXX - BLOND FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", BLOND FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393515
-#EXTINF:-1,XXX - FISTING FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", FISTING FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393516
-#EXTINF:-1,XXX - KLASSIKER FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", KLASSIKER FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393517
-#EXTINF:-1,XXX - MASTURBATION FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", MASTURBATION FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393518
-#EXTINF:-1,XXX - MIDGET FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", MIDGET FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393519
-#EXTINF:-1,XXX - NAUGHTY FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", NAUGHTY FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393520
-#EXTINF:-1,XXX - REALITY FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", REALITY FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393521
-#EXTINF:-1,XXX - ROMANCE FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", ROMANCE FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393522
-#EXTINF:-1,XXX - RUSSIA FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", RUSSIA FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393523
-#EXTINF:-1,XXX - SCHOOL FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", SCHOOL FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393524
-#EXTINF:-1,XXX - SWINGER FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", SWINGER FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393525
-#EXTINF:-1,XXX - TEENIE FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", TEENIE FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393526
-#EXTINF:-1,XXX - KINKY FAMILY FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", KINKY FAMILY FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393527
-#EXTINF:-1,XXX - ORGASM FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", ORGASM FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393528
-#EXTINF:-1,XXX - BLACK NEED FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", BLACK NEED FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393529
-#EXTINF:-1,XXX - CHINA XXX FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", CHINA XXX FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393530
-#EXTINF:-1,XXX - IBIZA FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", IBIZA FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393531
-#EXTINF:-1,XXX - MODEL MEDIA ASIA FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", MODEL MEDIA ASIA FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393532
-#EXTINF:-1,XXX - SIMPLY ASIAN FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", SIMPLY ASIAN FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393533
-#EXTINF:-1,XXX - ASIAN BONDAGE FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", ASIAN BONDAGE FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393534
-#EXTINF:-1,XXX - WOLF WAGNER LOVE FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", WOLF WAGNER LOVE FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393535
-#EXTINF:-1,XXX - HITZEFREI FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", HITZEFREI FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393536
-#EXTINF:-1,XXX - REIFE SWINGER 1 FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", REIFE SWINGER 1 FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393537
-#EXTINF:-1,XXX - SEXTAPE GERMANY FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", SEXTAPE GERMANY FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393538
-#EXTINF:-1,XXX - BUMSBUS FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", BUMSBUS FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393539
-#EXTINF:-1,XXX - EROTIK VON NEBENAN FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", EROTIK VON NEBENAN FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393540
-#EXTINF:-1,XXX - USERDATE GERMANY FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", USERDATE GERMANY FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393541
-#EXTINF:-1,XXX - HITZEFREI 2 FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", HITZEFREI 2 FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393542
-#EXTINF:-1,XXX - USERDATE GERMAN FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", USERDATE GERMAN FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393543
-#EXTINF:-1,XXX - USERDATE INTERNATIONAL FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", USERDATE INTERNATIONAL FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393544
-#EXTINF:-1,XXX - WOLF WAGNER LOVE 2 FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", WOLF WAGNER LOVE 2 FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393545
-#EXTINF:-1,XXX - SP AMA SPAIN FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", SP AMA SPAIN FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393546
-#EXTINF:-1,XXX - 8TH STREET LATINAS FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", 8TH STREET LATINAS FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393547
-#EXTINF:-1,XXX - AMA SPAIN 752 FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", AMA SPAIN 752 FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393548
-#EXTINF:-1,XXX - CARNE DEL MERACDO 2 FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", CARNE DEL MERACDO 2 FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393549
-#EXTINF:-1,XXX - EXPOSED LATINAS FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", EXPOSED LATINAS FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393550
-#EXTINF:-1,XXX - HARD BRAZIL FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", HARD BRAZIL FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393551
-#EXTINF:-1,XXX - LOS FOLLSFORAS LATINA FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", LOS FOLLSFORAS LATINA FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393552
-#EXTINF:-1,XXX - LATINA SEXTAPE FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", LATINA SEXTAPE FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393553
-#EXTINF:-1,XXX - MAMACITAZ LATIN FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", MAMACITAZ LATIN FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393554
-#EXTINF:-1,XXX - MIKE IN BRAZIL FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", MIKE IN BRAZIL FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393555
-#EXTINF:-1,XXX - MY DIRTY MAID LATINA FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", MY DIRTY MAID LATINA FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393556
-#EXTINF:-1,XXX - OPERACION LIEMPIEZA LATINA FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", OPERACION LIEMPIEZA LATINA FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393557
-#EXTINF:-1,XXX - OPERACION LIEMPIEZA LATINA 2 FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", OPERACION LIEMPIEZA LATINA 2 FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393558
-#EXTINF:-1,XXX - POR NOVOTAS LATINA FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", POR NOVOTAS LATINA FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393559
-#EXTINF:-1,XXX - PROPERTY SEX 2 FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", PROPERTY SEX 2 FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393560
-#EXTINF:-1,XXX - ARMIND RIZZO GAY FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", ARMIND RIZZO GAY FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393561
-#EXTINF:-1,XXX - ATGLAS GRAN GAY FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", ATGLAS GRAN GAY FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393562
-#EXTINF:-1,XXX - AUBREY KATE TRANS FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", AUBREY KATE TRANS FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393563
-#EXTINF:-1,XXX - CASEY KISSES TRANS FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", CASEY KISSES TRANS FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393564
-#EXTINF:-1,XXX - CHANEL SANTINI TRANS FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", CHANEL SANTINI TRANS FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393565
-#EXTINF:-1,XXX - DANTE COLLE GAY FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", DANTE COLLE GAY FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393566
-#EXTINF:-1,XXX - DEANGELO JACKSON GAY FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", DEANGELO JACKSON GAY FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393567
-#EXTINF:-1,XXX - JACK HUNTER GAY FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", JACK HUNTER GAY FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393568
-#EXTINF:-1,XXX - KHLOHE KAY TRANS FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", KHLOHE KAY TRANS FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393569
-#EXTINF:-1,XXX - KYLER MOSS GAY FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", KYLER MOSS GAY FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393570
-#EXTINF:-1,XXX - RICKY LARKIN GAY FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", RICKY LARKIN GAY FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393571
-#EXTINF:-1,XXX - SHIRI ALLWOOD TRANS FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", SHIRI ALLWOOD TRANS FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393572
-#EXTINF:-1,XXX - TRANSGENDER FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", TRANSGENDER FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393573
-#EXTINF:-1,XXX - LETSDOEIT 4K FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", LETSDOEIT 4K FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393574
-#EXTINF:-1,XXX - CUCK HUNTER 4K FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", CUCK HUNTER 4K FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393575
-#EXTINF:-1,XXX - CUM 4K FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", CUM 4K FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393576
-#EXTINF:-1,XXX - EXOTIC 4K FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", EXOTIC 4K FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393577
-#EXTINF:-1,XXX - FAPADOO THREESOMES 4K FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", FAPADOO THREESOMES 4K FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393578
-#EXTINF:-1,XXX - FIRST CLASS POV 4K FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", FIRST CLASS POV 4K FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393579
-#EXTINF:-1,XXX - FOXY4K.ME FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", FOXY4K.ME FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393580
-#EXTINF:-1,XXX - TINY 4K FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", TINY 4K FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393581
-#EXTINF:-1,XXX - TINY 2 4K FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", TINY 2 4K FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393582
-#EXTINF:-1,XXX - ADRIANA CHECHIK FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", ADRIANA CHECHIK FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393583
-#EXTINF:-1,XXX - ADRIANA CHECHIK LITTLE ANAL FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", ADRIANA CHECHIK LITTLE ANAL FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393584
-#EXTINF:-1,XXX - CANELA SKIN FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", CANELA SKIN FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393585
-#EXTINF:-1,XXX - CHLOE TEMPLE FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", CHLOE TEMPLE FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393586
-#EXTINF:-1,XXX - CRYSTAL RUSH FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", CRYSTAL RUSH FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393587
-#EXTINF:-1,XXX - DANI DANIELS FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", DANI DANIELS FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393588
-#EXTINF:-1,XXX - ELSA JEAN FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", ELSA JEAN FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393589
-#EXTINF:-1,XXX - GABRIELLE FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", GABRIELLE FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393590
-#EXTINF:-1,XXX - GINEBRA BELLUCI FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", GINEBRA BELLUCI FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393591
-#EXTINF:-1,XXX - HELENA PRICE FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", HELENA PRICE FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393592
-#EXTINF:-1,XXX - JAMESDEEN FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", JAMESDEEN FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393593
-#EXTINF:-1,XXX - JEWELZ BLU FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", JEWELZ BLU FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393594
-#EXTINF:-1,XXX - JHONNY SINS FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", JHONNY SINS FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393595
-#EXTINF:-1,XXX - JORDI EL POLLA FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", JORDI EL POLLA FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393596
-#EXTINF:-1,XXX - JORDI EL POLLA 2 FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", JORDI EL POLLA 2 FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393597
-#EXTINF:-1,XXX - KAERMA RX FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", KAERMA RX FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393598
-#EXTINF:-1,XXX - KAYLER GUNNER FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", KAYLER GUNNER FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393599
-#EXTINF:-1,XXX - KEIRAN LEE FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", KEIRAN LEE FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393600
-#EXTINF:-1,XXX - KENZA MADISON FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", KENZA MADISON FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393601
-#EXTINF:-1,XXX - KYLER QUINN FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", KYLER QUINN FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393602
-#EXTINF:-1,XXX - KYLER QUINN 2 FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", KYLER QUINN 2 FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393603
-#EXTINF:-1,XXX - LEXILORE FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", LEXILORE FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393604
-#EXTINF:-1,XXX - LIL D FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", LIL D FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393605
-#EXTINF:-1,XXX - LISA ANN FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", LISA ANN FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393606
-#EXTINF:-1,XXX - LUNASTART FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", LUNASTART FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393607
-#EXTINF:-1,XXX - MEN CHRS DIAMOND X FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", MEN CHRS DIAMOND X FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393608
-#EXTINF:-1,XXX - MAN DREDD X FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", MAN DREDD X FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393609
-#EXTINF:-1,XXX - MAN MAN DANNY D FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", MAN MAN DANNY D FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393610
-#EXTINF:-1,XXX - MAN TONY PROFANE X PORNO FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", MAN TONY PROFANE X PORNO FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393611
-#EXTINF:-1,XXX - NACHO VIDA MEN FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", NACHO VIDA MEN FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393612
-#EXTINF:-1,XXX - NATASHA NICE FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", NATASHA NICE FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393613
-#EXTINF:-1,XXX - RAE LIL BLACK FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", RAE LIL BLACK FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393614
-#EXTINF:-1,XXX - RICKY JOHNSON FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", RICKY JOHNSON FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393615
-#EXTINF:-1,XXX - RILEY REID FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", RILEY REID FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393616
-#EXTINF:-1,XXX - SHARON LEE FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", SHARON LEE FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393617
-#EXTINF:-1,XXX - SKYLER VOX FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", SKYLER VOX FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393618
-#EXTINF:-1,XXX - SYBL FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", SYBL FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393619
-#EXTINF:-1,XXX - VINA SKY FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", VINA SKY FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393620
-#EXTINF:-1,XXX - MIA MALKOVA FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", MIA MALKOVA FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393621
-#EXTINF:-1,XXX - ALEXIS CRYSTAL FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", ALEXIS CRYSTAL FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393622
-#EXTINF:-1,XXX - ALEX ADAMS FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", ALEX ADAMS FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393623
-#EXTINF:-1,XXX - ALEXIS FAWX FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", ALEXIS FAWX FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393624
-#EXTINF:-1,XXX - ALEXIS TEXAS FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", ALEXIS TEXAS FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393625
-#EXTINF:-1,XXX - ANGELA WHITE PO FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", ANGELA WHITE PO FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393626
-#EXTINF:-1,XXX - BLAKE BLOSSOM FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", BLAKE BLOSSOM FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393627
-#EXTINF:-1,XXX - CHARLIE FORDE FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", CHARLIE FORDE FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393628
-#EXTINF:-1,XXX - ELIZA IBARRA FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", ELIZA IBARRA FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393629
-#EXTINF:-1,XXX - EMILY WILLS FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", EMILY WILLS FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393630
-#EXTINF:-1,XXX - EMMA HIX FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", EMMA HIX FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393631
-#EXTINF:-1,XXX - EVA ELFIE FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", EVA ELFIE FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393632
-#EXTINF:-1,XXX - HAYLEY DAVIES FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", HAYLEY DAVIES FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393633
-#EXTINF:-1,XXX - KAYDEN KROSS FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", KAYDEN KROSS FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393634
-#EXTINF:-1,XXX - KIMMY KIMM FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", KIMMY KIMM FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393635
-#EXTINF:-1,XXX - LENA PAUL FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", LENA PAUL FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393636
-#EXTINF:-1,XXX - LEXI LORE FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", LEXI LORE FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393637
-#EXTINF:-1,XXX - LEXI LUNE FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", LEXI LUNE FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393638
-#EXTINF:-1,XXX - LULU CHU FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", LULU CHU FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393639
-#EXTINF:-1,XXX - MACY MEADOWS FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", MACY MEADOWS FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393640
-#EXTINF:-1,XXX - MANUEL FERRA FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", MANUEL FERRA FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393641
-#EXTINF:-1,XXX - REDDICK TR FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", REDDICK TR FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393642
-#EXTINF:-1,XXX - SISI ROSE FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", SISI ROSE FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393643
-#EXTINF:-1,XXX - VIOLET MYERS FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", VIOLET MYERS FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393644
-#EXTINF:-1,XXX - GEFANGENE FHD
+#EXTINF:-1 group-title="Bad Channels" tvg-logo="", GEFANGENE FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1393645
