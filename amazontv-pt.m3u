@@ -1,83 +1,79 @@
 #EXTM3U
-#EXTINF:-1 group-title="Generalistas" tvg-logo="", RTP 1 UHD
+########## GENERALISTAS ##########
+#EXTINF:-1 group-title="Generalistas" tvg-logo="https://i.postimg.cc/nLWGHRvJ/RTP_1.jpg", RTP 1 HD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1030723
-#EXTINF:-1 group-title="Generalistas" tvg-logo="", RTP 1 HD
+#EXTINF:-1 group-title="Generalistas" tvg-logo="https://i.postimg.cc/nLWGHRvJ/RTP_1.jpg", RTP 1 HD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/68440
-#EXTINF:-1 group-title="Generalistas" tvg-logo="", RTP 2 UHD
+#EXTINF:-1 group-title="Generalistas" tvg-logo="https://i.postimg.cc/Kc0TDggk/RTP_2.jpg", RTP 2 HD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1030724
-#EXTINF:-1 group-title="Generalistas" tvg-logo="", RTP 2 HD
+#EXTINF:-1 group-title="Generalistas" tvg-logo="https://i.postimg.cc/Kc0TDggk/RTP_2.jpg", RTP 2 HD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/68281
-#EXTINF:-1 group-title="Generalistas" tvg-logo="", SIC UHD
+#EXTINF:-1 group-title="Generalistas" tvg-logo="https://i.postimg.cc/RF2z6vPP/sic.jpg", SIC HD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1030731
-#EXTINF:-1 group-title="Generalistas" tvg-logo="", SIC HD
+#EXTINF:-1 group-title="Generalistas" tvg-logo="https://i.postimg.cc/RF2z6vPP/sic.jpg", SIC HD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/68438
-#EXTINF:-1 group-title="Generalistas" tvg-logo="", TVI UHD
+#EXTINF:-1 group-title="Generalistas" tvg-logo="https://i.postimg.cc/ZKcDXTr1/tvi.jpg", TVI HD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1030737
-#EXTINF:-1 group-title="Generalistas" tvg-logo="", TVI  FHD
+#EXTINF:-1 group-title="Generalistas" tvg-logo="https://i.postimg.cc/ZKcDXTr1/tvi.jpg", TVI HD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/68437
-#EXTINF:-1 group-title="Generalistas" tvg-logo="", TVI FHD
+#EXTINF:-1 group-title="Generalistas" tvg-logo="https://i.postimg.cc/ZKcDXTr1/tvi.jpg", TVI HD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/764117
-#EXTINF:-1 group-title="Generalistas" tvg-logo="", RTP 3 FHD
+#EXTINF:-1 group-title="Generalistas" tvg-logo="https://i.postimg.cc/28mZY7RK/RTP_3.jpg", RTP 3 HD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/68435
-#EXTINF:-1 group-title="Generalistas" tvg-logo="", SIC NOTICIAS HEVC
+#EXTINF:-1 group-title="Generalistas" tvg-logo="https://i.postimg.cc/6qSTQsRw/sic.noticias.jpg", SIC NOTICIAS HD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/764052
-#EXTINF:-1 group-title="Generalistas" tvg-logo="", SIC NOTICIAS HD
+#EXTINF:-1 group-title="Generalistas" tvg-logo="https://i.postimg.cc/6qSTQsRw/sic.noticias.jpg", SIC NOTICIAS HD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/764053
-#EXTINF:-1 group-title="Generalistas" tvg-logo="", CNN PORTUGAL FHD
+#EXTINF:-1 group-title="Generalistas" tvg-logo="https://i.postimg.cc/4x4NTNjt/cnn.pt.png", CNN PORTUGAL HD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/763958
-#EXTINF:-1 group-title="Generalistas" tvg-logo="", CNN HD
+#EXTINF:-1 group-title="Generalistas" tvg-logo="https://i.postimg.cc/4x4NTNjt/cnn.pt.png", CNN HD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/68319
-#EXTINF:-1 group-title="Generalistas" tvg-logo="", CMTV HD
+#EXTINF:-1 group-title="Generalistas" tvg-logo="https://i.postimg.cc/fWgvdJfW/cmtv.jpg", CMTV HD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/763957
-#EXTINF:-1 group-title="Generalistas" tvg-logo="", TVI V+ HD
+#EXTINF:-1 group-title="Generalistas" tvg-logo="https://i.postimg.cc/KYLxvD2K/tvivmais.jpg", TVI V+ HD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/764121
-#EXTINF:-1 group-title="Generalistas" tvg-logo="", NEWS NOW FHD
+#EXTINF:-1 group-title="Generalistas" tvg-logo="https://i.postimg.cc/4xfW3fRP/news_now.png", NEWS NOW HD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/947886
-#EXTINF:-1 group-title="Generalistas" tvg-logo="", RTP ACORES HD
+#EXTINF:-1 group-title="Generalistas" tvg-logo="https://i.postimg.cc/dVJmPrqB/rtp.acores.png", RTP ACORES HD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/764035
-#EXTINF:-1 group-title="Generalistas" tvg-logo="", RTP AFRICA HD
+#EXTINF:-1 group-title="Generalistas" tvg-logo="https://i.postimg.cc/903Zxq8y/rtp.africa.png", RTP AFRICA HD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/764033
-#EXTINF:-1 group-title="Generalistas" tvg-logo="", RTP AFRICA SD
+#EXTINF:-1 group-title="Generalistas" tvg-logo="https://i.postimg.cc/903Zxq8y/rtp.africa.png", RTP AFRICA
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/68343
-#EXTINF:-1 group-title="Generalistas" tvg-logo="", RTP MADEIRA HD
+#EXTINF:-1 group-title="Generalistas" tvg-logo="https://i.postimg.cc/pLV81vZc/rtp.madeira.png", RTP MADEIRA HD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/764037
-#EXTINF:-1 group-title="Generalistas" tvg-logo="", RTP MEMORIA HD
+#EXTINF:-1 group-title="Generalistas" tvg-logo="https://i.postimg.cc/4dVRWZmm/RTP_Memória.jpg", RTP MEMORIA HD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/764039
-#EXTINF:-1 group-title="Generalistas" tvg-logo="", RTP ACORES HD ◉
+#EXTINF:-1 group-title="Generalistas" tvg-logo="https://i.postimg.cc/dVJmPrqB/rtp.acores.png", RTP ACORES HD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/68354
-#EXTINF:-1 group-title="Generalistas" tvg-logo="", RTP INTERNATIONAL
+#EXTINF:-1 group-title="Generalistas" tvg-logo="https://i.postimg.cc/WzTBBqny/rtp_internacional.png", RTP INTERNACIONAL
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/258170
-#EXTINF:-1 group-title="Generalistas" tvg-logo="", RTP INT SD
+#EXTINF:-1 group-title="Generalistas" tvg-logo="https://i.postimg.cc/WzTBBqny/rtp_internacional.png", RTP INTERNACIONAL
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1030726
-#EXTINF:-1 group-title="Generalistas" tvg-logo="", GLOBO NOW HD
+#EXTINF:-1 group-title="Generalistas" tvg-logo="https://i.postimg.cc/8cJJVk3N/globo.now.jpg", GLOBO NOW HD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1030875
-#EXTINF:-1 group-title="Generalistas" tvg-logo="", BBC WORLD NEWS FHD
+#EXTINF:-1 group-title="Generalistas" tvg-logo="https://i.postimg.cc/y8VMQRd3/bbc_world_news.png", BBC WORLD NEWS HD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/68326
-#EXTINF:-1 group-title="Generalistas" tvg-logo="", TCV INTERNACIONAL HD
+#EXTINF:-1 group-title="Generalistas" tvg-logo="https://i.postimg.cc/G3SZp3BG/tcv.internacional.png", TCV INTERNACIONAL HD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/928143
-#EXTINF:-1 group-title="Generalistas" tvg-logo="", TV RECORD HD
+#EXTINF:-1 group-title="Generalistas" tvg-logo="https://i.postimg.cc/sXZZZ9P5/recordtv.jpg", TV RECORD HD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/764101
-#EXTINF:-1 group-title="Generalistas" tvg-logo="", TV RECORD NEWS HD
+#EXTINF:-1 group-title="Generalistas" tvg-logo="https://i.postimg.cc/0jY4Z51C/record_news.png", TV RECORD NEWS HD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/174205
-#EXTINF:-1 group-title="Generalistas" tvg-logo="", EURONEWS PORTUGAL HD
+#EXTINF:-1 group-title="Generalistas" tvg-logo="https://i.postimg.cc/VLZLmcwV/euronews.png", EURONEWS PT HD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/763982
-#EXTINF:-1 group-title="Generalistas" tvg-logo="", EURONEWS SD
+#EXTINF:-1 group-title="Generalistas" tvg-logo="https://i.postimg.cc/VLZLmcwV/euronews.png", EURONEWS PT
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/68352
-#EXTINF:-1 group-title="Generalistas" tvg-logo="", EURONEWS (A) SD
-http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/68302
-#EXTINF:-1 group-title="Generalistas" tvg-logo="", GLOBO NEWS HD
+#EXTINF:-1 group-title="Generalistas" tvg-logo="https://i.postimg.cc/fbhqhcTm/globo_news.jpg", GLOBO NEWS HD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/763993
-#EXTINF:-1 group-title="Generalistas" tvg-logo="", GLOBO MEO FHD
-http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1030874
-#EXTINF:-1 group-title="Generalistas" tvg-logo="", GLOBO HD
+#EXTINF:-1 group-title="Generalistas" tvg-logo="https://i.postimg.cc/8zWR64ZN/globo.png", GLOBO HD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/68294
-#EXTINF:-1 group-title="Generalistas" tvg-logo="", GLOBO SD
-http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/174219
-#EXTINF:-1 group-title="Generalistas" tvg-logo="", BLOOMBERG SD
+#EXTINF:-1 group-title="Generalistas" tvg-logo="https://i.postimg.cc/DwZ0XPnm/Bloomberg.png", BLOOMBERG SD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/68322
-#EXTINF:-1 group-title="Generalistas" tvg-logo="", SKY NEWS SD
+#EXTINF:-1 group-title="Generalistas" tvg-logo="https://i.postimg.cc/Ls5rRMjH/sky_news.png", SKY NEWS SD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NH/EXTI
 
+########## DESPORTO ##########
 #EXTINF:-1 group-title="Desporto" tvg-logo="", SPORT TV+ FHD
 http://uvykqdyb.g881.net:80/NQHCP9H/XJ9NHA1/1028206
 #EXTINF:-1 group-title="Desporto" tvg-logo="", SPORT TV+ HD
