@@ -114,8 +114,8 @@ http://centova.radios.pt:8571/stream
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/3r9CFNzz/caria.jpg" group-title="Radio", Rádio Caria - Belmonte
 https://sp0.redeaudio.com/8250/stream
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvSN1xmf/cidade-azul.png" group-title="Radio", Rádio Cidade Azul - Maia
-https://ssls.stmxp.net:8014/stream
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/cLTXyLSJ/radio-cidade-azul.png" group-title="Radio", Rádio Cidade Azul - Braga
+https://sp0.redeaudio.com/8092/stream
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/jd8Yv8ZK/cidade-hoje.png" group-title="Radio", Rádio Cidade Hoje - Famalicão
 http://centova.radios.pt:8119/stream
