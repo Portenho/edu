@@ -27,9 +27,6 @@ http://radiocast.rtp.pt/antena280a.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/bJx2W3yN/antena2-jazzin.png" group-title="Radio", Antena 2 Jazzin' - Lisboa
 http://radiocast.rtp.pt/antena2jazzin80a.mp3
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/6QGZLBFZ/antena2-opera.png" group-title="Radio", Antena 2 Ópera - Lisboa
-http://radiocast.rtp.pt/antena2opera80a.mp3
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8cTrSMcd/antena3.png" group-title="Radio", Antena 3 - Lisboa
 http://radiocast.rtp.pt/antena380a.mp3
 
@@ -85,7 +82,7 @@ https://ssls.stmxp.net:5878/1
 https://28993.live.streamtheworld.com/MEGA_HITS_SC
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/R0K8rGQW/nova-onda-total.png" group-title="Radio", Nova Onda Total - Maia
-https://stm2.serviceradios.com:8218/;
+https://s1.wintecstream.eu:7000/stream?icy=http
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/B63zJDMM/onda-viva.png" group-title="Radio", Onda Viva - Póvoa de Varzim
 http://centova.radios.pt:9524/stream
