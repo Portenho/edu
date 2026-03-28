@@ -1,399 +1,399 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/BQYFcLc6/radio-latina.png" group-title="Radio", Radio Latina - Luxemburgo
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/BQYFcLc6/radio-latina.png" group-title="Radio PT", Radio Latina - Luxemburgo
 https://n31a-eu.rcs.revma.com/8b6yqgx1w68uv?rj-ttl=5&rj-tok=AAABnTF-LuwAP8PsbzvdhcLzjQ
 
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/x1XNn0fZ/abc-portugal.png" group-title="Radio", ABC Portugal - Ourém
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/x1XNn0fZ/abc-portugal.png" group-title="Radio PT", ABC Portugal - Ourém
 http://centova.radios.pt:8547/stream/https://i.postimg.cc/x1XNn0fZ/abc-portugal.png/http://centova.radios.pt:8547/stream
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/1z6gVJNc/alternativa-radio.jpg" group-title="Radio", Alternativa Rádio - Barreiro
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/1z6gVJNc/alternativa-radio.jpg" group-title="Radio PT", Alternativa Rádio - Barreiro
 https://sp0.redeaudio.com/9870/stream
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/j54LZ2cD/altitude.png" group-title="Radio", Altitude FM - Guarda
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/j54LZ2cD/altitude.png" group-title="Radio PT", Altitude FM - Guarda
 http://centova.radios.pt:9034/stream
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/rmkD1x16/alvor.png" group-title="Radio", Alvor FM - Portimão
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/rmkD1x16/alvor.png" group-title="Radio PT", Alvor FM - Portimão
 http://centova.radios.pt:8469/stream
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/YC0Y063b/antena1.png" group-title="Radio", Antena 1 - Lisboa
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/YC0Y063b/antena1.png" group-title="Radio PT", Antena 1 - Lisboa
 http://radiocast.rtp.pt/antena180a.mp3
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/kXnx33tr/antena1-fado.png" group-title="Radio", Antena 1 Fado - Lisboa
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/kXnx33tr/antena1-fado.png" group-title="Radio PT", Antena 1 Fado - Lisboa
 http://radiocast.rtp.pt/antena1fado80a.mp3
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/85Q6ZqV0/antena2.png" group-title="Radio", Antena 2 - Lisboa
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/85Q6ZqV0/antena2.png" group-title="Radio PT", Antena 2 - Lisboa
 http://radiocast.rtp.pt/antena280a.mp3
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/bJx2W3yN/antena2-jazzin.png" group-title="Radio", Antena 2 Jazzin' - Lisboa
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/bJx2W3yN/antena2-jazzin.png" group-title="Radio PT", Antena 2 Jazzin' - Lisboa
 http://radiocast.rtp.pt/antena2jazzin80a.mp3
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8cTrSMcd/antena3.png" group-title="Radio", Antena 3 - Lisboa
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8cTrSMcd/antena3.png" group-title="Radio PT", Antena 3 - Lisboa
 http://radiocast.rtp.pt/antena380a.mp3
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/BbZty37M/antena-minho.jpg" group-title="Radio", Antena Minho - Braga
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/BbZty37M/antena-minho.jpg" group-title="Radio PT", Antena Minho - Braga
 http://centova.radios.pt:9464/stream
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/SRZjbPwq/antena-sul-90-4.png" group-title="Radio", Antena Sul 90.4 - Almodôvar
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/SRZjbPwq/antena-sul-90-4.png" group-title="Radio PT", Antena Sul 90.4 - Almodôvar
 https://nl.digitalrm.pt:8014/stream
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/kMw2SVDZ/antena-sul-95-5.png" group-title="Radio", Antena Sul 95.5 - Viana do Alentejo
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/kMw2SVDZ/antena-sul-95-5.png" group-title="Radio PT", Antena Sul 95.5 - Viana do Alentejo
 https://nl.digitalrm.pt:8022/stream
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/pVBFBGcs/buteco-sertanejo.png" group-title="Radio", Buteco Sertanejo - Brasil
-https://stream-159.zeno.fm/6kumndewqbruv?zs=-9ODiJawRFOL0Pq_3U0gZA
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/Vv40Lv0x/cascais-fm.png" group-title="Radio", Cascais FM - Cascais
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/Vv40Lv0x/cascais-fm.png" group-title="Radio PT", Cascais FM - Cascais
 https://play.radioregional.pt:8220/stream/2/;/stream.mp3
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/gkk6tVfm/central-fm.jpg" group-title="Radio", Central FM - Lisboa
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/gkk6tVfm/central-fm.jpg" group-title="Radio PT", Central FM - Lisboa
 https://s29.myradiostream.com:4922/listen.mp3?nocache=1755290405
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sxfPRCGn/cidade-fm.png" group-title="Radio", Cidade FM - Lisboa
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sxfPRCGn/cidade-fm.png" group-title="Radio PT", Cidade FM - Lisboa
 https://stream-icy.bauermedia.pt/cidade.aac
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/9MhtJ7mH/dao-digital.png" group-title="Radio", Dão Digital - Mangualde
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/9MhtJ7mH/dao-digital.png" group-title="Radio PT", Dão Digital - Mangualde
 https://nl.digitalrm.pt:8206/stream
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/Kvz7qF2j/diana-fmm.png" group-title="Radio", Diana FM - Évora
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/Kvz7qF2j/diana-fmm.png" group-title="Radio PT", Diana FM - Évora
 http://centova.radios.pt:9460/stream
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/zXTTVG5L/engenharia-radio.png" group-title="Radio", Engenharia Rádio - Porto
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/zXTTVG5L/engenharia-radio.png" group-title="Radio PT", Engenharia Rádio - Porto
 http://engradio.fe.up.pt:8080/live?type=.mp3
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/GmTFRQ91/exotica-radio.png" group-title="Radio", Exótica Rádio - Aveiro
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/GmTFRQ91/exotica-radio.png" group-title="Radio PT", Exótica Rádio - Aveiro
 https://solid67.streamupsolutions.com/proxy/repadnom?mp=/streamtype=mp3
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/FKtjHLJk/fama-radio.jpg" group-title="Radio", Fama Rádio - Famalicão
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/FKtjHLJk/fama-radio.jpg" group-title="Radio PT", Fama Rádio - Famalicão
 https://eu10.fastcast4u.com/famaradio
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/nch6s4ZW/golo-fm.jpg" group-title="Radio", Golo FM - Gandra
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/nch6s4ZW/golo-fm.jpg" group-title="Radio PT", Golo FM - Gandra
 https://sp0.redeaudio.com/8154/stream
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/Hxz5zvvb/hunter-sertanejo.png" group-title="Radio", Hunter Sertanejo - Brasil
-https://live.hunter.fm/sertanejo_normal
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/Gpkv8mk7/m80.png" group-title="Radio", M80 - Lisboa
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/Gpkv8mk7/m80.png" group-title="Radio PT", M80 - Lisboa
 http://stream-icy.bauermedia.pt/m80.mp3
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/SxX3dmn7/mega-fm.png" group-title="Radio", Mega FM - Maia
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/SxX3dmn7/mega-fm.png" group-title="Radio PT", Mega FM - Maia
 https://ssls.stmxp.net:5878/1
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/RCPKn8HB/mega-hits.png" group-title="Radio", Mega Hits - Lisboa
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/RCPKn8HB/mega-hits.png" group-title="Radio PT", Mega Hits - Lisboa
 https://28993.live.streamtheworld.com/MEGA_HITS_SC
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/R0K8rGQW/nova-onda-total.png" group-title="Radio", Nova Onda Total - Maia
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/R0K8rGQW/nova-onda-total.png" group-title="Radio PT", Nova Onda Total - Maia
 https://s1.wintecstream.eu:7000/stream?icy=http
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/B63zJDMM/onda-viva.png" group-title="Radio", Onda Viva - Póvoa de Varzim
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/B63zJDMM/onda-viva.png" group-title="Radio PT", Onda Viva - Póvoa de Varzim
 http://centova.radios.pt:9524/stream
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/Gt9BQLy1/portugal-radio.png" group-title="Radio", Portugal Star - Lisboa
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/Gt9BQLy1/portugal-radio.png" group-title="Radio PT", Portugal Star - Lisboa
 http://185.118.112.12:8028/live
 
-	:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/7hYQ24vz/radio-cinco.png" group-title="Radio", Rádio 5 - Maia
+	:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/7hYQ24vz/radio-cinco.png" group-title="Radio PT", Rádio 5 - Maia
 radios.justweb.pt/8042/stream
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/g0RHVDPK/afifense.png" group-title="Radio", Rádio Afifense - Afife
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/g0RHVDPK/afifense.png" group-title="Radio PT", Rádio Afifense - Afife
 http://centova.radios.pt:8471/stream
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qvzVF85K/amalia.png" group-title="Radio", Rádio Amália - Lisboa
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qvzVF85K/amalia.png" group-title="Radio PT", Rádio Amália - Lisboa
 http://centova.radios.pt:9496/stream
 
-	:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/CK8yhwYL/amizade-viva.png" group-title="Radio", Rádio Amizade Viva - Maia
+	:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/CK8yhwYL/amizade-viva.png" group-title="Radio PT", Rádio Amizade Viva - Maia
 176.9.43.216:8184/;
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/9QK5Hr6n/amor-eterno.png" group-title="Radio", Rádio Amor Eterno - Madeira
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/9QK5Hr6n/amor-eterno.png" group-title="Radio PT", Rádio Amor Eterno - Madeira
 https://ssl.stmxp.net:7134/stream/1/
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/Wz9GNYMs/antena-livre-89-6.png" group-title="Radio", Rádio Antena Livre - Gouveia
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/Wz9GNYMs/antena-livre-89-6.png" group-title="Radio PT", Rádio Antena Livre - Gouveia
 http://centova.radios.pt:9456/stream
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/kg2c4C1z/antena-livre.png" group-title="Radio", Rádio Antena Livre - Abrantes
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/kg2c4C1z/antena-livre.png" group-title="Radio PT", Rádio Antena Livre - Abrantes
 http://centova.radios.pt:8571/stream
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/3r9CFNzz/caria.jpg" group-title="Radio", Rádio Caria - Belmonte
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/3r9CFNzz/caria.jpg" group-title="Radio PT", Rádio Caria - Belmonte
 https://sp0.redeaudio.com/8250/stream
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/cLTXyLSJ/radio-cidade-azul.png" group-title="Radio", Rádio Cidade Azul - Braga
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/cLTXyLSJ/radio-cidade-azul.png" group-title="Radio PT", Rádio Cidade Azul - Braga
 https://sp0.redeaudio.com/8092/stream
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/jd8Yv8ZK/cidade-hoje.png" group-title="Radio", Rádio Cidade Hoje - Famalicão
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/jd8Yv8ZK/cidade-hoje.png" group-title="Radio PT", Rádio Cidade Hoje - Famalicão
 http://centova.radios.pt:8119/stream
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/MpgYfLgT/comercial.png" group-title="Radio", Rádio Comercial - Lisboa
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/MpgYfLgT/comercial.png" group-title="Radio PT", Rádio Comercial - Lisboa
 https://stream-icy.bauermedia.pt/comercial.mp3
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/WzXCW3mS/coracao-sertanejo.png" group-title="Radio", Rádio Coração Sertanejo - Brasil
-https://stm13.xcast.com.br:12018/stream?1774656658971
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/tTNdf4JZ/corval-ok.png" group-title="Radio", Rádio Corval - Mourão
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/tTNdf4JZ/corval-ok.png" group-title="Radio PT", Rádio Corval - Mourão
 http://centova.radios.pt:9184/stream
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hP5LNwDr/dueca.png" group-title="Radio", Rádio Dueça - Miranda do Corvo
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hP5LNwDr/dueca.png" group-title="Radio PT", Rádio Dueça - Miranda do Corvo
 http://109.71.41.6:8008/stream
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/C1p3d9LC/festival.png" group-title="Radio", Rádio Festival - Porto
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/C1p3d9LC/festival.png" group-title="Radio PT", Rádio Festival - Porto
 https://servidor23-1.brlogic.com:7110/live?1774657130146
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/dQBbtHMd/geracao-sertaneja.png" group-title="Radio", Rádio Geração Sertaneja - Brasil
-https://stream.geracao.live/listen/sertaneja/stream?1774657347607
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/T1wCP8q0/radio-jorginho-moreira.png" group-title="Radio", Rádio Jorginho Moreira - Maia
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/T1wCP8q0/radio-jorginho-moreira.png" group-title="Radio PT", Rádio Jorginho Moreira - Maia
 https://radios3.justweb.pt/8014/stream?1774657433283
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/SskCWbdy/mais-oeste.jpg" group-title="Radio", Rádio Mais Oeste - Caldas da Raínha
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/SskCWbdy/mais-oeste.jpg" group-title="Radio PT", Rádio Mais Oeste - Caldas da Raínha
 https://s9.yesstreaming.net:9033/stream/1/
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VvNtV92p/marcoense.jpg" group-title="Radio", Rádio Marcoense - Marco de Canaveses
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VvNtV92p/marcoense.jpg" group-title="Radio PT", Rádio Marcoense - Marco de Canaveses
 http://137.74.160.250:8000/stream
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/yxrR4gHd/matosinhos-online.png" group-title="Radio", Rádio Matosinhos Online - Matosinhos
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/yxrR4gHd/matosinhos-online.png" group-title="Radio PT", Rádio Matosinhos Online - Matosinhos
 http://185.32.188.17:8035/stream
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/02bmGfYJ/meo-sudoeste.png" group-title="Radio", Rádio Meo Sodueste - Lisboa
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/02bmGfYJ/meo-sudoeste.png" group-title="Radio PT", Rádio Meo Sodueste - Lisboa
 http://centova.radios.pt:8495/stream
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/J4vXpkxY/miudinhos.png" group-title="Radio", Rádio Miudinhos - Bombarral
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/J4vXpkxY/miudinhos.png" group-title="Radio PT", Rádio Miudinhos - Bombarral
 https://s2.radio.co/s8dfeaed91/listen
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qvK3SvZJ/miudos.png" group-title="Radio", Rádio Miúdos - Bombarral
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qvK3SvZJ/miudos.png" group-title="Radio PT", Rádio Miúdos - Bombarral
 https://s5.radio.co/s9c516a065/listen
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/kXwb7jjr/radio-voz-norte.png" group-title="Radio", Rádio Voz do Norte - Porto
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/kXwb7jjr/radio-voz-norte.png" group-title="Radio PT", Rádio Voz do Norte - Porto
 https://icecast.hostingbahia.com.ar:8002/live
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/XY8Fk1r4/nova.png" group-title="Radio", Rádio Nova - Porto
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/XY8Fk1r4/nova.png" group-title="Radio PT", Rádio Nova - Porto
 http://centova.radios.pt:9528/stream
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/N0wHcvW1/nova-era.jpg" group-title="Radio", Rádio Nova Era - Vila Nova de Gaia
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/N0wHcvW1/nova-era.jpg" group-title="Radio PT", Rádio Nova Era - Vila Nova de Gaia
 http://centova.radios.pt:9478/stream
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/SsSYn7QR/onda-viva.png" group-title="Radio", Rádio Onda Viva - Vila do Conde
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/SsSYn7QR/onda-viva.png" group-title="Radio PT", Rádio Onda Viva - Vila do Conde
 http://centova.radios.pt:9524/stream
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/zfSRDPr4/planicie.png" group-title="Radio", Rádio Planície - Moura
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/zfSRDPr4/planicie.png" group-title="Radio PT", Rádio Planície - Moura
 http://109.71.41.6:8026/stream
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8PJJfCGR/renascenca.png" group-title="Radio", Rádio Renascença - Lisboa
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8PJJfCGR/renascenca.png" group-title="Radio PT", Rádio Renascença - Lisboa
 https://25533.live.streamtheworld.com/RADIO_RENASCENCAAAC_SC?dist=triton-widget&pname=tdwidgets
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/Qx2BQrNR/riba-tavora.jpg" group-title="Radio", Rádio Riba-Távora - Moimenta da Beira
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/Qx2BQrNR/riba-tavora.jpg" group-title="Radio PT", Rádio Riba-Távora - Moimenta da Beira
 http://centova.radios.pt:9542/stream
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/nVyvFD8b/ritmos.jpg" group-title="Radio", Rádio Ritmos - Porto
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/nVyvFD8b/ritmos.jpg" group-title="Radio PT", Rádio Ritmos - Porto
 https://cast2.hoost.com.br:20063/stream
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/FFWTB25P/roberto-carlos.png" group-title="Radio", Rádio Roberto Carlos Hits - Brasil
-https://centova2.svdns.com.br:20098/stream?1774658860337
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/pXmsbqPP/santiago-fm.png" group-title="Radio", Rádio Santiago - Guimarães
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/pXmsbqPP/santiago-fm.png" group-title="Radio PT", Rádio Santiago - Guimarães
 http://eu6.fastcast4u.com:5002/stream
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/QdZX7DZF/santiago-fm-2.png" group-title="Radio", Rádio Santiago 2 - Guimarães
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/QdZX7DZF/santiago-fm-2.png" group-title="Radio PT", Rádio Santiago 2 - Guimarães
 http://eu6.fastcast4u.com:5002/canal2
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/MGS5BwVG/sertaneja-barretos.png" group-title="Radio", Rádio Sertaneja Barretos - Brasil
-https://stma1.svrstream.com.br:8102/stream/1/
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/Y0zbr1VH/sertanejo-fm.png" group-title="Radio", Rádio Sertanejo FM - Brasil
-https://stream.zeno.fm/qcwuy1y3tm0uv
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/dVdnD37X/telefonia-do-alentejo.png" group-title="Radio", Telefonia do Alentejo - Évora	
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/dVdnD37X/telefonia-do-alentejo.png" group-title="Radio PT", Telefonia do Alentejo - Évora	
 https://nl.digitalrm.pt:8046/stream?1685120010419
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/0Q5CtCtR/top-sertanejo.png" group-title="Radio", Rádio Top Sertanejo - Brasil
-https://live3.livemus.com.br:27348/stream
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/6QpZjVZR/transforma.png" group-title="Radio", Rádio Transforma - Porto
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/6QpZjVZR/transforma.png" group-title="Radio PT", Rádio Transforma - Porto
 http://176.9.43.216:8560/stream
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/q7LzHhcT/valdevez.png" group-title="Radio", Rádio Valdevez - Arcos de Valdevez
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/q7LzHhcT/valdevez.png" group-title="Radio PT", Rádio Valdevez - Arcos de Valdevez
 http://centova.radios.pt:9508/stream
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/Y9Cjrr8m/vizela.jpg" group-title="Radio", Rádio Vizela - Vizela
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/Y9Cjrr8m/vizela.jpg" group-title="Radio PT", Rádio Vizela - Vizela
 http://109.71.41.6:8100/stream
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/Rh3FtgkS/voz-da-planicie.png" group-title="Radio", Rádio Voz da Planicie - Beja
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/Rh3FtgkS/voz-da-planicie.png" group-title="Radio PT", Rádio Voz da Planicie - Beja
 http://centova.radios.pt:8441/stream
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/76BnjTcC/xl-fm.png" group-title="Radio", Rádio XL FM - Maia
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/76BnjTcC/xl-fm.png" group-title="Radio PT", Rádio XL FM - Maia
 https://radios.justweb.pt/8002/stream
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/HnKrvqw8/rcb-radio-cova-da-beira.png" group-title="Radio", Rádio Cova da Beira - Fundão
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/HnKrvqw8/rcb-radio-cova-da-beira.png" group-title="Radio PT", Rádio Cova da Beira - Fundão
 http://centova.radios.pt:8467/stream
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/y6r3NZM6/rcc-cerveira.png" group-title="Radio", Rádio Cerveira - Vila Nova de Cerveira
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/y6r3NZM6/rcc-cerveira.png" group-title="Radio PT", Rádio Cerveira - Vila Nova de Cerveira
 http://185.32.188.17:8062/stream
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/wvkGMvrH/radio-clube-sintra.png" group-title="Radio", Rádio Clube de Sintra - Sintra
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/wvkGMvrH/radio-clube-sintra.png" group-title="Radio PT", Rádio Clube de Sintra - Sintra
 http://centova.radios.pt:8445/stream
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/zXMWWVxq/record-fm-porto.png" group-title="Radio", Record FM [Porto] - Porto
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/zXMWWVxq/record-fm-porto.png" group-title="Radio PT", Record FM [Porto] - Porto
 https://nl.digitalrm.pt:8028/stream
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/6QxvjFsS/record-fm-lisboa.png" group-title="Radio", Record FM [Lisboa] - Lisboa
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/6QxvjFsS/record-fm-lisboa.png" group-title="Radio PT", Record FM [Lisboa] - Lisboa
 https://nl.digitalrm.pt:8010/stream
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/SKLzwVkK/record-fm-algarve.png" group-title="Radio", Record FM [Algarve] - Algarve
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/SKLzwVkK/record-fm-algarve.png" group-title="Radio PT", Record FM [Algarve] - Algarve
 https://nl.digitalrm.pt:8020/stream
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/bwtnRp5k/record-fm-leiria.png" group-title="Radio", Record FM [Leiria] - Leiria
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/bwtnRp5k/record-fm-leiria.png" group-title="Radio PT", Record FM [Leiria] - Leiria
 https://nl.digitalrm.pt:8026/stream
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/rm8tcWwN/record-fm-santarem.png" group-title="Radio", Record FM [Santarém] - Santarém
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/rm8tcWwN/record-fm-santarem.png" group-title="Radio PT", Record FM [Santarém] - Santarém
 https://nl.digitalrm.pt:8018/stream
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/25wBH2Pb/RFM-Online.png" group-title="Radio", RFM Online - Lisboa
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/25wBH2Pb/RFM-Online.png" group-title="Radio PT", RFM Online - Lisboa
 https://27743.live.streamtheworld.com/RFMAAC.aac
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qBjFdNnx/rfm-00s.png" group-title="Radio", RFM - 00's - Lisboa
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qBjFdNnx/rfm-00s.png" group-title="Radio PT", RFM - 00's - Lisboa
 https://25453.live.streamtheworld.com/LIVESTREAMAAC_SC?dist=triton-widget&pname=tdwidgets
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/fTyrWMfn/rfm-80s.png" group-title="Radio", RFM - 80's - Lisboa
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/fTyrWMfn/rfm-80s.png" group-title="Radio PT", RFM - 80's - Lisboa
 https://25243.live.streamtheworld.com/GR80SRFMAAC_SC
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/L6W0nGxq/rfm-90s.png" group-title="Radio", RFM - 90's - Lisboa
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/L6W0nGxq/rfm-90s.png" group-title="Radio PT", RFM - 90's - Lisboa
 https://28503.live.streamtheworld.com/RFM_90SAAC.aac
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/0yJXmZ4V/rfm-dance.png" group-title="Radio", RFM - Dance It - Lisboa
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/0yJXmZ4V/rfm-dance.png" group-title="Radio PT", RFM - Dance It - Lisboa
 https://28553.live.streamtheworld.com/DANCEONTHEFLOORAAC.aac
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/DzkjcLkn/rfm-lanitas.png" group-title="Radio", RFM - Latinas - Lisboa
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/DzkjcLkn/rfm-lanitas.png" group-title="Radio PT", RFM - Latinas - Lisboa
 https://22193.live.streamtheworld.com/RFM_LATINASAAC.aac
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/CKGvr5SD/rfm-novas.png" group-title="Radio", RFM - Novas - Lisboa
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/CKGvr5SD/rfm-novas.png" group-title="Radio PT", RFM - Novas - Lisboa
 https://22713.live.streamtheworld.com/RFM_FRESCASAAC.aac
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/pTPswvLS/rfm-oceano-pacifico.png" group-title="Radio", RFM - Oceano Pacífico - Lisboa
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/pTPswvLS/rfm-oceano-pacifico.png" group-title="Radio PT", RFM - Oceano Pacífico - Lisboa
 https://29053.live.streamtheworld.com/OCEANPACIFICAAC.aac
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/mDVmRncg/rfm-rocks.png" group-title="Radio", RFM - Rocks - Lisboa
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/mDVmRncg/rfm-rocks.png" group-title="Radio PT", RFM - Rocks - Lisboa
 https://22343.live.streamtheworld.com/RFMONTHEROCKAAC.aac
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/PJx2qMZz/rfm-toca-portugal.png" group-title="Radio", RFM - Toca Portugal - Lisboa
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/PJx2qMZz/rfm-toca-portugal.png" group-title="Radio PT", RFM - Toca Portugal - Lisboa
 https://25693.live.streamtheworld.com/RFM_PORTUGALAAC.aac
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/HsFBpXLX/romantismo-sertanejo.png" group-title="Radio", Romantismo Sertanejo - Brasil
-https://stm4.voxhd.com.br:8214/stream
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/DfCRVhqd/sertanejo-fm-raizes.png" group-title="Radio", Sertanejo FM Raizes - Brasil
-https://stream-148.zeno.fm/8u285ygpf48uv?zs=IEKejSfyS9GOpkFFw6tkPA
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/2y9W06mF/singa-fm.png" group-title="Radio", Singa FM - Beja
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/2y9W06mF/singa-fm.png" group-title="Radio PT", Singa FM - Beja
 http://centova.radios.pt:8487/stream
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/NMCFL3PC/vibe-dancefloor.png" group-title="Radio", The Vibe (Dancefloor Rádio) - Castelo Branco
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/NMCFL3PC/vibe-dancefloor.png" group-title="Radio PT", The Vibe (Dancefloor Rádio) - Castelo Branco
 https://radio.vibe.pt/stream
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/C5HGgS2B/radio-castrense.png" group-title="Radio", Radio Castrense - Castelo Branco
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/C5HGgS2B/radio-castrense.png" group-title="Radio PT", Radio Castrense - Castelo Branco
 https://centova.radio.com.pt/proxy/431?mp=/stream&1774664498913
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/XqTvkwWw/xradio.jpg" group-title="Radio", X Rádio - Leça do Balio
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/XqTvkwWw/xradio.jpg" group-title="Radio PT", X Rádio - Leça do Balio
 https://radio.xradio.pt/listen/xradio/radio.mp3
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/NFx4tpf4/noar.png" group-title="Radio", Rádio No Ar - Trofa
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/NFx4tpf4/noar.png" group-title="Radio PT", Rádio No Ar - Trofa
 https://radios.justweb.pt/8034/stream
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/m2Z9BrS1/oxigenio.png" group-title="Radio", Rádio Oxigénio - Lisboa
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/m2Z9BrS1/oxigenio.png" group-title="Radio PT", Rádio Oxigénio - Lisboa
 https://proic1.redeaudio.com/oxigenio_aac
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/QMCStbk5/afurada.png" group-title="Radio", Rádio Afurada - Gaia
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/QMCStbk5/afurada.png" group-title="Radio PT", Rádio Afurada - Gaia
 https://sp0.redeaudio.com/9988/stream;?1687770960247
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/4dbKTC71/top-95-9-aveiro.png" group-title="Radio", Top FM - Aveiro
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/4dbKTC71/top-95-9-aveiro.png" group-title="Radio PT", Top FM - Aveiro
 https://radios3.justweb.pt:8012/stream
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/T1g62HjL/horizonte-fm.png" group-title="Radio", Horizonte FM - Açores
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/T1g62HjL/horizonte-fm.png" group-title="Radio PT", Horizonte FM - Açores
 https://horizonte-radiohorizonte.radioca.st/stream
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VsWtxtXc/nove3cinco.png" group-title="Radio", Rádio Nove3Cinco - Braga
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VsWtxtXc/nove3cinco.png" group-title="Radio PT", Rádio Nove3Cinco - Braga
 https://centova.radio.com.pt/proxy/522?mp=/stream
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8cmLwJmN/hiper.png" group-title="Radio", Hiper FM - Santarém
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8cmLwJmN/hiper.png" group-title="Radio PT", Hiper FM - Santarém
 https://centova.radio.com.pt/proxy/500?mp=/stream
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/GpTYVSxM/marginal.png" group-title="Radio", Marginal FM - Lisboa
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/GpTYVSxM/marginal.png" group-title="Radio PT", Marginal FM - Lisboa
 https://centova.radio.com.pt/proxy/499?mp=/stream
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/J4QQ5gpZ/Azores-High.png" group-title="Radio", Rádio Azores Hight - Horta
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/J4QQ5gpZ/Azores-High.png" group-title="Radio PT", Rádio Azores Hight - Horta
 https://sp0.redeaudio.com/8062/stream
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/MKsQT8sP/portuense.png" group-title="Radio", Rádio Portuense - Porto
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/MKsQT8sP/portuense.png" group-title="Radio PT", Rádio Portuense - Porto
 https://sp0.redeaudio.com/8160/stream
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/zvxVVnkb/torres-novas.png" group-title="Radio", Rádio Torres Novas - Santarém
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/zvxVVnkb/torres-novas.png" group-title="Radio PT", Rádio Torres Novas - Santarém
 https://centova.radios.pt/proxy/475?mp=/stream
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/HxQMscKX/montalegre.png" group-title="Radio", Rádio Montalegre
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/HxQMscKX/montalegre.png" group-title="Radio PT", Rádio Montalegre
 https://centova.radio.com.pt/proxy/566?mp=/stream
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/TPKqGPfJ/granada.png" group-title="Radio", Rádio Granada - Évora
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/TPKqGPfJ/granada.png" group-title="Radio PT", Rádio Granada - Évora
 https://centova.radio.com.pt/proxy/549?mp=/stream
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/SQdXThpS/urbana.png" group-title="Radio", Rádio Urbana FM - Castelo Branco
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/SQdXThpS/urbana.png" group-title="Radio PT", Rádio Urbana FM - Castelo Branco
 https://radios2.justweb.pt/8038/stream
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/cCxvxDfG/top-fm-a-ores.png" group-title="Radio", Top FM - Açores
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/cCxvxDfG/top-fm-a-ores.png" group-title="Radio PT", Top FM - Açores
 https://topfm-radiohorizonte.radioca.st/stream
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/c1R7d2y2/horizonte-a-ores.png" group-title="Radio", Rádio Horizonte - Açores
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/c1R7d2y2/horizonte-a-ores.png" group-title="Radio PT", Rádio Horizonte - Açores
 https://horizonte-radiohorizonte.radioca.st/stream
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8cQbZV8B/canal-fm.png" group-title="Radio", Canal FM - Calheta (Açores)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8cQbZV8B/canal-fm.png" group-title="Radio PT", Canal FM - Calheta (Açores)
 https://centova.radios.pt/proxy/466?mp=/stream/1/
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/NGmD5LTN/clube-asas-do-atlantico.png" group-title="Radio", Clube Asas do Atlântico - Açores
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/NGmD5LTN/clube-asas-do-atlantico.png" group-title="Radio PT", Clube Asas do Atlântico - Açores
 https://centova.radio.com.pt/proxy/538?mp=/stream
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/gJ6Dy272/felgueiras.png" group-title="Radio", Rádio Felgueiras
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/gJ6Dy272/felgueiras.png" group-title="Radio PT", Rádio Felgueiras
 https://centova.radio.com.pt/proxy/459?mp=/stream
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sggxm8Ct/vodafone.png" group-title="Radio", Vodafone FM - Lisboa
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sggxm8Ct/vodafone.png" group-title="Radio PT", Vodafone FM - Lisboa
 https://nl.digitalrm.pt:8094/stream
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/P5P8vF9t/portugal.png" group-title="Radio", Rádio Portugal - Lisboa
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/P5P8vF9t/portugal.png" group-title="Radio PT", Rádio Portugal - Lisboa
 http://sv15.hdradios.net:7432/stream
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/6QZ2Y4Bg/portugal-somos-nos.png" group-title="Radio", Portugal Somos Nós - Setúbal
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/6QZ2Y4Bg/portugal-somos-nos.png" group-title="Radio PT", Portugal Somos Nós - Setúbal
 https://sp0.redeaudio.com:7178/live
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/4ygzzbtW/hit-fm.png" group-title="Radio", Hit FM - Leiria
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/4ygzzbtW/hit-fm.png" group-title="Radio PT", Hit FM - Leiria
 https://stream-160.zeno.fm/88ck6ggfqm0uv?zs=KXXvaRDmQZy-6GK8XRW0jw
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/dV1Gm0kc/lisboa.png" group-title="Radio", Rádio Lisboa
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/dV1Gm0kc/lisboa.png" group-title="Radio PT", Rádio Lisboa
 http://radiolisboa.ddns.net:8080/;
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/FHB3PQ3d/lusitania.png" group-title="Radio", Rádio Lusitânia - Lisboa
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/FHB3PQ3d/lusitania.png" group-title="Radio PT", Rádio Lusitânia - Lisboa
 https://stm10.painelcast.com:7540/;
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/x1T3xRZ7/clube-lourinha.png" group-title="Radio", Rádio Clube da Lourinhã
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/x1T3xRZ7/clube-lourinha.png" group-title="Radio PT", Rádio Clube da Lourinhã
 https://sp0.redeaudio.com:10975/stream
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/XqLy9Mnv/porto-digital.png" group-title="Radio", Rádio Porto Digital
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/XqLy9Mnv/porto-digital.png" group-title="Radio PT", Rádio Porto Digital
 https://ssls.stmxp.net:8129/.mp3
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/DwH4rP31/regional.png" group-title="Radio", Rádio Regional - Lisboa
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/DwH4rP31/regional.png" group-title="Radio PT", Rádio Regional - Lisboa
 https://play.radioregional.pt/stream/1/
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/Y0nsH6ZW/radio-botareu.png" group-title="Radio", Rádio Botaréu - Aveiro
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/Y0nsH6ZW/radio-botareu.png" group-title="Radio PT", Rádio Botaréu - Aveiro
 https://nl.digitalrm.pt:8238/stream
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/ncTvDmL1/ideias.png" group-title="Radio", Rádio Ideias - Sintra
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/ncTvDmL1/ideias.png" group-title="Radio PT", Rádio Ideias - Sintra
 http://185.32.188.30/8006/stream
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/NMwyVGMM/rlcb-dance.png" group-title="Radio", RLCB Dance
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/NMwyVGMM/rlcb-dance.png" group-title="Radio PT", RLCB Dance
 https://stm2.painelcast.com:7544/;
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/FKwbKQK5/H.png" group-title="Radio", Rádio H - Beja
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/FKwbKQK5/H.png" group-title="Radio PT", Rádio H - Beja
 https://sp0.redeaudio.com:10969/;
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/4xLbrck3/geracoes.png" group-title="Radio", Rádio Geração - Brasil
-https://10.stmip.net:10588/;?1774667637111
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/Bb4K8Z9y/ntr.png" group-title="Radio", NTR - Lisboa
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/Bb4K8Z9y/ntr.png" group-title="Radio PT", NTR - Lisboa
 https://is.ntradio.pt/ntr
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/Rh7L8b4r/cordial.png" group-title="Radio", Rádio Cordial - Funchal
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/Rh7L8b4r/cordial.png" group-title="Radio PT", Rádio Cordial - Funchal
 https://listen.openstream.co/6149/audio
 
 
+########################### RADIOD BRASIL #######################################
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/pVBFBGcs/buteco-sertanejo.png" group-title="Radio BR", Buteco Sertanejo - Brasil
+https://stream-159.zeno.fm/6kumndewqbruv?zs=-9ODiJawRFOL0Pq_3U0gZA
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/Hxz5zvvb/hunter-sertanejo.png" group-title="Radio BR", Hunter Sertanejo - Brasil
+https://live.hunter.fm/sertanejo_normal
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/WzXCW3mS/coracao-sertanejo.png" group-title="Radio BR", Rádio Coração Sertanejo - Brasil
+https://stm13.xcast.com.br:12018/stream?1774656658971
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/dQBbtHMd/geracao-sertaneja.png" group-title="Radio BR", Rádio Geração Sertaneja - Brasil
+https://stream.geracao.live/listen/sertaneja/stream?1774657347607
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/FFWTB25P/roberto-carlos.png" group-title="Radio BR", Rádio Roberto Carlos Hits - Brasil
+https://centova2.svdns.com.br:20098/stream?1774658860337
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/MGS5BwVG/sertaneja-barretos.png" group-title="Radio BR", Rádio Sertaneja Barretos - Brasil
+https://stma1.svrstream.com.br:8102/stream/1/
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/Y0zbr1VH/sertanejo-fm.png" group-title="Radio BR", Rádio Sertanejo FM - Brasil
+https://stream.zeno.fm/qcwuy1y3tm0uv
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/0Q5CtCtR/top-sertanejo.png" group-title="Radio BR", Rádio Top Sertanejo - Brasil
+https://live3.livemus.com.br:27348/stream
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/HsFBpXLX/romantismo-sertanejo.png" group-title="Radio BR", Romantismo Sertanejo - Brasil
+https://stm4.voxhd.com.br:8214/stream
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/DfCRVhqd/sertanejo-fm-raizes.png" group-title="Radio BR", Sertanejo FM Raizes - Brasil
+https://stream-148.zeno.fm/8u285ygpf48uv?zs=IEKejSfyS9GOpkFFw6tkPA
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/4xLbrck3/geracoes.png" group-title="Radio BR", Rádio Geração - Brasil
+https://10.stmip.net:10588/;?1774667637111
