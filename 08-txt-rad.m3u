@@ -129,23 +129,20 @@ https://stm13.xcast.com.br:12018/stream?1774656658971
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/tTNdf4JZ/corval-ok.png" group-title="Radio", Rádio Corval - Mourão
 http://centova.radios.pt:9184/stream
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/zG5KWYXx/douro-afuradense.jpg" group-title="Radio", Rádio Douro Afuradense - Porto
-http://s1.xps-ip.eu:8048/stream
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hP5LNwDr/dueca.png" group-title="Radio", Rádio Dueça - Miranda do Corvo
 http://109.71.41.6:8008/stream
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/C1p3d9LC/festival.png" group-title="Radio", Rádio Festival - Porto
-http://centova.radios.pt:9520/stream
+https://servidor23-1.brlogic.com:7110/live?1774657130146
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/dQBbtHMd/geracao-sertaneja.png" group-title="Radio", Rádio Geração Sertaneja - Brasil
-https://servidor.geracaoradios.com/listen/sertaneja/stream
+https://stream.geracao.live/listen/sertaneja/stream?1774657347607
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.radio.pt/images/broadcasts/64/d5/101552/1/c300.png" group-title="Radio", Rádio Jorginho Moreira - Maia
-https://radios.justweb.pt/8030/stream
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/T1wCP8q0/radio-jorginho-moreira.png" group-title="Radio", Rádio Jorginho Moreira - Maia
+https://radios3.justweb.pt/8014/stream?1774657433283
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/SskCWbdy/mais-oeste.jpg" group-title="Radio", Rádio Mais Oeste - Caldas da Raínha
-http://centova.radios.pt:8515/stream
+https://s9.yesstreaming.net:9033/stream/1/
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VvNtV92p/marcoense.jpg" group-title="Radio", Rádio Marcoense - Marco de Canaveses
 http://137.74.160.250:8000/stream
