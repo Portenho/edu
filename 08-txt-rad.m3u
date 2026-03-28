@@ -195,11 +195,8 @@ http://eu6.fastcast4u.com:5002/canal2
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/MGS5BwVG/sertaneja-barretos.png" group-title="Radio", Rádio Sertaneja Barretos - Brasil
 https://stma1.svrstream.com.br:8102/stream/1/
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/k5vcFHvv/sertanejo.png" group-title="Radio", Rádio Sertanejo FM - Brasil
-http://stream-037.zeno.fm/4dmp5wkde2zuv?zs=9AJQ5FePQKS5wfQIesdR4w&1685142224331
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/d0vLfmy6/solar.png" group-title="Radio", Rádio Solar - Albufeira
-http://5.189.189.245:8006/stream
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/Y0zbr1VH/sertanejo-fm.png" group-title="Radio", Rádio Sertanejo FM - Brasil
+https://stream.zeno.fm/qcwuy1y3tm0uv
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/dVdnD37X/telefonia-do-alentejo.png" group-title="Radio", Telefonia do Alentejo - Évora	
 https://nl.digitalrm.pt:8046/stream?1685120010419
@@ -222,9 +219,6 @@ http://centova.radios.pt:8441/stream
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/76BnjTcC/xl-fm.png" group-title="Radio", Rádio XL FM - Maia
 https://radios.justweb.pt/8002/stream
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/RFg6K6qR/radioava-global.png" group-title="Radio", Rádioava.globa - Malveira
-http://185.118.112.12:8029/stream
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/HnKrvqw8/rcb-radio-cova-da-beira.png" group-title="Radio", Rádio Cova da Beira - Fundão
 http://centova.radios.pt:8467/stream
 
@@ -234,17 +228,17 @@ http://185.32.188.17:8062/stream
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/wvkGMvrH/radio-clube-sintra.png" group-title="Radio", Rádio Clube de Sintra - Sintra
 http://centova.radios.pt:8445/stream
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/zXMWWVxq/record-fm-porto.png" group-title="Radio", Record FM [Porto] - Porto
+https://nl.digitalrm.pt:8028/stream
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/6QxvjFsS/record-fm-lisboa.png" group-title="Radio", Record FM [Lisboa] - Lisboa
+https://nl.digitalrm.pt:8010/stream
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/SKLzwVkK/record-fm-algarve.png" group-title="Radio", Record FM [Algarve] - Algarve
 https://nl.digitalrm.pt:8020/stream
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/bwtnRp5k/record-fm-leiria.png" group-title="Radio", Record FM [Leiria] - Leiria
 https://nl.digitalrm.pt:8026/stream
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/6QxvjFsS/record-fm-lisboa.png" group-title="Radio", Record FM [Lisboa] - Lisboa
-https://nl.digitalrm.pt:8010/stream
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/zXMWWVxq/record-fm-porto.png" group-title="Radio", Record FM [Porto] - Porto
-https://nl.digitalrm.pt:8028/stream
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/rm8tcWwN/record-fm-santarem.png" group-title="Radio", Record FM [Santarém] - Santarém
 https://nl.digitalrm.pt:8018/stream
@@ -253,7 +247,7 @@ https://nl.digitalrm.pt:8018/stream
 https://25633.live.streamtheworld.com/RFMAAC_SC
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qBjFdNnx/rfm-00s.png" group-title="Radio", RFM - 00's - Lisboa
-https://25703.live.streamtheworld.com/LIVESTREAMAAC.aac
+https://25453.live.streamtheworld.com/LIVESTREAMAAC_SC?dist=triton-widget&pname=tdwidgets
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/fTyrWMfn/rfm-80s.png" group-title="Radio", RFM - 80's - Lisboa
 https://20863.live.streamtheworld.com/GR80SRFMAAC_SC
