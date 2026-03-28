@@ -159,8 +159,8 @@ https://s2.radio.co/s8dfeaed91/listen
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qvK3SvZJ/miudos.png" group-title="Radio", Rádio Miúdos - Bombarral
 https://s5.radio.co/s9c516a065/listen
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/zf2g9LwQ/norte.png" group-title="Radio", Rádio Norte - Porto
-http://176.9.43.216:8000/autodj
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/kXwb7jjr/radio-voz-norte.png" group-title="Radio", Rádio Voz do Norte - Porto
+https://icecast.hostingbahia.com.ar:8002/live
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/XY8Fk1r4/nova.png" group-title="Radio", Rádio Nova - Porto
 http://centova.radios.pt:9528/stream
@@ -183,8 +183,8 @@ http://centova.radios.pt:9542/stream
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/nVyvFD8b/ritmos.jpg" group-title="Radio", Rádio Ritmos - Porto
 https://cast2.hoost.com.br:20063/stream
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/FFWTB25P/roberto-carlos.png" group-title="Radio", Rádio Roberto Carlos - Brasil
-https://servidor15-2.brlogic.com:8058/live?source=website
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/FFWTB25P/roberto-carlos.png" group-title="Radio", Rádio Roberto Carlos Hits - Brasil
+https://centova2.svdns.com.br:20098/stream?1774658860337
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/pXmsbqPP/santiago-fm.png" group-title="Radio", Rádio Santiago - Guimarães
 http://eu6.fastcast4u.com:5002/stream
@@ -192,8 +192,8 @@ http://eu6.fastcast4u.com:5002/stream
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/QdZX7DZF/santiago-fm-2.png" group-title="Radio", Rádio Santiago 2 - Guimarães
 http://eu6.fastcast4u.com:5002/canal2
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/MGS5BwVG/sertaneja-barretos.png" group-title="Radio", Rádio Sertaneja Barreiros - Brasil
-https://euroticast5.euroti.com.br/stream.php?porta=8102
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/MGS5BwVG/sertaneja-barretos.png" group-title="Radio", Rádio Sertaneja Barretos - Brasil
+https://stma1.svrstream.com.br:8102/stream/1/
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/k5vcFHvv/sertanejo.png" group-title="Radio", Rádio Sertanejo FM - Brasil
 http://stream-037.zeno.fm/4dmp5wkde2zuv?zs=9AJQ5FePQKS5wfQIesdR4w&1685142224331
