@@ -1,5 +1,6 @@
 #EXTM3U
 
+
 #EXTINF:-1 tvg-id="68260" tvg-name="##### PT - DESPORTO #####" tvg-logo="https://go4.pw/MAGFLAGS/PORTUGAL.png" group-title="EU | PT | ESPORTES",##### PT - DESPORTO #####
 http://uvykqdyb.g881.net/live/NQHCP9H/CJX6HMA/68260.ts
 #EXTINF:-1 tvg-id="1030825" tvg-name="PT - EUROSPORT 1 UHD" tvg-logo="https://go4.pw/germany/EUROSPORT.png" group-title="EU | PT | ESPORTES",PT - EUROSPORT 1 UHD
