@@ -3,7 +3,7 @@
 http://uvykqdyb.g881.net/live/NQHCP9H/CJX6HMA/1126184.ts
 #EXTINF:-1 tvg-id="sporttvplus.pt" tvg-name="PT - SPORT TV+ FHD" tvg-logo="https://go4.pw/EUROPE/PORTUGAL/SPORTTV-1.png" group-title="DESPORTO CODIFICADO", SPORT TV+ FHD
 http://uvykqdyb.g881.net/live/NQHCP9H/CJX6HMA/1028206.ts
-#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="PT - SPORT TV+ HD" tvg-logo="https://go4.pw/EUROPE/PORTUGAL/SPORTTV-1.png" group-title="DESPORTO CODIFICADO", SPORT TV+ HD
+#EXTINF:-1 tvg-id="sporttvplus.pt" tvg-name="PT - SPORT TV+ HD" tvg-logo="https://go4.pw/EUROPE/PORTUGAL/SPORTTV-1.png" group-title="DESPORTO CODIFICADO", SPORT TV+ HD
 http://uvykqdyb.g881.net/live/NQHCP9H/CJX6HMA/1030788.ts
 #EXTINF:-1 tvg-id="sporttvplus.pt" tvg-name="PT - SPORT TV + HD" tvg-logo="https://go4.pw/EUROPE/PORTUGAL/SPORTTV-1.png" group-title="DESPORTO CODIFICADO", SPORT TV + HD
 http://uvykqdyb.g881.net/live/NQHCP9H/CJX6HMA/764057.ts
@@ -43,7 +43,7 @@ http://uvykqdyb.g881.net/live/NQHCP9H/CJX6HMA/1030800.ts
 http://uvykqdyb.g881.net/live/NQHCP9H/CJX6HMA/764064.ts
 #EXTINF:-1 tvg-id="sporttv5.pt" tvg-name="PT - SPORT TV 5 FHD²" tvg-logo="https://go4.pw/EUROPE/PORTUGAL/SPORTTV-1.png" group-title="DESPORTO CODIFICADO", SPORT TV 5 FHD
 http://uvykqdyb.g881.net/live/NQHCP9H/CJX6HMA/68420.ts
-#EXTINF:-1 tvg-id="1054413" tvg-name="PT -  SPORT TV 5 HD" tvg-logo="https://go4.pw/EUROPE/PORTUGAL/SPORTTV-1.png" group-title="DESPORTO CODIFICADO",  SPORT TV 5 HD
+#EXTINF:-1 tvg-id="sporttv5.pt" tvg-name="PT -  SPORT TV 5 HD" tvg-logo="https://go4.pw/EUROPE/PORTUGAL/SPORTTV-1.png" group-title="DESPORTO CODIFICADO",  SPORT TV 5 HD
 http://uvykqdyb.g881.net/live/NQHCP9H/CJX6HMA/1054413.ts
 #EXTINF:-1 tvg-id="sporttv6.pt" tvg-name="PT - SPORT TV 6 FHD" tvg-logo="https://go4.pw/EUROPE/PORTUGAL/SPORTTV-1.png" group-title="DESPORTO CODIFICADO", SPORT TV 6 FHD
 http://uvykqdyb.g881.net/live/NQHCP9H/CJX6HMA/764066.ts
@@ -58,13 +58,13 @@ http://uvykqdyb.g881.net/live/NQHCP9H/CJX6HMA/764021.ts
 #EXTINF:-1 tvg-id="sporttvnba.pt" tvg-name="PT - SPORT TV NBA HD" tvg-logo="https://go4.pw/EUROPE/PORTUGAL/NBATV.png" group-title="DESPORTO CODIFICADO", NBA TV HD
 http://uvykqdyb.g881.net/live/NQHCP9H/CJX6HMA/1030805.ts
 
-#EXTINF:-1 tvg-id="benficatv.pt" tvg-name="PT - BENFICA TV HD" tvg-logo="https://go4.pw/EUROPE/PORTUGAL/ben.png" group-title="DESPORTO CODIFICADO", BTV FHD
+#EXTINF:-1 tvg-id="benficatv.pt" tvg-name="BTV FHD" tvg-logo="https://go4.pw/EUROPE/PORTUGAL/ben.png" group-title="DESPORTO CODIFICADO", BTV FHD
 http://uvykqdyb.g881.net/live/NQHCP9H/CJX6HMA/68416.ts
-#EXTINF:-1 tvg-id="1030818" tvg-name="PT - BTV UHD" tvg-logo="https://go4.pw/EUROPE/PORTUGAL/ben.png" group-title="DESPORTO CODIFICADO", BTV FHD
+#EXTINF:-1 tvg-id="benficatv.pt" tvg-name="BTV FHD" tvg-logo="https://go4.pw/EUROPE/PORTUGAL/ben.png" group-title="DESPORTO CODIFICADO", BTV FHD
 http://uvykqdyb.g881.net/live/NQHCP9H/CJX6HMA/1030818.ts
-#EXTINF:-1 tvg-id="763939" tvg-name="PT - BTV FHD" tvg-logo="https://go4.pw/EUROPE/PORTUGAL/ben.png" group-title="DESPORTO CODIFICADO", BTV FHD
+#EXTINF:-1 tvg-id="benficatv.pt" tvg-name="BTV FHD" tvg-logo="https://go4.pw/EUROPE/PORTUGAL/ben.png" group-title="DESPORTO CODIFICADO", BTV FHD
 http://uvykqdyb.g881.net/live/NQHCP9H/CJX6HMA/763939.ts
-#EXTINF:-1 tvg-id="763941" tvg-name="PT - BTV HD" tvg-logo="https://go4.pw/BULGARIA/BTV.png" group-title="DESPORTO CODIFICADO", BTV FHD
+#EXTINF:-1 tvg-id="benficatv.pt" tvg-name="BTV FHD" tvg-logo="https://go4.pw/EUROPE/PORTUGAL/ben.png" group-title="DESPORTO CODIFICADO", BTV FHD
 http://uvykqdyb.g881.net/live/NQHCP9H/CJX6HMA/763941.ts
 
 #EXTINF:-1 tvg-id="elevensports1.pt" tvg-name="PT - DAZN 1 FHD" tvg-logo="https://go4.pw/FRANCE/DAZN.png" group-title="DESPORTO CODIFICADO", DAZN 1 FHD
@@ -87,7 +87,6 @@ http://uvykqdyb.g881.net/live/NQHCP9H/CJX6HMA/942697.ts
 http://uvykqdyb.g881.net/live/NQHCP9H/CJX6HMA/763977.ts
 #EXTINF:-1 tvg-id="elevensports6.pt" tvg-name="PT - DAZN 6 FHD" tvg-logo="https://go4.pw/FRANCE/DAZN.png" group-title="DESPORTO CODIFICADO", DAZN 6 FHD
 http://uvykqdyb.g881.net/live/NQHCP9H/CJX6HMA/763979.ts
-
 
 #EXTINF:-1 tvg-id="1126184" tvg-name="" tvg-logo="https://go4.pw/MAGFLAGS/PORTUGAL.png" group-title="FILMES CODIFICADOS",##### FILMES CODIFICADOS #####
 http://uvykqdyb.g881.net/live/NQHCP9H/CJX6HMA/1126184.ts
