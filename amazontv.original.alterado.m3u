@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="1126184" tvg-name="##### PT - DESPORTO CODIFICADO #####" tvg-logo="https://go4.pw/MAGFLAGS/PORTUGAL.png" group-title="EU | PT | DESPORTO CODIFICADO",##### PT - DESPORTO #####
+#EXTINF:-1 tvg-id="1126184" tvg-name="##### PT - DESPORTO CODIFICADO #####" tvg-logo="https://go4.pw/MAGFLAGS/PORTUGAL.png" group-title="EU | PT | DESPORTO CODIFICADO",##### DESPORTO CODIFICADO #####
 http://uvykqdyb.g881.net/live/NQHCP9H/CJX6HMA/1126184.ts
 #EXTINF:-1 tvg-id="sporttvplus.pt" tvg-name="PT - SPORT TV+ FHD" tvg-logo="https://go4.pw/EUROPE/PORTUGAL/SPORTTV-1.png" group-title="EU | PT | DESPORTO",PT - SPORT TV+ FHD
 http://uvykqdyb.g881.net/live/NQHCP9H/CJX6HMA/1028206.ts
@@ -88,7 +88,7 @@ http://uvykqdyb.g881.net/live/NQHCP9H/CJX6HMA/763977.ts
 http://uvykqdyb.g881.net/live/NQHCP9H/CJX6HMA/763979.ts
 
 
-#EXTINF:-1 tvg-id="1126184" tvg-name="##### FILMES CODIFICADOS #####" tvg-logo="https://go4.pw/MAGFLAGS/PORTUGAL.png" group-title="EU | PT | FILMES CODIFICADOS",##### FILMES #####
+#EXTINF:-1 tvg-id="1126184" tvg-name="##### FILMES CODIFICADOS #####" tvg-logo="https://go4.pw/MAGFLAGS/PORTUGAL.png" group-title="EU | PT | FILMES CODIFICADOS",##### FILMES CODIFICADOS #####
 http://uvykqdyb.g881.net/live/NQHCP9H/CJX6HMA/1126184.ts
 #EXTINF:-1 tvg-id="tvcineaction.pt" tvg-name="PT - TVCINE ACTION UHD" tvg-logo="https://go4.pw/ALBANIA/TVCINE.png" group-title="EU | PT | FILMES CODIFICADOS",PT - TVCINE ACTION UHD
 http://uvykqdyb.g881.net/live/NQHCP9H/CJX6HMA/1030832.ts
@@ -119,7 +119,7 @@ http://uvykqdyb.g881.net/live/NQHCP9H/CJX6HMA/155392.ts
 
 
 
-#EXTINF:-1 tvg-id="1032044" tvg-name="#### PORTUGAL #### " tvg-logo="https://go4.pw/MAGFLAGS/PORTUGAL.png" group-title="LIGA PORTUGAL BETCLIC",#### PORTUGAL #### 
+#EXTINF:-1 tvg-id="1032044" tvg-name="#### PORTUGAL #### " tvg-logo="https://go4.pw/MAGFLAGS/PORTUGAL.png" group-title="LIGA PORTUGAL BETCLIC",#### LIGA PORTUGAL BETCLIC #### 
 http://uvykqdyb.g881.net/live/NQHCP9H/CJX6HMA/1032044.ts
 #EXTINF:-1 tvg-id="1150149" tvg-name="PT - AROUCA VS MARÍTIMO 15:30 CET" tvg-logo="https://go4.pw/PORTUGAL/LIGA_PORTUGAL_BETCLIC24.png" group-title="LIGA PORTUGAL BETCLIC",PT - AROUCA VS MARÍTIMO 15:30 CET
 http://uvykqdyb.g881.net/live/NQHCP9H/CJX6HMA/1150149.ts
@@ -143,7 +143,7 @@ http://uvykqdyb.g881.net/live/NQHCP9H/CJX6HMA/1029294.ts
 
 
 
-#EXTINF:-1 tvg-id="1030828" tvg-name="##### FILMES MULTI-SUB #####" tvg-logo="https://go4.pw/MAGFLAGS/PORTUGAL.png" group-title="EU | PT | FILMES MULTI-SUB",##### FILMES #####
+#EXTINF:-1 tvg-id="1030828" tvg-name="##### FILMES MULTI-SUB #####" tvg-logo="https://go4.pw/MAGFLAGS/PORTUGAL.png" group-title="EU | PT | FILMES MULTI-SUB",##### FILMES MULTI-SUB #####
 http://uvykqdyb.g881.net/live/NQHCP9H/CJX6HMA/1030828.ts
 #EXTINF:-1 tvg-id="1472712" tvg-name="EN - Hadestown: The Musical - 2026 [MULTI-SUB]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iJNVygzkuOSCOdCPNI1nLSeF7sz.jpg" group-title="VOD | MULTI-LANG - NEW RELEASES",EN - Hadestown: The Musical - 2026 [MULTI-SUB]
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1472712.mkv
@@ -434,7 +434,7 @@ http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1456100.mp4
 #EXTINF:-1 tvg-id="1469062" tvg-name="EN - My Best Friend, His Girlfriend and Me - 2026 [MULTI-SUB]  " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aWLshM7DZECutuQVpMfhDiPZUQC.jpg" group-title="VOD | MULTI-LANG - NEW RELEASES",EN - My Best Friend, His Girlfriend and Me - 2026 [MULTI-SUB]  
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1469062.mkv
 
-#EXTINF:-1 tvg-id="1030828" tvg-name="##### PT - FILMES E SERIES #####" tvg-logo="https://go4.pw/MAGFLAGS/PORTUGAL.png" group-title="EU | PT | FILMES E SÉRIES",##### FILMES #####
+#EXTINF:-1 tvg-id="1030828" tvg-name="##### PT - FILMES E SERIES #####" tvg-logo="https://go4.pw/MAGFLAGS/PORTUGAL.png" group-title="EU | PT | FILMES E SÉRIES",##### FILMES E SÉRIES #####
 http://uvykqdyb.g881.net/live/NQHCP9H/CJX6HMA/1030828.ts
 #EXTINF:-1 tvg-id="amc.pt" tvg-name="PT - AMC UHD" tvg-logo="https://go4.pw/EUROPE/PORTUGALVIP/AMC.png" group-title="EU | PT | FILMES E SÉRIES",PT - AMC UHD
 http://uvykqdyb.g881.net/live/NQHCP9H/CJX6HMA/1030836.ts
@@ -866,7 +866,7 @@ http://uvykqdyb.g881.net/live/NQHCP9H/CJX6HMA/1030817.ts
 #EXTINF:-1 tvg-id="elevensports6.pt" tvg-name="PT - ELEVEN SPORTS 6 HD" tvg-logo="https://go4.pw/EUROPE/PORTUGAL/eleven.png" group-title="EU | PT | DESPORTO",PT - ELEVEN SPORTS 6 HD
 http://uvykqdyb.g881.net/live/NQHCP9H/CJX6HMA/323600.ts
 
-#EXTINF:-1 tvg-id="1020754" tvg-name="##### ENGLISH #####" tvg-logo="https://go4.pw/EUROPE/UK/UK.png" group-title="PREMIER LEAGUE",##### ENGLISH #####
+#EXTINF:-1 tvg-id="1020754" tvg-name="##### ENGLISH #####" tvg-logo="https://go4.pw/EUROPE/UK/UK.png" group-title="PREMIER LEAGUE",##### PREMIER LEAGUE EN #####
 http://uvykqdyb.g881.net/live/NQHCP9H/CJX6HMA/1020754.ts
 #EXTINF:-1 tvg-id="1100811" tvg-name="EN - CHELSEA VS BRIGHTON & HOVE ALBION 14:00 CET" tvg-logo="https://go4.pw/59.png" group-title="PREMIER LEAGUE",EN - CHELSEA VS BRIGHTON & HOVE ALBION 14:00 CET
 http://uvykqdyb.g881.net/live/NQHCP9H/CJX6HMA/1100811.ts
@@ -889,7 +889,7 @@ http://uvykqdyb.g881.net/live/NQHCP9H/CJX6HMA/1015548.ts
 #EXTINF:-1 tvg-id="1015547" tvg-name="EN - NO MATCH" tvg-logo="https://go4.pw/59.png" group-title="PREMIER LEAGUE",EN - NO MATCH
 http://uvykqdyb.g881.net/live/NQHCP9H/CJX6HMA/1015547.ts
 
-#EXTINF:-1 tvg-id="1017979" tvg-name="##### DEUTSCH #####" tvg-logo="https://go4.pw/FLAGS/flag_germany.png" group-title="BUNDESLIGA",##### DEUTSCH #####
+#EXTINF:-1 tvg-id="1017979" tvg-name="##### DEUTSCH #####" tvg-logo="https://go4.pw/FLAGS/flag_germany.png" group-title="BUNDESLIGA",##### BUNDESLIGA DE #####
 http://uvykqdyb.g881.net/live/NQHCP9H/CJX6HMA/1017979.ts
 #EXTINF:-1 tvg-id="1100768" tvg-name="DE - KÖLN - HOFFENHEIM 16:30 CET" tvg-logo="https://go4.pw/56.png" group-title="BUNDESLIGA",DE - KÖLN - HOFFENHEIM 16:30 CET
 http://uvykqdyb.g881.net/live/NQHCP9H/CJX6HMA/1100768.ts
@@ -910,7 +910,7 @@ http://uvykqdyb.g881.net/live/NQHCP9H/CJX6HMA/1017980.ts
 #EXTINF:-1 tvg-id="1017981" tvg-name="DE - NO MATCH " tvg-logo="https://go4.pw/56.png" group-title="BUNDESLIGA",DE - NO MATCH 
 http://uvykqdyb.g881.net/live/NQHCP9H/CJX6HMA/1017981.ts
 
-#EXTINF:-1 tvg-id="1033317" tvg-name="##### SPAIN #####" tvg-logo="https://go4.pw/EUROPE/SPAIN/SPAIN.png" group-title="LA LIGA",##### SPAIN #####
+#EXTINF:-1 tvg-id="1033317" tvg-name="##### SPAIN #####" tvg-logo="https://go4.pw/EUROPE/SPAIN/SPAIN.png" group-title="LA LIGA",##### LA LIGA SP #####
 http://uvykqdyb.g881.net/live/NQHCP9H/CJX6HMA/1033317.ts
 #EXTINF:-1 tvg-id="1100781" tvg-name="ES - LEVANTE - REAL BETIS 16:00 CET" tvg-logo="https://go4.pw/58.png" group-title="LA LIGA",ES - LEVANTE - REAL BETIS 16:00 CET
 http://uvykqdyb.g881.net/live/NQHCP9H/CJX6HMA/1100781.ts
@@ -933,7 +933,7 @@ http://uvykqdyb.g881.net/live/NQHCP9H/CJX6HMA/1033355.ts
 #EXTINF:-1 tvg-id="1028728" tvg-name="ES - NO MATCH" tvg-logo="https://go4.pw/58.png" group-title="LA LIGA",ES - NO MATCH
 http://uvykqdyb.g881.net/live/NQHCP9H/CJX6HMA/1028728.ts
 
-#EXTINF:-1 tvg-id="1018302" tvg-name="##### FRENCH #####" tvg-logo="https://go4.pw/EUROPE/FRANCE/flag_france.png" group-title="LIGUE 1",##### FRENCH #####
+#EXTINF:-1 tvg-id="1018302" tvg-name="##### FRENCH #####" tvg-logo="https://go4.pw/EUROPE/FRANCE/flag_france.png" group-title="LIGUE 1",##### LIGUE 1 FR #####
 http://uvykqdyb.g881.net/live/NQHCP9H/CJX6HMA/1018302.ts
 #EXTINF:-1 tvg-id="1022237" tvg-name="FR - PARIS VS NICE 14:00 CET" tvg-logo="https://go4.pw/57.png" group-title="LIGUE 1",FR - PARIS VS NICE 14:00 CET
 http://uvykqdyb.g881.net/live/NQHCP9H/CJX6HMA/1022237.ts
@@ -958,7 +958,7 @@ http://uvykqdyb.g881.net/live/NQHCP9H/CJX6HMA/1001769.ts
 #EXTINF:-1 tvg-id="1018303" tvg-name="FR - NO MATCH" tvg-logo="https://go4.pw/57.png" group-title="LIGUE 1",FR - NO MATCH
 http://uvykqdyb.g881.net/live/NQHCP9H/CJX6HMA/1018303.ts
 
-#EXTINF:-1 tvg-id="1018093" tvg-name="##### ITALY #####" tvg-logo="https://go4.pw/MAGFLAGS/ITALY.png" group-title="SERIE A",##### ITALY #####
+#EXTINF:-1 tvg-id="1018093" tvg-name="##### ITALY #####" tvg-logo="https://go4.pw/MAGFLAGS/ITALY.png" group-title="SERIE A",##### SERIE A IT #####
 http://uvykqdyb.g881.net/live/NQHCP9H/CJX6HMA/1018093.ts
 #EXTINF:-1 tvg-id="1421365" tvg-name="IT - FIORENTINA Vs FROSINONE 17:30 CET" tvg-logo="https://go4.pw/55.png" group-title="SERIE A",IT - FIORENTINA Vs FROSINONE 17:30 CET
 http://uvykqdyb.g881.net/live/NQHCP9H/CJX6HMA/1421365.ts
@@ -981,7 +981,7 @@ http://uvykqdyb.g881.net/live/NQHCP9H/CJX6HMA/1018102.ts
 #EXTINF:-1 tvg-id="1018103" tvg-name="IT - NO MATCH" tvg-logo="https://go4.pw/55.png" group-title="SERIE A",IT - NO MATCH
 http://uvykqdyb.g881.net/live/NQHCP9H/CJX6HMA/1018103.ts
 
-#EXTINF:-1 tvg-id="1001778" tvg-name="##### ENGLISH #####" tvg-logo="https://go4.pw/EUROPE/UK/UK.png" group-title="SERIE A",##### ENGLISH #####
+#EXTINF:-1 tvg-id="1001778" tvg-name="##### ENGLISH #####" tvg-logo="https://go4.pw/EUROPE/UK/UK.png" group-title="SERIE A",##### SERIE A EN #####
 http://uvykqdyb.g881.net/live/NQHCP9H/CJX6HMA/1001778.ts
 #EXTINF:-1 tvg-id="1421366" tvg-name="EN - FIORENTINA Vs FROSINONE 17:30 CET" tvg-logo="https://go4.pw/55.png" group-title="SERIE A",EN - FIORENTINA Vs FROSINONE 17:30 CET
 http://uvykqdyb.g881.net/live/NQHCP9H/CJX6HMA/1421366.ts
@@ -1004,7 +1004,7 @@ http://uvykqdyb.g881.net/live/NQHCP9H/CJX6HMA/1018094.ts
 #EXTINF:-1 tvg-id="1018095" tvg-name="EN - NO MATCH" tvg-logo="https://go4.pw/55.png" group-title="SERIE A",EN - NO MATCH
 http://uvykqdyb.g881.net/live/NQHCP9H/CJX6HMA/1018095.ts
 
-#EXTINF:-1 tvg-id="1296612" tvg-name="###### ENGLISH ######" tvg-logo="https://go4.pw/EUROPE/UK/UK.png" group-title="UEFA CHAMPIONS LEAGUE",###### ENGLISH ######
+#EXTINF:-1 tvg-id="1296612" tvg-name="###### ENGLISH ######" tvg-logo="https://go4.pw/EUROPE/UK/UK.png" group-title="UEFA CHAMPIONS LEAGUE",###### UEFA CHAMPIONS LEAGUE EN ######
 http://uvykqdyb.g881.net/live/NQHCP9H/CJX6HMA/1296612.ts
 #EXTINF:-1 tvg-id="1150168" tvg-name="EN - NO MATCH" tvg-logo="https://go4.pw/champ/champions.png" group-title="UEFA CHAMPIONS LEAGUE",EN - NO MATCH
 http://uvykqdyb.g881.net/live/NQHCP9H/CJX6HMA/1150168.ts
@@ -1025,7 +1025,7 @@ http://uvykqdyb.g881.net/live/NQHCP9H/CJX6HMA/1096020.ts
 #EXTINF:-1 tvg-id="1096019" tvg-name="EN - NO MATCH" tvg-logo="https://go4.pw/champ/champions.png" group-title="UEFA CHAMPIONS LEAGUE",EN - NO MATCH
 http://uvykqdyb.g881.net/live/NQHCP9H/CJX6HMA/1096019.ts
 
-#EXTINF:-1 tvg-id="1296614" tvg-name="###### SPANISH ######" tvg-logo="https://go4.pw/EUROPE/SPAIN/SPAIN.png" group-title="UEFA CHAMPIONS LEAGUE",###### SPANISH ######
+#EXTINF:-1 tvg-id="1296614" tvg-name="###### SPANISH ######" tvg-logo="https://go4.pw/EUROPE/SPAIN/SPAIN.png" group-title="UEFA CHAMPIONS LEAGUE",###### UEFA CHAMPIONS LEAGUE SP ######
 http://uvykqdyb.g881.net/live/NQHCP9H/CJX6HMA/1296614.ts
 #EXTINF:-1 tvg-id="1292015" tvg-name="SP - NO MATCH" tvg-logo="https://go4.pw/champ/champions.png" group-title="UEFA CHAMPIONS LEAGUE",SP - NO MATCH
 http://uvykqdyb.g881.net/live/NQHCP9H/CJX6HMA/1292015.ts
@@ -1046,7 +1046,7 @@ http://uvykqdyb.g881.net/live/NQHCP9H/CJX6HMA/1095985.ts
 #EXTINF:-1 tvg-id="1040907" tvg-name="SP - NO MATCH" tvg-logo="https://go4.pw/champ/champions.png" group-title="UEFA CHAMPIONS LEAGUE",SP - NO MATCH
 http://uvykqdyb.g881.net/live/NQHCP9H/CJX6HMA/1040907.ts
 
-#EXTINF:-1 tvg-id="1091817" tvg-name="##### FRENCH #####" tvg-logo="https://go4.pw/EUROPE/FRANCE/flag_france.png" group-title="UEFA EUROPA LEAGUE",##### FRENCH #####
+#EXTINF:-1 tvg-id="1091817" tvg-name="##### UEFA EUROPA LEAGUE FR #####" tvg-logo="https://go4.pw/EUROPE/FRANCE/flag_france.png" group-title="UEFA EUROPA LEAGUE",##### UEFA EUROPA LEAGUE FR #####
 http://uvykqdyb.g881.net/live/NQHCP9H/CJX6HMA/1091817.ts
 #EXTINF:-1 tvg-id="1042309" tvg-name="FR - NO MATCH" tvg-logo="https://go4.pw/champ/europaleague.png" group-title="UEFA EUROPA LEAGUE",FR - NO MATCH
 http://uvykqdyb.g881.net/live/NQHCP9H/CJX6HMA/1042309.ts
@@ -1085,7 +1085,7 @@ http://uvykqdyb.g881.net/live/NQHCP9H/CJX6HMA/363849.ts
 #EXTINF:-1 tvg-id="363842" tvg-name="FR - NO MATCH" tvg-logo="https://go4.pw/champ/europaleague.png" group-title="UEFA EUROPA LEAGUE",FR - NO MATCH
 http://uvykqdyb.g881.net/live/NQHCP9H/CJX6HMA/363842.ts
 
-#EXTINF:-1 tvg-id="1035088" tvg-name="##### ENGLISH #####" tvg-logo="https://go4.pw/EUROPE/UK/UK.png" group-title="UEFA EUROPA LEAGUE",##### ENGLISH #####
+#EXTINF:-1 tvg-id="1035088" tvg-name="##### UEFA EUROPA LEAGUE EN #####" tvg-logo="https://go4.pw/EUROPE/UK/UK.png" group-title="UEFA EUROPA LEAGUE",##### UEFA EUROPA LEAGUE EN #####
 http://uvykqdyb.g881.net/live/NQHCP9H/CJX6HMA/1035088.ts
 #EXTINF:-1 tvg-id="1116650" tvg-name="EN - NO MATCH" tvg-logo="https://go4.pw/champ/europaleague.png" group-title="UEFA EUROPA LEAGUE",EN - NO MATCH
 http://uvykqdyb.g881.net/live/NQHCP9H/CJX6HMA/1116650.ts
@@ -1124,7 +1124,7 @@ http://uvykqdyb.g881.net/live/NQHCP9H/CJX6HMA/682943.ts
 #EXTINF:-1 tvg-id="682949" tvg-name="EN - NO MATCH" tvg-logo="https://go4.pw/champ/europaleague.png" group-title="UEFA EUROPA LEAGUE",EN - NO MATCH
 http://uvykqdyb.g881.net/live/NQHCP9H/CJX6HMA/682949.ts
 
-#EXTINF:-1 tvg-id="1123435" tvg-name="#####  SPAIN #####" tvg-logo="https://go4.pw/EUROPE/SPAIN/SPAIN.png" group-title="UEFA EUROPA LEAGUE",#####  SPAIN #####
+#EXTINF:-1 tvg-id="1123435" tvg-name="##### UEFA EUROPA LEAGUE SP #####" tvg-logo="https://go4.pw/EUROPE/SPAIN/SPAIN.png" group-title="UEFA EUROPA LEAGUE",##### UEFA EUROPA LEAGUE SP #####
 http://uvykqdyb.g881.net/live/NQHCP9H/CJX6HMA/1123435.ts
 #EXTINF:-1 tvg-id="1262145" tvg-name="ES - NO MATCH" tvg-logo="https://go4.pw/champ/europaleague.png" group-title="UEFA EUROPA LEAGUE",ES - NO MATCH
 http://uvykqdyb.g881.net/live/NQHCP9H/CJX6HMA/1262145.ts
@@ -1163,7 +1163,7 @@ http://uvykqdyb.g881.net/live/NQHCP9H/CJX6HMA/682938.ts
 #EXTINF:-1 tvg-id="682939" tvg-name="ES - NO MATCH" tvg-logo="https://go4.pw/champ/europaleague.png" group-title="UEFA EUROPA LEAGUE",ES - NO MATCH
 http://uvykqdyb.g881.net/live/NQHCP9H/CJX6HMA/682939.ts
 
-#EXTINF:-1 tvg-id="1296621" tvg-name="###### DEUTSCH ######" tvg-logo="https://go4.pw/FLAGS/flag_germany.png" group-title="UEFA CHAMPIONS LEAGUE",###### DEUTSCH ######
+#EXTINF:-1 tvg-id="1296621" tvg-name="###### UEFA CHAMPIONS LEAGUE DE ######" tvg-logo="https://go4.pw/FLAGS/flag_germany.png" group-title="UEFA CHAMPIONS LEAGUE",###### UEFA CHAMPIONS LEAGUE DE ######
 http://uvykqdyb.g881.net/live/NQHCP9H/CJX6HMA/1296621.ts
 #EXTINF:-1 tvg-id="1292020" tvg-name="DE - NO MATCH" tvg-logo="https://go4.pw/champ/champions.png" group-title="UEFA CHAMPIONS LEAGUE",DE - NO MATCH
 http://uvykqdyb.g881.net/live/NQHCP9H/CJX6HMA/1292020.ts
@@ -1334,7 +1334,7 @@ http://uvykqdyb.g881.net/live/NQHCP9H/CJX6HMA/1272282.ts
 http://uvykqdyb.g881.net/live/NQHCP9H/CJX6HMA/1272283.ts
 
 
-#EXTINF:-1 tvg-id="682950" tvg-name="##### GOLDEN EVENTS #####" tvg-logo="https://go4.pw/germany/vip-events.png" group-title="GOLDEN EVENTS",##### GOLDEN EVENTS #####
+#EXTINF:-1 tvg-id="682950" tvg-name="##### GOLDEN EVENTS",VIP #####" tvg-logo="https://go4.pw/germany/vip-events.png" group-title="GOLDEN EVENTS VIP",##### GOLDEN EVENTS VIP #####
 http://uvykqdyb.g881.net/live/NQHCP9H/CJX6HMA/682950.ts
 #EXTINF:-1 tvg-id="1123275" tvg-name="VIP - UFC FIGHT NIGHT NURMAGOMEDOV @ SONG – AUG 29 – 3:00 AM ET PRELIMS / 6:00 AM ET MAIN CARD / 8:00 AM UK PRELIMS / 11:00 AM UK MAIN CARD" tvg-logo="https://go4.pw/germany/vip-events.png" group-title="GOLDEN EVENTS",VIP - UFC FIGHT NIGHT NURMAGOMEDOV @ SONG – AUG 29 – 3:00 AM ET PRELIMS / 6:00 AM ET MAIN CARD / 8:00 AM UK PRELIMS / 11:00 AM UK MAIN CARD
 http://uvykqdyb.g881.net/live/NQHCP9H/CJX6HMA/1123275.ts
@@ -1360,7 +1360,7 @@ http://uvykqdyb.g881.net/live/NQHCP9H/CJX6HMA/1024490.ts
 http://uvykqdyb.g881.net/live/NQHCP9H/CJX6HMA/1024487.ts
 #EXTINF:-1 tvg-id="1039934" tvg-name="VIP - NO EVENT" tvg-logo="https://go4.pw/germany/vip-events.png" group-title="GOLDEN EVENTS",VIP - NO EVENT
 http://uvykqdyb.g881.net/live/NQHCP9H/CJX6HMA/1039934.ts
-#EXTINF:-1 tvg-id="1018100" tvg-name="##### FRENCH #####" tvg-logo="https://go4.pw/FRANCE/frlog.png" group-title="GOLDEN EVENTS",##### FRENCH #####
+#EXTINF:-1 tvg-id="1018100" tvg-name="##### FRENCH #####" tvg-logo="https://go4.pw/FRANCE/frlog.png" group-title="GOLDEN EVENTS",##### GOLDEN EVENTS FR #####
 http://uvykqdyb.g881.net/live/NQHCP9H/CJX6HMA/1018100.ts
 #EXTINF:-1 tvg-id="1123346" tvg-name="FR - NO EVENT" tvg-logo="https://go4.pw/germany/vip-events.png" group-title="GOLDEN EVENTS",FR - NO EVENT
 http://uvykqdyb.g881.net/live/NQHCP9H/CJX6HMA/1123346.ts
@@ -1376,7 +1376,7 @@ http://uvykqdyb.g881.net/live/NQHCP9H/CJX6HMA/1123277.ts
 http://uvykqdyb.g881.net/live/NQHCP9H/CJX6HMA/1123276.ts
 #EXTINF:-1 tvg-id="682961" tvg-name="FR - NO EVENT" tvg-logo="https://go4.pw/germany/vip-events.png" group-title="GOLDEN EVENTS",FR - NO EVENT
 http://uvykqdyb.g881.net/live/NQHCP9H/CJX6HMA/682961.ts
-#EXTINF:-1 tvg-id="1150144" tvg-name="##### ENGLISH #####" tvg-logo="https://go4.pw/EUROPE/UK/UK.png" group-title="GOLDEN EVENTS",##### ENGLISH #####
+#EXTINF:-1 tvg-id="1150144" tvg-name="##### ENGLISH #####" tvg-logo="https://go4.pw/EUROPE/UK/UK.png" group-title="GOLDEN EVENTS",##### GOLDEN EVENTS EN #####
 http://uvykqdyb.g881.net/live/NQHCP9H/CJX6HMA/1150144.ts
 #EXTINF:-1 tvg-id="682968" tvg-name="EN - NO EVENT" tvg-logo="https://go4.pw/germany/vip-events.png" group-title="GOLDEN EVENTS",EN - NO EVENT
 http://uvykqdyb.g881.net/live/NQHCP9H/CJX6HMA/682968.ts
@@ -1394,7 +1394,7 @@ http://uvykqdyb.g881.net/live/NQHCP9H/CJX6HMA/682953.ts
 http://uvykqdyb.g881.net/live/NQHCP9H/CJX6HMA/682952.ts
 
 
-#EXTINF:-1 tvg-id="1018107" tvg-name="##### MUSIC CONCERTS,VIP #####" tvg-logo="https://go4.pw/ASIA/SAUDI/SAUDI.png" group-title="MUSIC CONCERTS",XIP ##### MUSIC #####
+#EXTINF:-1 tvg-id="1018107" tvg-name="##### MUSIC CONCERTS,VIP #####" tvg-logo="https://go4.pw/ASIA/SAUDI/SAUDI.png" group-title="MUSIC CONCERTS,VIP" ##### MUSIC CONCERTS VIP #####
 http://uvykqdyb.g881.net/live/NQHCP9H/CJX6HMA/1018107.ts
 #EXTINF:-1 tvg-id="1124927" tvg-name="VIP - MC MUSIC 90S" tvg-logo="https://go4.pw/EUROPE/FRANCE/MC MUSIC.png" group-title="MUSIC CONCERTS",VIP - MC MUSIC 90S
 http://uvykqdyb.g881.net/live/NQHCP9H/CJX6HMA/1124927.ts
@@ -1520,9 +1520,3 @@ http://uvykqdyb.g881.net/live/NQHCP9H/CJX6HMA/1125008.ts
 http://uvykqdyb.g881.net/live/NQHCP9H/CJX6HMA/1291998.ts
 #EXTINF:-1 tvg-id="1399243" tvg-name="TR - ANADOLU DERNEK" tvg-logo="" group-title="MUSIC CONCERTS",TR - ANADOLU DERNEK
 http://uvykqdyb.g881.net/live/NQHCP9H/CJX6HMA/1399243.ts
-
-
-
-
-
-
