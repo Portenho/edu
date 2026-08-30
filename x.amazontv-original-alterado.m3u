@@ -1,5 +1,4 @@
 #EXTM3U
-
 #EXTINF:-1 tvg-id="1126184" tvg-name="##### PT - DESPORTO CODIFICADO #####" tvg-logo="https://go4.pw/MAGFLAGS/PORTUGAL.png" group-title="EU | PT | DESPORTO CODIFICADO",##### DESPORTO CODIFICADO #####
 http://uvykqdyb.g881.net/live/NQHCP9H/CJX6HMA/1126184.ts
 #EXTINF:-1 tvg-id="sporttvplus.pt" tvg-name="PT - SPORT TV+ FHD" tvg-logo="https://go4.pw/EUROPE/PORTUGAL/SPORTTV-1.png" group-title="EU | PT | DESPORTO",PT - SPORT TV+ FHD
@@ -118,7 +117,6 @@ http://uvykqdyb.g881.net/live/NQHCP9H/CJX6HMA/1030833.ts
 http://uvykqdyb.g881.net/live/NQHCP9H/CJX6HMA/155392.ts
 
 
-
 #EXTINF:-1 tvg-id="1032044" tvg-name="#### PORTUGAL #### " tvg-logo="https://go4.pw/MAGFLAGS/PORTUGAL.png" group-title="LIGA PORTUGAL BETCLIC",#### LIGA PORTUGAL BETCLIC #### 
 http://uvykqdyb.g881.net/live/NQHCP9H/CJX6HMA/1032044.ts
 #EXTINF:-1 tvg-id="1150149" tvg-name="PT - AROUCA VS MARÍTIMO 15:30 CET" tvg-logo="https://go4.pw/PORTUGAL/LIGA_PORTUGAL_BETCLIC24.png" group-title="LIGA PORTUGAL BETCLIC",PT - AROUCA VS MARÍTIMO 15:30 CET
@@ -139,8 +137,6 @@ http://uvykqdyb.g881.net/live/NQHCP9H/CJX6HMA/1029296.ts
 http://uvykqdyb.g881.net/live/NQHCP9H/CJX6HMA/1029295.ts
 #EXTINF:-1 tvg-id="1029294" tvg-name="PT - NO EVENT" tvg-logo="https://go4.pw/PORTUGAL/LIGA_PORTUGAL_BETCLIC24.png" group-title="LIGA PORTUGAL BETCLIC",PT - NO EVENT
 http://uvykqdyb.g881.net/live/NQHCP9H/CJX6HMA/1029294.ts
-
-
 
 
 #EXTINF:-1 tvg-id="1030828" tvg-name="##### FILMES MULTI-SUB #####" tvg-logo="https://go4.pw/MAGFLAGS/PORTUGAL.png" group-title="EU | PT | FILMES MULTI-SUB",##### FILMES MULTI-SUB #####
@@ -494,6 +490,7 @@ http://uvykqdyb.g881.net/live/NQHCP9H/CJX6HMA/764082.ts
 http://uvykqdyb.g881.net/live/NQHCP9H/CJX6HMA/763955.ts
 #EXTINF:-1 tvg-id="1075482" tvg-name="PT - DIZI CHANNEL HD" tvg-logo="https://go4.pw/EUROPE/ALBANIA/tdc.png" group-title="EU | PT | FILMES E SÉRIES",PT - DIZI CHANNEL HD
 http://uvykqdyb.g881.net/live/NQHCP9H/CJX6HMA/1075482.ts
+
 
 #EXTINF:-1 tvg-id="68251" tvg-name="##### PT - PORTUGAL #####" tvg-logo="https://go4.pw/MAGFLAGS/PORTUGAL.png" group-title="EU | PT | GENERAL",##### PT - PORTUGAL #####
 http://uvykqdyb.g881.net/live/NQHCP9H/CJX6HMA/68251.ts
@@ -865,6 +862,7 @@ http://uvykqdyb.g881.net/live/NQHCP9H/CJX6HMA/323599.ts
 http://uvykqdyb.g881.net/live/NQHCP9H/CJX6HMA/1030817.ts
 #EXTINF:-1 tvg-id="elevensports6.pt" tvg-name="PT - ELEVEN SPORTS 6 HD" tvg-logo="https://go4.pw/EUROPE/PORTUGAL/eleven.png" group-title="EU | PT | DESPORTO",PT - ELEVEN SPORTS 6 HD
 http://uvykqdyb.g881.net/live/NQHCP9H/CJX6HMA/323600.ts
+
 
 #EXTINF:-1 tvg-id="1020754" tvg-name="##### ENGLISH #####" tvg-logo="https://go4.pw/EUROPE/UK/UK.png" group-title="PREMIER LEAGUE",##### PREMIER LEAGUE EN #####
 http://uvykqdyb.g881.net/live/NQHCP9H/CJX6HMA/1020754.ts
@@ -1394,7 +1392,7 @@ http://uvykqdyb.g881.net/live/NQHCP9H/CJX6HMA/682953.ts
 http://uvykqdyb.g881.net/live/NQHCP9H/CJX6HMA/682952.ts
 
 
-#EXTINF:-1 tvg-id="1018107" tvg-name="##### MUSIC CONCERTS,VIP #####" tvg-logo="https://go4.pw/ASIA/SAUDI/SAUDI.png" group-title="MUSIC CONCERTS,VIP" ##### MUSIC CONCERTS VIP #####
+#EXTINF:-1 tvg-id="1018107" tvg-name="##### MUSIC CONCERTS VIP #####" tvg-logo="https://go4.pw/ASIA/SAUDI/SAUDI.png" group-title="MUSIC CONCERTS VIP", ##### MUSIC CONCERTS VIP #####
 http://uvykqdyb.g881.net/live/NQHCP9H/CJX6HMA/1018107.ts
 #EXTINF:-1 tvg-id="1124927" tvg-name="VIP - MC MUSIC 90S" tvg-logo="https://go4.pw/EUROPE/FRANCE/MC MUSIC.png" group-title="MUSIC CONCERTS",VIP - MC MUSIC 90S
 http://uvykqdyb.g881.net/live/NQHCP9H/CJX6HMA/1124927.ts
@@ -1522,7 +1520,7 @@ http://uvykqdyb.g881.net/live/NQHCP9H/CJX6HMA/1291998.ts
 http://uvykqdyb.g881.net/live/NQHCP9H/CJX6HMA/1399243.ts
 
 
-#EXTINF:-1 tvg-id="156328" tvg-name="##### Bad Channels #####" tvg-logo="https://go4.pw/18adult.png" group-title="Bad Channels",##### Bad Channels #####
+#EXTINF:-1 tvg-id="156328" tvg-name="##### Bad Channels #####" tvg-logo="https://go4.pw/18adult.png" group-title="Bad Channels"##### Bad Channels #####
 http://uvykqdyb.g881.net/live/NQHCP9H/CJX6HMA/156328.ts
 #EXTINF:-1 tvg-id="1463827" tvg-name="XXX -  ANATOMY OF A SEX SCENE BOSSY BITCH FHD" tvg-logo="https://go4.pw/ADULT.png" group-title="Bad Channels" -  ANATOMY OF A SEX SCENE BOSSY BITCH FHD
 http://uvykqdyb.g881.net/live/NQHCP9H/CJX6HMA/1463827.ts
