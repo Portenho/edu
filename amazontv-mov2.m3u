@@ -1,14 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="1126184" tvg-name="##### FILMES CODIFICADOS #####" tvg-logo="https://go4.pw/MAGFLAGS/PORTUGAL.png" group-title="FILMES CODIFICADOS",##### FILMES CODIFICADOS #####
-http://uvykqdyb.g881.net/live/NQHCP9H/CJX6HMA/1126184.ts
-#EXTINF:-1 tvg-id="tvcineaction.pt" tvg-name="TVCINE ACTION HD" tvg-logo="https://go4.pw/PORTUGAL/14.png" group-title="FILMES CODIFICADOS", TVCINE ACTION HD
-http://uvykqdyb.g881.net/live/NQHCP9H/CJX6HMA/1030832.ts
-
-
-
-#EXTINF:-1 tvg-id="1126184" tvg-name="##### NOVAS ENTRADAS #####" tvg-logo="https://go4.pw/MAGFLAGS/PORTUGAL.png" group-title="FILMES MULTI-SUB",##### NOVAS ENTRADAS #####
-http://uvykqdyb.g881.net/live/NQHCP9H/CJX6HMA/1030828.ts
 #EXTINF:-1 tvg-id="1473689" tvg-name="EN - The Whisper Man - 2026 [MULTI-SUB]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6UqflU8Qqkz7Dq4swJPqs0ZJjY4.jpg" group-title="NOVAS ENTRADAS",EN - The Whisper Man - 2026 [MULTI-SUB]
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1473689.mkv
 #EXTINF:-1 tvg-id="1473687" tvg-name="EN - The Secret Woman - 2026 [MULTI-SUB]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dIl3cGBcR9AwOjWhEbMuagXdVtG.jpg" group-title="NOVAS ENTRADAS",EN - The Secret Woman - 2026 [MULTI-SUB]
@@ -585,21 +576,21 @@ http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1444072.mkv
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1444071.mkv
 
 
-#EXTINF:-1 tvg-id="1443896" tvg-name="IN - Avatar: Fire and Ash - 2025 [MULTI-SUB]  " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bRBeSHfGHwkEpImlhxPmOcUsaeg.jpg" group-title="VOD | SOUTH INDIAN",IN - Avatar: Fire and Ash - 2025 [MULTI-SUB]  
+#EXTINF:-1 tvg-id="1443896" tvg-name="IN - Avatar: Fire and Ash - 2025 [MULTI-SUB]  " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bRBeSHfGHwkEpImlhxPmOcUsaeg.jpg" group-title="FILMES DA INDÍA",IN - Avatar: Fire and Ash - 2025 [MULTI-SUB]  
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1443896.mkv
-#EXTINF:-1 tvg-id="1443895" tvg-name=" IN - The Sheep Detectives - 2026 [MULTI-SUB]  " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iKy5460GdsoknM8ppmGlJbKxAKa.jpg" group-title="VOD | SOUTH INDIAN", IN - The Sheep Detectives - 2026 [MULTI-SUB]  
+#EXTINF:-1 tvg-id="1443895" tvg-name=" IN - The Sheep Detectives - 2026 [MULTI-SUB]  " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iKy5460GdsoknM8ppmGlJbKxAKa.jpg" group-title="FILMES DA INDÍA", IN - The Sheep Detectives - 2026 [MULTI-SUB]  
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1443895.mkv
-#EXTINF:-1 tvg-id="1443475" tvg-name="IN - Breakfast  - 2026 [MULTI-SUB]" tvg-logo="http://go4.pw/cover/BreakFast.jpg" group-title="VOD | SOUTH INDIAN",IN - Breakfast  - 2026 [MULTI-SUB]
+#EXTINF:-1 tvg-id="1443475" tvg-name="IN - Breakfast  - 2026 [MULTI-SUB]" tvg-logo="http://go4.pw/cover/BreakFast.jpg" group-title="FILMES DA INDÍA",IN - Breakfast  - 2026 [MULTI-SUB]
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1443475.mkv
-#EXTINF:-1 tvg-id="1443474" tvg-name=" IN - Gladiator Underground - 2025 [MULTI-SUB]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qLN16AeIjS5P5Kk5B6pBi1Mh1mi.jpg" group-title="VOD | SOUTH INDIAN", IN - Gladiator Underground - 2025 [MULTI-SUB]
+#EXTINF:-1 tvg-id="1443474" tvg-name=" IN - Gladiator Underground - 2025 [MULTI-SUB]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qLN16AeIjS5P5Kk5B6pBi1Mh1mi.jpg" group-title="FILMES DA INDÍA", IN - Gladiator Underground - 2025 [MULTI-SUB]
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1443474.mkv
-#EXTINF:-1 tvg-id="1443473" tvg-name="IN - Garbham - 2026 [MULTI-SUB]" tvg-logo="http://go4.pw/cover/Garbham.jpg" group-title="VOD | SOUTH INDIAN",IN - Garbham - 2026 [MULTI-SUB]
+#EXTINF:-1 tvg-id="1443473" tvg-name="IN - Garbham - 2026 [MULTI-SUB]" tvg-logo="http://go4.pw/cover/Garbham.jpg" group-title="FILMES DA INDÍA",IN - Garbham - 2026 [MULTI-SUB]
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1443473.mkv
-#EXTINF:-1 tvg-id="1443257" tvg-name="IN - Seems Like Old Times - 1980 [MULTI-SUB]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mT6l2TO3kbeG7olZV5Zmd8MqSh8.jpg" group-title="VOD | SOUTH INDIAN",IN - Seems Like Old Times - 1980 [MULTI-SUB]
+#EXTINF:-1 tvg-id="1443257" tvg-name="IN - Seems Like Old Times - 1980 [MULTI-SUB]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mT6l2TO3kbeG7olZV5Zmd8MqSh8.jpg" group-title="FILMES DA INDÍA",IN - Seems Like Old Times - 1980 [MULTI-SUB]
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1443257.mkv
-#EXTINF:-1 tvg-id="1443256" tvg-name="IN - Blind Waters - 2024 [MULTI-SUB]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sYqP7MJBu2hRhZ53S2PAE9G3G6J.jpg" group-title="VOD | SOUTH INDIAN",IN - Blind Waters - 2024 [MULTI-SUB]
+#EXTINF:-1 tvg-id="1443256" tvg-name="IN - Blind Waters - 2024 [MULTI-SUB]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sYqP7MJBu2hRhZ53S2PAE9G3G6J.jpg" group-title="FILMES DA INDÍA",IN - Blind Waters - 2024 [MULTI-SUB]
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1443256.mkv
-#EXTINF:-1 tvg-id="1443255" tvg-name="IN - The Furies - 2019 [MULTI-SUB]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/az3rk3vp1DmhM3KmpPNfDWW6mhN.jpg" group-title="VOD | SOUTH INDIAN",IN - The Furies - 2019 [MULTI-SUB]
+#EXTINF:-1 tvg-id="1443255" tvg-name="IN - The Furies - 2019 [MULTI-SUB]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/az3rk3vp1DmhM3KmpPNfDWW6mhN.jpg" group-title="FILMES DA INDÍA",IN - The Furies - 2019 [MULTI-SUB]
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1443255.mkv
 #EXTINF:-1 tvg-id="1443150" tvg-name="EN - Power Ballad - 2026 [MULTI-SUB]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sGgX2K0SJqw90Ju8TONdhDVwlzT.jpg" group-title="NOVAS ENTRADAS",EN - Power Ballad - 2026 [MULTI-SUB]
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1443150.mkv
@@ -607,7 +598,7 @@ http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1443150.mkv
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1443149.mkv
 #EXTINF:-1 tvg-id="1443148" tvg-name="EN - Tuner - 2026 [MULTI-SUB]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kyM60vcgf7lfofmZB4F5Rj7OrHW.jpg" group-title="NOVAS ENTRADAS",EN - Tuner - 2026 [MULTI-SUB]
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1443148.mkv
-#EXTINF:-1 tvg-id="1442627" tvg-name="IN - M4M: Motive for Murder - 2026 [MULTI-SUB]  " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/FcoRfDLRwiAcNCd5SmeDIIeea7.jpg" group-title="VOD | SOUTH INDIAN",IN - M4M: Motive for Murder - 2026 [MULTI-SUB]  
+#EXTINF:-1 tvg-id="1442627" tvg-name="IN - M4M: Motive for Murder - 2026 [MULTI-SUB]  " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/FcoRfDLRwiAcNCd5SmeDIIeea7.jpg" group-title="FILMES DA INDÍA",IN - M4M: Motive for Murder - 2026 [MULTI-SUB]  
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1442627.mkv
 #EXTINF:-1 tvg-id="1442426" tvg-name="EN - Capio - 2025 [MULTI-SUB]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9n3W3khjLbCmZobB4g8GudwMYMO.jpg" group-title="NOVAS ENTRADAS",EN - Capio - 2025 [MULTI-SUB]
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1442426.mkv
@@ -617,21 +608,21 @@ http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1442422.mkv
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1442421.mkv
 #EXTINF:-1 tvg-id="1442418" tvg-name="EN - The Womb - 2024 [MULTI-SUB]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Z9SC4KiyVkoFz66minanrBNo5Q.jpg" group-title="DEPOIS DE 2020",EN - The Womb - 2024 [MULTI-SUB]
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1442418.mkv
-#EXTINF:-1 tvg-id="1442094" tvg-name="IN - Husbands in Action - 2026 [MULTI-SUB] " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rdmXkKPjGw43u4wp3aod4aIPiH.jpg" group-title="VOD | SOUTH INDIAN",IN - Husbands in Action - 2026 [MULTI-SUB] 
+#EXTINF:-1 tvg-id="1442094" tvg-name="IN - Husbands in Action - 2026 [MULTI-SUB] " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rdmXkKPjGw43u4wp3aod4aIPiH.jpg" group-title="FILMES DA INDÍA",IN - Husbands in Action - 2026 [MULTI-SUB] 
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1442094.mkv
-#EXTINF:-1 tvg-id="1442093" tvg-name="IN - Anali - 2026 [MULTI-SUB] " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/swU1gHR88apVPthor7RVv8AOa1j.jpg" group-title="VOD | SOUTH INDIAN",IN - Anali - 2026 [MULTI-SUB] 
+#EXTINF:-1 tvg-id="1442093" tvg-name="IN - Anali - 2026 [MULTI-SUB] " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/swU1gHR88apVPthor7RVv8AOa1j.jpg" group-title="FILMES DA INDÍA",IN - Anali - 2026 [MULTI-SUB] 
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1442093.mkv
-#EXTINF:-1 tvg-id="1441921" tvg-name="IN - Athiradi - 2026 [MULTI-SUB]  " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vbYoC9wmfo2w7EDVXYrnX4PRBWr.jpg" group-title="VOD | SOUTH INDIAN",IN - Athiradi - 2026 [MULTI-SUB]  
+#EXTINF:-1 tvg-id="1441921" tvg-name="IN - Athiradi - 2026 [MULTI-SUB]  " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vbYoC9wmfo2w7EDVXYrnX4PRBWr.jpg" group-title="FILMES DA INDÍA",IN - Athiradi - 2026 [MULTI-SUB]  
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1441921.mkv
-#EXTINF:-1 tvg-id="1441919" tvg-name="IN - The Grey Men 2 - 2025 [MULTI-SUB]  " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yYtw9rMWSIy8Bjpb15nqGSvJc9b.jpg" group-title="VOD | SOUTH INDIAN",IN - The Grey Men 2 - 2025 [MULTI-SUB]  
+#EXTINF:-1 tvg-id="1441919" tvg-name="IN - The Grey Men 2 - 2025 [MULTI-SUB]  " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yYtw9rMWSIy8Bjpb15nqGSvJc9b.jpg" group-title="FILMES DA INDÍA",IN - The Grey Men 2 - 2025 [MULTI-SUB]  
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1441919.mkv
-#EXTINF:-1 tvg-id="1441916" tvg-name=" IN -  Voicemails for Isabelle - 2026 [MULTI-SUB]  " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nmGIRyuMH72WHJengMo8LQjnZQn.jpg" group-title="VOD | SOUTH INDIAN", IN -  Voicemails for Isabelle - 2026 [MULTI-SUB]  
+#EXTINF:-1 tvg-id="1441916" tvg-name=" IN -  Voicemails for Isabelle - 2026 [MULTI-SUB]  " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nmGIRyuMH72WHJengMo8LQjnZQn.jpg" group-title="FILMES DA INDÍA", IN -  Voicemails for Isabelle - 2026 [MULTI-SUB]  
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1441916.mkv
 #EXTINF:-1 tvg-id="1441340" tvg-name="EN - Husbands in Action - 2026 [MULTI-SUB]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ciLsGoyr0B8demTLDbLJmEUOHI5.jpg" group-title="NOVAS ENTRADAS",EN - Husbands in Action - 2026 [MULTI-SUB]
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1441340.mkv
 #EXTINF:-1 tvg-id="1441334" tvg-name="EN - Voicemails for Isabelle - 2026 [MULTI-SUB]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nmGIRyuMH72WHJengMo8LQjnZQn.jpg" group-title="NOVAS ENTRADAS",EN - Voicemails for Isabelle - 2026 [MULTI-SUB]
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1441334.mkv
-#EXTINF:-1 tvg-id="1441206" tvg-name="IN - Mortal Kombat II - 2026 [MULTI-SUB]  " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hwRdDFIhaEmpRgoki805YvyyjZf.jpg" group-title="VOD | SOUTH INDIAN",IN - Mortal Kombat II - 2026 [MULTI-SUB]  
+#EXTINF:-1 tvg-id="1441206" tvg-name="IN - Mortal Kombat II - 2026 [MULTI-SUB]  " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hwRdDFIhaEmpRgoki805YvyyjZf.jpg" group-title="FILMES DA INDÍA",IN - Mortal Kombat II - 2026 [MULTI-SUB]  
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1441206.mkv
 #EXTINF:-1 tvg-id="1440821" tvg-name="EN - Per Aspera Ad Astra - 2026 [MULTI-SUB]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cuNGOSr0oSuBm0uAa28516Iw3Bw.jpg" group-title="NOVAS ENTRADAS",EN - Per Aspera Ad Astra - 2026 [MULTI-SUB]
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1440821.mkv
@@ -669,11 +660,11 @@ http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1440691.mkv
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1440579.mkv
 #EXTINF:-1 tvg-id="1440571" tvg-name="ES - Golpes - 2025 [MULTI-SUB]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8LfOfm85wNDvL87wADtOeupytOC.jpg" group-title="NOVAS ENTRADAS",ES - Golpes - 2025 [MULTI-SUB]
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1440571.mkv
-#EXTINF:-1 tvg-id="1440570" tvg-name="IN - Your Fault: London - 2026 [MULTI-SUB]  " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nLxu237EJAisFCYKK48hN9Plobx.jpg" group-title="VOD | SOUTH INDIAN",IN - Your Fault: London - 2026 [MULTI-SUB]  
+#EXTINF:-1 tvg-id="1440570" tvg-name="IN - Your Fault: London - 2026 [MULTI-SUB]  " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nLxu237EJAisFCYKK48hN9Plobx.jpg" group-title="FILMES DA INDÍA",IN - Your Fault: London - 2026 [MULTI-SUB]  
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1440570.mkv
 #EXTINF:-1 tvg-id="1440568" tvg-name="EN - Pressure - 2026 [MULTI-SUB]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9RkDrI8V8QJBjhtyRX7y6Qow3aq.jpg" group-title="NOVAS ENTRADAS",EN - Pressure - 2026 [MULTI-SUB]
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1440568.mkv
-#EXTINF:-1 tvg-id="1440485" tvg-name="IN - Arco - 2025 [MULTI-SUB]  " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mWlvHFxTDhq9O5WSOHywa32QIez.jpg" group-title="VOD | SOUTH INDIAN",IN - Arco - 2025 [MULTI-SUB]  
+#EXTINF:-1 tvg-id="1440485" tvg-name="IN - Arco - 2025 [MULTI-SUB]  " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mWlvHFxTDhq9O5WSOHywa32QIez.jpg" group-title="FILMES DA INDÍA",IN - Arco - 2025 [MULTI-SUB]  
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1440485.mkv
 #EXTINF:-1 tvg-id="1440326" tvg-name="EN - Mr. K - 2025 [MULTI-SUB]  " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lRpGcAYC7cm1QnInz8P3xHvm7cV.jpg" group-title="NOVAS ENTRADAS",EN - Mr. K - 2025 [MULTI-SUB]  
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1440326.mkv
@@ -693,9 +684,9 @@ http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1439806.mkv
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1439805.mkv
 #EXTINF:-1 tvg-id="1439804" tvg-name="EN - The Last Whale Singer - 2026 [MULTI-SUB]  " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pRLjnxFviHmzP8RvWq0PlLeQnc6.jpg" group-title="NOVAS ENTRADAS",EN - The Last Whale Singer - 2026 [MULTI-SUB]  
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1439804.mkv
-#EXTINF:-1 tvg-id="1439780" tvg-name="IN - Kenatha Kanom - 2026 [MULTI-SUB]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qqwsGBvhsHoCYAxJ6nB3jeso3wc.jpg" group-title="VOD | SOUTH INDIAN",IN - Kenatha Kanom - 2026 [MULTI-SUB]
+#EXTINF:-1 tvg-id="1439780" tvg-name="IN - Kenatha Kanom - 2026 [MULTI-SUB]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qqwsGBvhsHoCYAxJ6nB3jeso3wc.jpg" group-title="FILMES DA INDÍA",IN - Kenatha Kanom - 2026 [MULTI-SUB]
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1439780.mkv
-#EXTINF:-1 tvg-id="1439129" tvg-name="IN - The Deep - 1977 [MULTI-SUB]  " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z3HXf0nIN7tvpTF8fxiJrvD603f.jpg" group-title="VOD | SOUTH INDIAN",IN - The Deep - 1977 [MULTI-SUB]  
+#EXTINF:-1 tvg-id="1439129" tvg-name="IN - The Deep - 1977 [MULTI-SUB]  " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z3HXf0nIN7tvpTF8fxiJrvD603f.jpg" group-title="FILMES DA INDÍA",IN - The Deep - 1977 [MULTI-SUB]  
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1439129.mkv
 #EXTINF:-1 tvg-id="1439112" tvg-name="EN - Find Your Friends - 2025 [MULTI-SUB]  " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uFdpiH5zh8wMnOckYtwvVDM0SDE.jpg" group-title="NOVAS ENTRADAS",EN - Find Your Friends - 2025 [MULTI-SUB]  
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1439112.mkv
@@ -717,9 +708,9 @@ http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1438208.mkv
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1437971.mkv
 #EXTINF:-1 tvg-id="1437970" tvg-name="EN - Beneath the Light - 2026 [MULTI-SUB]  " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/asqClWSo9J9h9q9u5aEFxoKj454.jpg" group-title="NOVAS ENTRADAS",EN - Beneath the Light - 2026 [MULTI-SUB]  
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1437970.mkv
-#EXTINF:-1 tvg-id="1437965" tvg-name="IN - R.L. Stine's Pumpkinhead - 2025 [MULTI-SUB]  " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gRJFFA9lK9pLikEIMcetgkmOGTj.jpg" group-title="VOD | SOUTH INDIAN",IN - R.L. Stine's Pumpkinhead - 2025 [MULTI-SUB]  
+#EXTINF:-1 tvg-id="1437965" tvg-name="IN - R.L. Stine's Pumpkinhead - 2025 [MULTI-SUB]  " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gRJFFA9lK9pLikEIMcetgkmOGTj.jpg" group-title="FILMES DA INDÍA",IN - R.L. Stine's Pumpkinhead - 2025 [MULTI-SUB]  
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1437965.mkv
-#EXTINF:-1 tvg-id="1437964" tvg-name="IN - Karuppu - 2026 [MULTI-SUB]  " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4KZXlZ5tTT6ghbW77gS4hSLkCd7.jpg" group-title="VOD | SOUTH INDIAN",IN - Karuppu - 2026 [MULTI-SUB]  
+#EXTINF:-1 tvg-id="1437964" tvg-name="IN - Karuppu - 2026 [MULTI-SUB]  " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4KZXlZ5tTT6ghbW77gS4hSLkCd7.jpg" group-title="FILMES DA INDÍA",IN - Karuppu - 2026 [MULTI-SUB]  
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1437964.mkv
 #EXTINF:-1 tvg-id="1437597" tvg-name="CH - Blades of the Guardians: Wind Rises in the Desert - 2026 [MULTI-SUB]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AbunjMKX4P1sDNlKfhYrWkIoRD9.jpg" group-title="NOVAS ENTRADAS",CH - Blades of the Guardians: Wind Rises in the Desert - 2026 [MULTI-SUB]
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1437597.mkv
@@ -729,7 +720,7 @@ http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1437592.mkv
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1437591.mkv
 #EXTINF:-1 tvg-id="1437587" tvg-name="EN - Time of Death - 2026 [MULTI-SUB]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/86NmEEtkQFvbWT28YtZyFVfv6mO.jpg" group-title="NOVAS ENTRADAS",EN - Time of Death - 2026 [MULTI-SUB]
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1437587.mkv
-#EXTINF:-1 tvg-id="1437398" tvg-name="IN - Dridam - 2026 [MULTI-SUB]  " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fXSdAujfiRRW6LqekN4FvFQidh3.jpg" group-title="VOD | SOUTH INDIAN",IN - Dridam - 2026 [MULTI-SUB]  
+#EXTINF:-1 tvg-id="1437398" tvg-name="IN - Dridam - 2026 [MULTI-SUB]  " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fXSdAujfiRRW6LqekN4FvFQidh3.jpg" group-title="FILMES DA INDÍA",IN - Dridam - 2026 [MULTI-SUB]  
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1437398.mkv
 #EXTINF:-1 tvg-id="1436970" tvg-name="EN - Double Happiness - 2025 [MULTI-SUB]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n1iuCRzU2Xn6cotcCgOh1rVWWVW.jpg" group-title="NOVAS ENTRADAS",EN - Double Happiness - 2025 [MULTI-SUB]
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1436970.mkv
@@ -739,9 +730,9 @@ http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1436956.mkv
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1436949.mkv
 #EXTINF:-1 tvg-id="1436948" tvg-name="EN - The Legend of Nigger Charley - 1972 [MULTI-SUB]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jkuqSyXSJkQ1YD7ULdLdhJuOFQT.jpg" group-title="MULTI-SUB - ANTES DE 2000",EN - The Legend of Nigger Charley - 1972 [MULTI-SUB]
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1436948.mkv
-#EXTINF:-1 tvg-id="1436921" tvg-name="IN - Anaganaga - 2025 [MULTI-SUB]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ep3Bhk34epfWY1LrRfyqZli07Cl.jpg" group-title="VOD | SOUTH INDIAN",IN - Anaganaga - 2025 [MULTI-SUB]
+#EXTINF:-1 tvg-id="1436921" tvg-name="IN - Anaganaga - 2025 [MULTI-SUB]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ep3Bhk34epfWY1LrRfyqZli07Cl.jpg" group-title="FILMES DA INDÍA",IN - Anaganaga - 2025 [MULTI-SUB]
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1436921.mkv
-#EXTINF:-1 tvg-id="1436919" tvg-name="IN - Shelter - 2026 [MULTI-SUB]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/buPFnHZ3xQy6vZEHxbHgL1Pc6CR.jpg" group-title="VOD | SOUTH INDIAN",IN - Shelter - 2026 [MULTI-SUB]
+#EXTINF:-1 tvg-id="1436919" tvg-name="IN - Shelter - 2026 [MULTI-SUB]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/buPFnHZ3xQy6vZEHxbHgL1Pc6CR.jpg" group-title="FILMES DA INDÍA",IN - Shelter - 2026 [MULTI-SUB]
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1436919.mkv
 #EXTINF:-1 tvg-id="1436917" tvg-name="EN - Who's Watching - 2024 [MULTI-SUB]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d8ibpjQeZR0dgqXeMs1c7IbapAW.jpg" group-title="DEPOIS DE 2020",EN - Who's Watching - 2024 [MULTI-SUB]
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1436917.mkv
@@ -761,7 +752,7 @@ http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1436786.mkv
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1436785.mkv
 #EXTINF:-1 tvg-id="1436784" tvg-name="EN - The Greek Aisle - 2026 [MULTI-SUB]  " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fPJXkiAoW07NUGd9GSb93JKeI71.jpg" group-title="NOVAS ENTRADAS",EN - The Greek Aisle - 2026 [MULTI-SUB]  
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1436784.mkv
-#EXTINF:-1 tvg-id="1436780" tvg-name="IN - Whistle - 2026 [MULTI-SUB]  " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vgonf5kGsiijUBjzxKTvechhT28.jpg" group-title="VOD | SOUTH INDIAN",IN - Whistle - 2026 [MULTI-SUB]  
+#EXTINF:-1 tvg-id="1436780" tvg-name="IN - Whistle - 2026 [MULTI-SUB]  " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vgonf5kGsiijUBjzxKTvechhT28.jpg" group-title="FILMES DA INDÍA",IN - Whistle - 2026 [MULTI-SUB]  
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1436780.mkv
 #EXTINF:-1 tvg-id="1436654" tvg-name="EN - Colors of Evil: Black - 2026 [MULTI-SUB]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wIubCZKpnTiQmlC5DehgU1LNFip.jpg" group-title="NOVAS ENTRADAS",EN - Colors of Evil: Black - 2026 [MULTI-SUB]
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1436654.mkv
@@ -819,15 +810,15 @@ http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1435364.mp4
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1435314.mp4
 #EXTINF:-1 tvg-id="1435289" tvg-name="CH - Us and Them - 2018 [MULTI-SUB]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/45tKwttzp8Ac47DbjtA6NV12F1r.jpg" group-title="DE 2010 A 2019",CH - Us and Them - 2018 [MULTI-SUB]
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1435289.mp4
-#EXTINF:-1 tvg-id="1435203" tvg-name="IN - Valavaara - 2026 [MULTI-SUB]  " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kHFvqy0pPGdPjjBo513JS0WkDa1.jpg" group-title="VOD | SOUTH INDIAN",IN - Valavaara - 2026 [MULTI-SUB]  
+#EXTINF:-1 tvg-id="1435203" tvg-name="IN - Valavaara - 2026 [MULTI-SUB]  " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kHFvqy0pPGdPjjBo513JS0WkDa1.jpg" group-title="FILMES DA INDÍA",IN - Valavaara - 2026 [MULTI-SUB]  
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1435203.mkv
-#EXTINF:-1 tvg-id="1434485" tvg-name="IN - 29 - 2026 [MULTI-SUB]  " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aQZ4OxzaYTN7cRN7fALi9BhPucp.jpg" group-title="VOD | SOUTH INDIAN",IN - 29 - 2026 [MULTI-SUB]  
+#EXTINF:-1 tvg-id="1434485" tvg-name="IN - 29 - 2026 [MULTI-SUB]  " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aQZ4OxzaYTN7cRN7fALi9BhPucp.jpg" group-title="FILMES DA INDÍA",IN - 29 - 2026 [MULTI-SUB]  
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1434485.mkv
-#EXTINF:-1 tvg-id="1434483" tvg-name="IN - KD – The Devil - 2026 [MULTI-SUB]  " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nEuEMJrnLBneE9tJlmzbhCFLu95.jpg" group-title="VOD | SOUTH INDIAN",IN - KD – The Devil - 2026 [MULTI-SUB]  
+#EXTINF:-1 tvg-id="1434483" tvg-name="IN - KD – The Devil - 2026 [MULTI-SUB]  " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nEuEMJrnLBneE9tJlmzbhCFLu95.jpg" group-title="FILMES DA INDÍA",IN - KD – The Devil - 2026 [MULTI-SUB]  
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1434483.mkv
-#EXTINF:-1 tvg-id="1434481" tvg-name="IN - Ugly Story - 2026 [MULTI-SUB]  " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wwCQ0aZWbleGswX6hJAjk8CH19q.jpg" group-title="VOD | SOUTH INDIAN",IN - Ugly Story - 2026 [MULTI-SUB]  
+#EXTINF:-1 tvg-id="1434481" tvg-name="IN - Ugly Story - 2026 [MULTI-SUB]  " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wwCQ0aZWbleGswX6hJAjk8CH19q.jpg" group-title="FILMES DA INDÍA",IN - Ugly Story - 2026 [MULTI-SUB]  
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1434481.mkv
-#EXTINF:-1 tvg-id="1434479" tvg-name="IN - Patriot - 2026 [MULTI-SUB]  " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5K1j0J9kMQiNkJNAOW4TEZYXsdQ.jpg" group-title="VOD | SOUTH INDIAN",IN - Patriot - 2026 [MULTI-SUB]  
+#EXTINF:-1 tvg-id="1434479" tvg-name="IN - Patriot - 2026 [MULTI-SUB]  " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5K1j0J9kMQiNkJNAOW4TEZYXsdQ.jpg" group-title="FILMES DA INDÍA",IN - Patriot - 2026 [MULTI-SUB]  
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1434479.mkv
 #EXTINF:-1 tvg-id="1433737" tvg-name="EN - The Marked Woman - 2026 [MULTI-SUB]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dyUZ6IKbzmgtdshHevJahpH51Eq.jpg" group-title="NOVAS ENTRADAS",EN - The Marked Woman - 2026 [MULTI-SUB]
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1433737.mkv
@@ -847,9 +838,9 @@ http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1433514.mkv
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1433513.mkv
 #EXTINF:-1 tvg-id="1433512" tvg-name="EN - SistAhood 2: Calling All Lovers - 2024 [MULTI-SUB]  " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zrECNcxObcN4IPvUwK7E0Il1Hya.jpg" group-title="NOVAS ENTRADAS",EN - SistAhood 2: Calling All Lovers - 2024 [MULTI-SUB]  
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1433512.mkv
-#EXTINF:-1 tvg-id="1433111" tvg-name="IN - Momacu - 2026 [MULTI-SUB]  " tvg-logo="http://go4.pw/cover/Momacu.jpg" group-title="VOD | SOUTH INDIAN",IN - Momacu - 2026 [MULTI-SUB]  
+#EXTINF:-1 tvg-id="1433111" tvg-name="IN - Momacu - 2026 [MULTI-SUB]  " tvg-logo="http://go4.pw/cover/Momacu.jpg" group-title="FILMES DA INDÍA",IN - Momacu - 2026 [MULTI-SUB]  
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1433111.mkv
-#EXTINF:-1 tvg-id="1433110" tvg-name="IN - Maa Behen - 2026 [MULTI-SUB]  " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dpQIeEunpgj0C4rngb6OFb4zSd1.jpg" group-title="VOD | SOUTH INDIAN",IN - Maa Behen - 2026 [MULTI-SUB]  
+#EXTINF:-1 tvg-id="1433110" tvg-name="IN - Maa Behen - 2026 [MULTI-SUB]  " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dpQIeEunpgj0C4rngb6OFb4zSd1.jpg" group-title="FILMES DA INDÍA",IN - Maa Behen - 2026 [MULTI-SUB]  
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1433110.mkv
 #EXTINF:-1 tvg-id="1432950" tvg-name="EN - Dans la sauce - 2026 [MULTI-SUB]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zRzQp0oo18KJ5j2vyd2InqfhzhN.jpg" group-title="NOVAS ENTRADAS",EN - Dans la sauce - 2026 [MULTI-SUB]
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1432950.mp4
@@ -883,7 +874,7 @@ http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1432301.mkv
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1432300.mkv
 #EXTINF:-1 tvg-id="1432299" tvg-name="EN - They Whisper - 2024 [MULTI-SUB] " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4sszFWtmZpHqpZUhsKKTktWMTWp.jpg" group-title="DEPOIS DE 2020",EN - They Whisper - 2024 [MULTI-SUB] 
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1432299.mkv
-#EXTINF:-1 tvg-id="1432272" tvg-name="IN - Beast of War - 2025 [MULTI-SUB]  " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2xgDjVEOtu5LlbPEngxfbCqWEFg.jpg" group-title="VOD | SOUTH INDIAN",IN - Beast of War - 2025 [MULTI-SUB]  
+#EXTINF:-1 tvg-id="1432272" tvg-name="IN - Beast of War - 2025 [MULTI-SUB]  " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2xgDjVEOtu5LlbPEngxfbCqWEFg.jpg" group-title="FILMES DA INDÍA",IN - Beast of War - 2025 [MULTI-SUB]  
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1432272.mkv
 #EXTINF:-1 tvg-id="1432074" tvg-name="EN - In the Grey - 2026 [MULTI-SUB]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dQgIcW6Th08kMRf2HBoYWoFE6OD.jpg" group-title="NOVAS ENTRADAS",EN - In the Grey - 2026 [MULTI-SUB]
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1432074.mkv
@@ -933,7 +924,7 @@ http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1431599.mkv
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1431598.mkv
 #EXTINF:-1 tvg-id="1431597" tvg-name="EN - Instadocs: Alex Murdaugh, Unconvicted - 2026 [MULTI-SUB]  " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iP9b3NBxJKtyzLf7CKFWl3MpgKS.jpg" group-title="NOVAS ENTRADAS",EN - Instadocs: Alex Murdaugh, Unconvicted - 2026 [MULTI-SUB]  
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1431597.mkv
-#EXTINF:-1 tvg-id="1430995" tvg-name="IN - Blast - 2026 [MULTI-SUB]  " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ho824aZtnBzE6FuJRn2znQCq4qQ.jpg" group-title="VOD | SOUTH INDIAN",IN - Blast - 2026 [MULTI-SUB]  
+#EXTINF:-1 tvg-id="1430995" tvg-name="IN - Blast - 2026 [MULTI-SUB]  " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ho824aZtnBzE6FuJRn2znQCq4qQ.jpg" group-title="FILMES DA INDÍA",IN - Blast - 2026 [MULTI-SUB]  
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1430995.mkv
 #EXTINF:-1 tvg-id="1430982" tvg-name="TH - Food Truck: Stolen Love... and Moo Deng - 2025 [MULTI-SUB]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fOhSmHSEm0iVQ2AdG5SkjXnsvUM.jpg" group-title="NOVAS ENTRADAS",TH - Food Truck: Stolen Love... and Moo Deng - 2025 [MULTI-SUB]
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1430982.mkv
@@ -979,11 +970,11 @@ http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1430802.mkv
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1430779.mkv
 #EXTINF:-1 tvg-id="1430742" tvg-name="EN - The 51st AFI Life Achievement Award: A Tribute to Eddie Murphy - 2026 [MULTI-SUB]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pxWhmE1NDCXsxDbLV1UYALVMlMk.jpg" group-title="NOVAS ENTRADAS",EN - The 51st AFI Life Achievement Award: A Tribute to Eddie Murphy - 2026 [MULTI-SUB]
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1430742.mp4
-#EXTINF:-1 tvg-id="1429985" tvg-name="IN - Leader - 2026 [MULTI-SUB]  " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eitNeP5lMT67piVVA8h31lb5keN.jpg" group-title="VOD | SOUTH INDIAN",IN - Leader - 2026 [MULTI-SUB]  
+#EXTINF:-1 tvg-id="1429985" tvg-name="IN - Leader - 2026 [MULTI-SUB]  " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eitNeP5lMT67piVVA8h31lb5keN.jpg" group-title="FILMES DA INDÍA",IN - Leader - 2026 [MULTI-SUB]  
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1429985.mkv
-#EXTINF:-1 tvg-id="1429984" tvg-name="IN - Nawab Cafe - 2026 [MULTI-SUB]  " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mZ3By7MbNzMx2ANQ9MdYnwMYlQ3.jpg" group-title="VOD | SOUTH INDIAN",IN - Nawab Cafe - 2026 [MULTI-SUB]  
+#EXTINF:-1 tvg-id="1429984" tvg-name="IN - Nawab Cafe - 2026 [MULTI-SUB]  " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mZ3By7MbNzMx2ANQ9MdYnwMYlQ3.jpg" group-title="FILMES DA INDÍA",IN - Nawab Cafe - 2026 [MULTI-SUB]  
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1429984.mkv
-#EXTINF:-1 tvg-id="1429982" tvg-name="IN - Faces - 2026 [MULTI-SUB]  " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ivxAwfGN50pRLAueIrjuMaMuhdx.jpg" group-title="VOD | SOUTH INDIAN",IN - Faces - 2026 [MULTI-SUB]  
+#EXTINF:-1 tvg-id="1429982" tvg-name="IN - Faces - 2026 [MULTI-SUB]  " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ivxAwfGN50pRLAueIrjuMaMuhdx.jpg" group-title="FILMES DA INDÍA",IN - Faces - 2026 [MULTI-SUB]  
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1429982.mkv
 #EXTINF:-1 tvg-id="1429699" tvg-name="EN - Voidance - 2026 [MULTI-SUB]  " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Asyz5nXgLX3mg5C10RAd5Oo2PYc.jpg" group-title="NOVAS ENTRADAS",EN - Voidance - 2026 [MULTI-SUB]  
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1429699.mkv
@@ -991,9 +982,9 @@ http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1429699.mkv
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1429698.mkv
 #EXTINF:-1 tvg-id="1429697" tvg-name="EN - True Justice: Eye For An Eye - 2026 [MULTI-SUB]  " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rcKD1DBuJzC8T35UD4KKFrXZI9n.jpg" group-title="NOVAS ENTRADAS",EN - True Justice: Eye For An Eye - 2026 [MULTI-SUB]  
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1429697.mkv
-#EXTINF:-1 tvg-id="1429680" tvg-name="IN - Karikaada - 2026 [MULTI-SUB]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tL0skwRWivuNZHQD89baWynksct.jpg" group-title="VOD | SOUTH INDIAN",IN - Karikaada - 2026 [MULTI-SUB]
+#EXTINF:-1 tvg-id="1429680" tvg-name="IN - Karikaada - 2026 [MULTI-SUB]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tL0skwRWivuNZHQD89baWynksct.jpg" group-title="FILMES DA INDÍA",IN - Karikaada - 2026 [MULTI-SUB]
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1429680.mkv
-#EXTINF:-1 tvg-id="1429677" tvg-name="IN - Kara - 2026 [MULTI-SUB]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uIrFdMWlJFdc1jPBP9bxeaISCDj.jpg" group-title="VOD | SOUTH INDIAN",IN - Kara - 2026 [MULTI-SUB]
+#EXTINF:-1 tvg-id="1429677" tvg-name="IN - Kara - 2026 [MULTI-SUB]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uIrFdMWlJFdc1jPBP9bxeaISCDj.jpg" group-title="FILMES DA INDÍA",IN - Kara - 2026 [MULTI-SUB]
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1429677.mkv
 #EXTINF:-1 tvg-id="1429465" tvg-name="EN - D Is for Distance - 2026 [MULTI-SUB]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7HSoksSOVKIG4v0QRwzSRsmCwP3.jpg" group-title="NOVAS ENTRADAS",EN - D Is for Distance - 2026 [MULTI-SUB]
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1429465.mkv
@@ -1003,7 +994,7 @@ http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1429464.mkv
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1429463.mkv
 #EXTINF:-1 tvg-id="1429462" tvg-name="EN - I Didn't Do It - 2026 [MULTI-SUB]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xKXmA8VMq11w2BfKoLHoiirrhZg.jpg" group-title="NOVAS ENTRADAS",EN - I Didn't Do It - 2026 [MULTI-SUB]
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1429462.mkv
-#EXTINF:-1 tvg-id="1429210" tvg-name="IN - Sathi Leelavathi - 2026 [MULTI-SUB]  " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/povosquaaJWFjgTqd2ObTIvwl8.jpg" group-title="VOD | SOUTH INDIAN",IN - Sathi Leelavathi - 2026 [MULTI-SUB]  
+#EXTINF:-1 tvg-id="1429210" tvg-name="IN - Sathi Leelavathi - 2026 [MULTI-SUB]  " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/povosquaaJWFjgTqd2ObTIvwl8.jpg" group-title="FILMES DA INDÍA",IN - Sathi Leelavathi - 2026 [MULTI-SUB]  
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1429210.mkv
 #EXTINF:-1 tvg-id="1429196" tvg-name="EN - Everybody to Kenmure Street - 2026 [MULTI-SUB]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m3ZR0dcDwpO7JdAs6sc12ks3Th9.jpg" group-title="NOVAS ENTRADAS",EN - Everybody to Kenmure Street - 2026 [MULTI-SUB]
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1429196.mkv
@@ -1025,9 +1016,9 @@ http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1428693.mkv
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1428676.mkv
 #EXTINF:-1 tvg-id="1428675" tvg-name="EN - The Super Mario Galaxy Movie - 2026 [MULTI-SUB]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg" group-title="NOVAS ENTRADAS",EN - The Super Mario Galaxy Movie - 2026 [MULTI-SUB]
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1428675.mkv
-#EXTINF:-1 tvg-id="1428666" tvg-name="IN - Ladies First - 2026 [MULTI-SUB]  " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kjR56Yv17pbjTVBTMjqepvcus4f.jpg" group-title="VOD | SOUTH INDIAN",IN - Ladies First - 2026 [MULTI-SUB]  
+#EXTINF:-1 tvg-id="1428666" tvg-name="IN - Ladies First - 2026 [MULTI-SUB]  " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kjR56Yv17pbjTVBTMjqepvcus4f.jpg" group-title="FILMES DA INDÍA",IN - Ladies First - 2026 [MULTI-SUB]  
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1428666.mkv
-#EXTINF:-1 tvg-id="1427562" tvg-name="IN - TN 2026 - 2026 [MULTI-SUB]  " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mAX1ujOROXtKsOuIg5MbJbotOyD.jpg" group-title="VOD | SOUTH INDIAN",IN - TN 2026 - 2026 [MULTI-SUB]  
+#EXTINF:-1 tvg-id="1427562" tvg-name="IN - TN 2026 - 2026 [MULTI-SUB]  " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mAX1ujOROXtKsOuIg5MbJbotOyD.jpg" group-title="FILMES DA INDÍA",IN - TN 2026 - 2026 [MULTI-SUB]  
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1427562.mkv
 #EXTINF:-1 tvg-id="1427373" tvg-name="NO - Battle of Oslo - 2025 [MULTI-SUB]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4JgvnUEggEMx6lEUu0eOq6XfMP7.jpg" group-title="NOVAS ENTRADAS",NO - Battle of Oslo - 2025 [MULTI-SUB]
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1427373.mkv
@@ -1041,9 +1032,9 @@ http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1427318.mkv
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1427278.mkv
 #EXTINF:-1 tvg-id="1427252" tvg-name="EN - Captain Tsunami - 2025 [MULTI-SUB]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/htnjSxjHZy74FtucmMfjDcLTS7Y.jpg" group-title="NOVAS ENTRADAS",EN - Captain Tsunami - 2025 [MULTI-SUB]
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1427252.mkv
-#EXTINF:-1 tvg-id="1426991" tvg-name="IN - Madhuvidhu - 2026 [MULTI-SUB]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jVSnpXklfxi3FchGqweRMvrC8Gd.jpg" group-title="VOD | SOUTH INDIAN",IN - Madhuvidhu - 2026 [MULTI-SUB]
+#EXTINF:-1 tvg-id="1426991" tvg-name="IN - Madhuvidhu - 2026 [MULTI-SUB]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jVSnpXklfxi3FchGqweRMvrC8Gd.jpg" group-title="FILMES DA INDÍA",IN - Madhuvidhu - 2026 [MULTI-SUB]
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1426991.mkv
-#EXTINF:-1 tvg-id="1426980" tvg-name="IN - Panda Plan: The Magical Tribe - 2026 [MULTI-SUB]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/asrLPsZMg75SxN1BooggGmpBwRO.jpg" group-title="VOD | SOUTH INDIAN",IN - Panda Plan: The Magical Tribe - 2026 [MULTI-SUB]
+#EXTINF:-1 tvg-id="1426980" tvg-name="IN - Panda Plan: The Magical Tribe - 2026 [MULTI-SUB]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/asrLPsZMg75SxN1BooggGmpBwRO.jpg" group-title="FILMES DA INDÍA",IN - Panda Plan: The Magical Tribe - 2026 [MULTI-SUB]
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1426980.mkv
 #EXTINF:-1 tvg-id="1426431" tvg-name="EN - Airworthy - 2026 [MULTI-SUB]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pwHq6WjnHcRHnSkxMspmo8YRjAJ.jpg" group-title="NOVAS ENTRADAS",EN - Airworthy - 2026 [MULTI-SUB]
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1426431.mkv
@@ -1069,7 +1060,7 @@ http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1426068.mkv
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1426067.mkv
 #EXTINF:-1 tvg-id="1425517" tvg-name="EN - Wanda Sykes: Legacy - 2026 [MULTI-SUB]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nHE1A7YA51xegolfczZShIsO4dc.jpg" group-title="NOVAS ENTRADAS",EN - Wanda Sykes: Legacy - 2026 [MULTI-SUB]
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1425517.mkv
-#EXTINF:-1 tvg-id="1425505" tvg-name="IN - Tom Clancy's Jack Ryan: Ghost War - 2026 [MULTI-SUB]  " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vjUWJXdd275UYJDzblaNPZp9319.jpg" group-title="VOD | SOUTH INDIAN",IN - Tom Clancy's Jack Ryan: Ghost War - 2026 [MULTI-SUB]  
+#EXTINF:-1 tvg-id="1425505" tvg-name="IN - Tom Clancy's Jack Ryan: Ghost War - 2026 [MULTI-SUB]  " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vjUWJXdd275UYJDzblaNPZp9319.jpg" group-title="FILMES DA INDÍA",IN - Tom Clancy's Jack Ryan: Ghost War - 2026 [MULTI-SUB]  
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1425505.mkv
 #EXTINF:-1 tvg-id="1425387" tvg-name="EN - Say Less - 2026 [MULTI-SUB]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/afW2lDdemCVcNlkQF4aIfoB7CAR.jpg" group-title="NOVAS ENTRADAS",EN - Say Less - 2026 [MULTI-SUB]
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1425387.mkv
@@ -1101,7 +1092,7 @@ http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1423868.mkv
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1423867.mkv
 #EXTINF:-1 tvg-id="1423866" tvg-name="EN - An Enemy Within - 2025 [MULTI-SUB]  " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r7IaQDH6kbeVKxtJjH25QgSnh1U.jpg" group-title="NOVAS ENTRADAS",EN - An Enemy Within - 2025 [MULTI-SUB]  
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1423866.mkv
-#EXTINF:-1 tvg-id="1423816" tvg-name="IN - Marty Supreme - 2025 [MULTI-SUB]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg" group-title="VOD | SOUTH INDIAN",IN - Marty Supreme - 2025 [MULTI-SUB]
+#EXTINF:-1 tvg-id="1423816" tvg-name="IN - Marty Supreme - 2025 [MULTI-SUB]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg" group-title="FILMES DA INDÍA",IN - Marty Supreme - 2025 [MULTI-SUB]
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1423816.mkv
 #EXTINF:-1 tvg-id="1423782" tvg-name="EN - Death Cycle - 2026 [MULTI-SUB]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wSJn0eISGbgNY7pnzAtNZJuvTUI.jpg" group-title="NOVAS ENTRADAS",EN - Death Cycle - 2026 [MULTI-SUB]
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1423782.mkv
@@ -1119,9 +1110,9 @@ http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1421243.mkv
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1421242.mkv
 #EXTINF:-1 tvg-id="1421235" tvg-name="EN - Jiàoliàn: Coach - 2015 [MULTI-SUB]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vgOFAME8gUO0cTTpf9e3PJjsQWm.jpg" group-title="DE 2010 A 2019",EN - Jiàoliàn: Coach - 2015 [MULTI-SUB]
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1421235.mkv
-#EXTINF:-1 tvg-id="1421204" tvg-name="IN - Agent Zero - 2025 [MULTI-SUB]  " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/diDNHFfccBZxw0CmQoVQkSuJIri.jpg" group-title="VOD | SOUTH INDIAN",IN - Agent Zero - 2025 [MULTI-SUB]  
+#EXTINF:-1 tvg-id="1421204" tvg-name="IN - Agent Zero - 2025 [MULTI-SUB]  " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/diDNHFfccBZxw0CmQoVQkSuJIri.jpg" group-title="FILMES DA INDÍA",IN - Agent Zero - 2025 [MULTI-SUB]  
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1421204.mkv
-#EXTINF:-1 tvg-id="1421203" tvg-name="IN - Kartavya - 2026 [MULTI-SUB]  " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wyJG0JzeZTo37giko4UJVVFktld.jpg" group-title="VOD | SOUTH INDIAN",IN - Kartavya - 2026 [MULTI-SUB]  
+#EXTINF:-1 tvg-id="1421203" tvg-name="IN - Kartavya - 2026 [MULTI-SUB]  " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wyJG0JzeZTo37giko4UJVVFktld.jpg" group-title="FILMES DA INDÍA",IN - Kartavya - 2026 [MULTI-SUB]  
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1421203.mkv
 #EXTINF:-1 tvg-id="1420770" tvg-name="EN - The Crash - 2026 [MULTI-SUB]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/veskdPx4YUTmkrFrTs6zRJ8VV4E.jpg" group-title="NOVAS ENTRADAS",EN - The Crash - 2026 [MULTI-SUB]
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1420770.mkv
@@ -1173,9 +1164,9 @@ http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1419280.mkv
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1419269.mkv
 #EXTINF:-1 tvg-id="1418977" tvg-name="EN - The Roast of Kevin Hart - 2026 [MULTI-SUB]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u3KvJf9QMQpDtdZaQUUszON4qjm.jpg" group-title="NOVAS ENTRADAS",EN - The Roast of Kevin Hart - 2026 [MULTI-SUB]
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1418977.mp4
-#EXTINF:-1 tvg-id="1417032" tvg-name="IN - Bharathanatyam 2 Mohiniyattam - 2026 [MULTI-SUB]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lsg0IxNQCUxKqs63YjturEuY0qQ.jpg" group-title="VOD | SOUTH INDIAN",IN - Bharathanatyam 2 Mohiniyattam - 2026 [MULTI-SUB]
+#EXTINF:-1 tvg-id="1417032" tvg-name="IN - Bharathanatyam 2 Mohiniyattam - 2026 [MULTI-SUB]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lsg0IxNQCUxKqs63YjturEuY0qQ.jpg" group-title="FILMES DA INDÍA",IN - Bharathanatyam 2 Mohiniyattam - 2026 [MULTI-SUB]
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1417032.mkv
-#EXTINF:-1 tvg-id="1417031" tvg-name="IN - Vaazha II: Biopic of a Billion Bros - 2026 [MULTI-SUB]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1yLZ7kExd0UGGbaZW4LxmYD4OIf.jpg" group-title="VOD | SOUTH INDIAN",IN - Vaazha II: Biopic of a Billion Bros - 2026 [MULTI-SUB]
+#EXTINF:-1 tvg-id="1417031" tvg-name="IN - Vaazha II: Biopic of a Billion Bros - 2026 [MULTI-SUB]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1yLZ7kExd0UGGbaZW4LxmYD4OIf.jpg" group-title="FILMES DA INDÍA",IN - Vaazha II: Biopic of a Billion Bros - 2026 [MULTI-SUB]
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1417031.mkv
 #EXTINF:-1 tvg-id="1416878" tvg-name="EN - The World's Fastest Indian - 2005 [MULTI-SUB]  " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vUIwPFAAXeCUuS040uGC0xSatcG.jpg" group-title="DE 2000 A 2009",EN - The World's Fastest Indian - 2005 [MULTI-SUB]  
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1416878.mkv
@@ -1237,19 +1228,19 @@ http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1415692.mkv
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1415691.mkv
 #EXTINF:-1 tvg-id="1415690" tvg-name="EN - Hamlet - 2026 [MULTI-SUB]  " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7cBh6fWchOJY961A8F1rT98HDdA.jpg" group-title="NOVAS ENTRADAS",EN - Hamlet - 2026 [MULTI-SUB]  
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1415690.mkv
-#EXTINF:-1 tvg-id="1415674" tvg-name="IN - Love Insurance Kompany - 2026 [MULTI-SUB]  " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1IIUWMKzNVvI6YJX8BKE6EJ9bVd.jpg" group-title="VOD | SOUTH INDIAN",IN - Love Insurance Kompany - 2026 [MULTI-SUB]  
+#EXTINF:-1 tvg-id="1415674" tvg-name="IN - Love Insurance Kompany - 2026 [MULTI-SUB]  " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1IIUWMKzNVvI6YJX8BKE6EJ9bVd.jpg" group-title="FILMES DA INDÍA",IN - Love Insurance Kompany - 2026 [MULTI-SUB]  
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1415674.mkv
-#EXTINF:-1 tvg-id="1415184" tvg-name="IN - The Whisper - 2026 [MULTI-SUB]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sanKujWA3g7StpK9y7NU78FAJ6O.jpg" group-title="VOD | SOUTH INDIAN",IN - The Whisper - 2026 [MULTI-SUB]
+#EXTINF:-1 tvg-id="1415184" tvg-name="IN - The Whisper - 2026 [MULTI-SUB]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sanKujWA3g7StpK9y7NU78FAJ6O.jpg" group-title="FILMES DA INDÍA",IN - The Whisper - 2026 [MULTI-SUB]
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1415184.mkv
 #EXTINF:-1 tvg-id="1414996" tvg-name="EN - Tinā - 2025 [MULTI-SUB]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nx9DPAzainWTqPKuirLIXasbU3z.jpg" group-title="NOVAS ENTRADAS",EN - Tinā - 2025 [MULTI-SUB]
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1414996.mp4
-#EXTINF:-1 tvg-id="1414703" tvg-name="IN - Gaayapadda Simham - 2026 [MULTI-SUB]  " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s7SQGxATaLrbd7tSAQVQtgAuryN.jpg" group-title="VOD | SOUTH INDIAN",IN - Gaayapadda Simham - 2026 [MULTI-SUB]  
+#EXTINF:-1 tvg-id="1414703" tvg-name="IN - Gaayapadda Simham - 2026 [MULTI-SUB]  " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s7SQGxATaLrbd7tSAQVQtgAuryN.jpg" group-title="FILMES DA INDÍA",IN - Gaayapadda Simham - 2026 [MULTI-SUB]  
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1414703.mkv
-#EXTINF:-1 tvg-id="1414702" tvg-name="IN - Jetlee - 2026 [MULTI-SUB]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wNqDTEXvDNNFD1aWYNou4uuDoPq.jpg" group-title="VOD | SOUTH INDIAN",IN - Jetlee - 2026 [MULTI-SUB]
+#EXTINF:-1 tvg-id="1414702" tvg-name="IN - Jetlee - 2026 [MULTI-SUB]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wNqDTEXvDNNFD1aWYNou4uuDoPq.jpg" group-title="FILMES DA INDÍA",IN - Jetlee - 2026 [MULTI-SUB]
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1414702.mkv
-#EXTINF:-1 tvg-id="1414478" tvg-name="IN - Swapped - 2026 [MULTI-SUB]  " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tHhxWxge06goXU6ZQH1hj7vK8Hd.jpg" group-title="VOD | SOUTH INDIAN",IN - Swapped - 2026 [MULTI-SUB]  
+#EXTINF:-1 tvg-id="1414478" tvg-name="IN - Swapped - 2026 [MULTI-SUB]  " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tHhxWxge06goXU6ZQH1hj7vK8Hd.jpg" group-title="FILMES DA INDÍA",IN - Swapped - 2026 [MULTI-SUB]  
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1414478.mkv
-#EXTINF:-1 tvg-id="1414320" tvg-name="IN - Aadu 3 - 2026 [MULTI-SUB]  " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3yqreNY1f4iOXX0vBAqY64ZvxiV.jpg" group-title="VOD | SOUTH INDIAN",IN - Aadu 3 - 2026 [MULTI-SUB]  
+#EXTINF:-1 tvg-id="1414320" tvg-name="IN - Aadu 3 - 2026 [MULTI-SUB]  " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3yqreNY1f4iOXX0vBAqY64ZvxiV.jpg" group-title="FILMES DA INDÍA",IN - Aadu 3 - 2026 [MULTI-SUB]  
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1414320.mkv
 #EXTINF:-1 tvg-id="1414207" tvg-name="EN - Swapped - 2026 [MULTI-SUB]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tHhxWxge06goXU6ZQH1hj7vK8Hd.jpg" group-title="NOVAS ENTRADAS",EN - Swapped - 2026 [MULTI-SUB]
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1414207.mp4
@@ -1275,19 +1266,19 @@ http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1412114.mkv
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1412113.mkv
 #EXTINF:-1 tvg-id="1412112" tvg-name="EN - Bad Men Must Bleed - 2026 [MULTI-SUB]  " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cMJCAyK0m8gVGEzuwrlPqOPNc5r.jpg" group-title="NOVAS ENTRADAS",EN - Bad Men Must Bleed - 2026 [MULTI-SUB]  
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1412112.mkv
-#EXTINF:-1 tvg-id="1412103" tvg-name="IN - Sambhavam Adhyayam Onnu - 2026 [MULTI-SUB]  " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tBNSo4T0R8UztkkpjYkzXI4bFAT.jpg" group-title="VOD | SOUTH INDIAN",IN - Sambhavam Adhyayam Onnu - 2026 [MULTI-SUB]  
+#EXTINF:-1 tvg-id="1412103" tvg-name="IN - Sambhavam Adhyayam Onnu - 2026 [MULTI-SUB]  " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tBNSo4T0R8UztkkpjYkzXI4bFAT.jpg" group-title="FILMES DA INDÍA",IN - Sambhavam Adhyayam Onnu - 2026 [MULTI-SUB]  
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1412103.mkv
-#EXTINF:-1 tvg-id="1412102" tvg-name="IN - Happy Raj - 2026 [MULTI-SUB]  " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8hmB6KNUFFzChYJxngIp063H2YR.jpg" group-title="VOD | SOUTH INDIAN",IN - Happy Raj - 2026 [MULTI-SUB]  
+#EXTINF:-1 tvg-id="1412102" tvg-name="IN - Happy Raj - 2026 [MULTI-SUB]  " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8hmB6KNUFFzChYJxngIp063H2YR.jpg" group-title="FILMES DA INDÍA",IN - Happy Raj - 2026 [MULTI-SUB]  
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1412102.mkv
 #EXTINF:-1 tvg-id="1411937" tvg-name="EN - Blood Witch - 2026 [MULTI-SUB]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vXTPrFnbsoLGZHNvtMgieUsSFWU.jpg" group-title="NOVAS ENTRADAS",EN - Blood Witch - 2026 [MULTI-SUB]
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1411937.mkv
 #EXTINF:-1 tvg-id="1411934" tvg-name="EN - Trick And Treats - 2025 [MULTI-SUB]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nJo4if5J5WTHPdCbhRb70cj894h.jpg" group-title="NOVAS ENTRADAS",EN - Trick And Treats - 2025 [MULTI-SUB]
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1411934.mkv
-#EXTINF:-1 tvg-id="1411674" tvg-name="IN - Apex - 2026 [MULTI-SUB]  " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9iuGBLJBRuGKR6nRL4SxUV1tIdt.jpg" group-title="VOD | SOUTH INDIAN",IN - Apex - 2026 [MULTI-SUB]  
+#EXTINF:-1 tvg-id="1411674" tvg-name="IN - Apex - 2026 [MULTI-SUB]  " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9iuGBLJBRuGKR6nRL4SxUV1tIdt.jpg" group-title="FILMES DA INDÍA",IN - Apex - 2026 [MULTI-SUB]  
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1411674.mkv
-#EXTINF:-1 tvg-id="1411672" tvg-name="IN - Nee Forever - 2026 [MULTI-SUB]  " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qEYp2LgileilGofZVVLL8Juuh2G.jpg" group-title="VOD | SOUTH INDIAN",IN - Nee Forever - 2026 [MULTI-SUB]  
+#EXTINF:-1 tvg-id="1411672" tvg-name="IN - Nee Forever - 2026 [MULTI-SUB]  " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qEYp2LgileilGofZVVLL8Juuh2G.jpg" group-title="FILMES DA INDÍA",IN - Nee Forever - 2026 [MULTI-SUB]  
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1411672.mkv
-#EXTINF:-1 tvg-id="1411598" tvg-name="IN - Prathichaya - 2026 [MULTI-SUB]  " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4VD2H8ZwFDORWCaYS5TbhMVPdAv.jpg" group-title="VOD | SOUTH INDIAN",IN - Prathichaya - 2026 [MULTI-SUB]  
+#EXTINF:-1 tvg-id="1411598" tvg-name="IN - Prathichaya - 2026 [MULTI-SUB]  " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4VD2H8ZwFDORWCaYS5TbhMVPdAv.jpg" group-title="FILMES DA INDÍA",IN - Prathichaya - 2026 [MULTI-SUB]  
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1411598.mkv
 #EXTINF:-1 tvg-id="1411487" tvg-name="EN - Apex - 2026 [MULTI-SUB]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5TGSFX6dxYfM2balJrFoSVB42Nv.jpg" group-title="NOVAS ENTRADAS",EN - Apex - 2026 [MULTI-SUB]
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1411487.mp4
@@ -1313,9 +1304,9 @@ http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1410633.mkv
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1410632.mkv
 #EXTINF:-1 tvg-id="1410631" tvg-name="EN - Lollipop - 2025 [MULTI-SUB]  " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b2MzY5Ytpj48WZ0QuVGiaedNGeV.jpg" group-title="NOVAS ENTRADAS",EN - Lollipop - 2025 [MULTI-SUB]  
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1410631.mkv
-#EXTINF:-1 tvg-id="1410624" tvg-name="IN - Shamitabh - 2015 [MULTI-SUB]  " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3D5FG0oceTEpgLrz1v8aFWja3wn.jpg" group-title="VOD | SOUTH INDIAN",IN - Shamitabh - 2015 [MULTI-SUB]  
+#EXTINF:-1 tvg-id="1410624" tvg-name="IN - Shamitabh - 2015 [MULTI-SUB]  " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3D5FG0oceTEpgLrz1v8aFWja3wn.jpg" group-title="FILMES DA INDÍA",IN - Shamitabh - 2015 [MULTI-SUB]  
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1410624.mkv
-#EXTINF:-1 tvg-id="1410621" tvg-name="IN - Greenland 2: Migration - 2026 [MULTI-SUB]  " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z2tqCJLsw6uEJ8nJV8BsQXGa3dr.jpg" group-title="VOD | SOUTH INDIAN",IN - Greenland 2: Migration - 2026 [MULTI-SUB]  
+#EXTINF:-1 tvg-id="1410621" tvg-name="IN - Greenland 2: Migration - 2026 [MULTI-SUB]  " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z2tqCJLsw6uEJ8nJV8BsQXGa3dr.jpg" group-title="FILMES DA INDÍA",IN - Greenland 2: Migration - 2026 [MULTI-SUB]  
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1410621.mkv
 #EXTINF:-1 tvg-id="1410601" tvg-name="EN - Untold : The Shooting at Hawthorne Hill [MULTI-SUB]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6K0qTMozHAzzYVsWQrXxmqCC5wY.jpg" group-title="NOVAS ENTRADAS",EN - Untold : The Shooting at Hawthorne Hill [MULTI-SUB]
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1410601.mkv
@@ -1359,7 +1350,7 @@ http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1409069.mkv
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1409068.mkv
 #EXTINF:-1 tvg-id="1409067" tvg-name="EN - undertone - 2026 [MULTI-SUB]  " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2PFgFMnrdCPXWiZl1PUvky7Mo9D.jpg" group-title="NOVAS ENTRADAS",EN - undertone - 2026 [MULTI-SUB]  
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1409067.mkv
-#EXTINF:-1 tvg-id="1408611" tvg-name="IN - 180 - 2026 [MULTI-SUB]  " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9ISjrhA38HpSSGtfiCk8lpziC3K.jpg" group-title="VOD | SOUTH INDIAN",IN - 180 - 2026 [MULTI-SUB]  
+#EXTINF:-1 tvg-id="1408611" tvg-name="IN - 180 - 2026 [MULTI-SUB]  " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9ISjrhA38HpSSGtfiCk8lpziC3K.jpg" group-title="FILMES DA INDÍA",IN - 180 - 2026 [MULTI-SUB]  
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1408611.mkv
 #EXTINF:-1 tvg-id="1408610" tvg-name="EN - Ballistic - 2026 [MULTI-SUB]  " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mTcXNQHnabavseapSfcAKhTnC3V.jpg" group-title="NOVAS ENTRADAS",EN - Ballistic - 2026 [MULTI-SUB]  
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1408610.mkv
@@ -1381,13 +1372,13 @@ http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1408581.mkv
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1408046.mkv
 #EXTINF:-1 tvg-id="1408021" tvg-name="EN - Balls Up - 2026 [MULTI-SUB]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xwvJ3WzdJ1OCuDoY8LAxBUlQyig.jpg" group-title="NOVAS ENTRADAS",EN - Balls Up - 2026 [MULTI-SUB]
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1408021.mkv
-#EXTINF:-1 tvg-id="1407690" tvg-name="IN - Youth - 2026 [MULTI-SUB]  " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rNzk0jlGRPnvZ26On5xhTmLaQhO.jpg" group-title="VOD | SOUTH INDIAN",IN - Youth - 2026 [MULTI-SUB]  
+#EXTINF:-1 tvg-id="1407690" tvg-name="IN - Youth - 2026 [MULTI-SUB]  " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rNzk0jlGRPnvZ26On5xhTmLaQhO.jpg" group-title="FILMES DA INDÍA",IN - Youth - 2026 [MULTI-SUB]  
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1407690.mkv
-#EXTINF:-1 tvg-id="1407680" tvg-name="IN - Ustaad Bhagat Singh - 2026 [MULTI-SUB]  " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qLzr8xSJ1mBhx7tZeCPQUArgA3Y.jpg" group-title="VOD | SOUTH INDIAN",IN - Ustaad Bhagat Singh - 2026 [MULTI-SUB]  
+#EXTINF:-1 tvg-id="1407680" tvg-name="IN - Ustaad Bhagat Singh - 2026 [MULTI-SUB]  " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qLzr8xSJ1mBhx7tZeCPQUArgA3Y.jpg" group-title="FILMES DA INDÍA",IN - Ustaad Bhagat Singh - 2026 [MULTI-SUB]  
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1407680.mkv
-#EXTINF:-1 tvg-id="1407264" tvg-name="IN - Main Woh Aur Fuji - 2026 [MULTI-SUB]  " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/agssGCT0HU8ayECsWkjmOOzhLih.jpg" group-title="VOD | SOUTH INDIAN",IN - Main Woh Aur Fuji - 2026 [MULTI-SUB]  
+#EXTINF:-1 tvg-id="1407264" tvg-name="IN - Main Woh Aur Fuji - 2026 [MULTI-SUB]  " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/agssGCT0HU8ayECsWkjmOOzhLih.jpg" group-title="FILMES DA INDÍA",IN - Main Woh Aur Fuji - 2026 [MULTI-SUB]  
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1407264.mkv
-#EXTINF:-1 tvg-id="1407262" tvg-name="IN - Toaster - 2026 [MULTI-SUB]  " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cbYyWHc1dL1bfwEJbaMYDYKgWG2.jpg" group-title="VOD | SOUTH INDIAN",IN - Toaster - 2026 [MULTI-SUB]  
+#EXTINF:-1 tvg-id="1407262" tvg-name="IN - Toaster - 2026 [MULTI-SUB]  " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cbYyWHc1dL1bfwEJbaMYDYKgWG2.jpg" group-title="FILMES DA INDÍA",IN - Toaster - 2026 [MULTI-SUB]  
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1407262.mkv
 #EXTINF:-1 tvg-id="1406957" tvg-name="EN - Hell Hath No Fury - 2026 [MULTI-SUB]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b0Yuc6cWVXfHyY9Nw5n3VrCa4qY.jpg" group-title="NOVAS ENTRADAS",EN - Hell Hath No Fury - 2026 [MULTI-SUB]
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1406957.mkv
@@ -1405,7 +1396,7 @@ http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1405860.mkv
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1405827.mkv
 #EXTINF:-1 tvg-id="1405704" tvg-name="EN - Feel My Voice - 2026 [MULTI-SUB]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4Tf0qTA73XLhBnfP6YgvqtLZBnt.jpg" group-title="NOVAS ENTRADAS",EN - Feel My Voice - 2026 [MULTI-SUB]
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1405704.mkv
-#EXTINF:-1 tvg-id="1405703" tvg-name="IN - Thaai Kizhavi - 2026 [MULTI-SUB]  " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qbqRzqitfwAReJ3q2v9iMmpoh7k.jpg" group-title="VOD | SOUTH INDIAN",IN - Thaai Kizhavi - 2026 [MULTI-SUB]  
+#EXTINF:-1 tvg-id="1405703" tvg-name="IN - Thaai Kizhavi - 2026 [MULTI-SUB]  " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qbqRzqitfwAReJ3q2v9iMmpoh7k.jpg" group-title="FILMES DA INDÍA",IN - Thaai Kizhavi - 2026 [MULTI-SUB]  
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1405703.mkv
 #EXTINF:-1 tvg-id="1405627" tvg-name="EN - The Truth and Tragedy of Moriah Wilson - 2026 [MULTI-SUB]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zoa2XatA43nKhF1kx8nVcVyH1M0.jpg" group-title="NOVAS ENTRADAS",EN - The Truth and Tragedy of Moriah Wilson - 2026 [MULTI-SUB]
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1405627.mkv
@@ -1415,15 +1406,15 @@ http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1405626.mkv
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1405625.mkv
 #EXTINF:-1 tvg-id="1405624" tvg-name="EN - Doctor Plague - 2026 [MULTI-SUB]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wO7AbxLIYzCjIMe9OV4f3Q4e06N.jpg" group-title="NOVAS ENTRADAS",EN - Doctor Plague - 2026 [MULTI-SUB]
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1405624.mkv
-#EXTINF:-1 tvg-id="1405322" tvg-name="IN - Wildcat - 2025 [MULTI-SUB]  " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h893ImjM6Fsv5DFhKJdlZFZIJno.jpg" group-title="VOD | SOUTH INDIAN",IN - Wildcat - 2025 [MULTI-SUB]  
+#EXTINF:-1 tvg-id="1405322" tvg-name="IN - Wildcat - 2025 [MULTI-SUB]  " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h893ImjM6Fsv5DFhKJdlZFZIJno.jpg" group-title="FILMES DA INDÍA",IN - Wildcat - 2025 [MULTI-SUB]  
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1405322.mkv
 #EXTINF:-1 tvg-id="1405300" tvg-name="EN - Out Standing - 2025 [MULTI-SUB]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gQRaEoRd1fv1A3orWOA9AdSrIjz.jpg" group-title="NOVAS ENTRADAS",EN - Out Standing - 2025 [MULTI-SUB]
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1405300.mkv
 #EXTINF:-1 tvg-id="1405287" tvg-name="EN - My Sister's Bones - 2026 [MULTI-SUB]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4gr9WexfjVIji7LIH3D5zq4qAPc.jpg" group-title="NOVAS ENTRADAS",EN - My Sister's Bones - 2026 [MULTI-SUB]
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1405287.mkv
-#EXTINF:-1 tvg-id="1405236" tvg-name="IN - The Ugly - 2025 [MULTI-SUB]  " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sNLTSYHRfQJ2gpdrA2UXjkfEije.jpg" group-title="VOD | SOUTH INDIAN",IN - The Ugly - 2025 [MULTI-SUB]  
+#EXTINF:-1 tvg-id="1405236" tvg-name="IN - The Ugly - 2025 [MULTI-SUB]  " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sNLTSYHRfQJ2gpdrA2UXjkfEije.jpg" group-title="FILMES DA INDÍA",IN - The Ugly - 2025 [MULTI-SUB]  
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1405236.mkv
-#EXTINF:-1 tvg-id="1405235" tvg-name="IN - Keeper - 2025 [MULTI-SUB]  " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mbGHijUc0C3fcM12l6ro6FgxIvg.jpg" group-title="VOD | SOUTH INDIAN",IN - Keeper - 2025 [MULTI-SUB]  
+#EXTINF:-1 tvg-id="1405235" tvg-name="IN - Keeper - 2025 [MULTI-SUB]  " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mbGHijUc0C3fcM12l6ro6FgxIvg.jpg" group-title="FILMES DA INDÍA",IN - Keeper - 2025 [MULTI-SUB]  
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1405235.mkv
 #EXTINF:-1 tvg-id="1404971" tvg-name="EN - Psycho Killer - 2026 [MULTI-SUB]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5xgxxmLivJXL8aF0HdZfpx8aAIo.jpg" group-title="NOVAS ENTRADAS",EN - Psycho Killer - 2026 [MULTI-SUB]
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1404971.mkv
@@ -1435,21 +1426,21 @@ http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1404441.mkv
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1404440.mkv
 #EXTINF:-1 tvg-id="1404439" tvg-name="EN - The Giant Falls - 2026 [MULTI-SUB]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lARMzlnHtusEnY8LrTmNID92CJo.jpg" group-title="NOVAS ENTRADAS",EN - The Giant Falls - 2026 [MULTI-SUB]
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1404439.mkv
-#EXTINF:-1 tvg-id="1404436" tvg-name="IN - TELUGU - Raakaasa - 2026 [MULTI-SUB]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vJLH4bGnKfCCbJl0rGf2oEnKEbL.jpg" group-title="VOD | SOUTH INDIAN",IN - TELUGU - Raakaasa - 2026 [MULTI-SUB]
+#EXTINF:-1 tvg-id="1404436" tvg-name="IN - TELUGU - Raakaasa - 2026 [MULTI-SUB]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vJLH4bGnKfCCbJl0rGf2oEnKEbL.jpg" group-title="FILMES DA INDÍA",IN - TELUGU - Raakaasa - 2026 [MULTI-SUB]
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1404436.mkv
 #EXTINF:-1 tvg-id="1404435" tvg-name="IN - TELUGU - Biker - 2026 [MULTI-SUB]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cKuFTk3qqrASg2nopJwDdeAroeF.jpg" group-title="NOVAS ENTRADAS",IN - TELUGU - Biker - 2026 [MULTI-SUB]
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1404435.mkv
-#EXTINF:-1 tvg-id="1404158" tvg-name="IN - Sampradayini Suppini Suddapoosani - 2026 [MULTI-SUB]  " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5NaXPthSsxJHo5Br0IIiLYz0z3w.jpg" group-title="VOD | SOUTH INDIAN",IN - Sampradayini Suppini Suddapoosani - 2026 [MULTI-SUB]  
+#EXTINF:-1 tvg-id="1404158" tvg-name="IN - Sampradayini Suppini Suddapoosani - 2026 [MULTI-SUB]  " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5NaXPthSsxJHo5Br0IIiLYz0z3w.jpg" group-title="FILMES DA INDÍA",IN - Sampradayini Suppini Suddapoosani - 2026 [MULTI-SUB]  
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1404158.mkv
-#EXTINF:-1 tvg-id="1403983" tvg-name="IN - Mrithyunjay - 2026 [MULTI-SUB] " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ugmlp0nM1CUHlnobFKO93aRbOu0.jpg" group-title="VOD | SOUTH INDIAN",IN - Mrithyunjay - 2026 [MULTI-SUB] 
+#EXTINF:-1 tvg-id="1403983" tvg-name="IN - Mrithyunjay - 2026 [MULTI-SUB] " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ugmlp0nM1CUHlnobFKO93aRbOu0.jpg" group-title="FILMES DA INDÍA",IN - Mrithyunjay - 2026 [MULTI-SUB] 
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1403983.mkv
-#EXTINF:-1 tvg-id="1403740" tvg-name="IN - Dolly - 2026 [MULTI-SUB]  " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sTPUg3XtdcKRAS5Vwsi1GYPFhNZ.jpg" group-title="VOD | SOUTH INDIAN",IN - Dolly - 2026 [MULTI-SUB]  
+#EXTINF:-1 tvg-id="1403740" tvg-name="IN - Dolly - 2026 [MULTI-SUB]  " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sTPUg3XtdcKRAS5Vwsi1GYPFhNZ.jpg" group-title="FILMES DA INDÍA",IN - Dolly - 2026 [MULTI-SUB]  
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1403740.mkv
-#EXTINF:-1 tvg-id="1403739" tvg-name="IN - Humint - 2026 [MULTI-SUB]  " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/82bX2GK4PhaJQtfkTnfmd2P7erG.jpg" group-title="VOD | SOUTH INDIAN",IN - Humint - 2026 [MULTI-SUB]  
+#EXTINF:-1 tvg-id="1403739" tvg-name="IN - Humint - 2026 [MULTI-SUB]  " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/82bX2GK4PhaJQtfkTnfmd2P7erG.jpg" group-title="FILMES DA INDÍA",IN - Humint - 2026 [MULTI-SUB]  
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1403739.mkv
 #EXTINF:-1 tvg-id="1403724" tvg-name="EN - Dolly - 2026 [MULTI-SUB]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sTPUg3XtdcKRAS5Vwsi1GYPFhNZ.jpg" group-title="NOVAS ENTRADAS",EN - Dolly - 2026 [MULTI-SUB]
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1403724.mkv
-#EXTINF:-1 tvg-id="1403160" tvg-name="IN - Crime 101 - 2026 [MULTI-SUB]  " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tVvpFIoteRHNnoZMhdnwIVwJpCA.jpg" group-title="VOD | SOUTH INDIAN",IN - Crime 101 - 2026 [MULTI-SUB]  
+#EXTINF:-1 tvg-id="1403160" tvg-name="IN - Crime 101 - 2026 [MULTI-SUB]  " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tVvpFIoteRHNnoZMhdnwIVwJpCA.jpg" group-title="FILMES DA INDÍA",IN - Crime 101 - 2026 [MULTI-SUB]  
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1403160.mkv
 #EXTINF:-1 tvg-id="1403136" tvg-name="EN - Capture - 2026 [MULTI-SUB]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jB2P7VlYfRxJA6ajOEuiD4k8mTK.jpg" group-title="NOVAS ENTRADAS",EN - Capture - 2026 [MULTI-SUB]
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1403136.mkv
@@ -1465,7 +1456,7 @@ http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1403116.mkv
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1403115.mkv
 #EXTINF:-1 tvg-id="1403025" tvg-name="EN - Red Riding - 2026 [MULTI-SUB]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/giebdEEZa56adYOnMd3zxXVtvc5.jpg" group-title="NOVAS ENTRADAS",EN - Red Riding - 2026 [MULTI-SUB]
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1403025.mkv
-#EXTINF:-1 tvg-id="1402991" tvg-name="IN - Project Hail Mary - 2026 [MULTI-SUB]  " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yihdXomYb5kTeSivtFndMy5iDmf.jpg" group-title="VOD | SOUTH INDIAN",IN - Project Hail Mary - 2026 [MULTI-SUB]  
+#EXTINF:-1 tvg-id="1402991" tvg-name="IN - Project Hail Mary - 2026 [MULTI-SUB]  " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yihdXomYb5kTeSivtFndMy5iDmf.jpg" group-title="FILMES DA INDÍA",IN - Project Hail Mary - 2026 [MULTI-SUB]  
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1402991.mkv
 #EXTINF:-1 tvg-id="1402988" tvg-name="EN - Paper Moon - 1973 [MULTI-SUB]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7fZZwQYFV3hN2KBPI0Y1BlvzF2T.jpg" group-title="MULTI-SUB - ANTES DE 2000",EN - Paper Moon - 1973 [MULTI-SUB]
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1402988.mkv
@@ -1473,7 +1464,7 @@ http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1402988.mkv
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1402987.mkv
 #EXTINF:-1 tvg-id="1402986" tvg-name="EN - A Royal Setting - 2026 [MULTI-SUB]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hyjbxAfB9XlFogKM7BENqdNMa77.jpg" group-title="NOVAS ENTRADAS",EN - A Royal Setting - 2026 [MULTI-SUB]
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1402986.mkv
-#EXTINF:-1 tvg-id="1402274" tvg-name="IN - Hey Balwanth - 2026 [MULTI-SUB]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3e3mWungTL3A4mnFtfqt3bdKxtx.jpg" group-title="VOD | SOUTH INDIAN",IN - Hey Balwanth - 2026 [MULTI-SUB]
+#EXTINF:-1 tvg-id="1402274" tvg-name="IN - Hey Balwanth - 2026 [MULTI-SUB]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3e3mWungTL3A4mnFtfqt3bdKxtx.jpg" group-title="FILMES DA INDÍA",IN - Hey Balwanth - 2026 [MULTI-SUB]
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1402274.mkv
 #EXTINF:-1 tvg-id="1401578" tvg-name="EN - The Mortuary Assistant - 2026 [MULTI-SUB]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1J8OvKva6G6tsk3ZGXeptU037z8.jpg" group-title="NOVAS ENTRADAS",EN - The Mortuary Assistant - 2026 [MULTI-SUB]
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1401578.mkv
@@ -1497,15 +1488,15 @@ http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1400964.mkv
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1400963.mkv
 #EXTINF:-1 tvg-id="1400962" tvg-name="EN - The Way to You - 2026 [MULTI-SUB]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4aOxnMaDkr792WOZFJUb6LxcR74.jpg" group-title="NOVAS ENTRADAS",EN - The Way to You - 2026 [MULTI-SUB]
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1400962.mkv
-#EXTINF:-1 tvg-id="1400961" tvg-name="IN - BTS: THE RETURN - 2026 [MULTI-SUB]  " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9CNUWleZWN9EGMZjvaSTcxmAAGg.jpg" group-title="VOD | SOUTH INDIAN",IN - BTS: THE RETURN - 2026 [MULTI-SUB]  
+#EXTINF:-1 tvg-id="1400961" tvg-name="IN - BTS: THE RETURN - 2026 [MULTI-SUB]  " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9CNUWleZWN9EGMZjvaSTcxmAAGg.jpg" group-title="FILMES DA INDÍA",IN - BTS: THE RETURN - 2026 [MULTI-SUB]  
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1400961.mkv
 #EXTINF:-1 tvg-id="1400763" tvg-name="EN - BTS: THE RETURN - 2026 [MULTI-SUB]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9CNUWleZWN9EGMZjvaSTcxmAAGg.jpg" group-title="NOVAS ENTRADAS",EN - BTS: THE RETURN - 2026 [MULTI-SUB]
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1400763.mkv
-#EXTINF:-1 tvg-id="1400737" tvg-name="IN - 53 Sundays - 2026 [MULTI-SUB]  " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/olk6MkfHFWEpWmhQn6Mb4jNqspm.jpg" group-title="VOD | SOUTH INDIAN",IN - 53 Sundays - 2026 [MULTI-SUB]  
+#EXTINF:-1 tvg-id="1400737" tvg-name="IN - 53 Sundays - 2026 [MULTI-SUB]  " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/olk6MkfHFWEpWmhQn6Mb4jNqspm.jpg" group-title="FILMES DA INDÍA",IN - 53 Sundays - 2026 [MULTI-SUB]  
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1400737.mkv
 #EXTINF:-1 tvg-id="1400648" tvg-name="NL - Amsterdamned II - 2025 [MULTI-SUB]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dmdKhPXI7rFZAAInBQ7EPGDi2sS.jpg" group-title="NOVAS ENTRADAS",NL - Amsterdamned II - 2025 [MULTI-SUB]
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1400648.mkv
-#EXTINF:-1 tvg-id="1399754" tvg-name="IN - Pretty Lethal - 2026 [MULTI-SUB]  " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/znTPnXCK3lEQJgqXCvP7e5FUz6f.jpg" group-title="VOD | SOUTH INDIAN",IN - Pretty Lethal - 2026 [MULTI-SUB]  
+#EXTINF:-1 tvg-id="1399754" tvg-name="IN - Pretty Lethal - 2026 [MULTI-SUB]  " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/znTPnXCK3lEQJgqXCvP7e5FUz6f.jpg" group-title="FILMES DA INDÍA",IN - Pretty Lethal - 2026 [MULTI-SUB]  
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1399754.mkv
 #EXTINF:-1 tvg-id="1398919" tvg-name="EN - The Cure - 2026 [MULTI-SUB]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/26erl8fNKKheai9ygrtci5A5war.jpg" group-title="NOVAS ENTRADAS",EN - The Cure - 2026 [MULTI-SUB]
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1398919.mkv
@@ -1531,9 +1522,9 @@ http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1398555.mkv
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1398554.mkv
 #EXTINF:-1 tvg-id="1398553" tvg-name="EN - Sherlock Holmes: Mare of the Night - 2025 [MULTI-SUB]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7sy99W48a1eSVfuvAQD4spXZ5pU.jpg" group-title="NOVAS ENTRADAS",EN - Sherlock Holmes: Mare of the Night - 2025 [MULTI-SUB]
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1398553.mkv
-#EXTINF:-1 tvg-id="1398157" tvg-name="IN - The Taj Story - 2025 [MULTI-SUB] " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6oMIAvdPWFbwowAq7Zn8unbREAY.jpg" group-title="VOD | SOUTH INDIAN",IN - The Taj Story - 2025 [MULTI-SUB] 
+#EXTINF:-1 tvg-id="1398157" tvg-name="IN - The Taj Story - 2025 [MULTI-SUB] " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6oMIAvdPWFbwowAq7Zn8unbREAY.jpg" group-title="FILMES DA INDÍA",IN - The Taj Story - 2025 [MULTI-SUB] 
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1398157.mkv
-#EXTINF:-1 tvg-id="1398155" tvg-name="IN - 22 Yards - 2019 [MULTI-SUB]  " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xVzkEz7LxpDJirzYfh0UfGbT16O.jpg" group-title="VOD | SOUTH INDIAN",IN - 22 Yards - 2019 [MULTI-SUB]  
+#EXTINF:-1 tvg-id="1398155" tvg-name="IN - 22 Yards - 2019 [MULTI-SUB]  " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xVzkEz7LxpDJirzYfh0UfGbT16O.jpg" group-title="FILMES DA INDÍA",IN - 22 Yards - 2019 [MULTI-SUB]  
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1398155.mkv
 #EXTINF:-1 tvg-id="1397932" tvg-name="EN - "Wuthering Heights" - 2026 [MULTI-SUB]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3YBce6dTh1D5oCMITXk2S5QhPt.jpg" group-title="NOVAS ENTRADAS",EN - "Wuthering Heights" - 2026 [MULTI-SUB]
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1397932.mkv
@@ -1549,7 +1540,7 @@ http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1397842.mkv
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1397743.mkv
 #EXTINF:-1 tvg-id="1397357" tvg-name="IN - Seetha Payanam - 2026 [MULTI-SUB]  " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ubYKOsmUXdz4GQgVndBAze8G5UM.jpg" group-title="NOVAS ENTRADAS",IN - Seetha Payanam - 2026 [MULTI-SUB]  
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1397357.mkv
-#EXTINF:-1 tvg-id="1397135" tvg-name="IN - One Mile: Chapter Two - 2026 [MULTI-SUB] " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3sjc9qXXmQoUWKQ3qIjS1nZaUJy.jpg" group-title="VOD | SOUTH INDIAN",IN - One Mile: Chapter Two - 2026 [MULTI-SUB] 
+#EXTINF:-1 tvg-id="1397135" tvg-name="IN - One Mile: Chapter Two - 2026 [MULTI-SUB] " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3sjc9qXXmQoUWKQ3qIjS1nZaUJy.jpg" group-title="FILMES DA INDÍA",IN - One Mile: Chapter Two - 2026 [MULTI-SUB] 
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1397135.mkv
 #EXTINF:-1 tvg-id="1396379" tvg-name="EN - Köln 75 - 2025 [MULTI-SUB]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oMeg1capgysYPHVOnZq7HfoIXzE.jpg" group-title="NOVAS ENTRADAS",EN - Köln 75 - 2025 [MULTI-SUB]
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1396379.mkv
@@ -3405,7 +3396,7 @@ http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1292879.mkv
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1292860.mkv
 #EXTINF:-1 tvg-id="1292850" tvg-name="EN - Butchers Book Three: Bonesaw - 2024 [MULTI-SUB]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fNaRRA9P7EoYNuSfhOT7yyEZU8J.jpg" group-title="DEPOIS DE 2020",EN - Butchers Book Three: Bonesaw - 2024 [MULTI-SUB]
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1292850.mkv
-#EXTINF:-1 tvg-id="1292837" tvg-name="EN - Die'ced: Reloaded - 2025 [MULTI-SUB]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/38n55mddDYPiNRiNkTvictpZ7Hq.jpg" group-title="VOD | EN - LATEST MOVIES",EN - Die'ced: Reloaded - 2025 [MULTI-SUB]
+#EXTINF:-1 tvg-id="1292837" tvg-name="EN - Die'ced: Reloaded - 2025 [MULTI-SUB]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/38n55mddDYPiNRiNkTvictpZ7Hq.jpg" group-title="NOVAS ENTRADAS - Die'ced: Reloaded - 2025 [MULTI-SUB]
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1292837.mkv
 #EXTINF:-1 tvg-id="1292836" tvg-name="EN - Everybody Loves Jenifa - 2024 [MULTI-SUB]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ve1uE6Oh0rdiyO1VaOjcQJlXCAI.jpg" group-title="DEPOIS DE 2020",EN - Everybody Loves Jenifa - 2024 [MULTI-SUB]
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1292836.mkv
@@ -4539,9 +4530,9 @@ http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1214840.mp4
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1212596.mkv
 #EXTINF:-1 tvg-id="1212574" tvg-name="EN - Last Bullet - 2025 [MULTI-SUB]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gO33EBU7JHd6xBjT62XMt61KoqX.jpg" group-title="NOVAS ENTRADAS",EN - Last Bullet - 2025 [MULTI-SUB]
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1212574.mp4
-#EXTINF:-1 tvg-id="1210951" tvg-name="IN - Cry Havoc - 2020 [MULTI-SUB]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vhT3qwrS12sIwvZaq5CRgma1BAE.jpg" group-title="VOD | SOUTH INDIAN",IN - Cry Havoc - 2020 [MULTI-SUB]
+#EXTINF:-1 tvg-id="1210951" tvg-name="IN - Cry Havoc - 2020 [MULTI-SUB]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vhT3qwrS12sIwvZaq5CRgma1BAE.jpg" group-title="FILMES DA INDÍA",IN - Cry Havoc - 2020 [MULTI-SUB]
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1210951.mkv
-#EXTINF:-1 tvg-id="1210922" tvg-name="IN - Drishyam 2 - 2021 [MULTI-SUB] " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8RJBCUGE27LX06tAES4jTELN0KA.jpg" group-title="VOD | SOUTH INDIAN",IN - Drishyam 2 - 2021 [MULTI-SUB] 
+#EXTINF:-1 tvg-id="1210922" tvg-name="IN - Drishyam 2 - 2021 [MULTI-SUB] " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8RJBCUGE27LX06tAES4jTELN0KA.jpg" group-title="FILMES DA INDÍA",IN - Drishyam 2 - 2021 [MULTI-SUB] 
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1210922.mkv
 #EXTINF:-1 tvg-id="1209453" tvg-name="EN - Exterritorial - 2025 [MULTI-SUB]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qWTfHG8KdXwr0bqypYbNZLenh0J.jpg" group-title="NOVAS ENTRADAS",EN - Exterritorial - 2025 [MULTI-SUB]
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1209453.mkv
@@ -5331,9 +5322,9 @@ http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1123423.mkv
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1123422.mkv
 #EXTINF:-1 tvg-id="1123419" tvg-name="EN - Umjolo: Day Ones [MULTI-SUB] - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iIBek2FZg2dDYksRP3ibpuquC5X.jpg" group-title="DEPOIS DE 2020",EN - Umjolo: Day Ones [MULTI-SUB] - 2024
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1123419.mkv
-#EXTINF:-1 tvg-id="1123418" tvg-name="EN - Dear Santa - 2024 [MULTI-SUB]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fRbDHbGBXg6kwQYr3CRYeKPJW5q.jpg" group-title="VOD | EN - CHRISTMAS",EN - Dear Santa - 2024 [MULTI-SUB]
+#EXTINF:-1 tvg-id="1123418" tvg-name="EN - Dear Santa - 2024 [MULTI-SUB]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fRbDHbGBXg6kwQYr3CRYeKPJW5q.jpg" group-title="FILMES DE NATAL",EN - Dear Santa - 2024 [MULTI-SUB]
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1123418.mkv
-#EXTINF:-1 tvg-id="1123417" tvg-name="EN - Christmas in Lagos - 2024 [MULTI-SUB]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wiwJyJtZZbRewTGm5UrI9stI0E6.jpg" group-title="VOD | EN - CHRISTMAS",EN - Christmas in Lagos - 2024 [MULTI-SUB]
+#EXTINF:-1 tvg-id="1123417" tvg-name="EN - Christmas in Lagos - 2024 [MULTI-SUB]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wiwJyJtZZbRewTGm5UrI9stI0E6.jpg" group-title="FILMES DE NATAL",EN - Christmas in Lagos - 2024 [MULTI-SUB]
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1123417.mkv
 #EXTINF:-1 tvg-id="1122478" tvg-name="EN - 4 Kings II [MULTI-SUB] - 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fCzcHP9d1OMWVq7PYZw9y2DmOEY.jpg" group-title="DEPOIS DE 2020",EN - 4 Kings II [MULTI-SUB] - 2023
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1122478.mkv
@@ -5497,15 +5488,15 @@ http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1106694.mkv
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1106693.mkv
 #EXTINF:-1 tvg-id="1106692" tvg-name="EN - Sikandar Ka Muqaddar [MULTI-SUB] - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5YDQhY38XDgqRy86VNRRpNtkZFi.jpg" group-title="DEPOIS DE 2020",EN - Sikandar Ka Muqaddar [MULTI-SUB] - 2024
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1106692.mkv
-#EXTINF:-1 tvg-id="1105034" tvg-name="EN - The Snow Sister - 2024 - [MULTI-SUB]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aaIlHoinJscLP1FfVy30WbPUEWk.jpg" group-title="VOD | EN - CHRISTMAS",EN - The Snow Sister - 2024 - [MULTI-SUB]
+#EXTINF:-1 tvg-id="1105034" tvg-name="EN - The Snow Sister - 2024 - [MULTI-SUB]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aaIlHoinJscLP1FfVy30WbPUEWk.jpg" group-title="FILMES DE NATAL",EN - The Snow Sister - 2024 - [MULTI-SUB]
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1105034.mkv
 #EXTINF:-1 tvg-id="1105026" tvg-name="EN - Christmas on Windmill Way - 2023  [MULTI-SUB]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bRDWHhiVLllPWBU2ADV61acyqT7.jpg" group-title="DEPOIS DE 2020",EN - Christmas on Windmill Way - 2023  [MULTI-SUB]
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1105026.mkv
-#EXTINF:-1 tvg-id="1105000" tvg-name="EN - Swing Into Romance  [MULTI-SUB] - 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bGjcWn55YmVsDn1SORwqnHYPTLo.jpg" group-title="VOD | EN - CHRISTMAS",EN - Swing Into Romance  [MULTI-SUB] - 2023
+#EXTINF:-1 tvg-id="1105000" tvg-name="EN - Swing Into Romance  [MULTI-SUB] - 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bGjcWn55YmVsDn1SORwqnHYPTLo.jpg" group-title="FILMES DE NATAL",EN - Swing Into Romance  [MULTI-SUB] - 2023
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1105000.mkv
 #EXTINF:-1 tvg-id="1104999" tvg-name="EN - Beatles '64 [MULTI-SUB] - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1vSmZvoEv4VQgw9WkjrbyGnmoKh.jpg" group-title="DEPOIS DE 2020",EN - Beatles '64 [MULTI-SUB] - 2024
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1104999.mkv
-#EXTINF:-1 tvg-id="1104998" tvg-name="EN - Christmas on Windmill Way [MULTI-SUB] - 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bRDWHhiVLllPWBU2ADV61acyqT7.jpg" group-title="VOD | EN - CHRISTMAS",EN - Christmas on Windmill Way [MULTI-SUB] - 2023
+#EXTINF:-1 tvg-id="1104998" tvg-name="EN - Christmas on Windmill Way [MULTI-SUB] - 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bRDWHhiVLllPWBU2ADV61acyqT7.jpg" group-title="FILMES DE NATAL",EN - Christmas on Windmill Way [MULTI-SUB] - 2023
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1104998.mkv
 #EXTINF:-1 tvg-id="1104997" tvg-name="EN - Swing Into Romance [MULTI-SUB] - 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bGjcWn55YmVsDn1SORwqnHYPTLo.jpg" group-title="DEPOIS DE 2020",EN - Swing Into Romance [MULTI-SUB] - 2023
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1104997.mkv
@@ -5999,9 +5990,9 @@ http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1036091.mkv
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1036089.mkv
 #EXTINF:-1 tvg-id="1036086" tvg-name="EN - Jailbreak: Love on the Run [MULTI-SUB] - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/whIxfBH092Tjq4FbIiSbsWQtq5Z.jpg" group-title="DEPOIS DE 2020",EN - Jailbreak: Love on the Run [MULTI-SUB] - 2024
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1036086.mkv
-#EXTINF:-1 tvg-id="1033354" tvg-name="EN - Ellen Degeneres: For Your Approval - 2024 [MULTI-SUB]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pJJBeKe1i6z3f6ANFnFjboWXTVA.jpg" group-title="VOD | EN - LATEST MOVIES",EN - Ellen Degeneres: For Your Approval - 2024 [MULTI-SUB]
+#EXTINF:-1 tvg-id="1033354" tvg-name="EN - Ellen Degeneres: For Your Approval - 2024 [MULTI-SUB]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pJJBeKe1i6z3f6ANFnFjboWXTVA.jpg" group-title="NOVAS ENTRADAS - Ellen Degeneres: For Your Approval - 2024 [MULTI-SUB]
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1033354.mkv
-#EXTINF:-1 tvg-id="1033341" tvg-name="EN - The Thicket - 2024 [MULTI-SUB]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ukqWWQrJRgJym6dsTt1x3EwR2Kp.jpg" group-title="VOD | EN - LATEST MOVIES",EN - The Thicket - 2024 [MULTI-SUB]
+#EXTINF:-1 tvg-id="1033341" tvg-name="EN - The Thicket - 2024 [MULTI-SUB]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ukqWWQrJRgJym6dsTt1x3EwR2Kp.jpg" group-title="NOVAS ENTRADAS - The Thicket - 2024 [MULTI-SUB]
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1033341.mkv
 #EXTINF:-1 tvg-id="1033325" tvg-name="EN - The Well - 2024 [MULTI-SUB]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zK1X5T7gAdXxLFhj0hYyCTVrvpU.jpg" group-title="DEPOIS DE 2020",EN - The Well - 2024 [MULTI-SUB]
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1033325.mkv
@@ -6017,21 +6008,21 @@ http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1033307.mkv
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1033236.mkv
 #EXTINF:-1 tvg-id="1033233" tvg-name="EN - Mile 22 - 2018 [MULTI-SUB]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2L8ehd95eSW9x7KINYtZmRkAlrZ.jpg" group-title="DE 2010 A 2019",EN - Mile 22 - 2018 [MULTI-SUB]
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1033233.mkv
-#EXTINF:-1 tvg-id="1033179" tvg-name="EN - Kill 'em All 2 - 2024 [MULTI-SUB]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ppV7u5flh7QJfL8R0omYZrRf31P.jpg" group-title="VOD | EN - LATEST MOVIES",EN - Kill 'em All 2 - 2024 [MULTI-SUB]
+#EXTINF:-1 tvg-id="1033179" tvg-name="EN - Kill 'em All 2 - 2024 [MULTI-SUB]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ppV7u5flh7QJfL8R0omYZrRf31P.jpg" group-title="NOVAS ENTRADAS - Kill 'em All 2 - 2024 [MULTI-SUB]
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1033179.mkv
 #EXTINF:-1 tvg-id="1033071" tvg-name="EN - Dark Blue [MULTI-SUB] - 2002" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9RTiJx3oD1s3RAMtjSo7ThZmcxw.jpg" group-title="DE 2000 A 2009",EN - Dark Blue [MULTI-SUB] - 2002
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1033071.mkv
-#EXTINF:-1 tvg-id="1033069" tvg-name="EN - Long Gone Heroes [MULTI-SUB] - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zKb7tYHk2z605wZdN7M2ZRpt1wb.jpg" group-title="VOD | EN - LATEST MOVIES",EN - Long Gone Heroes [MULTI-SUB] - 2024
+#EXTINF:-1 tvg-id="1033069" tvg-name="EN - Long Gone Heroes [MULTI-SUB] - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zKb7tYHk2z605wZdN7M2ZRpt1wb.jpg" group-title="NOVAS ENTRADAS - Long Gone Heroes [MULTI-SUB] - 2024
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1033069.mkv
-#EXTINF:-1 tvg-id="1033068" tvg-name="EN - The Vigilante [MULTI-SUB] - 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pWuGTUPJfxqJffRxvAYNNvI2SRx.jpg" group-title="VOD | EN - LATEST MOVIES",EN - The Vigilante [MULTI-SUB] - 2023
+#EXTINF:-1 tvg-id="1033068" tvg-name="EN - The Vigilante [MULTI-SUB] - 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pWuGTUPJfxqJffRxvAYNNvI2SRx.jpg" group-title="NOVAS ENTRADAS - The Vigilante [MULTI-SUB] - 2023
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1033068.mkv
-#EXTINF:-1 tvg-id="1033067" tvg-name="EN - The Well [MULTI-SUB] - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zK1X5T7gAdXxLFhj0hYyCTVrvpU.jpg" group-title="VOD | EN - LATEST MOVIES",EN - The Well [MULTI-SUB] - 2024
+#EXTINF:-1 tvg-id="1033067" tvg-name="EN - The Well [MULTI-SUB] - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zK1X5T7gAdXxLFhj0hYyCTVrvpU.jpg" group-title="NOVAS ENTRADAS - The Well [MULTI-SUB] - 2024
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1033067.mkv
 #EXTINF:-1 tvg-id="1033066" tvg-name="EN - Ellen Degeneres: For Your Approval [MULTI-SUB] - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pJJBeKe1i6z3f6ANFnFjboWXTVA.jpg" group-title="DEPOIS DE 2020",EN - Ellen Degeneres: For Your Approval [MULTI-SUB] - 2024
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1033066.mkv
 #EXTINF:-1 tvg-id="1033065" tvg-name="EN - Kill 'em All 2 [MULTI-SUB] - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ppV7u5flh7QJfL8R0omYZrRf31P.jpg" group-title="DEPOIS DE 2020",EN - Kill 'em All 2 [MULTI-SUB] - 2024
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1033065.mkv
-#EXTINF:-1 tvg-id="1033020" tvg-name="EN - It Ends with Us [MULTI-SUB] - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4TzwDWpLmb9bWJjlN3iBUdvgarw.jpg" group-title="VOD | EN - LATEST MOVIES",EN - It Ends with Us [MULTI-SUB] - 2024
+#EXTINF:-1 tvg-id="1033020" tvg-name="EN - It Ends with Us [MULTI-SUB] - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4TzwDWpLmb9bWJjlN3iBUdvgarw.jpg" group-title="NOVAS ENTRADAS - It Ends with Us [MULTI-SUB] - 2024
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1033020.mkv
 #EXTINF:-1 tvg-id="1030046" tvg-name="EN - The Thicket [MULTI-SUB]  - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ukqWWQrJRgJym6dsTt1x3EwR2Kp.jpg" group-title="DEPOIS DE 2020",EN - The Thicket [MULTI-SUB]  - 2024
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1030046.mkv
@@ -6097,7 +6088,7 @@ http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1022480.mkv
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1022407.mkv
 #EXTINF:-1 tvg-id="1022398" tvg-name="EN - Officer Black Belt - 2024 [MULTI-SUB]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lvlx1pXt1fZYpta1cdQiBfj0fb.jpg" group-title="DEPOIS DE 2020",EN - Officer Black Belt - 2024 [MULTI-SUB]
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1022398.mkv
-#EXTINF:-1 tvg-id="1020390" tvg-name="EN - Muri and Ko - 2024 [MULTI-SUB]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v9fTHIaR1T6r36lDoEq76GQI6wU.jpg" group-title="VOD | EN - LATEST MOVIES",EN - Muri and Ko - 2024 [MULTI-SUB]
+#EXTINF:-1 tvg-id="1020390" tvg-name="EN - Muri and Ko - 2024 [MULTI-SUB]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v9fTHIaR1T6r36lDoEq76GQI6wU.jpg" group-title="NOVAS ENTRADAS - Muri and Ko - 2024 [MULTI-SUB]
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1020390.mkv
 #EXTINF:-1 tvg-id="1006974" tvg-name="EN - Apollo 13: Survival [MULTI-SUB] - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/reknshaAy9OUvz2hbw78wTMCkY1.jpg" group-title="DEPOIS DE 2020",EN - Apollo 13: Survival [MULTI-SUB] - 2024
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1006974.mkv
@@ -11075,7 +11066,7 @@ http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/580593.mkv
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/580505.mp4
 #EXTINF:-1 tvg-id="580504" tvg-name="EN - Love Actually [MULTI-SUB]  - 2003" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1ODdWLpyOnIVl0l67GrdaFDlJGf.jpg" group-title="DE 2000 A 2009",EN - Love Actually [MULTI-SUB]  - 2003
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/580504.mkv
-#EXTINF:-1 tvg-id="575699" tvg-name="IN - Hi Nanna - 2023 [Multi-Sub]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hhMLtq9m1aK0dpY9Wcq26XeDH2z.jpg" group-title="VOD | SOUTH INDIAN",IN - Hi Nanna - 2023 [Multi-Sub]
+#EXTINF:-1 tvg-id="575699" tvg-name="IN - Hi Nanna - 2023 [Multi-Sub]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hhMLtq9m1aK0dpY9Wcq26XeDH2z.jpg" group-title="FILMES DA INDÍA",IN - Hi Nanna - 2023 [Multi-Sub]
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/575699.mkv
 #EXTINF:-1 tvg-id="575638" tvg-name="EN - Under the Tuscan Sun - 2003 [Multi-Sub]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3vQUQwdtfPt1Sl2GZrIECWWA0dk.jpg" group-title="DE 2000 A 2009",EN - Under the Tuscan Sun - 2003 [Multi-Sub]
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/575638.mp4
@@ -11131,7 +11122,7 @@ http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/535829.mkv
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/535827.mkv
 #EXTINF:-1 tvg-id="535826" tvg-name="EN - The Family Plan  [MULTI-SUB] - 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jLLtx3nTRSLGPAKl4RoIv1FbEBr.jpg" group-title="DEPOIS DE 2020",EN - The Family Plan  [MULTI-SUB] - 2023
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/535826.mkv
-#EXTINF:-1 tvg-id="534456" tvg-name="IN - Animal - 2023 [Multi-Sub]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hr9rjR3J0xBBKmlJ4n3gHId9ccx.jpg" group-title="VOD | SOUTH INDIAN",IN - Animal - 2023 [Multi-Sub]
+#EXTINF:-1 tvg-id="534456" tvg-name="IN - Animal - 2023 [Multi-Sub]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hr9rjR3J0xBBKmlJ4n3gHId9ccx.jpg" group-title="FILMES DA INDÍA",IN - Animal - 2023 [Multi-Sub]
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/534456.mkv
 #EXTINF:-1 tvg-id="532501" tvg-name="EN - The Maze Runner [MULTI-SUB]  - 2014" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ode14q7WtDugFDp78fo9lCsmay9.jpg" group-title="DE 2010 A 2019",EN - The Maze Runner [MULTI-SUB]  - 2014
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/532501.mkv
@@ -11309,7 +11300,7 @@ http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/468931.mkv
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/467583.mkv
 #EXTINF:-1 tvg-id="467571" tvg-name="EN - The Squad: Home Run - 2023 [MULTI-SUB]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kGclAzPJobEy7qg7LNuFI9grNoh.jpg" group-title="DEPOIS DE 2020",EN - The Squad: Home Run - 2023 [MULTI-SUB]
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/467571.mkv
-#EXTINF:-1 tvg-id="467560" tvg-name="EN  - Bottoms - 2023 [MULTI-SUB]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jeyTQrNEpyE1LZIgVlswYh3sc34.jpg" group-title="VOD | EN - LATEST MOVIES",EN  - Bottoms - 2023 [MULTI-SUB]
+#EXTINF:-1 tvg-id="467560" tvg-name="EN  - Bottoms - 2023 [MULTI-SUB]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jeyTQrNEpyE1LZIgVlswYh3sc34.jpg" group-title="NOVAS ENTRADAS  - Bottoms - 2023 [MULTI-SUB]
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/467560.mkv
 #EXTINF:-1 tvg-id="467559" tvg-name="EN - Bunker -2023 [MULTI-SUB] " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jOA7chFPVzSyPp2DaRg8hqA1BHr.jpg" group-title="DEPOIS DE 2020",EN - Bunker -2023 [MULTI-SUB] 
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/467559.mkv
@@ -11343,7 +11334,7 @@ http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/460144.mkv
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/457196.mkv
 #EXTINF:-1 tvg-id="456848" tvg-name="EN - 57 Seconds - 2023 [MULTI-SUB]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dfS5qHWFuXyZQnwYREwb7N4qU5p.jpg" group-title="DEPOIS DE 2020",EN - 57 Seconds - 2023 [MULTI-SUB]
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/456848.mkv
-#EXTINF:-1 tvg-id="456847" tvg-name="EN- The Retirement Plan - 2023  [MULTI-SUB]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kv4n3xgRWtkldaD4kyy1FvpW6bO.jpg" group-title="VOD | EN - LATEST MOVIES",EN- The Retirement Plan - 2023  [MULTI-SUB]
+#EXTINF:-1 tvg-id="456847" tvg-name="EN- The Retirement Plan - 2023  [MULTI-SUB]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kv4n3xgRWtkldaD4kyy1FvpW6bO.jpg" group-title="NOVAS ENTRADAS- The Retirement Plan - 2023  [MULTI-SUB]
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/456847.mkv
 #EXTINF:-1 tvg-id="456114" tvg-name="EN - Saw X - 2023 [MULTI-SUB]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hYaKxnvqQt4pMtFy5KptUYJo1S0.jpg" group-title="DEPOIS DE 2020",EN - Saw X - 2023 [MULTI-SUB]
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/456114.mkv
@@ -11425,7 +11416,7 @@ http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/426618.mkv
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/426617.mkv
 #EXTINF:-1 tvg-id="424542" tvg-name="EN - Earth and Blood [MULTI-SUB]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/23S0NEXXOMhhXhF566Pw5sx7hnZ.jpg" group-title="MULTI-SUB - FILMES NETFLIX",EN - Earth and Blood [MULTI-SUB]
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/424542.mkv
-#EXTINF:-1 tvg-id="424521" tvg-name="EN - Arrival [MULTI-SUB]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x2FJsf1ElAgr63Y3PNPtJrcmpoe.jpg" group-title="MULTI-SUB 2010 TO 2019",EN - Arrival [MULTI-SUB] - 2016
+#EXTINF:-1 tvg-id="424521" tvg-name="EN - Arrival [MULTI-SUB]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x2FJsf1ElAgr63Y3PNPtJrcmpoe.jpg" group-title="DE 2010 A 2019",EN - Arrival [MULTI-SUB] - 2016
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/424521.mkv
 #EXTINF:-1 tvg-id="421320" tvg-name="EN - Gran Turismo  [MULTI-SUB] - 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/51tqzRtKMMZEYUpSYkrUE7v9ehm.jpg" group-title="DEPOIS DE 2020",EN - Gran Turismo  [MULTI-SUB] - 2023
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/421320.mkv
@@ -11539,7 +11530,7 @@ http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/366968.mkv
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/366031.mkv
 #EXTINF:-1 tvg-id="365880" tvg-name="EN - Spider-Man: Across the Spider-Verse - 2023 [MULTI-SUB]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg" group-title="DEPOIS DE 2020",EN - Spider-Man: Across the Spider-Verse - 2023 [MULTI-SUB]
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/365880.mkv
-#EXTINF:-1 tvg-id="365036" tvg-name="EN - Head to Head [MULTI-SUB]" tvg-logo="http://wtv.la:900/images/42Zaf3b48xq3q3FRVwltqwoCeCQ_big.jpg" group-title="VOD | EN - LATEST MOVIES",EN - Head to Head [MULTI-SUB]
+#EXTINF:-1 tvg-id="365036" tvg-name="EN - Head to Head [MULTI-SUB]" tvg-logo="http://wtv.la:900/images/42Zaf3b48xq3q3FRVwltqwoCeCQ_big.jpg" group-title="NOVAS ENTRADAS - Head to Head [MULTI-SUB]
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/365036.mkv
 #EXTINF:-1 tvg-id="362379" tvg-name="EN - Zom 100: Bucket List of the Dead - 2023 [MULTI-SUB]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kD35dB3KOHrLo1Y3RU5xXJ1hI7.jpg" group-title="DEPOIS DE 2020",EN - Zom 100: Bucket List of the Dead - 2023 [MULTI-SUB]
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/362379.mkv
@@ -11713,7 +11704,7 @@ http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/226232.mkv
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/223445.mkv
 #EXTINF:-1 tvg-id="219304" tvg-name="EN - Dead - 2020 [Multi-Sub]  " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eu40V59ULl92GIWfRGLAuzu5EYb.jpg" group-title="DEPOIS DE 2020",EN - Dead - 2020 [Multi-Sub]  
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/219304.mkv
-#EXTINF:-1 tvg-id="216898" tvg-name="SIN - Trip - 2021 [Multi-Sub]" tvg-logo="http://line.megacdn.live:80/images/41K5LsBvp5vtpQKx2hqIE8iLDtZ_big.jpg" group-title="VOD | SOUTH INDIAN",SIN - Trip - 2021 [Multi-Sub]
+#EXTINF:-1 tvg-id="216898" tvg-name="SIN - Trip - 2021 [Multi-Sub]" tvg-logo="http://line.megacdn.live:80/images/41K5LsBvp5vtpQKx2hqIE8iLDtZ_big.jpg" group-title="FILMES DA INDÍA",SIN - Trip - 2021 [Multi-Sub]
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/216898.mkv
 #EXTINF:-1 tvg-id="209411" tvg-name="EN - Violet - 2020 [Multi-Sub]  " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dupVDMJcIKLEBWtH00F6QMBQjtd.jpg" group-title="DEPOIS DE 2020",EN - Violet - 2020 [Multi-Sub]  
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/209411.mkv
@@ -11749,7 +11740,7 @@ http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/138908.mkv
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/138907.mkv
 #EXTINF:-1 tvg-id="138906" tvg-name="EN - My Senior Year - 2020 [MULTI-SUB]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wFczPUm0B3iXAo9qexgTIGm5qr6.jpg" group-title="DEPOIS DE 2020",EN - My Senior Year - 2020 [MULTI-SUB]
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/138906.mkv
-#EXTINF:-1 tvg-id="138904" tvg-name="EN - Miss Fisher And The Crypt Of Tears - 2020 [MULTI-SUB]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dQWPwTDB6aikTmxYhp668sdRobd.jpg" group-title="VOD | EN - DRAMA & ROMANCE",EN - Miss Fisher And The Crypt Of Tears - 2020 [MULTI-SUB]
+#EXTINF:-1 tvg-id="138904" tvg-name="EN - Miss Fisher And The Crypt Of Tears - 2020 [MULTI-SUB]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dQWPwTDB6aikTmxYhp668sdRobd.jpg" group-title="DEPOIS DE 2020",EN - Miss Fisher And The Crypt Of Tears - 2020 [MULTI-SUB]
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/138904.mkv
 #EXTINF:-1 tvg-id="138903" tvg-name="EN - Millennial Killer - 2020 [MULTI-SUB]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yRjuyjr8FYlIdszOM6mXjzfY2Oc.jpg" group-title="DEPOIS DE 2020",EN - Millennial Killer - 2020 [MULTI-SUB]
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/138903.mp4
