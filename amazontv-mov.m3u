@@ -1,4 +1,31 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="tvcineaction.pt" tvg-name="TVCINE ACTION HD" tvg-logo="https://go4.pw/PORTUGAL/14.png" group-title="FILMES CODIFICADOS", TVCINE ACTION HD
+http://uvykqdyb.g881.net/live/NQHCP9H/CJX6HMA/1030832.ts
+#EXTINF:-1 tvg-id="1plus1.pt" tvg-name="TVCINE ACTION HD" tvg-logo="https://go4.pw/PORTUGAL/14.png" group-title="FILMES CODIFICADOS", TVCINE ACTION HD
+http://uvykqdyb.g881.net/live/NQHCP9H/CJX6HMA/68400.ts
+#EXTINF:-1 tvg-id="tvcineedition.pt" tvg-name="TVCINE EDITION HD" tvg-logo="https://go4.pw/PORTUGAL/15.png" group-title="FILMES CODIFICADOS", TVCINE EDITION HD
+http://uvykqdyb.g881.net/live/NQHCP9H/CJX6HMA/1030830.ts
+#EXTINF:-1 tvg-id="tvcineedition.pt" tvg-name="TVCINE EDITION HD" tvg-logo="https://go4.pw/PORTUGAL/15.png" group-title="FILMES CODIFICADOS", TVCINE EDITION HD
+http://uvykqdyb.g881.net/live/NQHCP9H/CJX6HMA/764094.ts
+#EXTINF:-1 tvg-id="tvcineedition.pt" tvg-name="TVCINE EDITION HD" tvg-logo="https://go4.pw/PORTUGAL/15.png" group-title="FILMES CODIFICADOS", TVCINE EDITION HD
+http://uvykqdyb.g881.net/live/NQHCP9H/CJX6HMA/68402.ts
+#EXTINF:-1 tvg-id="tvcineemotion.pt" tvg-name="TVCINE EMOTION HD" tvg-logo="https://go4.pw/PORTUGAL/16.png" group-title="FILMES CODIFICADOS", TVCINE EMOTION HD
+http://uvykqdyb.g881.net/live/NQHCP9H/CJX6HMA/1030831.ts
+#EXTINF:-1 tvg-id="tvcineemotion.pt" tvg-name="TVCINE EMOTION HD" tvg-logo="https://go4.pw/PORTUGAL/16.png" group-title="FILMES CODIFICADOS", TVCINE EMOTION HD
+http://uvykqdyb.g881.net/live/NQHCP9H/CJX6HMA/764096.ts
+#EXTINF:-1 tvg-id="tvcineemotion.pt" tvg-name="TVCINE EMOTION HD" tvg-logo="https://go4.pw/PORTUGAL/16.png" group-title="FILMES CODIFICADOS", TVCINE EMOTION HD
+http://uvykqdyb.g881.net/live/NQHCP9H/CJX6HMA/68401.ts
+#EXTINF:-1 tvg-id="tvcinetop.pt" tvg-name="TVCINE TOP HD" tvg-logo="https://go4.pw/PORTUGAL/17.png" group-title="FILMES CODIFICADOS", TVCINE TOP UHD
+http://uvykqdyb.g881.net/live/NQHCP9H/CJX6HMA/1030829.ts
+#EXTINF:-1 tvg-id="tvcinetop.pt" tvg-name="TVCINE TOP HD" tvg-logo="https://go4.pw/PORTUGAL/17.png" group-title="FILMES CODIFICADOS", TVCINE TOP  HD
+http://uvykqdyb.g881.net/live/NQHCP9H/CJX6HMA/68403.ts
+#EXTINF:-1 tvg-id="tvcinetop.pt" tvg-name="TVCINE TOP HD" tvg-logo="https://go4.pw/PORTUGAL/17.png" group-title="FILMES CODIFICADOS", TVCINE TOP HD
+http://uvykqdyb.g881.net/live/NQHCP9H/CJX6HMA/764098.ts
+#EXTINF:-1 tvg-id="nostudios.pt" tvg-name="NOS STUDIOS HD" tvg-logo="https://go4.pw/EUROPE/PORTUGAL/nos.png" group-title="FILMES CODIFICADOS", NOS STUDIOS HD
+http://uvykqdyb.g881.net/live/NQHCP9H/CJX6HMA/1030833.ts
+#EXTINF:-1 tvg-id="nostudios.pt" tvg-name="NOS STUDIOS HD" tvg-logo="https://go4.pw/EUROPE/PORTUGAL/nos.png" group-title="FILMES CODIFICADOS", NOS STUDIOS HD
+http://uvykqdyb.g881.net/live/NQHCP9H/CJX6HMA/155392.ts
+
 
 #EXTINF:-1 tvg-id="1473689" tvg-name="EN - ⁵The Whisper Man - 2026 [MULTI-SUB]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6UqflU8Qqkz7Dq4swJPqs0ZJjY4.jpg" group-title="NOVAS ENTRADAS",EN - ⁵The Whisper Man - 2026 [MULTI-SUB]
 http://uvykqdyb.g881.net/movie/NQHCP9H/CJX6HMA/1473689.mkv
